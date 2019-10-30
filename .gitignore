@@ -4,3 +4,4 @@ node_modules
 /svg/output/*.svg
 /svg/output/**/*.svg
 sprite.svg
+yarn-error.log
