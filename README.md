@@ -161,7 +161,7 @@ If documented correctly, or cache-busted on deployment this could be mitigated a
 
 An abstracted naming convention would need to be considered amoungst all teams within the product, in order to cement a consistant and scalable convention.
 
-**🚫 [IE support](https://caniuse.com/#feat=svg):** TGhr `<use>` element is not supported in IE and requires [`svg4everybody`](https://github.com/jonathantneal/svg4everybody) polyfill adding to technical debt.
+**🚫 [IE support](https://caniuse.com/#feat=svg):** the `<use>` element is not supported in IE and requires [`svg4everybody`](https://github.com/jonathantneal/svg4everybody) polyfill adding to technical debt.
 
 **🚫 Generation:** Standardisation required to allow for automated generation of spritesheets. Risk of complication when more variants are required in the future. Flexibility should be enacted here to allow for exrtra configuration later.
 
