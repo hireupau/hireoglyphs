@@ -1,4 +1,4 @@
-# SVG Icon System]
+# SVG Icon System
 
 ## Criteria 
 
@@ -115,6 +115,12 @@ SVG `path` cleanup automisation with CLI
 
 ### Embedded SVG `<svg>`
 
+```html
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <path d="..."/>
+</svg>
+```
+
 #### Pros
 
 **✅ Pro:**
@@ -130,6 +136,12 @@ SVG `path` cleanup automisation with CLI
 **🚫 Bundle Size:** Including a library of all  `<svg>` files could add excessive string values to the compiled JavaScript bundle.
 
 ### Linked SVG `<use>`
+
+```html
+<svg width="24" height="24">
+  <use xlink:href="#..." />
+</svg>
+```
 
 #### Pros
 
@@ -166,6 +178,10 @@ symbols.forEach(symbol => {
 
 
 ### Image SVG `<img>`
+
+```html
+<img width="24" height="24" src="example.svg" alt="Descriptive text for example" />
+```
 
 #### Pros
 
