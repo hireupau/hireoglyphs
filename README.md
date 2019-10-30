@@ -87,22 +87,22 @@ https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
 
 ## Optimisation
 
-SVG `path` cleanup automisation with CLI 
-
-`svgo` 
+Exported SVG files can be optimised further with the use of `svgo` a command line interface (CLI) tool which reduces the complexity of markup within a `<svg>`.
 
 *** 
 
 ## Sprites
 
-
+SVG sprites allow for mutiple icons to be linked within the same SVG source. It achieves this by naming each icon as a named `<symbol>`. 
 
 ### Generation
 
+SVG sprites can be generated from a directory or list of source SVG files. This means that the generation of sprites can be automated.
+
+#### Existing solutions:
+
 - [`svg-sprite`](https://www.npmjs.com/package/svg-sprite)
 - [`svg-sprite-generator`](https://www.npmjs.com/package/svg-sprite-generator)
-
-
 
 *** 
 
@@ -123,17 +123,17 @@ SVG `path` cleanup automisation with CLI
 
 #### Pros
 
-**✅ Pro:**
+**✅ Styling:** embedded `<svg>` elements can be styled from inherited CSS or defined classes.
 
-**✅ No Cache:** Icons are updated whenever the view is refreshed.
+**✅ No Cache:** icons are updated whenever the view is refreshed.
 
 #### Cons
 
-**🚫 No Cache:** Icons are included in view markup, therefore added to every request.
+**🚫 No Cache:** icons are included in view markup, therefore added to every request.
 
-**🚫 DOM Size:** Repeated `<svg>` objects will duplicate shape/path notation throughout the DOM. Repeated icons will add extra markup and nodes to the DOM.
+**🚫 DOM Size:** repeated `<svg>` objects will duplicate shape/path notation throughout the DOM. Repeated icons will add extra markup and nodes to the DOM.
 
-**🚫 Bundle Size:** Including a library of all  `<svg>` files could add excessive string values to the compiled JavaScript bundle.
+**🚫 Bundle Size:** including a library of all  `<svg>` files could add excessive string values to the compiled JavaScript bundle.
 
 ### Linked SVG `<use>`
 
@@ -145,13 +145,21 @@ SVG `path` cleanup automisation with CLI
 
 #### Pros
 
-**✅ Cache:** 
+**✅ Cache:** SVG Sprites can be linked externally meaning that the request for the SVG spritesheet containing all `<symbol>` elements. 
+
+**✅ Styling:** linked `<svg>` elements can be styled from inherited CSS or defined classes.
 
 **✅ Generation:** SVG sprites are fairly simple to generate from a directory of SVG source files.
 
 #### Cons
 
-**🚫 Page Size:** Embeds all SVG items in symbols on DOM. Increasing page load speed.
+**🚫 Cache:** depending on cache headers, the external SVG source can cause issues when updated with new icons not displaying and updated icons showing old source. 
+
+If documented correctly, or cache-busted on deployment this could be mitigated against.
+
+**🚫 Naming:** without a naming convention there is a risk that icon names will be repeated causing conflicts. Explicit naming may be required for icons with the same name but different size/style, for example, `16-chevron`, `24-chevron`, `chevron-stroke`, `chevron-fill` etc.
+
+An abstracted naming convention would need to be considered amoungst all teams within the product, in order to cement a consistant and scalable convention.
 
 **🚫 [IE support](https://caniuse.com/#feat=svg):** TGhr `<use>` element is not supported in IE and requires [`svg4everybody`](https://github.com/jonathantneal/svg4everybody) polyfill adding to technical debt.
 
@@ -185,12 +193,14 @@ symbols.forEach(symbol => {
 
 #### Pros
 
-**✅Cache:** 
+**✅ Cache:** icon files would be cached for mutiple uses of the same icon source.
 
-**✅Cache:** 
+**✅ Accessibility:** `<img>` elements with a descriptive `alt` attribute would provide suitable context for accessibility. **[Confirm with @Matt Stow]**
 
 #### Cons
 
-**🚫Color:** Color values would need to be stored in the source `file.svg`. Mutiple variants for each color would need to be created/generated.
+**🚫 Network requests:** each icon would add another network request to page load.
+
+**🚫 Color:** Color values would need to be stored in the source `file.svg`. Mutiple variants for each color would need to be created/generated.
 
 Updating the color of an icon (e.g. in the instance of user interaction) would require another network request to download the asset. This also results in unnecessary visual jank.
