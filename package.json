@@ -5,8 +5,10 @@
   "scripts": {
     "start": "npm run svg",
     "svg": "npm run optimise && npm run sprites",
-    "optimise": "svgo -f svg/src -r -o svg/output --enable=convertStyleToAttrs",
-    "sprites": "svg-sprite-generate -d svg/src -o svg/sprite.svg"
+    "optimise": "svgo -f svg/src -r -o svg/output --enable=convertStyleToAttrs,removeStyleElement,removeScriptElement,removeXMLNS,sortAttrs",
+    "sprites": "npm run sprites:icons && npm run sprites:test",
+    "sprites:icons": "svg-sprite-generate -d svg/src/icons -o svg/output/sprites-icons.svg",
+    "sprites:test": "svg-sprite-generate -d svg/src/tests -o svg/output/sprites-tests.svg"
   },
   "dependencies": {
     "svg-sprite-generator": "^0.0.7",
