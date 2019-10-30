@@ -1,0 +1,15 @@
+{
+  "name": "hu-icon-system-demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "npm run svg",
+    "svg": "npm run optimise && npm run sprites",
+    "optimise": "svgo -f svg/src -o svg/output --enable=convertStyleToAttrs",
+    "sprites": "svg-sprite-generate -d svg/src -o svg/sprite.svg"
+  },
+  "dependencies": {
+    "svg-sprite-generator": "^0.0.7",
+    "svgo": "^0.7.2"
+  }
+}
