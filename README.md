@@ -57,19 +57,27 @@ Anatomy of an `<svg>`
   width="24" 
   height="24" 
   viewBox="0 0 24 24"
-  focusable="false">
-    <title>arrow-down</title>
+  focusable="false"
+  aria-labelledby="title desc">
+    <title id="title">Circle</title>
+    <desc id="desc">Large red circle with a black border</desc>
     ...
 </svg>
 ```
 
-| Attribute   | Description |
-| :---------- | :---------- |
-| `xmlns`     |             |
-| `width`     |             |
-| `height`    |             |
-| `viewBox`   |             |
-| `focusable` |             |
+| Attribute         | Description |
+| :---------------- | :---------- |
+| `xmlns`           |             |
+| `width`           |             |
+| `height`          |             |
+| `viewBox`         |             |
+| `focusable`       |             |
+| `aria-labelledby` |             |
+
+Relevant articles:
+
+- [Using ARIA to enhance SVG accessibility](https://developer.paciellogroup.com/blog/2013/12/using-aria-enhance-svg-accessibility/)
+- [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
 
 ### SVG Shapes
 
