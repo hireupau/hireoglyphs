@@ -7,9 +7,9 @@
     "svg": "npm run optimise && npm run sprites",
     "optimise": "svgo -f src -r -o dist --config=svgo.json",
     "sprites": "npm run sprites:16 && npm run sprites:24 && npm run sprites:test",
-    "sprites:16": "svg-sprite-generate -d src/16 -o dist/sprites-16.svg",
-    "sprites:24": "svg-sprite-generate -d src/24 -o dist/sprites-24.svg",
-    "sprites:test": "svg-sprite-generate -d src/tests -o dist/sprites-tests.svg"
+    "sprites:16": "svg-sprite-generate -d dist/16 -o dist/sprites-16.svg",
+    "sprites:24": "svg-sprite-generate -d dist/24 -o dist/sprites-24.svg",
+    "sprites:test": "svg-sprite-generate -d dist/tests -o dist/sprites-tests.svg"
   },
   "dependencies": {
     "svg-sprite-generator": "^0.0.7",
