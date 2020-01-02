@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npm run svg",
     "svg": "npm run optimise && npm run sprites",
-    "optimise": "svgo -f svg/src -r -o svg/output --enable=convertStyleToAttrs,removeStyleElement,removeScriptElement,removeXMLNS,sortAttrs",
+    "optimise": "svgo -f src -r -o dist --config=svgo.json",
     "sprites": "npm run sprites:16 && npm run sprites:24 && npm run sprites:test",
     "sprites:16": "svg-sprite-generate -d src/16 -o dist/sprites-16.svg",
     "sprites:24": "svg-sprite-generate -d src/24 -o dist/sprites-24.svg",
