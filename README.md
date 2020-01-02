@@ -37,13 +37,15 @@ Provide configurable options to determine icon color, size, and configure `<svg>
 
 Source SVG are named, organised, and structured to ensure consistancy. Interface (UI) icons should have mutiple variants
 
-| Size   | Description           |
-| :----- | :-------------------- |
-| `16px` | Small UI icon varient |
-| `24px` | Default UI icon size  |
-| `48px` | Dashboard/Marketing   |
-| `64px` | Marketing             |
-| `96px` | Marketing             |
+| Size    | Description           |
+| :------ | :-------------------- |
+| `16px`  | Small UI icon varient |
+| `24px`  | Default UI icon size  |
+| `32px`  | Large UI icon size    |
+| `48px`  | Dashboard/Marketing   |
+| `64px`  | Marketing             |
+| `96px`  | Marketing             |
+| `128px` | Marketing             |
 
 ---
 
