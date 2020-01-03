@@ -2,12 +2,12 @@
   <defs>
     <path id="a" d="M4-2L2.59-.59 7.17 4 2.59 8.59 4 10l6-6z"/>
   </defs>
-  <g fill-rule="evenodd" transform="translate(6 8)">
-    <mask id="b">
+  <g fill="none" fill-rule="evenodd" transform="translate(6 8)">
+    <mask id="b" fill="#fff">
       <use xlink:href="#a"/>
     </mask>
-    <use transform="rotate(90 6.295 4)" xlink:href="#a"/>
-    <g mask="url(#b)">
+    <use fill="#000" transform="rotate(90 6.295 4)" xlink:href="#a"/>
+    <g fill="#003453" mask="url(#b)">
       <path d="M-6-8h24v24H-6z"/>
     </g>
   </g>
