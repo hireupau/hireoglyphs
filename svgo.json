@@ -30,7 +30,9 @@
       "collapseGroups": true
     },
     {
-      "convertColors": true
+      "convertColors": {
+        "currentColor": true
+      }
     },
     {
       "convertEllipseToCircle": true
