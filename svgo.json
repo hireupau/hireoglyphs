@@ -71,8 +71,7 @@
     {
       "removeAttrs": {
         "attrs": [
-          "data-name",
-          "fill"
+          "data-name"
         ]
       }
     },
