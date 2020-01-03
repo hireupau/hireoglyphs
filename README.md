@@ -1,5 +1,110 @@
 # SVG Icon System
 
+## Icons
+
+### Current
+
+- clipboard
+- calendar
+- checkbox
+- chevron
+- clock
+- cog
+- cross-large
+- cross
+- dash
+- dot-medium
+- education
+- ellipsis
+- exit
+- hamburger
+- help
+- house
+- info-circled
+- lock
+- magnifier-circled
+- map-pin
+- person-circled
+- radio
+- receipt-list
+- receipt-scroll
+- speech-bubbles
+- spinner
+- warning
+
+### Required
+
+#### Interface 
+
+- attach/select/upload (Select a picture)
+- back (Main site)
+- car/vehicle (Transport)
+- chat/message (Talk to us)
+- document (No documents found)
+- dollar/money (Payments)
+- edit
+- email
+- export/download
+- flag (Incident report)
+- megaphone (Jobs)
+- people/group (Team)
+- phone
+- repeat
+- search/magnifing-glass
+
+#### Social
+
+- facebook
+- instagram
+- youtube
+- twitter
+- linkedin
+
+#### Illustrative
+
+- (Education, training and employment)
+- (Help around the house)
+- (In-home care)
+- (Out and about)
+- (Personal care)
+- (Specialised support)
+- (Therapy support)
+- (Transport)
+
+## Usage
+
+SVG embedded on DOM
+
+```html
+<svg width="24" height="24" viewBox="0 0 24 24">
+  <path d="..." />
+</svg>
+```
+
+SVG symbols embedded on DOM linked with ID
+
+```html
+<svg width="24" height="24">
+  <use xlink:href="#icon" />
+</svg>
+```
+
+SVG symbols link with ID
+
+```html
+<svg width="24" height="24">
+  <use xlink:href="directory/sprite.svg#icon" />
+</svg>
+```
+
+SVG symbols external link with ID
+
+```html
+<svg width="24" height="24">
+  <use xlink:href="http://domain.tld/directory/sprite.svg#icon" />
+</svg>
+```
+
 ## Criteria
 
 1. Accessibility
