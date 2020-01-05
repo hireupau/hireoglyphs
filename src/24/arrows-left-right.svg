@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(4 .343)">
+    <line x1="16" y1="5.657" y2="5.657"/>
+    <line x2="4" y1="5.657" y2="9.657"/>
+    <line x2="4" y1="5.657" y2="1.657"/>
+    <g transform="matrix(-1 0 0 1 16 12)">
+      <line x1="16" y1="5.657" y2="5.657"/>
+      <line x2="4" y1="5.657" y2="9.657"/>
+      <line x2="4" y1="5.657" y2="1.657"/>
+    </g>
+  </g>
+</svg>

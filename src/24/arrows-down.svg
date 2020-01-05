@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="matrix(1 0 0 -1 1 20)">
+    <g transform="rotate(90 11 11)">
+      <line x1="16" y1="5" y2="5"/>
+      <line x2="4" y1="5" y2="9"/>
+      <line x2="4" y1="5" y2="1"/>
+    </g>
+    <g transform="rotate(90 5 5)">
+      <line x1="16" y1="5" y2="5"/>
+      <line x2="4" y1="5" y2="9"/>
+      <line x2="4" y1="5" y2="1"/>
+    </g>
+  </g>
+</svg>
