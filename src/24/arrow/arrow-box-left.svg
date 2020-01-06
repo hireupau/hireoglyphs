@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke="#000" stroke-width="2" transform="translate(2 6.343)">
+      <line x1="12" y1="5.657" y2="5.657"/>
+      <line x2="5.657" y1="5.657" y2="11.314"/>
+      <line x2="5.657" y1="5.657"/>
+    </g>
+    <polyline stroke="#000" stroke-width="2" points="19.5 6.5 23.5 6.5 23.5 17.5 9.5 17.5 9.5 6.5 13.5 6.5" transform="matrix(0 1 1 0 4.5 -4.5)"/>
+  </g>
+</svg>
