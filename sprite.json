@@ -1,9 +1,6 @@
 {
   "dest": "./icons/",
   "transform": [],
-  "svg": {
-    "namespaceIDs": false
-  },
   "mode": {
     "symbol": {
       "dest": "./",
