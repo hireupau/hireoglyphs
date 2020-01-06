@@ -5,8 +5,8 @@
   "scripts": {
     "start": "npm run svg",
     "svg": "npm run optimise && npm run sprite",
-    "optimise": "svgo -f src -r -o dist --config=svgo.json",
-    "sprite": "rm ./dist/sprite.svg && svg-sprite --config sprite.json './dist/./**/*.svg'"
+    "optimise": "svgo -f src -r -o icons --config=svgo.json",
+    "sprite": "rm ./icons/sprite.svg && svg-sprite --config sprite.json './icons/./**/*.svg'"
   },
   "dependencies": {
     "svg-sprite": "^1.5.0",

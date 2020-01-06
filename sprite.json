@@ -1,5 +1,5 @@
 {
-  "dest": "./dist/",
+  "dest": "./icons/",
   "transform": [],
   "svg": {
     "namespaceIDs": false
