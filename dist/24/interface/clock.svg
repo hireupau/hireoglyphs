@@ -1,3 +1,6 @@
 <svg viewBox="0 0 24 24">
-  <path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 4c4.42 0 8 3.58 8 8s-3.58 8-8 8-8-3.58-8-8 3.58-8 8-8zm.5 3H11v6l5.25 3.15.75-1.23-4.5-2.67V7z"/>
+  <g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="translate(2 2)">
+    <circle cx="10" cy="10" r="10"/>
+    <path d="M10 15v-5l3-3"/>
+  </g>
 </svg>
