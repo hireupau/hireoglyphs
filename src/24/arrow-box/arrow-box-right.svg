@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-    <g stroke="#000" stroke-width="2" transform="translate(10 6.343)">
-      <line x1="12" x2="6.343" y1="5.657"/>
-      <line x1="12" x2="6.343" y1="5.657" y2="11.314"/>
-      <line x2="12" y1="5.657" y2="5.657"/>
+  <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" transform="rotate(90 7.5 13.5)">
+    <g transform="translate(1.757)">
+      <line x1="4.243" y2="4.243"/>
+      <line x1="4.243" x2="8.485" y2="4.243"/>
+      <line x1="4.243" x2="4.243" y1="12"/>
     </g>
-    <polyline stroke="#000" stroke-width="2" points="10.5 6.5 14.5 6.5 14.5 17.5 .5 17.5 .5 6.5 4.5 6.5" transform="rotate(90 7.5 12)"/>
+    <polyline points="9.429 8 12 8 12 18 0 18 0 8 2.571 8"/>
   </g>
 </svg>
