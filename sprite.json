@@ -1,0 +1,15 @@
+{
+  "dest": "./dist/",
+  "transform": [],
+  "svg": {
+    "namespaceIDs": false
+  },
+  "mode": {
+    "symbol": {
+      "dest": "./",
+      "sprite": "./sprite.svg",
+      "inline": true,
+      "example": true
+    }
+  }
+}

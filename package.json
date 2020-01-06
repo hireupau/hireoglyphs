@@ -4,14 +4,12 @@
   "private": true,
   "scripts": {
     "start": "npm run svg",
-    "svg": "npm run optimise && npm run sprites",
+    "svg": "npm run optimise && npm run sprite",
     "optimise": "svgo -f src -r -o dist --config=svgo.json",
-    "sprites": "npm run sprites:24 && npm run sprites:test",
-    "sprites:24": "svg-sprite-generate -d dist/24 -o dist/sprites-24.svg",
-    "sprites:test": "svg-sprite-generate -d dist/tests -o dist/sprites-tests.svg"
+    "sprite": "rm ./dist/sprite.svg && svg-sprite --config sprite.json './dist/./**/*.svg'"
   },
   "dependencies": {
-    "svg-sprite-generator": "^0.0.7",
+    "svg-sprite": "^1.5.0",
     "svgo": "^1.3.1"
   }
 }
