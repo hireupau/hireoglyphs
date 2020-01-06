@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <polygon stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="10 0 20 18 0 18" transform="translate(2 3)"/>
+    <g fill="#000" fill-rule="nonzero" transform="translate(11 10)">
+      <circle cx="1" cy="1" r="1"/>
+      <rect width="2" height="5" y="3"/>
+    </g>
+  </g>
+</svg>

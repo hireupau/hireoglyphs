@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3l10 18H2z"/>
+    <g fill="currentColor" fill-rule="nonzero" transform="translate(11 10)">
+      <circle cx="1" cy="8" r="1"/>
+      <path d="M0 0h2v6H0z"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg viewBox="0 0 24 24">
+  <g fill="none" fill-rule="evenodd">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3l10 18H2z"/>
+    <path fill="currentColor" fill-rule="nonzero" d="M12 17a1 1 0 110 2 1 1 0 010-2zm0-6c1.151 0 2.083.994 2.083 2.222 0 1.39-1.562 1.528-1.562 2.778h-1.042c0-1.806 1.563-1.667 1.563-2.778 0-.61-.47-1.11-1.042-1.11-.573 0-1.042.5-1.042 1.11H9.917C9.917 11.994 10.849 11 12 11z"/>
+  </g>
+</svg>
