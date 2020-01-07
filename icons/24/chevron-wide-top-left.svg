@@ -1,3 +1,3 @@
 <svg viewBox="0 0 24 24">
-  <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7v12M7 7h12"/>
+  <path d="M19 6a1 1 0 01.12 2H8v11a1 1 0 01-2 .12V7a1 1 0 01.88-1H19z"/>
 </svg>
