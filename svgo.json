@@ -1,4 +1,5 @@
 {
+  "floatPrecision": 2,
   "multipass": true,
   "js2svg": {
     "pretty": true,
@@ -6,157 +7,16 @@
   },
   "plugins": [
     {
-      "addAttributesToSVGElement": false
-    },
-    {
-      "addClassesToSVGElement": false
-    },
-    {
-      "cleanupAttrs": true
-    },
-    {
-      "cleanupEnableBackground": true
-    },
-    {
-      "cleanupIDs": true
-    },
-    {
-      "cleanupListOfValues": false
-    },
-    {
-      "cleanupNumericValues": true
-    },
-    {
-      "collapseGroups": true
-    },
-    {
-      "convertColors": {
-        "currentColor": true
-      }
-    },
-    {
-      "convertEllipseToCircle": true
-    },
-    {
-      "convertPathData": true
-    },
-    {
-      "convertShapeToPath": true
-    },
-    {
-      "convertStyleToAttrs": true
-    },
-    {
-      "convertTransform": true
-    },
-    {
-      "inlineStyles": true
-    },
-    {
-      "mergePaths": true
-    },
-    {
-      "minifyStyles": true
-    },
-    {
-      "moveElemsAttrsToGroup": true
-    },
-    {
-      "moveGroupAttrsToElems": true
-    },
-    {
-      "prefixIds": false
-    },
-    {
-      "removeAttributesBySelector": false
-    },
-    {
-      "removeAttrs": {
-        "attrs": [
-          "data-name"
-        ]
-      }
-    },
-    {
-      "removeComments": true
-    },
-    {
-      "removeDesc": true
-    },
-    {
       "removeDimensions": true
     },
     {
-      "removeDoctype": true
-    },
-    {
-      "removeEditorsNSData": true
-    },
-    {
-      "removeElementsByAttr": false
-    },
-    {
-      "removeEmptyAttrs": true
-    },
-    {
-      "removeEmptyContainers": true
-    },
-    {
-      "removeEmptyText": true
-    },
-    {
-      "removeHiddenElems": true
-    },
-    {
-      "removeMetadata": true
-    },
-    {
-      "removeNonInheritableGroupAttrs": true
-    },
-    {
-      "removeOffCanvasPaths": false
-    },
-    {
-      "removeRasterImages": false
-    },
-    {
-      "removeScriptElement": true
-    },
-    {
-      "removeStyleElement": true
-    },
-    {
-      "removeTitle": true
-    },
-    {
-      "removeUnknownsAndDefaults": true
-    },
-    {
-      "removeUnusedNS": true
-    },
-    {
-      "removeUselessDefs": true
-    },
-    {
-      "removeUselessStrokeAndFill": true
-    },
-    {
-      "removeViewBox": false
+      "removeViewBox": true
     },
     {
       "removeXMLNS": true
     },
     {
-      "removeXMLProcInst": true
-    },
-    {
-      "reusePaths": false
-    },
-    {
       "sortAttrs": true
-    },
-    {
-      "sortDefsChildren": true
     }
   ]
 }
