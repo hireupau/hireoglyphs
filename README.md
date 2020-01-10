@@ -32,24 +32,12 @@
 - spinner
 - warning
 
-### Required
+#### New
 
-#### Interface 
-
-- attach/select/upload (Select a picture)
 - back (Main site)
-- car/vehicle (Transport)
 - chat/message (Talk to us)
 - document (No documents found)
-- dollar/money (Payments)
-- edit
-- email
 - export/download
-- flag (Incident report)
-- megaphone (Jobs)
-- people/group (Team)
-- phone
-- repeat
 - search/magnifing-glass
 
 #### Social
@@ -59,6 +47,21 @@
 - youtube
 - twitter
 - linkedin
+
+### Required
+
+#### Interface 
+
+- attach/select/upload (Select a picture)
+- car/vehicle (Transport)
+- dollar/money (Payments)
+- edit
+- email
+- flag (Incident report)
+- megaphone (Jobs)
+- people/group (Team)
+- phone
+- repeat
 
 #### Illustrative
 
