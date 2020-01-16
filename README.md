@@ -74,6 +74,40 @@
 - (Therapy support)
 - (Transport)
 
+## Naming
+
+- Shape
+  - `calendar`
+  - `car`
+  - `circle`
+  - `document`
+  - `folder`
+  - `hexagon`
+  - `inbox`
+  - `person`
+  - `phone`
+  - `shield`
+  - `square`
+  - `triangle`
+- Symbol
+  - `arrow-up`
+  - `arrow-right`
+  - `arrow-down`
+  - `arrow-left`
+  - `list`
+  - `check`
+  - `cross`
+  - `help`
+  - `info`
+  - `minus`
+  - `plus`
+  - `warning`
+- Size
+  - `small`
+  - `large`
+- Style
+  - `outline`
+
 ## Usage
 
 SVG embedded on DOM
