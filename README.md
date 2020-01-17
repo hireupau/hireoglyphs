@@ -76,6 +76,16 @@
 
 ## Naming
 
+### Glyphs
+
+- Glyph
+  - 
+- Size
+  - `small`
+  - `large`
+
+### Shapes
+
 - Shape
   - `calendar`
   - `car`
@@ -107,6 +117,24 @@
   - `large`
 - Style
   - `outline`
+
+## Design
+
+### Settings
+
+| Property          | Value           |
+| ----------------- | --------------- |
+| `line-cap`        | `rounded`       |
+| `line-join`       | `rounded`       |
+| `stroke-width`    | `2px`           |
+| `border-radius`   | `2px`           |
+
+### Drawing
+
+- Align paths to pixel
+- Expand paths
+- Combine shapes
+- Empty fill (`#000`)
 
 ## Usage
 
