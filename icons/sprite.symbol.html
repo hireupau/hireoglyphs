@@ -19,6 +19,7 @@ They might well be outsourced to an external stylesheet of course.
 -->
 
 <style type="text/css">
+	.svg-sprite-dims { width: 0px; height: 0px; }
 	.svg-svg--arrow-dims { width: 24px; height: 24px; }
 	.svg-svg--arrow-bar-dims { width: 24px; height: 24px; }
 	.svg-svg--arrow-bar-down-dims { width: 24px; height: 24px; }
@@ -607,6 +608,7 @@ for further details on how to create this embeddable sprite variant.
 -->
 
 <svg width="0" height="0" style="position:absolute">
+		<symbol style="position:absolute" viewBox="0 0 0 0" id="sprite"/>
 		<symbol viewBox="0 0 24 24" id="svg--arrow"><path d="M12 3h.06a1 1 0 01.03 0h.03l.02.01a1 1 0 01.09.02h.03l.03.01a1 1 0 01.23.1l.02.02.03.02a1 1 0 01.06.04l.08.07 5.65 5.66a1 1 0 01-1.32 1.5l-.09-.09L13 6.41V20a1 1 0 01-2 .12V6.4l-3.95 3.95a1 1 0 01-1.5-1.32l.09-.09 5.65-5.66.08-.07-.08.07a1 1 0 01.42-.25h.03a1 1 0 01.03-.01h.03a1 1 0 01.08-.02h.03a1 1 0 01.03 0l.04-.01H12z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrow-bar"><path d="M11.38 6.22h-.01l.05-.03A1.04 1.04 0 0111.9 6h.17l.07.01a1.09 1.09 0 01.22.06l.05.02a1.02 1.02 0 01.2.13l.09.07 5.65 5.66a1 1 0 01-1.32 1.5l-.09-.09L13 9.41V21a1 1 0 01-2 .12V9.4l-3.95 3.95a1 1 0 01-1.5-1.32l.09-.09 5.65-5.66.06-.05.02-.02-.01.02.02-.02zM21 2a1 1 0 01.12 2H3a1 1 0 01-.12-2H21z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrow-bar-down"><path d="M21 20a1 1 0 01.12 2H3a1 1 0 01-.12-2H21zm-9-2h-.08.01-.01l-.07-.01a1.08 1.08 0 01-.37-.14 1.05 1.05 0 01-.19-.14l-5.65-5.66a1 1 0 011.32-1.5l.09.09L11 14.59V3a1 1 0 012-.12V14.6l3.95-3.95a1 1 0 011.5 1.32l-.09.09-5.65 5.66-.05.04-.01.01-.02.01v.01l-.04.03a1.04 1.04 0 01-.17.1l-.05.02a.99.99 0 01-.2.05h-.02a1 1 0 01-.06.02h-.13.04z"/></symbol>
@@ -1202,6 +1204,17 @@ embedded above. They may be styled via CSS.
 			<h3>A) Inline SVG with embedded sprite</h3>
 			<ul>
 
+				<li title="sprite">
+					<div class="icon-box">
+						
+						<!-- sprite -->
+						<svg class="svg-sprite-dims">
+							<use xlink:href="#sprite"></use>
+						</svg>
+						
+					</div>
+					<h2>sprite</h2>
+				</li>
 				<li title="svg--arrow">
 					<div class="icon-box">
 						
@@ -7455,7 +7468,7 @@ SVG sprite. They may be styled via CSS. (IE 9-11 with polyfill only)
 
 		</section>
 		<footer>
-			<p>Generated at Fri, 17 Jan 2020 03:47:24 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
+			<p>Generated at Fri, 17 Jan 2020 04:20:15 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
 		</footer>
 	</body>
 </html>
