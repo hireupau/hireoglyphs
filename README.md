@@ -76,6 +76,19 @@
 
 ## Naming
 
+Symbols
+
+`svg--{name}-{style}`
+
+eg. `svg-image-outline`
+
+Shapes
+
+`svg--{shape}-{symbol}-{style}`
+
+eg. `svg-circle-warning-outline`
+
+
 ### Glyphs
 
 - Glyph
