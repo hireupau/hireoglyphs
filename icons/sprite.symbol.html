@@ -19,7 +19,6 @@ They might well be outsourced to an external stylesheet of course.
 -->
 
 <style type="text/css">
-	.svg-sprite-dims { width: 0px; height: 0px; }
 	.svg-svg--arrow-dims { width: 24px; height: 24px; }
 	.svg-svg--arrow-bar-dims { width: 24px; height: 24px; }
 	.svg-svg--arrow-bar-down-dims { width: 24px; height: 24px; }
@@ -94,6 +93,8 @@ They might well be outsourced to an external stylesheet of course.
 	.svg-svg--arrows-right-left-dims { width: 24px; height: 24px; }
 	.svg-svg--arrows-up-dims { width: 24px; height: 24px; }
 	.svg-svg--arrows-up-down-dims { width: 24px; height: 24px; }
+	.svg-svg--bell-dims { width: 24px; height: 24px; }
+	.svg-svg--bell-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--bin-dims { width: 24px; height: 24px; }
 	.svg-svg--bin-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--bookmark-dims { width: 24px; height: 24px; }
@@ -318,6 +319,8 @@ They might well be outsourced to an external stylesheet of course.
 	.svg-svg--folder-warning-dims { width: 24px; height: 24px; }
 	.svg-svg--folder-warning-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--hamburger-dims { width: 24px; height: 24px; }
+	.svg-svg--heart-dims { width: 24px; height: 24px; }
+	.svg-svg--heart-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--help-dims { width: 24px; height: 24px; }
 	.svg-svg--help-large-dims { width: 24px; height: 24px; }
 	.svg-svg--help-small-dims { width: 24px; height: 24px; }
@@ -608,7 +611,6 @@ for further details on how to create this embeddable sprite variant.
 -->
 
 <svg width="0" height="0" style="position:absolute">
-		<symbol style="position:absolute" viewBox="0 0 0 0" id="sprite"/>
 		<symbol viewBox="0 0 24 24" id="svg--arrow"><path d="M12 3h.06a1 1 0 01.03 0h.03l.02.01a1 1 0 01.09.02h.03l.03.01a1 1 0 01.23.1l.02.02.03.02a1 1 0 01.06.04l.08.07 5.65 5.66a1 1 0 01-1.32 1.5l-.09-.09L13 6.41V20a1 1 0 01-2 .12V6.4l-3.95 3.95a1 1 0 01-1.5-1.32l.09-.09 5.65-5.66.08-.07-.08.07a1 1 0 01.42-.25h.03a1 1 0 01.03-.01h.03a1 1 0 01.08-.02h.03a1 1 0 01.03 0l.04-.01H12z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrow-bar"><path d="M11.38 6.22h-.01l.05-.03A1.04 1.04 0 0111.9 6h.17l.07.01a1.09 1.09 0 01.22.06l.05.02a1.02 1.02 0 01.2.13l.09.07 5.65 5.66a1 1 0 01-1.32 1.5l-.09-.09L13 9.41V21a1 1 0 01-2 .12V9.4l-3.95 3.95a1 1 0 01-1.5-1.32l.09-.09 5.65-5.66.06-.05.02-.02-.01.02.02-.02zM21 2a1 1 0 01.12 2H3a1 1 0 01-.12-2H21z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrow-bar-down"><path d="M21 20a1 1 0 01.12 2H3a1 1 0 01-.12-2H21zm-9-2h-.08.01-.01l-.07-.01a1.08 1.08 0 01-.37-.14 1.05 1.05 0 01-.19-.14l-5.65-5.66a1 1 0 011.32-1.5l.09.09L11 14.59V3a1 1 0 012-.12V14.6l3.95-3.95a1 1 0 011.5 1.32l-.09.09-5.65 5.66-.05.04-.01.01-.02.01v.01l-.04.03a1.04 1.04 0 01-.17.1l-.05.02a.99.99 0 01-.2.05h-.02a1 1 0 01-.06.02h-.13.04z"/></symbol>
@@ -683,6 +685,8 @@ for further details on how to create this embeddable sprite variant.
 		<symbol viewBox="0 0 24 24" id="svg--arrows-right-left"><path d="M21 18a1 1 0 01-1 1H6.41l2.3 2.3.08.09a1 1 0 01-1.5 1.32l-4-4-.07-.08-.01-.02-.02-.02-.03-.05-.01-.02a.88.88 0 01-.06-.1l-.02-.05a.95.95 0 01-.03-.08v-.03l-.01-.03a.73.73 0 01-.02-.09v-.05a1 1 0 010-.03L3 18.02v-.08a1 1 0 010-.03v-.03a.77.77 0 01.02-.08v-.03a1 1 0 01.01-.03l.01-.03.01-.02.02-.06.02-.05.03-.06.03-.04.04-.07.03-.03v-.02h.02l.05-.07 4-4 .1-.08a1 1 0 011.32 1.5L6.4 17h13.72a1 1 0 01.88 1zm-.22-12.63v.01l.03.03a1.04 1.04 0 01.14.28v.02l.02.03a1 1 0 010 .03v.03a1 1 0 01.02.08v.03a1 1 0 010 .03l.01.04v.08a1 1 0 010 .03v.03l-.01.02a1 1 0 01-.02.09v.03l-.01.03a1 1 0 01-.1.23l-.02.02-.03.05-.02.02-.01.02-.07.08-4 4a1 1 0 01-1.5-1.32l.08-.1L17.6 7H4a1 1 0 01-.12-2H17.6l-2.3-2.3a1 1 0 011.32-1.49l.1.08 4 4 .05.06.01.01.01.01z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrows-up"><path d="M5.38 3.22h-.02.02l.03-.03a1.04 1.04 0 01.28-.14h.02l.03-.02a1 1 0 01.03 0h.03A1 1 0 015.88 3h.03a1 1 0 01.03 0h.12a1 1 0 01.03 0h.03l.02.01a1 1 0 01.09.02h.03l.03.01a1 1 0 01.23.1l.02.02.05.03.02.02.02.01.08.07 4 4a1 1 0 01-1.32 1.5l-.1-.08L7 6.4V20a1 1 0 01-2 .12V6.4L2.7 8.7a1 1 0 01-1.49-1.32l.08-.1 4-4 .06-.05.01-.01.01-.01zm12 0h-.02.02l.03-.03a1.04 1.04 0 01.28-.14h.02l.03-.02a1 1 0 01.03 0h.03a1 1 0 01.08-.02h.03a1 1 0 01.03 0l.04-.01h.08a1 1 0 01.03 0h.03l.02.01a1 1 0 01.09.02h.03l.03.01a1 1 0 01.23.1l.02.02.05.03.02.02.02.01.08.07 4 4a1 1 0 01-1.32 1.5l-.1-.08L19 6.4V20a1 1 0 01-2 .12V6.4l-2.3 2.3a1 1 0 01-1.49-1.32l.08-.1 4-4 .06-.05.01-.01.02-.01z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--arrows-up-down"><path d="M18 3a1 1 0 011 1v13.59l2.3-2.3.09-.08a1 1 0 011.32 1.5l-4 4-.08.07-.02.01-.02.02-.05.03-.02.01a.88.88 0 01-.1.06l-.05.02a.95.95 0 01-.08.03h-.03l-.03.01a.73.73 0 01-.09.02h-.05a1 1 0 01-.03 0l-.04.01h-.08a1 1 0 01-.03 0h-.03a.77.77 0 01-.08-.02h-.03a1 1 0 01-.03-.01l-.03-.01-.02-.01-.06-.02-.05-.02a1.04 1.04 0 01-.06-.03l-.04-.03a1.04 1.04 0 01-.07-.04l-.03-.03h-.02v-.02l-.07-.05-4-4-.08-.1a1 1 0 011.5-1.32L17 17.6V3.88A1 1 0 0118 3zm-12.63.22h.01l.03-.03a1.04 1.04 0 01.28-.14h.02l.03-.02a1 1 0 01.03 0h.03A1 1 0 015.88 3h.03a1 1 0 01.03 0h.12a1 1 0 01.03 0h.03l.02.01a1 1 0 01.09.02h.03l.03.01a1 1 0 01.23.1l.02.02.05.03.02.02.02.01.08.07 4 4a1 1 0 01-1.32 1.5l-.1-.08L7 6.4V20a1 1 0 01-2 .12V6.4L2.7 8.7a1 1 0 01-1.49-1.32l.08-.1 4-4 .06-.05.01-.01.01-.01z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--bell"><path d="M12.09 2a6 6 0 015.95 5.26l.42 3.39 2.4 3.73a3 3 0 01-.75 4.04l-.15.1a3 3 0 01-1.62.48h-2.47a4 4 0 01-7.74 0H5.66a3 3 0 01-2.52-4.62l2.4-3.73.42-3.4A6 6 0 0111.68 2h.23zm1.64 17h-3.46l.04.07a2 2 0 001.54.92L12 20a2 2 0 001.68-.91l.05-.09z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--bell-outline"><path d="M12.09 2a6 6 0 015.95 5.26l.42 3.39 2.4 3.73a3 3 0 01-.75 4.04l-.15.1a3 3 0 01-1.62.48h-2.47a4 4 0 01-7.74 0H5.66a3 3 0 01-2.52-4.62l2.4-3.73.42-3.4A6 6 0 0111.68 2h.23zm1.64 17h-3.46l.04.07a2 2 0 001.54.92L12 20a2 2 0 001.68-.91l.05-.09zM12.1 4h-.18a4 4 0 00-3.97 3.5l-.45 3.62a1 1 0 01-.15.42l-2.52 3.92A1 1 0 005.66 17h12.68a1 1 0 00.84-1.54l-2.52-3.92a1 1 0 01-.15-.42l-.45-3.62A4 4 0 0012.09 4z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--bin"><path d="M19 8v12a2 2 0 01-2 2H7a2 2 0 01-2-2V8h14zM4 7a1 1 0 01-.12-2H8a3 3 0 012.82-3H13a3 3 0 013 2.82V5h4a1 1 0 01.12 2H4zm9-3h-2a1 1 0 00-1 .88V5h4a1 1 0 00-.88-1H13z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--bin-outline"><path d="M18 8a1 1 0 011 .88V19a3 3 0 01-2.82 3H8a3 3 0 01-3-2.82V9a1 1 0 01.88-1H18zm-1 2H7v9a1 1 0 00.77.97l.11.02L8 20h8a1 1 0 001-.88V10zM4 7a1 1 0 01-.12-2H8a3 3 0 012.82-3H13a3 3 0 013 2.82V5h4a1 1 0 01.12 2H4zm9-3h-2a1 1 0 00-1 .88V5h4a1 1 0 00-.88-1H13z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--bookmark"><path d="M7 2h10a2 2 0 012 2v17.34a1 1 0 01-1.75.66L12 16l-5.25 6A1 1 0 015 21.34V4c0-1.1.9-2 2-2z"/></symbol>
@@ -907,6 +911,8 @@ for further details on how to create this embeddable sprite variant.
 		<symbol viewBox="0 0 24 24" id="svg--folder-warning"><path d="M11 4l2 2h7a2 2 0 012 2v10a2 2 0 01-2 2H4a2 2 0 01-2-2V6c0-1.1.9-2 2-2h7zm1 11a1 1 0 100 2 1 1 0 000-2zm0-6a1 1 0 00-1 1v3a1 1 0 002 0v-3a1 1 0 00-1-1z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--folder-warning-outline"><path d="M11 4a1 1 0 01.7.3L13.42 6H19a3 3 0 013 2.82V17a3 3 0 01-3 3H5a3 3 0 01-3-3V7a3 3 0 013-3zm-.41 2H5a1 1 0 00-1 1v10a1 1 0 001 1h14a1 1 0 001-1V9a1 1 0 00-1-1h-6a1 1 0 01-.7-.3L10.58 6zM12 15a1 1 0 110 2 1 1 0 010-2zm0-6a1 1 0 011 1v3a1 1 0 01-2 0v-3a1 1 0 011-1z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--hamburger"><path d="M23 17a1 1 0 010 2H1a1 1 0 010-2h22zm0-6a1 1 0 010 2H1a1 1 0 010-2h22zm0-6a1 1 0 010 2H1a1 1 0 110-2h22z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--heart"><path d="M15.74 3c-1.2.07-2.36.55-3.49 1.44l-.25.2h-.01A6.2 6.2 0 008 3C4.37 3 2 5.53 2 9.5c0 2.65 1.03 4.44 3.69 6.96a48.25 48.25 0 005.75 4.37 1 1 0 001.12 0l.78-.53a43.69 43.69 0 004.97-3.84C20.97 13.94 22 12.15 22 9.5 22 5.53 19.63 3 16 3h-.26z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--heart-outline"><path d="M15.74 3c-1.2.07-2.36.55-3.49 1.44l-.25.2h-.01A6.2 6.2 0 008 3C4.37 3 2 5.53 2 9.5c0 2.65 1.03 4.44 3.69 6.96a48.25 48.25 0 005.75 4.37 1 1 0 001.12 0l.78-.53a43.69 43.69 0 004.97-3.84C20.97 13.94 22 12.15 22 9.5 22 5.53 19.63 3 16 3h-.26zM16 5c2.5 0 4 1.6 4 4.5 0 2-.77 3.33-3.06 5.5l-.17.16c-.92.85-2.32 1.93-4.2 3.23l-.57.4-.2-.13A42.15 42.15 0 017.07 15C4.76 12.83 4 11.5 4 9.5 4 6.6 5.5 5 8 5c1.04 0 2.13.55 3.3 1.7a1 1 0 001.4 0C13.88 5.56 14.97 5 16 5z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--help"><path d="M12.1 16a1.5 1.5 0 110 3 1.5 1.5 0 010-3zm0-12a4 4 0 014 4c0 1.69-1.03 2.43-1.78 2.97-.73.53-1.21.87-1.21 2.03v1h-2v-1c0-2.18 1.18-3.03 2.04-3.65.71-.51.96-.72.96-1.35a2 2 0 00-3.9-.67l-.04.11a1 1 0 01-1.23.5l-.1-.04a1 1 0 01-.5-1.23A4 4 0 0112.1 4z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--help-large"><path d="M11.5 18a1.5 1.5 0 110 3 1.5 1.5 0 010-3zm.07-15c3 0 5.43 2.33 5.43 5.2 0 2.2-1.4 3.16-2.42 3.86-1 .69-1.65 1.14-1.65 2.64V16H10.2v-1.3c0-2.84 1.61-3.94 2.78-4.75.96-.66 1.3-.93 1.3-1.75 0-1.43-1.22-2.6-2.72-2.6-1.15 0-2.18.7-2.56 1.73l-.05.13c-.3.6-1 .9-1.64.68l-.08-.03a1.27 1.27 0 01-.79-1.64A5.43 5.43 0 0111.57 3z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--help-small"><path d="M12 15a1 1 0 110 2 1 1 0 010-2zm.1-8c1.7 0 3 1.3 3 3 0 1.4-.9 2-1.5 2.4-.5.3-.6.4-.6.6v1h-2v-1c0-1.3.9-1.9 1.5-2.3.5-.3.6-.5.6-.8 0-.6-.4-.9-1-.9-.4 0-.7.2-.9.5l-.02.04a.96.96 0 01-1.33.36 1 1 0 01-.38-1.35l.03-.05C10 7.6 11 7 12.1 7z"/></symbol>
@@ -1204,17 +1210,6 @@ embedded above. They may be styled via CSS.
 			<h3>A) Inline SVG with embedded sprite</h3>
 			<ul>
 
-				<li title="sprite">
-					<div class="icon-box">
-						
-						<!-- sprite -->
-						<svg class="svg-sprite-dims">
-							<use xlink:href="#sprite"></use>
-						</svg>
-						
-					</div>
-					<h2>sprite</h2>
-				</li>
 				<li title="svg--arrow">
 					<div class="icon-box">
 						
@@ -2028,6 +2023,28 @@ embedded above. They may be styled via CSS.
 						
 					</div>
 					<h2>svg--arrows-up-down</h2>
+				</li>
+				<li title="svg--bell">
+					<div class="icon-box">
+						
+						<!-- svg--bell -->
+						<svg class="svg-svg--bell-dims">
+							<use xlink:href="#svg--bell"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--bell</h2>
+				</li>
+				<li title="svg--bell-outline">
+					<div class="icon-box">
+						
+						<!-- svg--bell-outline -->
+						<svg class="svg-svg--bell-outline-dims">
+							<use xlink:href="#svg--bell-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--bell-outline</h2>
 				</li>
 				<li title="svg--bin">
 					<div class="icon-box">
@@ -4492,6 +4509,28 @@ embedded above. They may be styled via CSS.
 						
 					</div>
 					<h2>svg--hamburger</h2>
+				</li>
+				<li title="svg--heart">
+					<div class="icon-box">
+						
+						<!-- svg--heart -->
+						<svg class="svg-svg--heart-dims">
+							<use xlink:href="#svg--heart"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--heart</h2>
+				</li>
+				<li title="svg--heart-outline">
+					<div class="icon-box">
+						
+						<!-- svg--heart-outline -->
+						<svg class="svg-svg--heart-outline-dims">
+							<use xlink:href="#svg--heart-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--heart-outline</h2>
 				</li>
 				<li title="svg--help">
 					<div class="icon-box">
@@ -7468,7 +7507,7 @@ SVG sprite. They may be styled via CSS. (IE 9-11 with polyfill only)
 
 		</section>
 		<footer>
-			<p>Generated at Fri, 17 Jan 2020 04:20:15 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
+			<p>Generated at Fri, 17 Jan 2020 04:21:44 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
 		</footer>
 	</body>
 </html>
