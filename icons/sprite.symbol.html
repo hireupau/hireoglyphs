@@ -355,9 +355,13 @@ They might well be outsourced to an external stylesheet of course.
 	.svg-svg--dash-large-dims { width: 24px; height: 24px; }
 	.svg-svg--dash-small-dims { width: 24px; height: 24px; }
 	.svg-svg--device-desktop-dims { width: 24px; height: 24px; }
+	.svg-svg--device-desktop-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--device-laptop-dims { width: 24px; height: 24px; }
+	.svg-svg--device-laptop-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--device-mobile-dims { width: 24px; height: 24px; }
+	.svg-svg--device-mobile-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--device-tablet-dims { width: 24px; height: 24px; }
+	.svg-svg--device-tablet-outline-dims { width: 24px; height: 24px; }
 	.svg-svg--document-dims { width: 24px; height: 24px; }
 	.svg-svg--document-arrow-down-dims { width: 24px; height: 24px; }
 	.svg-svg--document-arrow-down-outline-dims { width: 24px; height: 24px; }
@@ -1104,10 +1108,14 @@ for further details on how to create this embeddable sprite variant.
 		<symbol viewBox="0 0 24 24" id="svg--dash"><path d="M19 11a1 1 0 01.12 2H5a1 1 0 01-.12-2H19z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--dash-large"><path d="M21 11a1 1 0 01.12 2H3a1 1 0 01-.12-2H21z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--dash-small"><path d="M16 11a1 1 0 01.12 2H8a1 1 0 01-.12-2H16z"/></symbol>
-		<symbol viewBox="0 0 24 24" id="svg--device-desktop"><path d="M19 2a3 3 0 013 3v10a3 3 0 01-3 3h-6v3a1 1 0 01-2 .12V18H5a3 3 0 01-3-2.82V5a3 3 0 013-3zm0 2H5a1 1 0 00-1 1v10a1 1 0 001 1h14a1 1 0 001-1V5a1 1 0 00-1-1z"/><path d="M16 20a1 1 0 01.12 2H8a1 1 0 01-.12-2H16z"/></symbol>
-		<symbol viewBox="0 0 24 24" id="svg--device-laptop"><path d="M21 15l1.42 1.73A2 2 0 0120.88 20H3.12a2 2 0 01-1.54-3.27L3 15V7a3 3 0 012.82-3H18a3 3 0 013 3v8zm-1.77 1H4.77l-1.65 2h17.76l-1.65-2zM18 6H6a1 1 0 00-1 1v7h14V7a1 1 0 00-.88-1H18z"/></symbol>
-		<symbol viewBox="0 0 24 24" id="svg--device-mobile"><path d="M16 2a3 3 0 013 3v14a3 3 0 01-3 3H8a3 3 0 01-3-3V5a3 3 0 013-3zm0 2H8a1 1 0 00-1 1v14a1 1 0 001 1h8a1 1 0 001-1V5a1 1 0 00-1-1zm-4 12a1 1 0 110 2 1 1 0 010-2z"/></symbol>
-		<symbol viewBox="0 0 24 24" id="svg--device-tablet"><path d="M18 2a3 3 0 013 3v14a3 3 0 01-3 3H6a3 3 0 01-3-3V5a3 3 0 013-3zm0 2H6a1 1 0 00-1 1v14a1 1 0 001 1h12a1 1 0 001-1V5a1 1 0 00-1-1zm-6 12a1 1 0 110 2 1 1 0 010-2z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-desktop"><path d="M19 2a3 3 0 013 3v10a3 3 0 01-3 3h-6v3a1 1 0 01-2 .12V18H5a3 3 0 01-3-2.82V5a3 3 0 013-3z"/><path d="M16 20a1 1 0 01.12 2H8a1 1 0 01-.12-2H16z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-desktop-outline"><path d="M19 2a3 3 0 013 3v10a3 3 0 01-3 3h-6v3a1 1 0 01-2 .12V18H5a3 3 0 01-3-2.82V5a3 3 0 013-3zm0 2H5a1 1 0 00-1 1v10a1 1 0 001 1h14a1 1 0 001-1V5a1 1 0 00-1-1z"/><path d="M16 20a1 1 0 01.12 2H8a1 1 0 01-.12-2H16z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-laptop"><path d="M21 15l1.42 1.73A2 2 0 0120.88 20H3.12a2 2 0 01-1.54-3.27L3 15V7a3 3 0 012.82-3H18a3 3 0 013 3v8zm-3-9H6a1 1 0 00-1 1v7h14V7a1 1 0 00-.88-1H18z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-laptop-outline"><path d="M21 15l1.42 1.73A2 2 0 0120.88 20H3.12a2 2 0 01-1.54-3.27L3 15V7a3 3 0 012.82-3H18a3 3 0 013 3v8zm-1.77 1H4.77l-1.65 2h17.76l-1.65-2zM18 6H6a1 1 0 00-1 1v7h14V7a1 1 0 00-.88-1H18z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-mobile"><path d="M16 2a3 3 0 013 3v14a3 3 0 01-3 3H8a3 3 0 01-3-3V5a3 3 0 013-3zm-4 15a1 1 0 100 2 1 1 0 000-2z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-mobile-outline"><path d="M16 2a3 3 0 013 3v14a3 3 0 01-3 3H8a3 3 0 01-3-3V5a3 3 0 013-3zm0 2H8a1 1 0 00-1 1v14a1 1 0 001 1h8a1 1 0 001-1V5a1 1 0 00-1-1zm-4 12a1 1 0 110 2 1 1 0 010-2z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-tablet"><path d="M18 2a3 3 0 013 3v14a3 3 0 01-3 3H6a3 3 0 01-3-3V5a3 3 0 013-3zm-6 15a1 1 0 100 2 1 1 0 000-2z"/></symbol>
+		<symbol viewBox="0 0 24 24" id="svg--device-tablet-outline"><path d="M18 2a3 3 0 013 3v14a3 3 0 01-3 3H6a3 3 0 01-3-3V5a3 3 0 013-3zm0 2H6a1 1 0 00-1 1v14a1 1 0 001 1h12a1 1 0 001-1V5a1 1 0 00-1-1zm-6 12a1 1 0 110 2 1 1 0 010-2z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--document"><path d="M12 1v7a1 1 0 001 1h7v12a2 2 0 01-2 2H6a2 2 0 01-2-2V3c0-1.1.9-2 2-2h6zm2 0l6 6h-5a1 1 0 01-1-1V1z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--document-arrow-down"><path d="M12 1v7a1 1 0 001 1h7v12a2 2 0 01-2 2H6a2 2 0 01-2-2V3c0-1.1.9-2 2-2h6zm0 11a1 1 0 00-1 .88v3.71l-1.3-1.3a1 1 0 00-1.49 1.32l.08.1 3 3 .06.05.02.02h.01l.02.02.08.05.04.03.06.03.05.02a.99.99 0 00.22.06h.09l.04.01h.1l.07-.01a1.08 1.08 0 00.22-.06l.05-.02a1.02 1.02 0 00.2-.13l.09-.07 3-3a1 1 0 00-1.32-1.5l-.1.08L13 16.6V13a1 1 0 00-1-1zm2-11l6 6h-5a1 1 0 01-1-.88V1z"/></symbol>
 		<symbol viewBox="0 0 24 24" id="svg--document-arrow-down-outline"><path d="M12 1v7a1 1 0 001 1h7v12a2 2 0 01-2 2H6a2 2 0 01-2-2V3c0-1.1.9-2 2-2h6zm-2 2H6v18h12V11h-5a3 3 0 01-3-2.82V3zm2 9a1 1 0 011 1v3.59l1.3-1.3.09-.08a1 1 0 011.32 1.5l-3 3-.08.07a3 3 0 01-.15.1l-.06.03-.05.02a.95.95 0 01-.22.06h-.13L12 20h-.09l-.06-.01a1.1 1.1 0 01-.22-.06l-.05-.02a1.04 1.04 0 01-.06-.03l-.04-.03a1.03 1.03 0 01-.08-.05l-.02-.02-.02-.01-.01-.01-.06-.05-3-3-.08-.1a1 1 0 011.5-1.32L11 16.6v-3.71a1 1 0 011-.88zm2-11l6 6h-5a1 1 0 01-1-.88V1z"/></symbol>
@@ -5222,6 +5230,17 @@ embedded above. They may be styled via CSS.
 					</div>
 					<h2>svg--device-desktop</h2>
 				</li>
+				<li title="svg--device-desktop-outline">
+					<div class="icon-box">
+						
+						<!-- svg--device-desktop-outline -->
+						<svg class="svg-svg--device-desktop-outline-dims">
+							<use xlink:href="#svg--device-desktop-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--device-desktop-outline</h2>
+				</li>
 				<li title="svg--device-laptop">
 					<div class="icon-box">
 						
@@ -5232,6 +5251,17 @@ embedded above. They may be styled via CSS.
 						
 					</div>
 					<h2>svg--device-laptop</h2>
+				</li>
+				<li title="svg--device-laptop-outline">
+					<div class="icon-box">
+						
+						<!-- svg--device-laptop-outline -->
+						<svg class="svg-svg--device-laptop-outline-dims">
+							<use xlink:href="#svg--device-laptop-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--device-laptop-outline</h2>
 				</li>
 				<li title="svg--device-mobile">
 					<div class="icon-box">
@@ -5244,6 +5274,17 @@ embedded above. They may be styled via CSS.
 					</div>
 					<h2>svg--device-mobile</h2>
 				</li>
+				<li title="svg--device-mobile-outline">
+					<div class="icon-box">
+						
+						<!-- svg--device-mobile-outline -->
+						<svg class="svg-svg--device-mobile-outline-dims">
+							<use xlink:href="#svg--device-mobile-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--device-mobile-outline</h2>
+				</li>
 				<li title="svg--device-tablet">
 					<div class="icon-box">
 						
@@ -5254,6 +5295,17 @@ embedded above. They may be styled via CSS.
 						
 					</div>
 					<h2>svg--device-tablet</h2>
+				</li>
+				<li title="svg--device-tablet-outline">
+					<div class="icon-box">
+						
+						<!-- svg--device-tablet-outline -->
+						<svg class="svg-svg--device-tablet-outline-dims">
+							<use xlink:href="#svg--device-tablet-outline"></use>
+						</svg>
+						
+					</div>
+					<h2>svg--device-tablet-outline</h2>
 				</li>
 				<li title="svg--document">
 					<div class="icon-box">
@@ -9561,7 +9613,7 @@ SVG sprite. They may be styled via CSS. (IE 9-11 with polyfill only)
 
 		</section>
 		<footer>
-			<p>Generated at Mon, 10 Feb 2020 06:40:04 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
+			<p>Generated at Tue, 11 Feb 2020 02:21:40 GMT by <a href="https://github.com/jkphl/svg-sprite" target="_blank">svg-sprite</a>.</p>
 		</footer>
 	</body>
 </html>
