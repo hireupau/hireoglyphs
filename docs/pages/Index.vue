@@ -15,10 +15,3 @@ export default {
     <Search />
   </div>
 </template>
-
-<style>
-.container {
-  margin: 0 auto;
-  max-width: 40rem;
-}
-</style>
