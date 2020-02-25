@@ -17,12 +17,6 @@ export default {
       <h1 id="page-title">
         Icons
       </h1>
-      <svg width="24" height="24">
-        <use xlink:href="~assets/glyphs.svg#instagram" />
-      </svg>
-      <svg width="24" height="24">
-        <use xlink:href="~assets/sprite.svg#svg--arrow-bar-in-down" />
-      </svg>
       <Search />
       <Icons />
     </div>
