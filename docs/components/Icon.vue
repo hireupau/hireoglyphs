@@ -30,22 +30,28 @@ export default {
 
 <template>
   <div class="icon">
-    <svg width="24" height="24">
-      <use v-bind="{ 'xlink:href': require('../assets/sprite.svg') + symbolId }" />
-    </svg>
-    <pre>{{ icon }}</pre>
-    <button
-      ref="copy"
-      :data-icon="icon"
-      @click="copyToClipboard"
-    >
-      Copy to clipboard
-    </button>
-    <a
-      :href="downloadUrl"
-      download
-    >
-      Download SVG
-    </a>
+    <div class="icon-inner">
+      <svg class="icon-svg" width="24" height="24">
+        <use v-bind="{ 'xlink:href': require('../assets/sprite.svg') + symbolId }" />
+      </svg>
+      <pre>{{ icon }}</pre>
+    </div>
+    <div class="icon-actions">
+      <button
+        ref="copy"
+        class="icon-copy"
+        :data-icon="icon"
+        @click="copyToClipboard"
+      >
+        Copy<span class="visually-hidden"> to clipboard</span>
+      </button>
+      <a
+        class="icon-download"
+        :href="downloadUrl"
+        download
+      >
+        Download
+      </a>
+    </div>
   </div>
 </template>

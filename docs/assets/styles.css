@@ -50,12 +50,51 @@ h1 {
 }
 
 .icon {
-
+  box-shadow: 0px 1px 1px 1px hsl(240, 10%, 90%);
 }
 
-.icon svg {
+.icon-inner {
+  padding: 0.5rem 0.5rem 0 0.5rem;
+}
+
+.icon-svg {
   display: block;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.icon-actions {
+  display: flex;
+}
+
+.icon-copy,
+.icon-download {
+  color: currentColor;
+  display: inline-block;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: auto;
+  font-size: 0.75rem;
+  padding: 0.75rem 0.5rem;
+}
+
+.icon-copy:hover,
+.icon-copy:focus,
+.icon-download:hover,
+.icon-download:focus {
+  text-decoration: underline;
+}
+
+.icon-copy {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.icon-download {
+  text-decoration: none;
+  text-align: right;
 }
 
 pre {
@@ -69,10 +108,22 @@ pre {
   hyphens: none;
   margin: 0;
   overflow: auto;
-  padding: 0.75em;
+  padding: 0.25em 0.5em;
   tab-size: 2;
   text-align: left;
   white-space: pre;
   word-break: normal;
   word-spacing: normal;
+}
+
+.visually-hidden {
+  border: none;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
 }
