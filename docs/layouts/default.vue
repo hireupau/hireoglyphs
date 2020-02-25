@@ -1,9 +1,9 @@
-<style>
-
-</style>
+<script>
+export default {
+  name: 'Default'
+}
+</script>
 
 <template>
-  <div>
-    <nuxt />
-  </div>
+  <nuxt />
 </template>

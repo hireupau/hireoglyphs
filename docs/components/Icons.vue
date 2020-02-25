@@ -1,16 +1,15 @@
 <script>
 import Icon from '~/components/Icon.vue'
-import icons from '~/static/icons.json'
 
 export default {
   name: 'Icons',
-  icons,
   components: {
     Icon
   },
-  data () {
-    return {
-      icons
+  props: {
+    icons: {
+      type: Array,
+      required: true
     }
   }
 }

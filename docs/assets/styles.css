@@ -19,6 +19,11 @@ body {
   margin: 0;
 }
 
+main {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 .container {
   margin: 0 auto;
   max-width: 80rem;
@@ -26,10 +31,14 @@ body {
   padding-right: 1rem;
 }
 
+h1 {
+  margin: 0;
+}
+
 .grid {
   display: grid;
   grid-gap: 1.5rem;
-  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));
   list-style: none;
   margin: 0;
   padding: 0;
@@ -38,6 +47,15 @@ body {
 .grid li {
   margin: 0;
   padding: 0;
+}
+
+.icon {
+
+}
+
+.icon svg {
+  display: block;
+  margin-bottom: 1rem;
 }
 
 pre {

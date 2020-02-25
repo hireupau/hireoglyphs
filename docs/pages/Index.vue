@@ -1,12 +1,19 @@
 <script>
 import Icons from '~/components/Icons.vue'
 import Search from '~/components/Search.vue'
+import icons from '~/static/icons.json'
 
 export default {
   name: 'Index',
+  icons,
   components: {
     Icons,
     Search
+  },
+  data () {
+    return {
+      icons
+    }
   }
 }
 </script>
@@ -18,7 +25,7 @@ export default {
         Icons
       </h1>
       <Search />
-      <Icons />
+      <Icons :icons="icons" />
     </div>
   </main>
 </template>
