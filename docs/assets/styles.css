@@ -10,6 +10,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
+  color: #003454;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   line-height: 1.25;
@@ -50,7 +51,7 @@ h1 {
 }
 
 .icon {
-  box-shadow: 0px 1px 1px 1px hsl(240, 10%, 90%);
+  box-shadow: 0 1px 3px hsla(240, 10%, 20%, 0.125), 0 1px 2px hsla(240, 10%, 20%, 0.25);
 }
 
 .icon-inner {
@@ -59,6 +60,7 @@ h1 {
 
 .icon-svg {
   display: block;
+  fill: currentColor;
   margin-bottom: 0.75rem;
 }
 
@@ -101,7 +103,7 @@ pre {
   -moz-tab-size: 2;
   -ms-hyphens: none;
   -webkit-hyphens: none;
-  background: hsl(240, 10%, 95%);
+  background: #ebedee;
   border-radius: .25em;
   direction: ltr;
   font-size: 0.75rem;
