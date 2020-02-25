@@ -7,10 +7,11 @@
   "scripts": {
     "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
     "build": "nuxt build",
-    "deploy": "npm run generate:gh-pages && push-dir --dir=dist --branch=gh-pages --cleanup",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
     "dev": "nuxt",
     "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate",
     "generate": "nuxt generate",
+    "gh-pages": "yarn generate:gh-pages & yarn deploy",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "start": "nuxt start"
   },
