@@ -1,3 +1,9 @@
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/svg-icon-system/'
+  }
+} : {}
+
 export default {
   mode: 'universal',
   head: {
@@ -33,9 +39,7 @@ export default {
   buildModules: [
     '@nuxtjs/eslint-module'
   ],
-  router: {
-    base: '/svg-icon-system/'
-  },
+  ...routerBase,
   server: {
     port: 8000,
     host: '0.0.0.0'

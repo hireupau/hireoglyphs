@@ -5,14 +5,18 @@
   "author": "Scott de Jonge",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "deploy": "npm run generate:gh-pages && push-dir --dir=dist --branch=gh-pages --cleanup",
+    "dev": "nuxt",
+    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate",
     "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "start": "nuxt start"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "push-dir": "^0.4.1"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",
