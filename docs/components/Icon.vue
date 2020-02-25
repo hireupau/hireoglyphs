@@ -8,8 +8,8 @@ export default {
     }
   },
   computed: {
-    path () {
-      return `~assets/sprite.svg#svg--${this.icon}`
+    symbolId () {
+      return `#svg--${this.icon}`
     }
   }
 }
@@ -18,7 +18,7 @@ export default {
 <template>
   <div class="icon">
     <svg width="24" height="24">
-      <use :xlink:href="path" />
+      <use v-bind="{ 'xlink:href': require('../assets/sprite.svg') + symbolId }" />
     </svg>
     <pre>{{ icon }}</pre>
   </div>
