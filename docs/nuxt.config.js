@@ -23,5 +23,9 @@ export default {
   ],
   router: {
     base: '/svg-icon-system/'
+  },
+  server: {
+    port: 8000,
+    host: '0.0.0.0'
   }
 }
