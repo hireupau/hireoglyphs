@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<symbol id="arrow-down" viewBox="0 0 24 24"><title>arrow-down</title><path d="M17.66 11L13 15.48V5h-2v10.48L6.33 11 5 12.28 12 19l7-6.72L17.66 11z"/>
+</symbol>
+<symbol id="arrow-left" viewBox="0 0 24 24"><title>arrow-left</title><path d="M19 11H8.52L13 6.33 11.72 5 5 12l6.72 7L13 17.66 8.52 13H19v-2z"/>
+</symbol>
+<symbol id="arrow-right" viewBox="0 0 24 24"><title>arrow-right</title><path d="M12.28 5L11 6.33 15.48 11H5v2h10.48L11 17.66 12.28 19 19 12l-6.72-7z"/>
+</symbol>
+<symbol id="arrow-up" viewBox="0 0 24 24"><title>arrow-up</title><path d="M19 11.72L12 5l-7 6.72L6.33 13 11 8.52V19h2V8.52L17.66 13 19 11.72z"/>
+</symbol>
+<symbol id="chevron-double-down" viewBox="0 0 24 24"><title>chevron-double-down</title><path d="M5 6.28L6.33 5 12 10.44 17.66 5 19 6.28 12 13 5 6.28z"/><path d="M5 12.28L6.33 11 12 16.44 17.66 11 19 12.28 12 19l-7-6.72z"/>
+</symbol>
+<symbol id="chevron-double-left" viewBox="0 0 24 24"><title>chevron-double-left</title><path d="M11.72 5L13 6.33 7.56 12 13 17.66 11.72 19 5 12l6.72-7z"/><path d="M17.72 5L19 6.33 13.56 12 19 17.66 17.72 19 11 12l6.72-7z"/>
+</symbol>
+<symbol id="chevron-double-right" viewBox="0 0 24 24"><title>chevron-double-right</title><path d="M6.28 19L5 17.66 10.44 12 5 6.33 6.28 5 13 12l-6.72 7z"/><path d="M12.28 19L11 17.66 16.44 12 11 6.33 12.28 5 19 12l-6.72 7z"/>
+</symbol>
+<symbol id="chevron-double-up" viewBox="0 0 24 24"><title>chevron-double-up</title><path d="M19 17.72L17.66 19 12 13.56 6.33 19 5 17.72 12 11l7 6.72z"/><path d="M19 11.72L17.66 13 12 7.56 6.33 13 5 11.72 12 5l7 6.72z"/>
+</symbol>
+<symbol id="chevron-down" viewBox="0 0 24 24"><title>chevron-down</title><path d="M5 9.28L6.33 8 12 13.44 17.66 8 19 9.28 12 16 5 9.28z"/>
+</symbol>
+<symbol id="chevron-left" viewBox="0 0 24 24"><title>chevron-left</title><path d="M14.72 5L16 6.33 10.56 12 16 17.66 14.72 19 8 12l6.72-7z"/>
+</symbol>
+<symbol id="chevron-right" viewBox="0 0 24 24"><title>chevron-right</title><path d="M9.28 19L8 17.66 13.44 12 8 6.33 9.28 5 16 12l-6.72 7z"/>
+</symbol>
+<symbol id="chevron-up" viewBox="0 0 24 24"><title>chevron-up</title><path d="M19 14.72L17.66 16 12 10.56 6.33 16 5 14.72 12 8l7 6.72z"/>
+</symbol>
+<symbol id="close" viewBox="0 0 24 24"><title>close</title><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+</symbol>
+<symbol id="email" viewBox="0 0 24 24"><title>email</title><path d="M21 4H3a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h18a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1zm-1.52 2L12 12.66 4.52 6zM20 18H4V8.22l7.34 6.53a1 1 0 0 0 1.33 0L20 8.22z"/>
+</symbol>
+<symbol id="facebook" viewBox="0 0 24 24"><title>facebook</title><path d="M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm13 2h-2.5A3.5 3.5 0 0 0 12 8.5V11h-2v3h2v7h3v-7h3v-3h-3V9a1 1 0 0 1 1-1h2z"/>
+</symbol>
+<symbol id="fax" viewBox="0 0 24 24"><title>fax</title><path d="M21 6h-2V3a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v3H3a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h4v3a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1v-3h4a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1zM7 4h10v2H7zm8 13v3H9v-6h6zm5-1h-3v-3a1 1 0 0 0-1-1H8a1 1 0 0 0-1 1v3H4V8h16z"/><path d="M17 9h2v2h-2z"/>
+</symbol>
+<symbol id="grid" viewBox="0 0 24 24"><title>grid</title><path d="M10 10h4v4h-4zm6 0h4v4h-4zm0-6h4v4h-4zm-6 0h4v4h-4zM4 4h4v4H4zm0 6h4v4H4zm6 6h4v4h-4zm6 0h4v4h-4zM4 16h4v4H4z"/>
+</symbol>
+<symbol id="instagram" viewBox="0 0 24 24"><title>instagram</title><path d="M7.8 2h8.4A5.8 5.8 0 0 1 22 7.8v8.4a5.8 5.8 0 0 1-5.8 5.8H7.8A5.8 5.8 0 0 1 2 16.2V7.8A5.8 5.8 0 0 1 7.8 2zm-.2 2A3.6 3.6 0 0 0 4 7.6v8.8A3.6 3.6 0 0 0 7.6 20h8.8a3.6 3.6 0 0 0 3.6-3.6V7.6A3.6 3.6 0 0 0 16.4 4H7.6zm9.65 1.5A1.25 1.25 0 1 1 16 6.75a1.25 1.25 0 0 1 1.25-1.25zM12 7a5 5 0 1 1-5 5 5 5 0 0 1 5-5zm0 2a3 3 0 1 0 3 3 3 3 0 0 0-3-3z"/>
+</symbol>
+<symbol id="link" viewBox="0 0 24 24"><title>link</title><path d="M19.07 12A5 5 0 0 0 12 4.93l-1.9 1.9a6 6 0 0 1 2.74.09l.57-.57a3 3 0 0 1 4.24 4.24l-2.12 2.12a3 3 0 0 1-4.24 0l-.7-.71-1.42 1.41.71.71a5 5 0 0 0 7.07 0z"/><path d="M8.46 11.29a3 3 0 0 1 4.24 0l.71.71 1.41-1.41-.71-.71a5 5 0 0 0-7.11 0L4.93 12A5 5 0 0 0 12 19.07l1.9-1.9a6.05 6.05 0 0 1-2.74-.09l-.57.57a3 3 0 0 1-4.24-4.24z"/>
+</symbol>
+<symbol id="linkedin" viewBox="0 0 24 24"><title>linkedin</title><path d="M21 21h-4v-6.75a2.25 2.25 0 0 0-2.25-1.94A1.81 1.81 0 0 0 13 14.25V21H9V9h4v2a4.59 4.59 0 0 1 3.52-1.76A4.51 4.51 0 0 1 21 13.75zM7 21H3V9h4zM5 3a2 2 0 1 1-2 2 2 2 0 0 1 2-2z"/>
+</symbol>
+<symbol id="location" viewBox="0 0 24 24"><title>location</title><path d="M11.42 21.81a1 1 0 0 0 1.16 0C12.88 21.6 20 16.44 20 10h-.06A8 8 0 1 0 4 10c0 6.44 7.12 11.6 7.42 11.81zM12 4a6 6 0 0 1 5.94 6H18c0 4.44-4.39 8.42-6 9.73-1.61-1.3-6-5.29-6-9.73a6 6 0 0 1 6-6z"/>
+</symbol>
+<symbol id="mail" viewBox="0 0 24 24"><title>mail</title><path d="M3 19h18a1 1 0 0 0 1-1V6a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1zM4 7h16v10H4zm11 2h3v3h-3zm-9 4h7v2H6z"/>
+</symbol>
+<symbol id="menu" viewBox="0 0 24 24"><title>menu</title><path d="M4 18h16v-2H4zm0-5h16v-2H4zm0-7v2h16V6z"/>
+</symbol>
+<symbol id="messenger" viewBox="0 0 24 24"><title>messenger</title><path d="M12.35 2c-5.5 0-10 4.14-10 9.25A9 9 0 0 0 6 18.4l.06 3.6 3.45-1.88a10.81 10.81 0 0 0 2.87.39c5.5 0 10-4.14 10-9.25S17.85 2 12.35 2m1 12.41l-2.49-2.63-5 2.63 5.38-5.63 2.58 2.47 4.85-2.47z"/>
+</symbol>
+<symbol id="minus" viewBox="0 0 24 24"><title>minus</title><path d="M19 13H5v-2h14z"/>
+</symbol>
+<symbol id="mobile" viewBox="0 0 24 24"><title>mobile</title><path d="M18 22a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H6a1 1 0 0 0-1 1v18a1 1 0 0 0 1 1zM7 4h10v16H7z"/><circle cx="12" cy="18" r="1"/>
+</symbol>
+<symbol id="phone" viewBox="0 0 24 24"><title>phone</title><path d="M17.71 12.29a1 1 0 0 0-1.41 0l-1.6 1.6a7.49 7.49 0 0 1-3-1.59 7.49 7.49 0 0 1-1.59-3l1.59-1.59a1 1 0 0 0 0-1.41l-4-4a1 1 0 0 0-1.41 0l-3 3a1 1 0 0 0-.29.64 15.09 15.09 0 0 0 4.29 10.77A15.16 15.16 0 0 0 17.72 21h.34a1 1 0 0 0 .65-.29l3-3a1 1 0 0 0 0-1.41zM17.58 19a13.1 13.1 0 0 1-8.87-3.71A13.3 13.3 0 0 1 5 6.42l2-2L9.59 7l-1.3 1.29A1 1 0 0 0 8 9.2a10.16 10.16 0 0 0 2.27 4.5 10.16 10.16 0 0 0 4.52 2.3 1 1 0 0 0 .91-.27l1.3-1.32L19.59 17z"/>
+</symbol>
+<symbol id="play" viewBox="0 0 24 24"><title>play</title><path d="M6 5v14l11-7z"/>
+</symbol>
+<symbol id="plus" viewBox="0 0 24 24"><title>plus</title><path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"/>
+</symbol>
+<symbol id="search" viewBox="0 0 24 24"><title>search</title><path d="M21.71 20.29l-6.17-6.17a7.57 7.57 0 1 0-1.41 1.41l6.17 6.17zm-12.16-5.2a5.55 5.55 0 1 1 5.54-5.54 5.55 5.55 0 0 1-5.54 5.54z"/>
+</symbol>
+<symbol id="snapchat" viewBox="0 0 24 24"><title>snapchat</title><path d="M12 20.45a4 4 0 0 1-2.53-1 3.49 3.49 0 0 0-1.38-.71A7.61 7.61 0 0 0 6 18.9a.26.26 0 0 1-.29-.21c-.18-.75-.23-1-.35-1C4 17.51 3.19 17.2 3 16.83s0-.32.15-.34A4.69 4.69 0 0 0 6 14.81a6.34 6.34 0 0 0 1-1.5 1 1 0 0 0 .1-.82c-.17-.41-.75-.59-1.38-.8-.34-.13-.89-.41-.82-.8s.43-.48.95-.44a2.21 2.21 0 0 0 .91.24.77.77 0 0 0 .53-.16 10.59 10.59 0 0 1 .18-4.17A4.79 4.79 0 0 1 12 3.55a4.79 4.79 0 0 1 4.56 2.82 10.62 10.62 0 0 1 .18 4.17.76.76 0 0 0 .52.16 2.21 2.21 0 0 0 .91-.24c.52 0 .9.15 1 .44s-.48.67-.82.8c-.63.21-1.21.39-1.38.8a1 1 0 0 0 .1.82 6.33 6.33 0 0 0 1 1.5 4.69 4.69 0 0 0 2.82 1.68c.11 0 .19.11.15.34s-1 .67-2.3.88c-.12 0-.18.22-.35 1a.26.26 0 0 1-.29.21 7.61 7.61 0 0 0-2.12-.11 3.48 3.48 0 0 0-1.38.71 4 4 0 0 1-2.53 1z"/>
+</symbol>
+<symbol id="twitter" viewBox="0 0 24 24"><title>twitter</title><path d="M22 5.9a8.31 8.31 0 0 1-2.36.64 4.06 4.06 0 0 0 1.8-2.23 8.29 8.29 0 0 1-2.61 1A4.15 4.15 0 0 0 13 5.09 4 4 0 0 0 11.85 9a11.71 11.71 0 0 1-8.46-4.26 4 4 0 0 0-.56 2 4 4 0 0 0 1.83 3.36 4.14 4.14 0 0 1-1.86-.47v.05a4.06 4.06 0 0 0 3.29 4 4.17 4.17 0 0 1-1.85.07 4.1 4.1 0 0 0 3.83 2.8A8.32 8.32 0 0 1 3 18.24a8.4 8.4 0 0 1-1-.06A11.75 11.75 0 0 0 8.29 20 11.5 11.5 0 0 0 20 8.51v-.52a8.26 8.26 0 0 0 2-2.09z"/>
+</symbol>
+<symbol id="website" viewBox="0 0 24 24"><title>website</title><path d="M19 19H5V5h7V3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7h-2zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3z"/>
+</symbol>
+<symbol id="youtube" viewBox="0 0 24 24"><title>youtube</title><path d="M10 16.5v-9l6 4.5m4-7.6a55.87 55.87 0 0 0-8-.4 56.84 56.84 0 0 0-8 .38C2.44 4.9 2 8.4 2 12s.44 7.1 2 7.62a56.84 56.84 0 0 0 8 .38 56.85 56.85 0 0 0 8-.38c1.56-.52 2-4 2-7.62s-.43-7.08-2-7.6z"/>
+</symbol></svg>
