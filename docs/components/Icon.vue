@@ -10,6 +10,19 @@ export default {
   computed: {
     symbolId () {
       return `#svg--${this.icon}`
+    },
+    downloadUrl () {
+      return `~assets/icons/${this.icon}.svg`
+    }
+  },
+  methods: {
+    copyToClipboard (event) {
+      if (!navigator.clipboard) {
+        return
+      }
+
+      const value = event.target.dataset.icon
+      navigator.clipboard.writeText(value)
     }
   }
 }
@@ -21,5 +34,18 @@ export default {
       <use v-bind="{ 'xlink:href': require('../assets/sprite.svg') + symbolId }" />
     </svg>
     <pre>{{ icon }}</pre>
+    <button
+      ref="copy"
+      :data-icon="icon"
+      @click="copyToClipboard"
+    >
+      Copy to clipboard
+    </button>
+    <a
+      :href="downloadUrl"
+      download
+    >
+      Download SVG
+    </a>
   </div>
 </template>
