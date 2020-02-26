@@ -11,9 +11,6 @@ jobs:
     steps:
 
       - uses: actions/checkout@v2
-      
-      - name: Directory
-        run: cd docs
 
       - name: Setup Node
         uses: actions/setup-node@v1
@@ -23,6 +20,7 @@ jobs:
       - name: Get yarn cache
         id: yarn-cache
         run: echo "::set-output name=dir::$(yarn cache dir)"
+        working-directory: ./docs
 
       - name: Cache dependencies
         uses: actions/cache@v1
@@ -34,9 +32,10 @@ jobs:
 
       - name: Build
         run: yarn run generate
+        working-directory: ./docs
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./docs/dist
