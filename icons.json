@@ -1,734 +1,2998 @@
 [
-  "arrow-bar-in-down",
-  "arrow-bar-in-left",
-  "arrow-bar-in-right",
-  "arrow-bar-in-up",
-  "arrow-bar-in",
-  "arrow-bar-out-down",
-  "arrow-bar-out-left",
-  "arrow-bar-out-right",
-  "arrow-bar-out-up",
-  "arrow-bar-out",
-  "arrow-bottom-left",
-  "arrow-bottom-right",
-  "arrow-box-in-bottom-left",
-  "arrow-box-in-bottom-right",
-  "arrow-box-in-down",
-  "arrow-box-in-left",
-  "arrow-box-in-right",
-  "arrow-box-in-top-left",
-  "arrow-box-in-top-right",
-  "arrow-box-in-up",
-  "arrow-box-in",
-  "arrow-box-out-bottom-left",
-  "arrow-box-out-bottom-right",
-  "arrow-box-out-down",
-  "arrow-box-out-left",
-  "arrow-box-out-right",
-  "arrow-box-out-top-left",
-  "arrow-box-out-top-right",
-  "arrow-box-out-up",
-  "arrow-box-out",
-  "arrow-down",
-  "arrow-large-bottom-left",
-  "arrow-large-bottom-right",
-  "arrow-large-down",
-  "arrow-large-left",
-  "arrow-large-right",
-  "arrow-large-top-left",
-  "arrow-large-top-right",
-  "arrow-large-up",
-  "arrow-large",
-  "arrow-left",
-  "arrow-right",
-  "arrow-small-bottom-left",
-  "arrow-small-bottom-right",
-  "arrow-small-down",
-  "arrow-small-left",
-  "arrow-small-right",
-  "arrow-small-top-left",
-  "arrow-small-top-right",
-  "arrow-small-up",
-  "arrow-small",
-  "arrow-top-left",
-  "arrow-top-right",
-  "arrow-tray-bottom-left",
-  "arrow-tray-bottom-right",
-  "arrow-tray-down",
-  "arrow-tray-left",
-  "arrow-tray-right",
-  "arrow-tray-top-left",
-  "arrow-tray-top-right",
-  "arrow-tray-up",
-  "arrow-tray",
-  "arrow-up",
-  "arrow",
-  "arrows-bar-in-horizontal",
-  "arrows-bar-in-vertical",
-  "arrows-bar-out-horizontal",
-  "arrows-bar-out-vertical",
-  "arrows-down-up",
-  "arrows-down",
-  "arrows-in-bottom-left-top-right",
-  "arrows-in-bottom-right-top-left",
-  "arrows-in-horizontal",
-  "arrows-in-vertical",
-  "arrows-in",
-  "arrows-left-right",
-  "arrows-left",
-  "arrows-out-bottom-left-top-right",
-  "arrows-out-bottom-right-top-left",
-  "arrows-out-horizontal",
-  "arrows-out-vertical",
-  "arrows-out",
-  "arrows-right-left",
-  "arrows-right",
-  "arrows-up-down",
-  "arrows-up",
-  "arrows",
-  "bell-outline",
-  "bell",
-  "bin-outline",
-  "bin",
-  "bluetooth",
-  "bookmark-outline",
-  "bookmark",
-  "briefcase-outline",
-  "briefcase",
-  "calculator",
-  "calendar-arrow-down-outline",
-  "calendar-arrow-down",
-  "calendar-arrow-left-outline",
-  "calendar-arrow-left",
-  "calendar-arrow-right-outline",
-  "calendar-arrow-right",
-  "calendar-arrow-up-outline",
-  "calendar-arrow-up",
-  "calendar-check-outline",
-  "calendar-check",
-  "calendar-cross-outline",
-  "calendar-cross",
-  "calendar-help-outline",
-  "calendar-help",
-  "calendar-info-outline",
-  "calendar-info",
-  "calendar-list-outline",
-  "calendar-list",
-  "calendar-minus-outline",
-  "calendar-minus",
-  "calendar-outline",
-  "calendar-plus-outline",
-  "calendar-plus",
-  "calendar-warning-outline",
-  "calendar-warning",
-  "calendar",
-  "camera-outline",
-  "camera",
-  "car-arrow-down-outline",
-  "car-arrow-down",
-  "car-arrow-left-outline",
-  "car-arrow-left",
-  "car-arrow-right-outline",
-  "car-arrow-right",
-  "car-arrow-up-outline",
-  "car-arrow-up",
-  "car-check-outline",
-  "car-check",
-  "car-cross-outline",
-  "car-cross",
-  "car-help-outline",
-  "car-help",
-  "car-info-outline",
-  "car-info",
-  "car-list-outline",
-  "car-list",
-  "car-minus-outline",
-  "car-minus",
-  "car-outline",
-  "car-plus-outline",
-  "car-plus",
-  "car-warning-outline",
-  "car-warning",
-  "car",
-  "caret-bar-in-down",
-  "caret-bar-in-left",
-  "caret-bar-in-right",
-  "caret-bar-in-up",
-  "caret-bar-in",
-  "caret-bar-out-down",
-  "caret-bar-out-left",
-  "caret-bar-out-right",
-  "caret-bar-out-up",
-  "caret-bar-out",
-  "caret-bottom-left",
-  "caret-bottom-right",
-  "caret-down",
-  "caret-large-bottom-left",
-  "caret-large-bottom-right",
-  "caret-large-down",
-  "caret-large-left",
-  "caret-large-right",
-  "caret-large-top-left",
-  "caret-large-top-right",
-  "caret-large-up",
-  "caret-large",
-  "caret-left",
-  "caret-right",
-  "caret-small-bottom-left",
-  "caret-small-bottom-right",
-  "caret-small-down",
-  "caret-small-left",
-  "caret-small-right",
-  "caret-small-top-left",
-  "caret-small-top-right",
-  "caret-small-up",
-  "caret-small",
-  "caret-top-left",
-  "caret-top-right",
-  "caret-up",
-  "caret",
-  "carets-bar-in-horizontal",
-  "carets-bar-in-vertical",
-  "carets-bar-out-horizontal",
-  "carets-bar-out-vertical",
-  "carets-down",
-  "carets-in-bottom-left-top-right",
-  "carets-in-bottom-right-top-left",
-  "carets-in-horizontal",
-  "carets-in-vertical",
-  "carets-in",
-  "carets-left",
-  "carets-out-bottom-left-top-right",
-  "carets-out-bottom-right-top-left",
-  "carets-out-horizontal",
-  "carets-out-vertical",
-  "carets-out",
-  "carets-right",
-  "carets-up",
-  "carets",
-  "check-large",
-  "check-small",
-  "check",
-  "chevron-bar-in-down",
-  "chevron-bar-in-left",
-  "chevron-bar-in-right",
-  "chevron-bar-in-up",
-  "chevron-bar-in",
-  "chevron-bar-out-down",
-  "chevron-bar-out-left",
-  "chevron-bar-out-right",
-  "chevron-bar-out-up",
-  "chevron-bar-out",
-  "chevron-bottom-left",
-  "chevron-bottom-right",
-  "chevron-down",
-  "chevron-large-bottom-left",
-  "chevron-large-bottom-right",
-  "chevron-large-down",
-  "chevron-large-left",
-  "chevron-large-right",
-  "chevron-large-top-left",
-  "chevron-large-top-right",
-  "chevron-large-up",
-  "chevron-large",
-  "chevron-left",
-  "chevron-right",
-  "chevron-small-bottom-left",
-  "chevron-small-bottom-right",
-  "chevron-small-down",
-  "chevron-small-left",
-  "chevron-small-right",
-  "chevron-small-top-left",
-  "chevron-small-top-right",
-  "chevron-small-up",
-  "chevron-small",
-  "chevron-top-left",
-  "chevron-top-right",
-  "chevron-up",
-  "chevron",
-  "chevrons-bar-in-horizontal",
-  "chevrons-bar-in-vertical",
-  "chevrons-bar-out-horizontal",
-  "chevrons-bar-out-vertical",
-  "chevrons-down",
-  "chevrons-in-bottom-left-top-right",
-  "chevrons-in-bottom-right-top-left",
-  "chevrons-in-horizontal",
-  "chevrons-in-vertical",
-  "chevrons-in",
-  "chevrons-left",
-  "chevrons-out-bottom-left-top-right",
-  "chevrons-out-bottom-right-top-left",
-  "chevrons-out-horizontal",
-  "chevrons-out-vertical",
-  "chevrons-out",
-  "chevrons-right",
-  "chevrons-up",
-  "chevrons",
-  "circle-arrow-down-outline",
-  "circle-arrow-down",
-  "circle-arrow-left-outline",
-  "circle-arrow-left",
-  "circle-arrow-right-outline",
-  "circle-arrow-right",
-  "circle-arrow-up-outline",
-  "circle-arrow-up",
-  "circle-check-outline",
-  "circle-check",
-  "circle-cross-outline",
-  "circle-cross",
-  "circle-help-outline",
-  "circle-help",
-  "circle-info-outline",
-  "circle-info",
-  "circle-list-outline",
-  "circle-list",
-  "circle-minus-outline",
-  "circle-minus",
-  "circle-outline",
-  "circle-plus-outline",
-  "circle-plus",
-  "circle-warning-outline",
-  "circle-warning",
-  "circle",
-  "clipboard-outline",
-  "clipboard",
-  "clock-outline",
-  "clock",
-  "cloud-arrow-down-outline",
-  "cloud-arrow-down",
-  "cloud-arrow-left-outline",
-  "cloud-arrow-left",
-  "cloud-arrow-right-outline",
-  "cloud-arrow-right",
-  "cloud-arrow-up-outline",
-  "cloud-arrow-up",
-  "cloud-check-outline",
-  "cloud-check",
-  "cloud-cross-outline",
-  "cloud-cross",
-  "cloud-help-outline",
-  "cloud-help",
-  "cloud-info-outline",
-  "cloud-info",
-  "cloud-list-outline",
-  "cloud-list",
-  "cloud-minus-outline",
-  "cloud-minus",
-  "cloud-outline",
-  "cloud-plus-outline",
-  "cloud-plus",
-  "cloud-warning-outline",
-  "cloud-warning",
-  "cloud",
-  "cog-outline",
-  "cog",
-  "command",
-  "copy-outline",
-  "copy",
-  "credit-card-outline",
-  "credit-card",
-  "cross-large",
-  "cross-small",
-  "cross",
-  "dash-large",
-  "dash-small",
-  "dash",
-  "device-desktop-outline",
-  "device-desktop",
-  "device-laptop-outline",
-  "device-laptop",
-  "device-mobile-outline",
-  "device-mobile",
-  "device-tablet-outline",
-  "device-tablet",
-  "document-arrow-down-outline",
-  "document-arrow-down",
-  "document-arrow-left-outline",
-  "document-arrow-left",
-  "document-arrow-right-outline",
-  "document-arrow-right",
-  "document-arrow-up-outline",
-  "document-arrow-up",
-  "document-check-outline",
-  "document-check",
-  "document-cross-outline",
-  "document-cross",
-  "document-help-outline",
-  "document-help",
-  "document-info-outline",
-  "document-info",
-  "document-list-outline",
-  "document-list",
-  "document-minus-outline",
-  "document-minus",
-  "document-outline",
-  "document-plus-outline",
-  "document-plus",
-  "document-warning-outline",
-  "document-warning",
-  "document",
-  "dot-large-outline",
-  "dot-large",
-  "dot-outline",
-  "dot-small-outline",
-  "dot-small",
-  "dot",
-  "education-outline",
-  "education",
-  "envelope-outline",
-  "envelope",
-  "equalizer-horizontal",
-  "equalizer-vertical",
-  "eye-outline",
-  "eye",
-  "facebook",
-  "flag-outline",
-  "flag",
-  "folder-arrow-down-outline",
-  "folder-arrow-down",
-  "folder-arrow-left-outline",
-  "folder-arrow-left",
-  "folder-arrow-right-outline",
-  "folder-arrow-right",
-  "folder-arrow-up-outline",
-  "folder-arrow-up",
-  "folder-check-outline",
-  "folder-check",
-  "folder-cross-outline",
-  "folder-cross",
-  "folder-help-outline",
-  "folder-help",
-  "folder-info-outline",
-  "folder-info",
-  "folder-list-outline",
-  "folder-list",
-  "folder-minus-outline",
-  "folder-minus",
-  "folder-outline",
-  "folder-plus-outline",
-  "folder-plus",
-  "folder-warning-outline",
-  "folder-warning",
-  "folder",
-  "globe",
-  "hamburger",
-  "hash",
-  "headphones-outline",
-  "headphones",
-  "heart-outline",
-  "heart",
-  "help-large",
-  "help-small",
-  "help",
-  "hexagon-arrow-down-outline",
-  "hexagon-arrow-down",
-  "hexagon-arrow-left-outline",
-  "hexagon-arrow-left",
-  "hexagon-arrow-right-outline",
-  "hexagon-arrow-right",
-  "hexagon-arrow-up-outline",
-  "hexagon-arrow-up",
-  "hexagon-check-outline",
-  "hexagon-check",
-  "hexagon-cross-outline",
-  "hexagon-cross",
-  "hexagon-help-outline",
-  "hexagon-help",
-  "hexagon-info-outline",
-  "hexagon-info",
-  "hexagon-list-outline",
-  "hexagon-list",
-  "hexagon-minus-outline",
-  "hexagon-minus",
-  "hexagon-outline",
-  "hexagon-plus-outline",
-  "hexagon-plus",
-  "hexagon-warning-outline",
-  "hexagon-warning",
-  "hexagon",
-  "house-outline",
-  "house",
-  "image-outline",
-  "image",
-  "inbox-arrow-down-outline",
-  "inbox-arrow-down",
-  "inbox-arrow-left-outline",
-  "inbox-arrow-left",
-  "inbox-arrow-right-outline",
-  "inbox-arrow-right",
-  "inbox-arrow-up-outline",
-  "inbox-arrow-up",
-  "inbox-check-outline",
-  "inbox-check",
-  "inbox-cross-outline",
-  "inbox-cross",
-  "inbox-help-outline",
-  "inbox-help",
-  "inbox-info-outline",
-  "inbox-info",
-  "inbox-list-outline",
-  "inbox-list",
-  "inbox-minus-outline",
-  "inbox-minus",
-  "inbox-outline",
-  "inbox-plus-outline",
-  "inbox-plus",
-  "inbox-warning-outline",
-  "inbox-warning",
-  "inbox",
-  "info-large",
-  "info-small",
-  "info",
-  "instagram",
-  "key-outline",
-  "key",
-  "label-arrow-down-outline",
-  "label-arrow-down",
-  "label-arrow-left-outline",
-  "label-arrow-left",
-  "label-arrow-right-outline",
-  "label-arrow-right",
-  "label-arrow-up-outline",
-  "label-arrow-up",
-  "label-check-outline",
-  "label-check",
-  "label-cross-outline",
-  "label-cross",
-  "label-help-outline",
-  "label-help",
-  "label-info-outline",
-  "label-info",
-  "label-list-outline",
-  "label-list",
-  "label-minus-outline",
-  "label-minus",
-  "label-outline",
-  "label-plus-outline",
-  "label-plus",
-  "label-warning-outline",
-  "label-warning",
-  "label",
-  "link",
-  "linkedin",
-  "list-check",
-  "list-point",
-  "list",
-  "lock-outline",
-  "lock",
-  "magnifier-circle-outline",
-  "magnifier-circle",
-  "magnifier-minus",
-  "magnifier-plus",
-  "magnifier",
-  "map-pin-outline",
-  "map-pin",
-  "messenger",
-  "microphone-outline",
-  "microphone",
-  "minus-large",
-  "minus-small",
-  "minus",
-  "moon-outline",
-  "moon",
-  "no",
-  "paperclip",
-  "pause-outline",
-  "pause",
-  "pencil-outline",
-  "pencil",
-  "person-arrow-down-outline",
-  "person-arrow-down",
-  "person-arrow-left-outline",
-  "person-arrow-left",
-  "person-arrow-right-outline",
-  "person-arrow-right",
-  "person-arrow-up-outline",
-  "person-arrow-up",
-  "person-check-outline",
-  "person-check",
-  "person-circle-outline",
-  "person-circle",
-  "person-cross-outline",
-  "person-cross",
-  "person-help-outline",
-  "person-help",
-  "person-info-outline",
-  "person-info",
-  "person-list-outline",
-  "person-list",
-  "person-minus-outline",
-  "person-minus",
-  "person-outline",
-  "person-plus-outline",
-  "person-plus",
-  "person-warning-outline",
-  "person-warning",
-  "person",
-  "phone-arrow-down-outline",
-  "phone-arrow-down",
-  "phone-arrow-left-outline",
-  "phone-arrow-left",
-  "phone-arrow-right-outline",
-  "phone-arrow-right",
-  "phone-arrow-up-outline",
-  "phone-arrow-up",
-  "phone-check-outline",
-  "phone-check",
-  "phone-cross-outline",
-  "phone-cross",
-  "phone-help-outline",
-  "phone-help",
-  "phone-info-outline",
-  "phone-info",
-  "phone-list-outline",
-  "phone-list",
-  "phone-minus-outline",
-  "phone-minus",
-  "phone-outline",
-  "phone-plus-outline",
-  "phone-plus",
-  "phone-warning-outline",
-  "phone-warning",
-  "phone",
-  "play-outline",
-  "play",
-  "plus-large",
-  "plus-small",
-  "plus",
-  "print-outline",
-  "print",
-  "radio",
-  "receipt-outline",
-  "receipt",
-  "refresh-alt",
-  "refresh",
-  "scissors",
-  "shield-arrow-down-outline",
-  "shield-arrow-down",
-  "shield-arrow-left-outline",
-  "shield-arrow-left",
-  "shield-arrow-right-outline",
-  "shield-arrow-right",
-  "shield-arrow-up-outline",
-  "shield-arrow-up",
-  "shield-check-outline",
-  "shield-check",
-  "shield-cross-outline",
-  "shield-cross",
-  "shield-help-outline",
-  "shield-help",
-  "shield-info-outline",
-  "shield-info",
-  "shield-list-outline",
-  "shield-list",
-  "shield-minus-outline",
-  "shield-minus",
-  "shield-outline",
-  "shield-plus-outline",
-  "shield-plus",
-  "shield-warning-outline",
-  "shield-warning",
-  "shield",
-  "skip-backward-outline",
-  "skip-backward",
-  "skip-end-outline",
-  "skip-end",
-  "skip-forward-outline",
-  "skip-forward",
-  "skip-start-outline",
-  "skip-start",
-  "snapchat",
-  "speaker-cross-outline",
-  "speaker-cross",
-  "speaker-decrease-outline",
-  "speaker-decrease",
-  "speaker-increase-outline",
-  "speaker-increase",
-  "speaker-outline",
-  "speaker",
-  "speech-bubble-outline",
-  "speech-bubble-three-dots-outline",
-  "speech-bubble-three-dots",
-  "speech-bubble",
-  "speech-bubbles-outline",
-  "speech-bubbles-three-dots-outline",
-  "speech-bubbles-three-dots",
-  "speech-bubbles",
-  "spinner",
-  "square-arrow-down-outline",
-  "square-arrow-down",
-  "square-arrow-left-outline",
-  "square-arrow-left",
-  "square-arrow-right-outline",
-  "square-arrow-right",
-  "square-arrow-up-outline",
-  "square-arrow-up",
-  "square-check-outline",
-  "square-check",
-  "square-cross-outline",
-  "square-cross",
-  "square-help-outline",
-  "square-help",
-  "square-info-outline",
-  "square-info",
-  "square-list-outline",
-  "square-list",
-  "square-minus-outline",
-  "square-minus",
-  "square-outline",
-  "square-plus-outline",
-  "square-plus",
-  "square-warning-outline",
-  "square-warning",
-  "square",
-  "star-outline",
-  "star",
-  "stop-outline",
-  "stop",
-  "text-align-center",
-  "text-align-justify",
-  "text-align-left",
-  "text-align-right",
-  "three-dots-horizontal",
-  "three-dots-vertical",
-  "thumb-down-outline",
-  "thumb-down",
-  "thumb-up-outline",
-  "thumb-up",
-  "triangle-arrow-down-outline",
-  "triangle-arrow-down",
-  "triangle-arrow-left-outline",
-  "triangle-arrow-left",
-  "triangle-arrow-right-outline",
-  "triangle-arrow-right",
-  "triangle-arrow-up-outline",
-  "triangle-arrow-up",
-  "triangle-check-outline",
-  "triangle-check",
-  "triangle-cross-outline",
-  "triangle-cross",
-  "triangle-help-outline",
-  "triangle-help",
-  "triangle-info-outline",
-  "triangle-info",
-  "triangle-list-outline",
-  "triangle-list",
-  "triangle-minus-outline",
-  "triangle-minus",
-  "triangle-outline",
-  "triangle-plus-outline",
-  "triangle-plus",
-  "triangle-warning-outline",
-  "triangle-warning",
-  "triangle",
-  "twitter",
-  "video-camera-outline",
-  "video-camera",
-  "wallet-outline",
-  "wallet",
-  "warning-large",
-  "warning-small",
-  "warning",
-  "youtube"
+  {
+    "id": "arrow-bar-in-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-up",
+    "aliases": [
+      "share"
+    ]
+  },
+  {
+    "id": "arrow-box-out",
+    "aliases": [
+      "share"
+    ]
+  },
+  {
+    "id": "arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large",
+    "aliases": []
+  },
+  {
+    "id": "arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small",
+    "aliases": []
+  },
+  {
+    "id": "arrow-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-down",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray",
+    "aliases": []
+  },
+  {
+    "id": "arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "arrow",
+    "aliases": []
+  },
+  {
+    "id": "arrows-bar-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "arrows-bar-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "arrows-bar-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "arrows-bar-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "arrows-down-up",
+    "aliases": []
+  },
+  {
+    "id": "arrows-down",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in",
+    "aliases": []
+  },
+  {
+    "id": "arrows-left-right",
+    "aliases": []
+  },
+  {
+    "id": "arrows-left",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out",
+    "aliases": []
+  },
+  {
+    "id": "arrows-right-left",
+    "aliases": []
+  },
+  {
+    "id": "arrows-right",
+    "aliases": []
+  },
+  {
+    "id": "arrows-up-down",
+    "aliases": []
+  },
+  {
+    "id": "arrows-up",
+    "aliases": []
+  },
+  {
+    "id": "arrows",
+    "aliases": []
+  },
+  {
+    "id": "bell-outline",
+    "aliases": []
+  },
+  {
+    "id": "bell",
+    "aliases": []
+  },
+  {
+    "id": "bin-outline",
+    "aliases": []
+  },
+  {
+    "id": "bin",
+    "aliases": []
+  },
+  {
+    "id": "bluetooth",
+    "aliases": []
+  },
+  {
+    "id": "bookmark-outline",
+    "aliases": []
+  },
+  {
+    "id": "bookmark",
+    "aliases": []
+  },
+  {
+    "id": "briefcase-outline",
+    "aliases": []
+  },
+  {
+    "id": "briefcase",
+    "aliases": []
+  },
+  {
+    "id": "calculator",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "calendar-check-outline",
+    "aliases": [
+      "calendar-tick-outline"
+    ]
+  },
+  {
+    "id": "calendar-check",
+    "aliases": [
+      "calendar-tick"
+    ]
+  },
+  {
+    "id": "calendar-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-cross",
+    "aliases": []
+  },
+  {
+    "id": "calendar-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-help",
+    "aliases": []
+  },
+  {
+    "id": "calendar-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-info",
+    "aliases": []
+  },
+  {
+    "id": "calendar-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-list",
+    "aliases": []
+  },
+  {
+    "id": "calendar-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-minus",
+    "aliases": []
+  },
+  {
+    "id": "calendar-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-plus",
+    "aliases": []
+  },
+  {
+    "id": "calendar-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-warning",
+    "aliases": []
+  },
+  {
+    "id": "calendar",
+    "aliases": []
+  },
+  {
+    "id": "camera-outline",
+    "aliases": []
+  },
+  {
+    "id": "camera",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "car-check-outline",
+    "aliases": [
+      "car-tick-outline"
+    ]
+  },
+  {
+    "id": "car-check",
+    "aliases": [
+      "car-tick"
+    ]
+  },
+  {
+    "id": "car-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-cross",
+    "aliases": []
+  },
+  {
+    "id": "car-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-help",
+    "aliases": []
+  },
+  {
+    "id": "car-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-info",
+    "aliases": []
+  },
+  {
+    "id": "car-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-list",
+    "aliases": []
+  },
+  {
+    "id": "car-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-minus",
+    "aliases": []
+  },
+  {
+    "id": "car-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-plus",
+    "aliases": []
+  },
+  {
+    "id": "car-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "car-warning",
+    "aliases": []
+  },
+  {
+    "id": "car",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in-down",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in-up",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-down",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-up",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out",
+    "aliases": []
+  },
+  {
+    "id": "caret-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-down",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-down",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-top-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-top-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-up",
+    "aliases": []
+  },
+  {
+    "id": "caret-large",
+    "aliases": []
+  },
+  {
+    "id": "caret-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-down",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-top-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-top-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-up",
+    "aliases": []
+  },
+  {
+    "id": "caret-small",
+    "aliases": []
+  },
+  {
+    "id": "caret-top-left",
+    "aliases": []
+  },
+  {
+    "id": "caret-top-right",
+    "aliases": []
+  },
+  {
+    "id": "caret-up",
+    "aliases": []
+  },
+  {
+    "id": "caret",
+    "aliases": []
+  },
+  {
+    "id": "carets-bar-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "carets-bar-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "carets-bar-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "carets-bar-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "carets-down",
+    "aliases": []
+  },
+  {
+    "id": "carets-in-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "carets-in-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "carets-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "carets-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "carets-in",
+    "aliases": []
+  },
+  {
+    "id": "carets-left",
+    "aliases": []
+  },
+  {
+    "id": "carets-out-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "carets-out-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "carets-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "carets-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "carets-out",
+    "aliases": []
+  },
+  {
+    "id": "carets-right",
+    "aliases": []
+  },
+  {
+    "id": "carets-up",
+    "aliases": []
+  },
+  {
+    "id": "carets",
+    "aliases": []
+  },
+  {
+    "id": "check-large",
+    "aliases": [
+      "tick-large"
+    ]
+  },
+  {
+    "id": "check-small",
+    "aliases": [
+      "tick-small"
+    ]
+  },
+  {
+    "id": "check",
+    "aliases": [
+      "tick"
+    ]
+  },
+  {
+    "id": "chevron-bar-in-down",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-in-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-in-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-in-up",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-in",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out-down",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out-up",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-down",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-top-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-top-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-up",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large",
+    "aliases": []
+  },
+  {
+    "id": "chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-bottom-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-bottom-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-down",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-top-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-top-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-up",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small",
+    "aliases": []
+  },
+  {
+    "id": "chevron-top-left",
+    "aliases": []
+  },
+  {
+    "id": "chevron-top-right",
+    "aliases": []
+  },
+  {
+    "id": "chevron-up",
+    "aliases": []
+  },
+  {
+    "id": "chevron",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-bar-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-bar-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-bar-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-bar-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-down",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-vertical",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-left",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out-bottom-left-top-right",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out-bottom-right-top-left",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out-vertical",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-right",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-up",
+    "aliases": []
+  },
+  {
+    "id": "chevrons",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "circle-check-outline",
+    "aliases": [
+      "circle-tick-outline"
+    ]
+  },
+  {
+    "id": "circle-check",
+    "aliases": [
+      "circle-tick"
+    ]
+  },
+  {
+    "id": "circle-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-cross",
+    "aliases": []
+  },
+  {
+    "id": "circle-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-help",
+    "aliases": []
+  },
+  {
+    "id": "circle-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-info",
+    "aliases": []
+  },
+  {
+    "id": "circle-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-list",
+    "aliases": []
+  },
+  {
+    "id": "circle-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-minus",
+    "aliases": []
+  },
+  {
+    "id": "circle-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-plus",
+    "aliases": []
+  },
+  {
+    "id": "circle-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-warning",
+    "aliases": []
+  },
+  {
+    "id": "circle",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard",
+    "aliases": []
+  },
+  {
+    "id": "clock-outline",
+    "aliases": []
+  },
+  {
+    "id": "clock",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "cloud-check-outline",
+    "aliases": [
+      "cloud-tick-outline"
+    ]
+  },
+  {
+    "id": "cloud-check",
+    "aliases": [
+      "cloud-tick"
+    ]
+  },
+  {
+    "id": "cloud-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-cross",
+    "aliases": []
+  },
+  {
+    "id": "cloud-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-help",
+    "aliases": []
+  },
+  {
+    "id": "cloud-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-info",
+    "aliases": []
+  },
+  {
+    "id": "cloud-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-list",
+    "aliases": []
+  },
+  {
+    "id": "cloud-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-minus",
+    "aliases": []
+  },
+  {
+    "id": "cloud-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-plus",
+    "aliases": []
+  },
+  {
+    "id": "cloud-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-warning",
+    "aliases": []
+  },
+  {
+    "id": "cloud",
+    "aliases": []
+  },
+  {
+    "id": "cog-outline",
+    "aliases": []
+  },
+  {
+    "id": "cog",
+    "aliases": []
+  },
+  {
+    "id": "command",
+    "aliases": []
+  },
+  {
+    "id": "copy-outline",
+    "aliases": []
+  },
+  {
+    "id": "copy",
+    "aliases": []
+  },
+  {
+    "id": "credit-card-outline",
+    "aliases": []
+  },
+  {
+    "id": "credit-card",
+    "aliases": []
+  },
+  {
+    "id": "cross-large",
+    "aliases": []
+  },
+  {
+    "id": "cross-small",
+    "aliases": []
+  },
+  {
+    "id": "cross",
+    "aliases": []
+  },
+  {
+    "id": "dash-large",
+    "aliases": []
+  },
+  {
+    "id": "dash-small",
+    "aliases": []
+  },
+  {
+    "id": "dash",
+    "aliases": []
+  },
+  {
+    "id": "device-desktop-outline",
+    "aliases": []
+  },
+  {
+    "id": "device-desktop",
+    "aliases": []
+  },
+  {
+    "id": "device-laptop-outline",
+    "aliases": []
+  },
+  {
+    "id": "device-laptop",
+    "aliases": []
+  },
+  {
+    "id": "device-mobile-outline",
+    "aliases": []
+  },
+  {
+    "id": "device-mobile",
+    "aliases": []
+  },
+  {
+    "id": "device-tablet-outline",
+    "aliases": []
+  },
+  {
+    "id": "device-tablet",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "document-check-outline",
+    "aliases": [
+      "document-tick-outline"
+    ]
+  },
+  {
+    "id": "document-check",
+    "aliases": [
+      "document-tick"
+    ]
+  },
+  {
+    "id": "document-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-cross",
+    "aliases": []
+  },
+  {
+    "id": "document-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-help",
+    "aliases": []
+  },
+  {
+    "id": "document-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-info",
+    "aliases": []
+  },
+  {
+    "id": "document-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-list",
+    "aliases": []
+  },
+  {
+    "id": "document-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-minus",
+    "aliases": []
+  },
+  {
+    "id": "document-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-plus",
+    "aliases": []
+  },
+  {
+    "id": "document-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-warning",
+    "aliases": []
+  },
+  {
+    "id": "document",
+    "aliases": []
+  },
+  {
+    "id": "dot-large-outline",
+    "aliases": []
+  },
+  {
+    "id": "dot-large",
+    "aliases": []
+  },
+  {
+    "id": "dot-outline",
+    "aliases": []
+  },
+  {
+    "id": "dot-small-outline",
+    "aliases": []
+  },
+  {
+    "id": "dot-small",
+    "aliases": []
+  },
+  {
+    "id": "dot",
+    "aliases": []
+  },
+  {
+    "id": "education-outline",
+    "aliases": []
+  },
+  {
+    "id": "education",
+    "aliases": []
+  },
+  {
+    "id": "envelope-outline",
+    "aliases": []
+  },
+  {
+    "id": "envelope",
+    "aliases": []
+  },
+  {
+    "id": "equalizer-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "equalizer-vertical",
+    "aliases": []
+  },
+  {
+    "id": "eye-outline",
+    "aliases": []
+  },
+  {
+    "id": "eye",
+    "aliases": []
+  },
+  {
+    "id": "facebook",
+    "aliases": []
+  },
+  {
+    "id": "flag-outline",
+    "aliases": []
+  },
+  {
+    "id": "flag",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "folder-check-outline",
+    "aliases": [
+      "folder-tick-outline"
+    ]
+  },
+  {
+    "id": "folder-check",
+    "aliases": [
+      "folder-tick"
+    ]
+  },
+  {
+    "id": "folder-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-cross",
+    "aliases": []
+  },
+  {
+    "id": "folder-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-help",
+    "aliases": []
+  },
+  {
+    "id": "folder-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-info",
+    "aliases": []
+  },
+  {
+    "id": "folder-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-list",
+    "aliases": []
+  },
+  {
+    "id": "folder-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-minus",
+    "aliases": []
+  },
+  {
+    "id": "folder-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-plus",
+    "aliases": []
+  },
+  {
+    "id": "folder-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-warning",
+    "aliases": []
+  },
+  {
+    "id": "folder",
+    "aliases": []
+  },
+  {
+    "id": "globe",
+    "aliases": []
+  },
+  {
+    "id": "hamburger",
+    "aliases": []
+  },
+  {
+    "id": "hash",
+    "aliases": []
+  },
+  {
+    "id": "headphones-outline",
+    "aliases": []
+  },
+  {
+    "id": "headphones",
+    "aliases": []
+  },
+  {
+    "id": "heart-outline",
+    "aliases": []
+  },
+  {
+    "id": "heart",
+    "aliases": []
+  },
+  {
+    "id": "help-large",
+    "aliases": []
+  },
+  {
+    "id": "help-small",
+    "aliases": []
+  },
+  {
+    "id": "help",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-check-outline",
+    "aliases": [
+      "hexagon-tick-outline"
+    ]
+  },
+  {
+    "id": "hexagon-check",
+    "aliases": [
+      "hexagon-tick"
+    ]
+  },
+  {
+    "id": "hexagon-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-cross",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-help",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-info",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-list",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-minus",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-plus",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-warning",
+    "aliases": []
+  },
+  {
+    "id": "hexagon",
+    "aliases": []
+  },
+  {
+    "id": "house-outline",
+    "aliases": []
+  },
+  {
+    "id": "house",
+    "aliases": []
+  },
+  {
+    "id": "image-outline",
+    "aliases": []
+  },
+  {
+    "id": "image",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "inbox-check-outline",
+    "aliases": [
+      "inbox-tick-outline"
+    ]
+  },
+  {
+    "id": "inbox-check",
+    "aliases": [
+      "inbox-tick"
+    ]
+  },
+  {
+    "id": "inbox-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-cross",
+    "aliases": []
+  },
+  {
+    "id": "inbox-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-help",
+    "aliases": []
+  },
+  {
+    "id": "inbox-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-info",
+    "aliases": []
+  },
+  {
+    "id": "inbox-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-list",
+    "aliases": []
+  },
+  {
+    "id": "inbox-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-minus",
+    "aliases": []
+  },
+  {
+    "id": "inbox-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-plus",
+    "aliases": []
+  },
+  {
+    "id": "inbox-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-warning",
+    "aliases": []
+  },
+  {
+    "id": "inbox",
+    "aliases": []
+  },
+  {
+    "id": "info-large",
+    "aliases": []
+  },
+  {
+    "id": "info-small",
+    "aliases": []
+  },
+  {
+    "id": "info",
+    "aliases": []
+  },
+  {
+    "id": "instagram",
+    "aliases": []
+  },
+  {
+    "id": "key-outline",
+    "aliases": []
+  },
+  {
+    "id": "key",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "label-check-outline",
+    "aliases": [
+      "label-tick-outline"
+    ]
+  },
+  {
+    "id": "label-check",
+    "aliases": [
+      "label-tick"
+    ]
+  },
+  {
+    "id": "label-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-cross",
+    "aliases": []
+  },
+  {
+    "id": "label-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-help",
+    "aliases": []
+  },
+  {
+    "id": "label-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-info",
+    "aliases": []
+  },
+  {
+    "id": "label-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-list",
+    "aliases": []
+  },
+  {
+    "id": "label-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-minus",
+    "aliases": []
+  },
+  {
+    "id": "label-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-plus",
+    "aliases": []
+  },
+  {
+    "id": "label-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-warning",
+    "aliases": []
+  },
+  {
+    "id": "label",
+    "aliases": []
+  },
+  {
+    "id": "link",
+    "aliases": []
+  },
+  {
+    "id": "linkedin",
+    "aliases": []
+  },
+  {
+    "id": "list-check",
+    "aliases": [
+      "list-tick"
+    ]
+  },
+  {
+    "id": "list-point",
+    "aliases": []
+  },
+  {
+    "id": "list",
+    "aliases": []
+  },
+  {
+    "id": "lock-outline",
+    "aliases": []
+  },
+  {
+    "id": "lock",
+    "aliases": []
+  },
+  {
+    "id": "magnifier-circle-outline",
+    "aliases": []
+  },
+  {
+    "id": "magnifier-circle",
+    "aliases": []
+  },
+  {
+    "id": "magnifier-minus",
+    "aliases": []
+  },
+  {
+    "id": "magnifier-plus",
+    "aliases": []
+  },
+  {
+    "id": "magnifier",
+    "aliases": []
+  },
+  {
+    "id": "map-pin-outline",
+    "aliases": []
+  },
+  {
+    "id": "map-pin",
+    "aliases": []
+  },
+  {
+    "id": "messenger",
+    "aliases": []
+  },
+  {
+    "id": "microphone-outline",
+    "aliases": []
+  },
+  {
+    "id": "microphone",
+    "aliases": []
+  },
+  {
+    "id": "minus-large",
+    "aliases": []
+  },
+  {
+    "id": "minus-small",
+    "aliases": []
+  },
+  {
+    "id": "minus",
+    "aliases": []
+  },
+  {
+    "id": "moon-outline",
+    "aliases": []
+  },
+  {
+    "id": "moon",
+    "aliases": []
+  },
+  {
+    "id": "no",
+    "aliases": []
+  },
+  {
+    "id": "paperclip",
+    "aliases": []
+  },
+  {
+    "id": "pause-outline",
+    "aliases": []
+  },
+  {
+    "id": "pause",
+    "aliases": []
+  },
+  {
+    "id": "pencil-outline",
+    "aliases": []
+  },
+  {
+    "id": "pencil",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "person-check-outline",
+    "aliases": [
+      "person-tick-outline"
+    ]
+  },
+  {
+    "id": "person-check",
+    "aliases": [
+      "person-tick"
+    ]
+  },
+  {
+    "id": "person-circle-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-circle",
+    "aliases": []
+  },
+  {
+    "id": "person-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-cross",
+    "aliases": []
+  },
+  {
+    "id": "person-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-help",
+    "aliases": []
+  },
+  {
+    "id": "person-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-info",
+    "aliases": []
+  },
+  {
+    "id": "person-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-list",
+    "aliases": []
+  },
+  {
+    "id": "person-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-minus",
+    "aliases": []
+  },
+  {
+    "id": "person-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-plus",
+    "aliases": []
+  },
+  {
+    "id": "person-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-warning",
+    "aliases": []
+  },
+  {
+    "id": "person",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "phone-check-outline",
+    "aliases": [
+      "phone-tick-outline"
+    ]
+  },
+  {
+    "id": "phone-check",
+    "aliases": [
+      "phone-tick"
+    ]
+  },
+  {
+    "id": "phone-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-cross",
+    "aliases": []
+  },
+  {
+    "id": "phone-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-help",
+    "aliases": []
+  },
+  {
+    "id": "phone-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-info",
+    "aliases": []
+  },
+  {
+    "id": "phone-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-list",
+    "aliases": []
+  },
+  {
+    "id": "phone-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-minus",
+    "aliases": []
+  },
+  {
+    "id": "phone-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-plus",
+    "aliases": []
+  },
+  {
+    "id": "phone-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "phone-warning",
+    "aliases": []
+  },
+  {
+    "id": "phone",
+    "aliases": []
+  },
+  {
+    "id": "play-outline",
+    "aliases": []
+  },
+  {
+    "id": "play",
+    "aliases": []
+  },
+  {
+    "id": "plus-large",
+    "aliases": []
+  },
+  {
+    "id": "plus-small",
+    "aliases": []
+  },
+  {
+    "id": "plus",
+    "aliases": []
+  },
+  {
+    "id": "print-outline",
+    "aliases": []
+  },
+  {
+    "id": "print",
+    "aliases": []
+  },
+  {
+    "id": "radio",
+    "aliases": []
+  },
+  {
+    "id": "receipt-outline",
+    "aliases": []
+  },
+  {
+    "id": "receipt",
+    "aliases": []
+  },
+  {
+    "id": "refresh-alt",
+    "aliases": []
+  },
+  {
+    "id": "refresh",
+    "aliases": []
+  },
+  {
+    "id": "scissors",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "shield-check-outline",
+    "aliases": [
+      "shield-tick-outline"
+    ]
+  },
+  {
+    "id": "shield-check",
+    "aliases": [
+      "shield-tick"
+    ]
+  },
+  {
+    "id": "shield-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-cross",
+    "aliases": []
+  },
+  {
+    "id": "shield-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-help",
+    "aliases": []
+  },
+  {
+    "id": "shield-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-info",
+    "aliases": []
+  },
+  {
+    "id": "shield-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-list",
+    "aliases": []
+  },
+  {
+    "id": "shield-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-minus",
+    "aliases": []
+  },
+  {
+    "id": "shield-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-plus",
+    "aliases": []
+  },
+  {
+    "id": "shield-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-warning",
+    "aliases": []
+  },
+  {
+    "id": "shield",
+    "aliases": []
+  },
+  {
+    "id": "skip-backward-outline",
+    "aliases": []
+  },
+  {
+    "id": "skip-backward",
+    "aliases": []
+  },
+  {
+    "id": "skip-end-outline",
+    "aliases": []
+  },
+  {
+    "id": "skip-end",
+    "aliases": []
+  },
+  {
+    "id": "skip-forward-outline",
+    "aliases": []
+  },
+  {
+    "id": "skip-forward",
+    "aliases": []
+  },
+  {
+    "id": "skip-start-outline",
+    "aliases": []
+  },
+  {
+    "id": "skip-start",
+    "aliases": []
+  },
+  {
+    "id": "snapchat",
+    "aliases": []
+  },
+  {
+    "id": "speaker-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "speaker-cross",
+    "aliases": []
+  },
+  {
+    "id": "speaker-decrease-outline",
+    "aliases": []
+  },
+  {
+    "id": "speaker-decrease",
+    "aliases": []
+  },
+  {
+    "id": "speaker-increase-outline",
+    "aliases": []
+  },
+  {
+    "id": "speaker-increase",
+    "aliases": []
+  },
+  {
+    "id": "speaker-outline",
+    "aliases": []
+  },
+  {
+    "id": "speaker",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubble-outline",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubble-three-dots-outline",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubble-three-dots",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubble",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubbles-outline",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubbles-three-dots-outline",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubbles-three-dots",
+    "aliases": []
+  },
+  {
+    "id": "speech-bubbles",
+    "aliases": []
+  },
+  {
+    "id": "spinner",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "square-check-outline",
+    "aliases": [
+      "square-tick-outline"
+    ]
+  },
+  {
+    "id": "square-check",
+    "aliases": [
+      "square-tick"
+    ]
+  },
+  {
+    "id": "square-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-cross",
+    "aliases": []
+  },
+  {
+    "id": "square-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-help",
+    "aliases": []
+  },
+  {
+    "id": "square-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-info",
+    "aliases": []
+  },
+  {
+    "id": "square-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-list",
+    "aliases": []
+  },
+  {
+    "id": "square-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-minus",
+    "aliases": []
+  },
+  {
+    "id": "square-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-plus",
+    "aliases": []
+  },
+  {
+    "id": "square-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-warning",
+    "aliases": []
+  },
+  {
+    "id": "square",
+    "aliases": []
+  },
+  {
+    "id": "star-outline",
+    "aliases": []
+  },
+  {
+    "id": "star",
+    "aliases": []
+  },
+  {
+    "id": "stop-outline",
+    "aliases": []
+  },
+  {
+    "id": "stop",
+    "aliases": []
+  },
+  {
+    "id": "text-align-center",
+    "aliases": []
+  },
+  {
+    "id": "text-align-justify",
+    "aliases": []
+  },
+  {
+    "id": "text-align-left",
+    "aliases": []
+  },
+  {
+    "id": "text-align-right",
+    "aliases": []
+  },
+  {
+    "id": "three-dots-horizontal",
+    "aliases": []
+  },
+  {
+    "id": "three-dots-vertical",
+    "aliases": []
+  },
+  {
+    "id": "thumb-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "thumb-down",
+    "aliases": []
+  },
+  {
+    "id": "thumb-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "thumb-up",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "triangle-check-outline",
+    "aliases": [
+      "triangle-tick-outline"
+    ]
+  },
+  {
+    "id": "triangle-check",
+    "aliases": [
+      "triangle-tick"
+    ]
+  },
+  {
+    "id": "triangle-cross-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-cross",
+    "aliases": []
+  },
+  {
+    "id": "triangle-help-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-help",
+    "aliases": []
+  },
+  {
+    "id": "triangle-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-info",
+    "aliases": []
+  },
+  {
+    "id": "triangle-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-list",
+    "aliases": []
+  },
+  {
+    "id": "triangle-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-minus",
+    "aliases": []
+  },
+  {
+    "id": "triangle-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-plus",
+    "aliases": []
+  },
+  {
+    "id": "triangle-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-warning",
+    "aliases": []
+  },
+  {
+    "id": "triangle",
+    "aliases": []
+  },
+  {
+    "id": "twitter",
+    "aliases": []
+  },
+  {
+    "id": "video-camera-outline",
+    "aliases": []
+  },
+  {
+    "id": "video-camera",
+    "aliases": []
+  },
+  {
+    "id": "wallet-outline",
+    "aliases": []
+  },
+  {
+    "id": "wallet",
+    "aliases": []
+  },
+  {
+    "id": "warning-large",
+    "aliases": []
+  },
+  {
+    "id": "warning-small",
+    "aliases": []
+  },
+  {
+    "id": "warning",
+    "aliases": []
+  },
+  {
+    "id": "youtube",
+    "aliases": []
+  }
 ]
