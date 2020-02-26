@@ -387,11 +387,17 @@
   },
   {
     "id": "briefcase-outline",
-    "aliases": []
+    "aliases": [
+      "job-outline",
+      "work-outline"
+    ]
   },
   {
     "id": "briefcase",
-    "aliases": []
+    "aliases": [
+      "job",
+      "work"
+    ]
   },
   {
     "id": "calculator",
@@ -443,11 +449,15 @@
   },
   {
     "id": "calendar-cross-outline",
-    "aliases": []
+    "aliases": [
+      "calendar-close-outline"
+    ]
   },
   {
     "id": "calendar-cross",
-    "aliases": []
+    "aliases": [
+      "calendar-close"
+    ]
   },
   {
     "id": "calendar-help-outline",
@@ -559,11 +569,15 @@
   },
   {
     "id": "car-cross-outline",
-    "aliases": []
+    "aliases": [
+      "car-close-outline"
+    ]
   },
   {
     "id": "car-cross",
-    "aliases": []
+    "aliases": [
+      "car-close"
+    ]
   },
   {
     "id": "car-help-outline",
@@ -1133,11 +1147,15 @@
   },
   {
     "id": "circle-cross-outline",
-    "aliases": []
+    "aliases": [
+      "circle-close-outline"
+    ]
   },
   {
     "id": "circle-cross",
-    "aliases": []
+    "aliases": [
+      "circle-close"
+    ]
   },
   {
     "id": "circle-help-outline",
@@ -1257,11 +1275,15 @@
   },
   {
     "id": "cloud-cross-outline",
-    "aliases": []
+    "aliases": [
+      "cloud-close-outline"
+    ]
   },
   {
     "id": "cloud-cross",
-    "aliases": []
+    "aliases": [
+      "cloud-close"
+    ]
   },
   {
     "id": "cloud-help-outline",
@@ -1321,11 +1343,19 @@
   },
   {
     "id": "cog-outline",
-    "aliases": []
+    "aliases": [
+      "gear-outline",
+      "setting-outline",
+      "settings-outline"
+    ]
   },
   {
     "id": "cog",
-    "aliases": []
+    "aliases": [
+      "gear",
+      "setting",
+      "settings"
+    ]
   },
   {
     "id": "command",
@@ -1349,15 +1379,21 @@
   },
   {
     "id": "cross-large",
-    "aliases": []
+    "aliases": [
+      "close-large"
+    ]
   },
   {
     "id": "cross-small",
-    "aliases": []
+    "aliases": [
+      "close-small"
+    ]
   },
   {
     "id": "cross",
-    "aliases": []
+    "aliases": [
+      "close"
+    ]
   },
   {
     "id": "dash-large",
@@ -1449,11 +1485,15 @@
   },
   {
     "id": "document-cross-outline",
-    "aliases": []
+    "aliases": [
+      "document-close-outline"
+    ]
   },
   {
     "id": "document-cross",
-    "aliases": []
+    "aliases": [
+      "document-close"
+    ]
   },
   {
     "id": "document-help-outline",
@@ -1625,11 +1665,15 @@
   },
   {
     "id": "folder-cross-outline",
-    "aliases": []
+    "aliases": [
+      "folder-close-outline"
+    ]
   },
   {
     "id": "folder-cross",
-    "aliases": []
+    "aliases": [
+      "folder-close"
+    ]
   },
   {
     "id": "folder-help-outline",
@@ -1773,11 +1817,15 @@
   },
   {
     "id": "hexagon-cross-outline",
-    "aliases": []
+    "aliases": [
+      "hexagon-close-outline"
+    ]
   },
   {
     "id": "hexagon-cross",
-    "aliases": []
+    "aliases": [
+      "hexagon-close"
+    ]
   },
   {
     "id": "hexagon-help-outline",
@@ -1897,11 +1945,15 @@
   },
   {
     "id": "inbox-cross-outline",
-    "aliases": []
+    "aliases": [
+      "inbox-close-outline"
+    ]
   },
   {
     "id": "inbox-cross",
-    "aliases": []
+    "aliases": [
+      "inbox-close"
+    ]
   },
   {
     "id": "inbox-help-outline",
@@ -2029,11 +2081,15 @@
   },
   {
     "id": "label-cross-outline",
-    "aliases": []
+    "aliases": [
+      "label-close-outline"
+    ]
   },
   {
     "id": "label-cross",
-    "aliases": []
+    "aliases": [
+      "label-close"
+    ]
   },
   {
     "id": "label-help-outline",
@@ -2269,11 +2325,15 @@
   },
   {
     "id": "person-cross-outline",
-    "aliases": []
+    "aliases": [
+      "person-close-outline"
+    ]
   },
   {
     "id": "person-cross",
-    "aliases": []
+    "aliases": [
+      "person-close"
+    ]
   },
   {
     "id": "person-help-outline",
@@ -2377,11 +2437,15 @@
   },
   {
     "id": "phone-cross-outline",
-    "aliases": []
+    "aliases": [
+      "phone-close-outline"
+    ]
   },
   {
     "id": "phone-cross",
-    "aliases": []
+    "aliases": [
+      "phone-close"
+    ]
   },
   {
     "id": "phone-help-outline",
@@ -2537,11 +2601,15 @@
   },
   {
     "id": "shield-cross-outline",
-    "aliases": []
+    "aliases": [
+      "shield-close-outline"
+    ]
   },
   {
     "id": "shield-cross",
-    "aliases": []
+    "aliases": [
+      "shield-close"
+    ]
   },
   {
     "id": "shield-help-outline",
@@ -2637,67 +2705,105 @@
   },
   {
     "id": "speaker-cross-outline",
-    "aliases": []
+    "aliases": [
+      "speaker-close-outline",
+      "volume-close-outline"
+    ]
   },
   {
     "id": "speaker-cross",
-    "aliases": []
+    "aliases": [
+      "speaker-close",
+      "volume-close"
+    ]
   },
   {
     "id": "speaker-decrease-outline",
-    "aliases": []
+    "aliases": [
+      "volume-decrease-outline",
+      "volume-down-outline"
+    ]
   },
   {
     "id": "speaker-decrease",
-    "aliases": []
+    "aliases": [
+      "volume-decrease",
+      "volume-down"
+    ]
   },
   {
     "id": "speaker-increase-outline",
-    "aliases": []
+    "aliases": [
+      "volume-increase-outline",
+      "volume-up-outline"
+    ]
   },
   {
     "id": "speaker-increase",
-    "aliases": []
+    "aliases": [
+      "volume-increase",
+      "volume-up"
+    ]
   },
   {
     "id": "speaker-outline",
-    "aliases": []
+    "aliases": [
+      "volume-outline"
+    ]
   },
   {
     "id": "speaker",
-    "aliases": []
+    "aliases": [
+      "volume"
+    ]
   },
   {
     "id": "speech-bubble-outline",
-    "aliases": []
+    "aliases": [
+      "message-outline"
+    ]
   },
   {
     "id": "speech-bubble-three-dots-outline",
-    "aliases": []
+    "aliases": [
+      "message-three-dots-outline"
+    ]
   },
   {
     "id": "speech-bubble-three-dots",
-    "aliases": []
+    "aliases": [
+      "message-three-dots"
+    ]
   },
   {
     "id": "speech-bubble",
-    "aliases": []
+    "aliases": [
+      "message"
+    ]
   },
   {
     "id": "speech-bubbles-outline",
-    "aliases": []
+    "aliases": [
+      "messages-outline"
+    ]
   },
   {
     "id": "speech-bubbles-three-dots-outline",
-    "aliases": []
+    "aliases": [
+      "messages-three-dots-outline"
+    ]
   },
   {
     "id": "speech-bubbles-three-dots",
-    "aliases": []
+    "aliases": [
+      "messages-three-dots"
+    ]
   },
   {
     "id": "speech-bubbles",
-    "aliases": []
+    "aliases": [
+      "messages"
+    ]
   },
   {
     "id": "spinner",
@@ -2749,11 +2855,15 @@
   },
   {
     "id": "square-cross-outline",
-    "aliases": []
+    "aliases": [
+      "square-close-outline"
+    ]
   },
   {
     "id": "square-cross",
-    "aliases": []
+    "aliases": [
+      "square-close"
+    ]
   },
   {
     "id": "square-help-outline",
@@ -2913,11 +3023,15 @@
   },
   {
     "id": "triangle-cross-outline",
-    "aliases": []
+    "aliases": [
+      "triangle-close-outline"
+    ]
   },
   {
     "id": "triangle-cross",
-    "aliases": []
+    "aliases": [
+      "triangle-close"
+    ]
   },
   {
     "id": "triangle-help-outline",
