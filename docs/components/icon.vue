@@ -11,7 +11,7 @@ export default {
       return `#svg--${this.icon}`
     },
     downloadUrl () {
-      return `~assets/icons/${this.icon}.svg`
+      return `/${this.icon}.svg`
     }
   },
   methods: {
@@ -31,7 +31,7 @@ export default {
   <div class="icon">
     <div class="icon-inner">
       <svg class="icon-svg" width="24" height="24">
-        <use v-bind="{ 'xlink:href': require('../assets/sprite.svg') + symbolId }" />
+        <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
       <pre>{{ icon }}</pre>
     </div>
