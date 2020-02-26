@@ -11,7 +11,7 @@ export default {
       return `#svg--${this.icon}`
     },
     downloadUrl () {
-      return `${this.$route.path}${this.icon}.svg`
+      return `${this.$router.options.base}${this.icon}.svg`
     }
   },
   methods: {
