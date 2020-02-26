@@ -18,7 +18,7 @@ export default {
   <ul class="grid">
     <li
       v-for="icon in icons"
-      :key="icon"
+      :key="icon.id"
     >
       <Icon :icon="icon" />
     </li>

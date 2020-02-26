@@ -1,4 +1,5 @@
 <script>
+import Fuse from 'fuse.js'
 import Icons from '~/components/icons.vue'
 import icons from '~/static/icons.json'
 
@@ -19,15 +20,20 @@ export default {
       if (!string) {
         return this.icons
       }
-      return this.icons.filter((item) => {
-        let pos = 0
-        let target = item
-        return [...string].every((s) => {
-          target = target.substr(pos)
-          pos = target.indexOf(s) + 1
-          return pos > 0
-        })
-      })
+      const options = {
+        shouldSort: true,
+        threshold: 0.25,
+        location: 0,
+        distance: 100,
+        maxPatternLength: 32,
+        minMatchCharLength: 1,
+        keys: [
+          'id',
+          'aliases'
+        ]
+      }
+      const fuse = new Fuse(this.icons, options)
+      return fuse.search(string)
     },
     placeholder () {
       return `Search ${this.icons.length} icons`

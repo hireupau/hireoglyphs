@@ -2,16 +2,16 @@
 export default {
   props: {
     icon: {
-      type: String,
+      type: Object,
       required: true
     }
   },
   computed: {
     symbolId () {
-      return `#svg--${this.icon}`
+      return `#svg--${this.icon.id}`
     },
     downloadUrl () {
-      return `${this.$router.options.base}${this.icon}.svg`
+      return `${this.$router.options.base}${this.icon.id}.svg`
     }
   },
   methods: {
@@ -33,13 +33,13 @@ export default {
       <svg class="icon-svg" width="24" height="24">
         <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
-      <pre>{{ icon }}</pre>
+      <pre>{{ icon.id }}</pre>
     </div>
     <div class="icon-actions">
       <button
         ref="copy"
         class="icon-copy"
-        :data-icon="icon"
+        :data-icon="icon.id"
         @click="copyToClipboard"
       >
         Copy<span class="visually-hidden"> to clipboard</span>
