@@ -30,7 +30,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - name: Build
+      - name: Install dependencies
+        run: yarn
+        working-directory: ./docs
+
+      - name: Generate
         run: yarn run generate
         working-directory: ./docs
 
