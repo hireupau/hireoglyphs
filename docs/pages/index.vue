@@ -28,6 +28,9 @@ export default {
           return pos > 0
         })
       })
+    },
+    placeholder () {
+      return `Search ${this.icons.length} icons`
     }
   }
 }
@@ -45,7 +48,7 @@ export default {
           id="search"
           v-model.trim="input"
           type="search"
-          placeholder="arrow-left"
+          :placeholder="placeholder"
         >
       </form>
       <Icons :icons="filtered" />

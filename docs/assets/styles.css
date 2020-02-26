@@ -34,6 +34,36 @@ main {
 
 h1 {
   margin: 0;
+  font-size: 2rem;
+}
+
+form {
+  margin: 1rem 0 1.5rem;
+}
+
+label {
+  display: block;
+  font-size: inherit;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  -webkit-appearance: none;
+  appearance: none;
+  border-color: initial;
+  border-image: initial;
+  border-radius: 2rem;
+  border-style: initial;
+  border-width: 0;
+  box-shadow: 0 1px 3px hsla(240, 10%, 20%, 0.125), 0 1px 2px hsla(240, 10%, 20%, 0.25);
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: 1;
+  margin: 0;
+  outline: 0;
+  padding: 0.75rem 1.25rem;
+  width: 100%;
 }
 
 .grid {
@@ -87,6 +117,7 @@ h1 {
 }
 
 .icon-copy {
+  -webkit-appearance: none;
   appearance: none;
   background-color: transparent;
   border: none;
