@@ -13,9 +13,6 @@
       "removeViewBox": true
     },
     {
-      "removeXMLNS": true
-    },
-    {
       "sortAttrs": true
     }
   ]
