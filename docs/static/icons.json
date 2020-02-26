@@ -361,11 +361,17 @@
   },
   {
     "id": "bin-outline",
-    "aliases": []
+    "aliases": [
+      "rubbish-outline",
+      "trash-outline"
+    ]
   },
   {
     "id": "bin",
-    "aliases": []
+    "aliases": [
+      "rubbish",
+      "trash"
+    ]
   },
   {
     "id": "bluetooth",
@@ -2117,23 +2123,33 @@
   },
   {
     "id": "magnifier-circle-outline",
-    "aliases": []
+    "aliases": [
+      "search-circle-outline"
+    ]
   },
   {
     "id": "magnifier-circle",
-    "aliases": []
+    "aliases": [
+      "search-circle"
+    ]
   },
   {
     "id": "magnifier-minus",
-    "aliases": []
+    "aliases": [
+      "search-minus"
+    ]
   },
   {
     "id": "magnifier-plus",
-    "aliases": []
+    "aliases": [
+      "search-plus"
+    ]
   },
   {
     "id": "magnifier",
-    "aliases": []
+    "aliases": [
+      "search"
+    ]
   },
   {
     "id": "map-pin-outline",
