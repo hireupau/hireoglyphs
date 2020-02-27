@@ -73,6 +73,7 @@ export default {
                 id="size"
                 v-model.number="size"
                 type="number"
+                inputmode="numeric"
                 min="8"
                 max="96"
                 step="4"
