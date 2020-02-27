@@ -9,6 +9,10 @@ export default {
     icons: {
       type: Array,
       required: true
+    },
+    size: {
+      type: Number,
+      default: 24
     }
   }
 }
@@ -20,7 +24,10 @@ export default {
       v-for="icon in icons"
       :key="icon.id"
     >
-      <Icon :icon="icon" />
+      <Icon
+        :icon="icon"
+        :size="size"
+      />
     </li>
   </ul>
 </template>

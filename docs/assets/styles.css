@@ -52,7 +52,7 @@ input {
   appearance: none;
   border-color: initial;
   border-image: initial;
-  border-radius: 2rem;
+  border-radius: 0.5rem;
   border-style: initial;
   border-width: 0;
   box-shadow: 0 1px 3px hsla(240, 10%, 20%, 0.125), 0 1px 2px hsla(240, 10%, 20%, 0.25);
@@ -62,6 +62,11 @@ input {
   line-height: 1;
   margin: 0;
   outline: 0;
+  padding: 0.75rem;
+}
+
+.input-search {
+  border-radius: 2rem;
   padding: 0.75rem 1.25rem;
   width: 100%;
 }

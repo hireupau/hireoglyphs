@@ -11,7 +11,8 @@ export default {
   data () {
     return {
       input: '',
-      icons
+      icons,
+      size: 24
     }
   },
   computed: {
@@ -54,10 +55,26 @@ export default {
           id="search"
           v-model.trim="input"
           type="search"
+          class="input-search"
           :placeholder="placeholder"
         >
+        <fieldset>
+          <legend>Settings</legend>
+          <label for="size">Size</label>
+          <input
+            id="size"
+            v-model.number="size"
+            type="number"
+            min="8"
+            max="96"
+            step="4"
+          >
+        </fieldset>
       </form>
-      <Icons :icons="filtered" />
+      <Icons
+        :icons="filtered"
+        :size="size"
+      />
     </div>
   </main>
 </template>

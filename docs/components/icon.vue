@@ -4,6 +4,10 @@ export default {
     icon: {
       type: Object,
       required: true
+    },
+    size: {
+      type: Number,
+      default: 24
     }
   },
   computed: {
@@ -30,7 +34,11 @@ export default {
 <template>
   <div class="icon">
     <div class="icon-inner">
-      <svg class="icon-svg" width="24" height="24">
+      <svg
+        class="icon-svg"
+        :height="size"
+        :width="size"
+      >
         <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
       <pre>{{ icon.id }}</pre>
