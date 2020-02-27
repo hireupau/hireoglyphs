@@ -10,6 +10,7 @@ export default {
   },
   data () {
     return {
+      color: '#003454',
       input: '',
       icons,
       size: 24
@@ -38,37 +39,57 @@ export default {
     },
     placeholder () {
       return `Search ${this.icons.length} icons`
+    },
+    style () {
+      return `color: ${this.color}`
     }
   }
 }
 </script>
 
 <template>
-  <main aria-labelledby="page-title">
+  <main aria-labelledby="page-title" :style="style">
     <div class="container">
       <h1 id="page-title">
         Icons
       </h1>
       <form action="#" method="get">
-        <label for="search">Search</label>
-        <input
-          id="search"
-          v-model.trim="input"
-          type="search"
-          class="input-search"
-          :placeholder="placeholder"
-        >
+        <p class="field">
+          <label for="search">Search</label>
+          <input
+            id="search"
+            v-model.trim="input"
+            type="search"
+            class="input-search"
+            :placeholder="placeholder"
+          >
+        </p>
         <fieldset>
           <legend>Settings</legend>
-          <label for="size">Size</label>
-          <input
-            id="size"
-            v-model.number="size"
-            type="number"
-            min="8"
-            max="96"
-            step="4"
-          >
+          <div class="fieldset-fields">
+            <p class="field">
+              <label for="size">Size</label>
+              <input
+                id="size"
+                v-model.number="size"
+                type="number"
+                min="8"
+                max="96"
+                step="4"
+              >
+            </p>
+            <p class="field">
+              <label for="color">Color</label>
+              <input
+                id="color"
+                v-model="color"
+                type="color"
+                min="8"
+                max="96"
+                step="4"
+              >
+            </p>
+          </div>
         </fieldset>
       </form>
       <Icons

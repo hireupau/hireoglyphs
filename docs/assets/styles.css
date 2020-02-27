@@ -10,7 +10,6 @@ html {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   box-sizing: border-box;
-  color: #003454;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   line-height: 1.25;
@@ -38,7 +37,21 @@ h1 {
 }
 
 form {
+  display: grid;
+  grid-gap: 1rem;
   margin: 1rem 0 1.5rem;
+}
+
+@media (min-width: 40rem) {
+  form {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 4fr 1fr;
+  }
+}
+
+.field {
+  margin: 0;
 }
 
 label {
@@ -47,7 +60,7 @@ label {
   margin-bottom: 0.5rem;
 }
 
-input {
+input:not([type="color"]) {
   -webkit-appearance: none;
   appearance: none;
   border-color: initial;
@@ -65,10 +78,55 @@ input {
   padding: 0.75rem;
 }
 
+input[type="color"] {
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+  flex-grow: 1;
+  margin: 0;
+  min-width: 2.5rem;
+  min-height: 2.5rem;
+  outline: 0;
+  padding: 0;
+}
+
 .input-search {
   border-radius: 2rem;
   padding: 0.75rem 1.25rem;
   width: 100%;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.fieldset-fields {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+legend {
+  display: block;
+  margin: 0;
+  margin-bottom: 0.5rem;
+  padding: 0;
+}
+
+fieldset .field {
+  align-items: center;
+  display: flex;
+}
+
+fieldset .field label {
+  margin-bottom: 0;
+  margin-right: 0.5rem;
+}
+
+fieldset .field input {
+
 }
 
 .grid {
