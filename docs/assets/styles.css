@@ -90,13 +90,16 @@ input {
 }
 
 .icon-inner {
+  display: flex;
+  flex-direction: column;
+  min-height: 8rem;
   padding: 0.5rem 0.5rem 0 0.5rem;
 }
 
 .icon-svg {
+  margin: auto;
   display: block;
   fill: currentColor;
-  margin-bottom: 0.75rem;
 }
 
 .icon-actions {
