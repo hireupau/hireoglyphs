@@ -2820,24 +2820,32 @@
   {
     "id": "speech-bubble-outline",
     "aliases": [
+      "conversation-outline",
+      "comment-outline",
       "message-outline"
     ]
   },
   {
     "id": "speech-bubble",
     "aliases": [
+      "conversation",
+      "comment",
       "message"
     ]
   },
   {
     "id": "speech-bubbles-outline",
     "aliases": [
+      "conversations-outline",
+      "comment-outline",
       "messages-outline"
     ]
   },
   {
     "id": "speech-bubbles",
     "aliases": [
+      "conversations",
+      "comment",
       "messages"
     ]
   },
