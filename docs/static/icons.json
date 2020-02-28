@@ -358,6 +358,10 @@
     "aliases": []
   },
   {
+    "id": "at",
+    "aliases": []
+  },
+  {
     "id": "bell-outline",
     "aliases": [
       "notification-outline"
@@ -1132,7 +1136,115 @@
     "aliases": []
   },
   {
+    "id": "clipboard-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-check-outline",
+    "aliases": [
+      "clipboard-tick-outline"
+    ]
+  },
+  {
+    "id": "clipboard-check",
+    "aliases": [
+      "clipboard-tick"
+    ]
+  },
+  {
+    "id": "clipboard-cross-outline",
+    "aliases": [
+      "clipboard-close-outline"
+    ]
+  },
+  {
+    "id": "clipboard-cross",
+    "aliases": [
+      "clipboard-close"
+    ]
+  },
+  {
+    "id": "clipboard-help-outline",
+    "aliases": [
+      "clipboard-question-outline"
+    ]
+  },
+  {
+    "id": "clipboard-help",
+    "aliases": [
+      "clipboard-question"
+    ]
+  },
+  {
+    "id": "clipboard-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-info",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-list",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus",
+    "aliases": []
+  },
+  {
     "id": "clipboard-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-plus",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-warning",
     "aliases": []
   },
   {
