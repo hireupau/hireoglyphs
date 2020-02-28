@@ -534,115 +534,7 @@
     "aliases": []
   },
   {
-    "id": "car-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "car-check-outline",
-    "aliases": [
-      "car-tick-outline"
-    ]
-  },
-  {
-    "id": "car-check",
-    "aliases": [
-      "car-tick"
-    ]
-  },
-  {
-    "id": "car-cross-outline",
-    "aliases": [
-      "car-close-outline"
-    ]
-  },
-  {
-    "id": "car-cross",
-    "aliases": [
-      "car-close"
-    ]
-  },
-  {
-    "id": "car-help-outline",
-    "aliases": [
-      "car-question-outline"
-    ]
-  },
-  {
-    "id": "car-help",
-    "aliases": [
-      "car-question"
-    ]
-  },
-  {
-    "id": "car-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-info",
-    "aliases": []
-  },
-  {
-    "id": "car-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-list",
-    "aliases": []
-  },
-  {
-    "id": "car-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-minus",
-    "aliases": []
-  },
-  {
     "id": "car-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-plus",
-    "aliases": []
-  },
-  {
-    "id": "car-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-warning",
     "aliases": []
   },
   {
@@ -1415,6 +1307,66 @@
     "id": "cross",
     "aliases": [
       "close"
+    ]
+  },
+  {
+    "id": "currency-yen",
+    "aliases": [
+      "money-yen"
+    ]
+  },
+  {
+    "id": "currency-yen-outline",
+    "aliases": [
+      "money-yen-outline"
+    ]
+  },
+  {
+    "id": "currency-pound",
+    "aliases": [
+      "money-pound"
+    ]
+  },
+  {
+    "id": "currency-rupee-outline",
+    "aliases": [
+      "money-rupee-outline"
+    ]
+  },
+  {
+    "id": "currency-rupee",
+    "aliases": [
+      "money-rupee"
+    ]
+  },
+  {
+    "id": "currency-euro-outline",
+    "aliases": [
+      "money-euro-outline"
+    ]
+  },
+  {
+    "id": "currency-euro",
+    "aliases": [
+      "money-euro"
+    ]
+  },
+  {
+    "id": "currency-pound-outline",
+    "aliases": [
+      "money-pound-outline"
+    ]
+  },
+  {
+    "id": "currency-dollar-outline",
+    "aliases": [
+      "money-dollar-outline"
+    ]
+  },
+  {
+    "id": "currency-dollar",
+    "aliases": [
+      "money-dollar"
     ]
   },
   {
@@ -2320,50 +2272,6 @@
     "aliases": []
   },
   {
-    "id": "person-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "person-check-outline",
-    "aliases": [
-      "person-tick-outline"
-    ]
-  },
-  {
-    "id": "person-check",
-    "aliases": [
-      "person-tick"
-    ]
-  },
-  {
     "id": "person-circle-outline",
     "aliases": []
   },
@@ -2372,71 +2280,7 @@
     "aliases": []
   },
   {
-    "id": "person-cross-outline",
-    "aliases": [
-      "person-close-outline"
-    ]
-  },
-  {
-    "id": "person-cross",
-    "aliases": [
-      "person-close"
-    ]
-  },
-  {
-    "id": "person-help-outline",
-    "aliases": [
-      "person-question-outline"
-    ]
-  },
-  {
-    "id": "person-help",
-    "aliases": [
-      "person-question"
-    ]
-  },
-  {
-    "id": "person-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-info",
-    "aliases": []
-  },
-  {
-    "id": "person-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-list",
-    "aliases": []
-  },
-  {
-    "id": "person-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-minus",
-    "aliases": []
-  },
-  {
     "id": "person-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-plus",
-    "aliases": []
-  },
-  {
-    "id": "person-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-warning",
     "aliases": []
   },
   {
@@ -2444,120 +2288,16 @@
     "aliases": []
   },
   {
-    "id": "phone-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "phone-check-outline",
-    "aliases": [
-      "phone-tick-outline"
-    ]
-  },
-  {
-    "id": "phone-check",
-    "aliases": [
-      "phone-tick"
-    ]
-  },
-  {
-    "id": "phone-cross-outline",
-    "aliases": [
-      "phone-close-outline"
-    ]
-  },
-  {
-    "id": "phone-cross",
-    "aliases": [
-      "phone-close"
-    ]
-  },
-  {
-    "id": "phone-help-outline",
-    "aliases": [
-      "phone-question-outline"
-    ]
-  },
-  {
-    "id": "phone-help",
-    "aliases": [
-      "phone-question"
-    ]
-  },
-  {
-    "id": "phone-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-info",
-    "aliases": []
-  },
-  {
-    "id": "phone-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-list",
-    "aliases": []
-  },
-  {
-    "id": "phone-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-minus",
-    "aliases": []
-  },
-  {
     "id": "phone-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-plus",
-    "aliases": []
-  },
-  {
-    "id": "phone-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-warning",
-    "aliases": []
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "phone",
-    "aliases": []
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "play-outline",
@@ -3032,6 +2772,13 @@
   {
     "id": "thumb-up",
     "aliases": []
+  },
+  {
+    "id": "translate",
+    "aliases": [
+      "language",
+      "languages"
+    ]
   },
   {
     "id": "triangle-arrow-down-outline",
