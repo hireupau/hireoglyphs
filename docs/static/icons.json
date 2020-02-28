@@ -2824,18 +2824,6 @@
     ]
   },
   {
-    "id": "speech-bubble-three-dots-outline",
-    "aliases": [
-      "message-three-dots-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-three-dots",
-    "aliases": [
-      "message-three-dots"
-    ]
-  },
-  {
     "id": "speech-bubble",
     "aliases": [
       "message"
@@ -2845,18 +2833,6 @@
     "id": "speech-bubbles-outline",
     "aliases": [
       "messages-outline"
-    ]
-  },
-  {
-    "id": "speech-bubbles-three-dots-outline",
-    "aliases": [
-      "messages-three-dots-outline"
-    ]
-  },
-  {
-    "id": "speech-bubbles-three-dots",
-    "aliases": [
-      "messages-three-dots"
     ]
   },
   {
