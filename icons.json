@@ -225,7 +225,9 @@
   },
   {
     "id": "arrow-tray-down",
-    "aliases": []
+    "aliases": [
+      "import"
+    ]
   },
   {
     "id": "arrow-tray-left",
@@ -245,11 +247,15 @@
   },
   {
     "id": "arrow-tray-up",
-    "aliases": []
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow-tray",
-    "aliases": []
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow-up",
@@ -352,12 +358,20 @@
     "aliases": []
   },
   {
-    "id": "bell-outline",
+    "id": "at",
     "aliases": []
   },
   {
+    "id": "bell-outline",
+    "aliases": [
+      "notification-outline"
+    ]
+  },
+  {
     "id": "bell",
-    "aliases": []
+    "aliases": [
+      "notification"
+    ]
   },
   {
     "id": "bin-outline",
@@ -461,11 +475,15 @@
   },
   {
     "id": "calendar-help-outline",
-    "aliases": []
+    "aliases": [
+      "calendar-question-outline"
+    ]
   },
   {
     "id": "calendar-help",
-    "aliases": []
+    "aliases": [
+      "calendar-question"
+    ]
   },
   {
     "id": "calendar-info-outline",
@@ -524,111 +542,7 @@
     "aliases": []
   },
   {
-    "id": "car-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "car-check-outline",
-    "aliases": [
-      "car-tick-outline"
-    ]
-  },
-  {
-    "id": "car-check",
-    "aliases": [
-      "car-tick"
-    ]
-  },
-  {
-    "id": "car-cross-outline",
-    "aliases": [
-      "car-close-outline"
-    ]
-  },
-  {
-    "id": "car-cross",
-    "aliases": [
-      "car-close"
-    ]
-  },
-  {
-    "id": "car-help-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-help",
-    "aliases": []
-  },
-  {
-    "id": "car-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-info",
-    "aliases": []
-  },
-  {
-    "id": "car-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-list",
-    "aliases": []
-  },
-  {
-    "id": "car-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-minus",
-    "aliases": []
-  },
-  {
     "id": "car-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-plus",
-    "aliases": []
-  },
-  {
-    "id": "car-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "car-warning",
     "aliases": []
   },
   {
@@ -1063,7 +977,9 @@
   },
   {
     "id": "chevrons-in",
-    "aliases": []
+    "aliases": [
+      "collapse"
+    ]
   },
   {
     "id": "chevrons-left",
@@ -1087,7 +1003,9 @@
   },
   {
     "id": "chevrons-out",
-    "aliases": []
+    "aliases": [
+      "expand"
+    ]
   },
   {
     "id": "chevrons-right",
@@ -1159,11 +1077,15 @@
   },
   {
     "id": "circle-help-outline",
-    "aliases": []
+    "aliases": [
+      "circle-question-outline"
+    ]
   },
   {
     "id": "circle-help",
-    "aliases": []
+    "aliases": [
+      "circle-question"
+    ]
   },
   {
     "id": "circle-info-outline",
@@ -1214,7 +1136,115 @@
     "aliases": []
   },
   {
+    "id": "clipboard-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-check-outline",
+    "aliases": [
+      "clipboard-tick-outline"
+    ]
+  },
+  {
+    "id": "clipboard-check",
+    "aliases": [
+      "clipboard-tick"
+    ]
+  },
+  {
+    "id": "clipboard-cross-outline",
+    "aliases": [
+      "clipboard-close-outline"
+    ]
+  },
+  {
+    "id": "clipboard-cross",
+    "aliases": [
+      "clipboard-close"
+    ]
+  },
+  {
+    "id": "clipboard-help-outline",
+    "aliases": [
+      "clipboard-question-outline"
+    ]
+  },
+  {
+    "id": "clipboard-help",
+    "aliases": [
+      "clipboard-question"
+    ]
+  },
+  {
+    "id": "clipboard-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-info",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-list",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus",
+    "aliases": []
+  },
+  {
     "id": "clipboard-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-plus",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-warning",
     "aliases": []
   },
   {
@@ -1287,11 +1317,15 @@
   },
   {
     "id": "cloud-help-outline",
-    "aliases": []
+    "aliases": [
+      "cloud-question-outline"
+    ]
   },
   {
     "id": "cloud-help",
-    "aliases": []
+    "aliases": [
+      "cloud-question"
+    ]
   },
   {
     "id": "cloud-info-outline",
@@ -1396,6 +1430,66 @@
     ]
   },
   {
+    "id": "currency-yen",
+    "aliases": [
+      "money-yen"
+    ]
+  },
+  {
+    "id": "currency-yen-outline",
+    "aliases": [
+      "money-yen-outline"
+    ]
+  },
+  {
+    "id": "currency-pound",
+    "aliases": [
+      "money-pound"
+    ]
+  },
+  {
+    "id": "currency-rupee-outline",
+    "aliases": [
+      "money-rupee-outline"
+    ]
+  },
+  {
+    "id": "currency-rupee",
+    "aliases": [
+      "money-rupee"
+    ]
+  },
+  {
+    "id": "currency-euro-outline",
+    "aliases": [
+      "money-euro-outline"
+    ]
+  },
+  {
+    "id": "currency-euro",
+    "aliases": [
+      "money-euro"
+    ]
+  },
+  {
+    "id": "currency-pound-outline",
+    "aliases": [
+      "money-pound-outline"
+    ]
+  },
+  {
+    "id": "currency-dollar-outline",
+    "aliases": [
+      "money-dollar-outline"
+    ]
+  },
+  {
+    "id": "currency-dollar",
+    "aliases": [
+      "money-dollar"
+    ]
+  },
+  {
     "id": "dash-large",
     "aliases": []
   },
@@ -1497,11 +1591,15 @@
   },
   {
     "id": "document-help-outline",
-    "aliases": []
+    "aliases": [
+      "document-question-outline"
+    ]
   },
   {
     "id": "document-help",
-    "aliases": []
+    "aliases": [
+      "document-question"
+    ]
   },
   {
     "id": "document-info-outline",
@@ -1593,11 +1691,19 @@
   },
   {
     "id": "equalizer-horizontal",
-    "aliases": []
+    "aliases": [
+      "adjustments-horizontal",
+      "levels-horizontal",
+      "mixer-horizontal"
+    ]
   },
   {
     "id": "equalizer-vertical",
-    "aliases": []
+    "aliases": [
+      "adjustments-vertical",
+      "levels-vertical",
+      "mixer-vertical"
+    ]
   },
   {
     "id": "eye-outline",
@@ -1677,11 +1783,15 @@
   },
   {
     "id": "folder-help-outline",
-    "aliases": []
+    "aliases": [
+      "folder-question-outline"
+    ]
   },
   {
     "id": "folder-help",
-    "aliases": []
+    "aliases": [
+      "folder-question"
+    ]
   },
   {
     "id": "folder-info-outline",
@@ -1761,15 +1871,21 @@
   },
   {
     "id": "help-large",
-    "aliases": []
+    "aliases": [
+      "question-large"
+    ]
   },
   {
     "id": "help-small",
-    "aliases": []
+    "aliases": [
+      "question-small"
+    ]
   },
   {
     "id": "help",
-    "aliases": []
+    "aliases": [
+      "question"
+    ]
   },
   {
     "id": "hexagon-arrow-down-outline",
@@ -1829,11 +1945,15 @@
   },
   {
     "id": "hexagon-help-outline",
-    "aliases": []
+    "aliases": [
+      "hexagon-question-outline"
+    ]
   },
   {
     "id": "hexagon-help",
-    "aliases": []
+    "aliases": [
+      "hexagon-question"
+    ]
   },
   {
     "id": "hexagon-info-outline",
@@ -1957,11 +2077,15 @@
   },
   {
     "id": "inbox-help-outline",
-    "aliases": []
+    "aliases": [
+      "inbox-question-outline"
+    ]
   },
   {
     "id": "inbox-help",
-    "aliases": []
+    "aliases": [
+      "inbox-question"
+    ]
   },
   {
     "id": "inbox-info-outline",
@@ -2093,11 +2217,15 @@
   },
   {
     "id": "label-help-outline",
-    "aliases": []
+    "aliases": [
+      "label-question-outline"
+    ]
   },
   {
     "id": "label-help",
-    "aliases": []
+    "aliases": [
+      "label-question"
+    ]
   },
   {
     "id": "label-info-outline",
@@ -2167,6 +2295,22 @@
   },
   {
     "id": "list",
+    "aliases": []
+  },
+  {
+    "id": "light-outline",
+    "aliases": []
+  },
+  {
+    "id": "light",
+    "aliases": []
+  },
+  {
+    "id": "lightning-outline",
+    "aliases": []
+  },
+  {
+    "id": "lightning",
     "aliases": []
   },
   {
@@ -2264,56 +2408,20 @@
     "aliases": []
   },
   {
+    "id": "pen-outline",
+    "aliases": []
+  },
+  {
+    "id": "pen",
+    "aliases": []
+  },
+  {
     "id": "pencil-outline",
     "aliases": []
   },
   {
     "id": "pencil",
     "aliases": []
-  },
-  {
-    "id": "person-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "person-check-outline",
-    "aliases": [
-      "person-tick-outline"
-    ]
-  },
-  {
-    "id": "person-check",
-    "aliases": [
-      "person-tick"
-    ]
   },
   {
     "id": "person-circle-outline",
@@ -2324,67 +2432,7 @@
     "aliases": []
   },
   {
-    "id": "person-cross-outline",
-    "aliases": [
-      "person-close-outline"
-    ]
-  },
-  {
-    "id": "person-cross",
-    "aliases": [
-      "person-close"
-    ]
-  },
-  {
-    "id": "person-help-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-help",
-    "aliases": []
-  },
-  {
-    "id": "person-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-info",
-    "aliases": []
-  },
-  {
-    "id": "person-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-list",
-    "aliases": []
-  },
-  {
-    "id": "person-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-minus",
-    "aliases": []
-  },
-  {
     "id": "person-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-plus",
-    "aliases": []
-  },
-  {
-    "id": "person-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "person-warning",
     "aliases": []
   },
   {
@@ -2392,116 +2440,16 @@
     "aliases": []
   },
   {
-    "id": "phone-arrow-down-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-down",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-left-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-left",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-right-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-right",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-up-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-arrow-up",
-    "aliases": []
-  },
-  {
-    "id": "phone-check-outline",
-    "aliases": [
-      "phone-tick-outline"
-    ]
-  },
-  {
-    "id": "phone-check",
-    "aliases": [
-      "phone-tick"
-    ]
-  },
-  {
-    "id": "phone-cross-outline",
-    "aliases": [
-      "phone-close-outline"
-    ]
-  },
-  {
-    "id": "phone-cross",
-    "aliases": [
-      "phone-close"
-    ]
-  },
-  {
-    "id": "phone-help-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-help",
-    "aliases": []
-  },
-  {
-    "id": "phone-info-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-info",
-    "aliases": []
-  },
-  {
-    "id": "phone-list-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-list",
-    "aliases": []
-  },
-  {
-    "id": "phone-minus-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-minus",
-    "aliases": []
-  },
-  {
     "id": "phone-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-plus-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-plus",
-    "aliases": []
-  },
-  {
-    "id": "phone-warning-outline",
-    "aliases": []
-  },
-  {
-    "id": "phone-warning",
-    "aliases": []
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "phone",
-    "aliases": []
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "play-outline",
@@ -2613,11 +2561,15 @@
   },
   {
     "id": "shield-help-outline",
-    "aliases": []
+    "aliases": [
+      "shield-question-outline"
+    ]
   },
   {
     "id": "shield-help",
-    "aliases": []
+    "aliases": [
+      "shield-question"
+    ]
   },
   {
     "id": "shield-info-outline",
@@ -2760,48 +2712,32 @@
   {
     "id": "speech-bubble-outline",
     "aliases": [
+      "conversation-outline",
+      "comment-outline",
       "message-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-three-dots-outline",
-    "aliases": [
-      "message-three-dots-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-three-dots",
-    "aliases": [
-      "message-three-dots"
     ]
   },
   {
     "id": "speech-bubble",
     "aliases": [
+      "conversation",
+      "comment",
       "message"
     ]
   },
   {
     "id": "speech-bubbles-outline",
     "aliases": [
+      "conversations-outline",
+      "comment-outline",
       "messages-outline"
-    ]
-  },
-  {
-    "id": "speech-bubbles-three-dots-outline",
-    "aliases": [
-      "messages-three-dots-outline"
-    ]
-  },
-  {
-    "id": "speech-bubbles-three-dots",
-    "aliases": [
-      "messages-three-dots"
     ]
   },
   {
     "id": "speech-bubbles",
     "aliases": [
+      "conversations",
+      "comment",
       "messages"
     ]
   },
@@ -2867,11 +2803,15 @@
   },
   {
     "id": "square-help-outline",
-    "aliases": []
+    "aliases": [
+      "square-question-outline"
+    ]
   },
   {
     "id": "square-help",
-    "aliases": []
+    "aliases": [
+      "square-question"
+    ]
   },
   {
     "id": "square-info-outline",
@@ -2938,6 +2878,130 @@
     "aliases": []
   },
   {
+    "id": "sun-outline",
+    "aliases": []
+  },
+  {
+    "id": "sun",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "tag-check-outline",
+    "aliases": [
+      "tag-tick-outline"
+    ]
+  },
+  {
+    "id": "tag-check",
+    "aliases": [
+      "tag-tick"
+    ]
+  },
+  {
+    "id": "tag-cross-outline",
+    "aliases": [
+      "tag-close-outline"
+    ]
+  },
+  {
+    "id": "tag-cross",
+    "aliases": [
+      "tag-close"
+    ]
+  },
+  {
+    "id": "tag-help-outline",
+    "aliases": [
+      "tag-question-outline"
+    ]
+  },
+  {
+    "id": "tag-help",
+    "aliases": [
+      "tag-question"
+    ]
+  },
+  {
+    "id": "tag-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-info",
+    "aliases": []
+  },
+  {
+    "id": "tag-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-list",
+    "aliases": []
+  },
+  {
+    "id": "tag-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-minus",
+    "aliases": []
+  },
+  {
+    "id": "tag-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-plus",
+    "aliases": []
+  },
+  {
+    "id": "tag-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-warning",
+    "aliases": []
+  },
+  {
+    "id": "tag",
+    "aliases": []
+  },
+  {
     "id": "text-align-center",
     "aliases": []
   },
@@ -2976,6 +3040,13 @@
   {
     "id": "thumb-up",
     "aliases": []
+  },
+  {
+    "id": "translate",
+    "aliases": [
+      "language",
+      "languages"
+    ]
   },
   {
     "id": "triangle-arrow-down-outline",
@@ -3035,11 +3106,15 @@
   },
   {
     "id": "triangle-help-outline",
-    "aliases": []
+    "aliases": [
+      "triangle-question-outline"
+    ]
   },
   {
     "id": "triangle-help",
-    "aliases": []
+    "aliases": [
+      "triangle-question"
+    ]
   },
   {
     "id": "triangle-info-outline",
