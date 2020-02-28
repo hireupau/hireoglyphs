@@ -3042,6 +3042,122 @@
     "aliases": []
   },
   {
+    "id": "ticket-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "ticket-check-outline",
+    "aliases": [
+      "ticket-tick-outline"
+    ]
+  },
+  {
+    "id": "ticket-check",
+    "aliases": [
+      "ticket-tick"
+    ]
+  },
+  {
+    "id": "ticket-cross-outline",
+    "aliases": [
+      "ticket-close-outline"
+    ]
+  },
+  {
+    "id": "ticket-cross",
+    "aliases": [
+      "ticket-close"
+    ]
+  },
+  {
+    "id": "ticket-help-outline",
+    "aliases": [
+      "ticket-question-outline"
+    ]
+  },
+  {
+    "id": "ticket-help",
+    "aliases": [
+      "ticket-question"
+    ]
+  },
+  {
+    "id": "ticket-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-info",
+    "aliases": []
+  },
+  {
+    "id": "ticket-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-list",
+    "aliases": []
+  },
+  {
+    "id": "ticket-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-minus",
+    "aliases": []
+  },
+  {
+    "id": "ticket-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-plus",
+    "aliases": []
+  },
+  {
+    "id": "ticket-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-warning",
+    "aliases": []
+  },
+  {
+    "id": "ticket",
+    "aliases": []
+  },
+  {
     "id": "translate",
     "aliases": [
       "language",
