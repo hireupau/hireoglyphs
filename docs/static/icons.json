@@ -225,7 +225,9 @@
   },
   {
     "id": "arrow-tray-down",
-    "aliases": []
+    "aliases": [
+      "import"
+    ]
   },
   {
     "id": "arrow-tray-left",
@@ -245,11 +247,15 @@
   },
   {
     "id": "arrow-tray-up",
-    "aliases": []
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow-tray",
-    "aliases": []
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow-up",
