@@ -2886,6 +2886,122 @@
     "aliases": []
   },
   {
+    "id": "tag-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "tag-check-outline",
+    "aliases": [
+      "tag-tick-outline"
+    ]
+  },
+  {
+    "id": "tag-check",
+    "aliases": [
+      "tag-tick"
+    ]
+  },
+  {
+    "id": "tag-cross-outline",
+    "aliases": [
+      "tag-close-outline"
+    ]
+  },
+  {
+    "id": "tag-cross",
+    "aliases": [
+      "tag-close"
+    ]
+  },
+  {
+    "id": "tag-help-outline",
+    "aliases": [
+      "tag-question-outline"
+    ]
+  },
+  {
+    "id": "tag-help",
+    "aliases": [
+      "tag-question"
+    ]
+  },
+  {
+    "id": "tag-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-info",
+    "aliases": []
+  },
+  {
+    "id": "tag-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-list",
+    "aliases": []
+  },
+  {
+    "id": "tag-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-minus",
+    "aliases": []
+  },
+  {
+    "id": "tag-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-plus",
+    "aliases": []
+  },
+  {
+    "id": "tag-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-warning",
+    "aliases": []
+  },
+  {
+    "id": "tag",
+    "aliases": []
+  },
+  {
     "id": "text-align-center",
     "aliases": []
   },
