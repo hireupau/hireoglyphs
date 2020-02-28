@@ -359,11 +359,15 @@
   },
   {
     "id": "bell-outline",
-    "aliases": []
+    "aliases": [
+      "notification-outline"
+    ]
   },
   {
     "id": "bell",
-    "aliases": []
+    "aliases": [
+      "notification"
+    ]
   },
   {
     "id": "bin-outline",
@@ -969,7 +973,9 @@
   },
   {
     "id": "chevrons-in",
-    "aliases": []
+    "aliases": [
+      "collapse"
+    ]
   },
   {
     "id": "chevrons-left",
@@ -993,7 +999,9 @@
   },
   {
     "id": "chevrons-out",
-    "aliases": []
+    "aliases": [
+      "expand"
+    ]
   },
   {
     "id": "chevrons-right",
@@ -1571,11 +1579,19 @@
   },
   {
     "id": "equalizer-horizontal",
-    "aliases": []
+    "aliases": [
+      "adjustments-horizontal",
+      "levels-horizontal",
+      "mixer-horizontal"
+    ]
   },
   {
     "id": "equalizer-vertical",
-    "aliases": []
+    "aliases": [
+      "adjustments-vertical",
+      "levels-vertical",
+      "mixer-vertical"
+    ]
   },
   {
     "id": "eye-outline",
