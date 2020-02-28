@@ -461,11 +461,15 @@
   },
   {
     "id": "calendar-help-outline",
-    "aliases": []
+    "aliases": [
+      "calendar-question-outline"
+    ]
   },
   {
     "id": "calendar-help",
-    "aliases": []
+    "aliases": [
+      "calendar-question"
+    ]
   },
   {
     "id": "calendar-info-outline",
@@ -581,11 +585,15 @@
   },
   {
     "id": "car-help-outline",
-    "aliases": []
+    "aliases": [
+      "car-question-outline"
+    ]
   },
   {
     "id": "car-help",
-    "aliases": []
+    "aliases": [
+      "car-question"
+    ]
   },
   {
     "id": "car-info-outline",
@@ -1159,11 +1167,15 @@
   },
   {
     "id": "circle-help-outline",
-    "aliases": []
+    "aliases": [
+      "circle-question-outline"
+    ]
   },
   {
     "id": "circle-help",
-    "aliases": []
+    "aliases": [
+      "circle-question"
+    ]
   },
   {
     "id": "circle-info-outline",
@@ -1287,11 +1299,15 @@
   },
   {
     "id": "cloud-help-outline",
-    "aliases": []
+    "aliases": [
+      "cloud-question-outline"
+    ]
   },
   {
     "id": "cloud-help",
-    "aliases": []
+    "aliases": [
+      "cloud-question"
+    ]
   },
   {
     "id": "cloud-info-outline",
@@ -1497,11 +1513,15 @@
   },
   {
     "id": "document-help-outline",
-    "aliases": []
+    "aliases": [
+      "document-question-outline"
+    ]
   },
   {
     "id": "document-help",
-    "aliases": []
+    "aliases": [
+      "document-question"
+    ]
   },
   {
     "id": "document-info-outline",
@@ -1677,11 +1697,15 @@
   },
   {
     "id": "folder-help-outline",
-    "aliases": []
+    "aliases": [
+      "folder-question-outline"
+    ]
   },
   {
     "id": "folder-help",
-    "aliases": []
+    "aliases": [
+      "folder-question"
+    ]
   },
   {
     "id": "folder-info-outline",
@@ -1761,15 +1785,21 @@
   },
   {
     "id": "help-large",
-    "aliases": []
+    "aliases": [
+      "question-large"
+    ]
   },
   {
     "id": "help-small",
-    "aliases": []
+    "aliases": [
+      "question-small"
+    ]
   },
   {
     "id": "help",
-    "aliases": []
+    "aliases": [
+      "question"
+    ]
   },
   {
     "id": "hexagon-arrow-down-outline",
@@ -1829,11 +1859,15 @@
   },
   {
     "id": "hexagon-help-outline",
-    "aliases": []
+    "aliases": [
+      "hexagon-question-outline"
+    ]
   },
   {
     "id": "hexagon-help",
-    "aliases": []
+    "aliases": [
+      "hexagon-question"
+    ]
   },
   {
     "id": "hexagon-info-outline",
@@ -1957,11 +1991,15 @@
   },
   {
     "id": "inbox-help-outline",
-    "aliases": []
+    "aliases": [
+      "inbox-question-outline"
+    ]
   },
   {
     "id": "inbox-help",
-    "aliases": []
+    "aliases": [
+      "inbox-question"
+    ]
   },
   {
     "id": "inbox-info-outline",
@@ -2093,11 +2131,15 @@
   },
   {
     "id": "label-help-outline",
-    "aliases": []
+    "aliases": [
+      "label-question-outline"
+    ]
   },
   {
     "id": "label-help",
-    "aliases": []
+    "aliases": [
+      "label-question"
+    ]
   },
   {
     "id": "label-info-outline",
@@ -2337,11 +2379,15 @@
   },
   {
     "id": "person-help-outline",
-    "aliases": []
+    "aliases": [
+      "person-question-outline"
+    ]
   },
   {
     "id": "person-help",
-    "aliases": []
+    "aliases": [
+      "person-question"
+    ]
   },
   {
     "id": "person-info-outline",
@@ -2449,11 +2495,15 @@
   },
   {
     "id": "phone-help-outline",
-    "aliases": []
+    "aliases": [
+      "phone-question-outline"
+    ]
   },
   {
     "id": "phone-help",
-    "aliases": []
+    "aliases": [
+      "phone-question"
+    ]
   },
   {
     "id": "phone-info-outline",
@@ -2613,11 +2663,15 @@
   },
   {
     "id": "shield-help-outline",
-    "aliases": []
+    "aliases": [
+      "shield-question-outline"
+    ]
   },
   {
     "id": "shield-help",
-    "aliases": []
+    "aliases": [
+      "shield-question"
+    ]
   },
   {
     "id": "shield-info-outline",
@@ -2867,11 +2921,15 @@
   },
   {
     "id": "square-help-outline",
-    "aliases": []
+    "aliases": [
+      "square-question-outline"
+    ]
   },
   {
     "id": "square-help",
-    "aliases": []
+    "aliases": [
+      "square-question"
+    ]
   },
   {
     "id": "square-info-outline",
@@ -3035,11 +3093,15 @@
   },
   {
     "id": "triangle-help-outline",
-    "aliases": []
+    "aliases": [
+      "triangle-question-outline"
+    ]
   },
   {
     "id": "triangle-help",
-    "aliases": []
+    "aliases": [
+      "triangle-question"
+    ]
   },
   {
     "id": "triangle-info-outline",
