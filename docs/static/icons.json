@@ -2432,20 +2432,40 @@
     "aliases": []
   },
   {
+    "id": "people-outline",
+    "aliases": [
+      "users-outline"
+    ]
+  },
+  {
+    "id": "people",
+    "aliases": [
+      "users"
+    ]
+  },
+  {
     "id": "person-circle-outline",
-    "aliases": []
+    "aliases": [
+      "user-circle-outline"
+    ]
   },
   {
     "id": "person-circle",
-    "aliases": []
+    "aliases": [
+      "user-circle"
+    ]
   },
   {
     "id": "person-outline",
-    "aliases": []
+    "aliases": [
+      "user-outline"
+    ]
   },
   {
     "id": "person",
-    "aliases": []
+    "aliases": [
+      "user"
+    ]
   },
   {
     "id": "phone-outline",
