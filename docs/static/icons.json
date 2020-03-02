@@ -510,6 +510,14 @@
     "aliases": []
   },
   {
+    "id": "calendar-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-person",
+    "aliases": []
+  },
+  {
     "id": "calendar-outline",
     "aliases": []
   },
@@ -1112,6 +1120,14 @@
     "aliases": []
   },
   {
+    "id": "circle-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-person",
+    "aliases": []
+  },
+  {
     "id": "circle-outline",
     "aliases": []
   },
@@ -1225,6 +1241,14 @@
   },
   {
     "id": "clipboard-minus",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-person",
     "aliases": []
   },
   {
@@ -1349,6 +1373,14 @@
   },
   {
     "id": "cloud-minus",
+    "aliases": []
+  },
+  {
+    "id": "cloud-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-person",
     "aliases": []
   },
   {
@@ -1626,6 +1658,14 @@
     "aliases": []
   },
   {
+    "id": "document-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-person",
+    "aliases": []
+  },
+  {
     "id": "document-outline",
     "aliases": []
   },
@@ -1818,6 +1858,14 @@
     "aliases": []
   },
   {
+    "id": "folder-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-person",
+    "aliases": []
+  },
+  {
     "id": "folder-outline",
     "aliases": []
   },
@@ -1980,6 +2028,14 @@
     "aliases": []
   },
   {
+    "id": "hexagon-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-person",
+    "aliases": []
+  },
+  {
     "id": "hexagon-outline",
     "aliases": []
   },
@@ -2109,6 +2165,14 @@
   },
   {
     "id": "inbox-minus",
+    "aliases": []
+  },
+  {
+    "id": "inbox-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-person",
     "aliases": []
   },
   {
@@ -2249,6 +2313,14 @@
   },
   {
     "id": "label-minus",
+    "aliases": []
+  },
+  {
+    "id": "label-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-person",
     "aliases": []
   },
   {
@@ -2393,6 +2465,10 @@
   },
   {
     "id": "no",
+    "aliases": []
+  },
+  {
+    "id": "no-alt",
     "aliases": []
   },
   {
@@ -2633,6 +2709,14 @@
   },
   {
     "id": "shield-minus",
+    "aliases": []
+  },
+  {
+    "id": "shield-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-person",
     "aliases": []
   },
   {
@@ -2878,6 +2962,14 @@
     "aliases": []
   },
   {
+    "id": "square-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-person",
+    "aliases": []
+  },
+  {
     "id": "square-outline",
     "aliases": []
   },
@@ -3015,6 +3107,14 @@
   },
   {
     "id": "tag-minus",
+    "aliases": []
+  },
+  {
+    "id": "tag-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-person",
     "aliases": []
   },
   {
@@ -3174,6 +3274,14 @@
     "aliases": []
   },
   {
+    "id": "ticket-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-person",
+    "aliases": []
+  },
+  {
     "id": "ticket-outline",
     "aliases": []
   },
@@ -3294,6 +3402,14 @@
   },
   {
     "id": "triangle-minus",
+    "aliases": []
+  },
+  {
+    "id": "triangle-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-person",
     "aliases": []
   },
   {
