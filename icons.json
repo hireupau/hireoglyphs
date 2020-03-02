@@ -2480,6 +2480,18 @@
     ]
   },
   {
+    "id": "pin-outline",
+    "aliases": [
+      "pushpin-outline"
+    ]
+  },
+  {
+    "id": "pin",
+    "aliases": [
+      "pushpin"
+    ]
+  },
+  {
     "id": "play-outline",
     "aliases": []
   },
