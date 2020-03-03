@@ -2644,18 +2644,6 @@
     ]
   },
   {
-    "id": "person-circle-outline",
-    "aliases": [
-      "user-circle-outline"
-    ]
-  },
-  {
-    "id": "person-circle",
-    "aliases": [
-      "user-circle"
-    ]
-  },
-  {
     "id": "person-outline",
     "aliases": [
       "user-outline"
