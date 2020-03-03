@@ -6,7 +6,7 @@
       "dest": "./",
       "sprite": "./sprite.svg",
       "inline": true,
-      "example": true
+      "example": false
     }
   }
 }
