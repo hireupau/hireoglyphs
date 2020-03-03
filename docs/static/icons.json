@@ -362,6 +362,130 @@
     "aliases": []
   },
   {
+    "id": "bag-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "bag-check-outline",
+    "aliases": [
+      "bag-tick-outline"
+    ]
+  },
+  {
+    "id": "bag-check",
+    "aliases": [
+      "bag-tick"
+    ]
+  },
+  {
+    "id": "bag-cross-outline",
+    "aliases": [
+      "bag-close-outline"
+    ]
+  },
+  {
+    "id": "bag-cross",
+    "aliases": [
+      "bag-close"
+    ]
+  },
+  {
+    "id": "bag-help-outline",
+    "aliases": [
+      "bag-question-outline"
+    ]
+  },
+  {
+    "id": "bag-help",
+    "aliases": [
+      "bag-question"
+    ]
+  },
+  {
+    "id": "bag-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-info",
+    "aliases": []
+  },
+  {
+    "id": "bag-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-list",
+    "aliases": []
+  },
+  {
+    "id": "bag-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-minus",
+    "aliases": []
+  },
+  {
+    "id": "bag-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-person",
+    "aliases": []
+  },
+  {
+    "id": "bag-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-plus",
+    "aliases": []
+  },
+  {
+    "id": "bag-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-warning",
+    "aliases": []
+  },
+  {
+    "id": "bag",
+    "aliases": []
+  },
+  {
     "id": "bell-outline",
     "aliases": [
       "notification-outline"
