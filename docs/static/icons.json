@@ -2946,35 +2946,279 @@
     ]
   },
   {
+    "id": "speech-bubble-arrow-down-outline",
+    "aliases": [
+      "chat-arrow-down-outline",
+      "conversation-arrow-down-outline",
+      "comment-arrow-down-outline",
+      "message-arrow-down-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-down",
+    "aliases": [
+      "chat-arrow-down",
+      "conversation-arrow-down",
+      "comment-arrow-down",
+      "message-arrow-down"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-left-outline",
+    "aliases": [
+      "chat-arrow-left-outline",
+      "conversation-arrow-left-outline",
+      "comment-arrow-left-outline",
+      "message-arrow-left-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-left",
+    "aliases": [
+      "chat-arrow-left",
+      "conversation-arrow-left",
+      "comment-arrow-left",
+      "message-arrow-left"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-right-outline",
+    "aliases": [
+      "chat-arrow-right-outline",
+      "conversation-arrow-right-outline",
+      "comment-arrow-right-outline",
+      "message-arrow-right-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-right",
+    "aliases": [
+      "chat-arrow-right",
+      "conversation-arrow-right",
+      "comment-arrow-right",
+      "message-arrow-right"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-up-outline",
+    "aliases": [
+      "chat-arrow-up-outline",
+      "conversation-arrow-up-outline",
+      "comment-arrow-up-outline",
+      "message-arrow-up-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-up",
+    "aliases": [
+      "chat-arrow-up",
+      "conversation-arrow-up",
+      "comment-arrow-up",
+      "message-arrow-up"
+    ]
+  },
+  {
+    "id": "speech-bubble-check-outline",
+    "aliases": [
+      "chat-check-outline",
+      "conversation-check-outline",
+      "comment-check-outline",
+      "message-check-outline",
+      "chat-tick-outline",
+      "conversation-tick-outline",
+      "comment-tick-outline",
+      "message-tick-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-check",
+    "aliases": [
+      "chat-bubble-check",
+      "conversation-bubble-check",
+      "comment-bubble-check",
+      "message-bubble-check",
+      "chat-tick",
+      "conversation-tick",
+      "comment-tick",
+      "message-tick"
+    ]
+  },
+  {
+    "id": "speech-bubble-cross-outline",
+    "aliases": [
+      "chat-cross-outline",
+      "conversation-cross-outline",
+      "comment-cross-outline",
+      "message-cross-outline",
+      "chat-close-outline",
+      "conversation-close-outline",
+      "comment-close-outline",
+      "message-close-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-cross",
+    "aliases": [
+      "chat-cross",
+      "conversation-cross",
+      "comment-cross",
+      "message-cross",
+      "chat-close",
+      "conversation-close",
+      "comment-close",
+      "message-close"
+    ]
+  },
+  {
+    "id": "speech-bubble-help-outline",
+    "aliases": [
+      "chat-help-outline",
+      "conversation-help-outline",
+      "comment-help-outline",
+      "message-help-outline",
+      "chat-question-outline",
+      "conversation-question-outline",
+      "comment-question-outline",
+      "message-question-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-help",
+    "aliases": [
+      "chat-bubble-help",
+      "conversation-bubble-help",
+      "comment-bubble-help",
+      "message-bubble-help",
+      "chat-question",
+      "conversation-question",
+      "comment-question",
+      "message-question"
+    ]
+  },
+  {
+    "id": "speech-bubble-info-outline",
+    "aliases": [
+      "chat-info-outline",
+      "conversation-info-outline",
+      "comment-info-outline",
+      "message-info-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-info",
+    "aliases": [
+      "chat-info",
+      "conversation-info",
+      "comment-info",
+      "message-info"
+    ]
+  },
+  {
+    "id": "speech-bubble-list-outline",
+    "aliases": [
+      "chat-list-outline",
+      "conversation-list-outline",
+      "comment-list-outline",
+      "message-list-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-list",
+    "aliases": [
+      "chat-list",
+      "conversation-list",
+      "comment-list",
+      "message-list"
+    ]
+  },
+  {
+    "id": "speech-bubble-minus-outline",
+    "aliases": [
+      "chat-minus-outline",
+      "conversation-minus-outline",
+      "comment-minus-outline",
+      "message-minus-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-minus",
+    "aliases": [
+      "chat-minus",
+      "conversation-minus",
+      "comment-minus",
+      "message-minus"
+    ]
+  },
+  {
+    "id": "speech-bubble-person-outline",
+    "aliases": [
+      "chat-person-outline",
+      "conversation-person-outline",
+      "comment-person-outline",
+      "message-person-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-person",
+    "aliases": [
+      "chat-person",
+      "conversation-person",
+      "comment-person",
+      "message-person"
+    ]
+  },
+  {
     "id": "speech-bubble-outline",
     "aliases": [
+      "chat-outline",
       "conversation-outline",
       "comment-outline",
       "message-outline"
     ]
   },
   {
+    "id": "speech-bubble-plus-outline",
+    "aliases": [
+      "chat-plus-outline",
+      "conversation-plus-outline",
+      "comment-plus-outline",
+      "message-plus-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-plus",
+    "aliases": [
+      "chat-plus",
+      "conversation-plus",
+      "comment-plus",
+      "message-plus"
+    ]
+  },
+  {
+    "id": "speech-bubble-warning-outline",
+    "aliases": [
+      "chat-warning-outline",
+      "conversation-warning-outline",
+      "comment-warning-outline",
+      "message-warning-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-warning",
+    "aliases": [
+      "chat-warning",
+      "conversation-warning",
+      "comment-warning",
+      "message-warning"
+    ]
+  },
+  {
     "id": "speech-bubble",
     "aliases": [
+      "chat",
       "conversation",
       "comment",
       "message"
-    ]
-  },
-  {
-    "id": "speech-bubbles-outline",
-    "aliases": [
-      "conversations-outline",
-      "comment-outline",
-      "messages-outline"
-    ]
-  },
-  {
-    "id": "speech-bubbles",
-    "aliases": [
-      "conversations",
-      "comment",
-      "messages"
     ]
   },
   {
