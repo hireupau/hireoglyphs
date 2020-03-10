@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "copy": "npm run copy:svg && npm run copy:sprite",
-    "copy:sprite": "rsync -a ./icons/svg/. ./docs/static/",
+    "copy:sprite": "rsync -a ./icons/svg/. ./docs/static/svg/",
     "copy:svg": "cp ./icons/sprite.svg ./docs/static/sprite.svg",
     "delete": "rm -r ./icons/*",
     "optimise": "svgo -f src -r -o icons/svg --config=svgo.json",
