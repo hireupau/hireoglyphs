@@ -1,47 +1,47 @@
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/svg-icon-system/'
-  }
-} : {}
+    base: '/svg-icon-system/',
+  },
+} : {};
 
 export default {
   mode: 'universal',
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'SVG Icon System',
     meta: [
       {
-        charset: 'utf-8'
+        charset: 'utf-8',
       },
       {
         name: 'viewport',
-        content: 'width=device-width, initial-scale=1'
+        content: 'width=device-width, initial-scale=1',
       },
       {
         hid: 'description',
         name: 'description',
-        content: process.env.npm_package_description || ''
-      }
+        content: '',
+      },
     ],
     link: [
       {
         rel: 'icon',
         type: 'image/x-icon',
-        href: '/favicon.ico'
-      }
-    ]
+        href: '/favicon.ico',
+      },
+    ],
   },
   loading: {
-    color: '#fff'
+    color: '#fff',
   },
   css: [
-    'assets/styles.css'
+    'assets/styles.css',
   ],
   buildModules: [
-    '@nuxtjs/eslint-module'
+    '@nuxtjs/eslint-module',
   ],
   ...routerBase,
   server: {
     port: 8000,
-    host: '0.0.0.0'
-  }
-}
+    host: '0.0.0.0',
+  },
+};
