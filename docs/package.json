@@ -2,7 +2,6 @@
   "name": "docs",
   "version": "0.0.1",
   "description": "",
-  "author": "Scott de Jonge",
   "private": true,
   "scripts": {
     "build": "DEPLOY_ENV=GH_PAGES nuxt build",
@@ -16,10 +15,15 @@
     "nuxt": "^2.0.0"
   },
   "devDependencies": {
+    "@hireupau/eslint-plugin-hu-vue": "^0.1.0",
     "@nuxtjs/eslint-config": "^2.0.0",
     "@nuxtjs/eslint-module": "^1.0.0",
+    "@vue/cli-plugin-eslint": "^4.2.3",
+    "@vue/cli-service": "^4.2.3",
+    "@vue/eslint-config-airbnb": "^5.0.2",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
-    "eslint-plugin-nuxt": ">=0.4.2"
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "eslint-plugin-vue": "^6.2.2"
   }
 }
