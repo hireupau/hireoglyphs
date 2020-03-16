@@ -1,13 +1,13 @@
 const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
   router: {
-    base: '/svg-icon-system/',
+    base: '/hireoglyphs/',
   },
 } : {};
 
 export default {
   mode: 'universal',
   head: {
-    title: 'SVG Icon System',
+    title: 'Hireoglyphs',
     meta: [
       {
         charset: 'utf-8',
