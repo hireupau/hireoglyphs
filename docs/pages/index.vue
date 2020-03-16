@@ -1,59 +1,65 @@
 <script>
-import Fuse from 'fuse.js'
-import Icons from '~/components/icons.vue'
-import icons from '~/static/icons.json'
+  import Fuse from 'fuse.js';
+  import Icons from '../components/icons.vue';
+  import icons from '../static/icons.json';
 
-export default {
-  icons,
-  components: {
-    Icons
-  },
-  data () {
-    return {
-      color: '#003454',
-      input: '',
-      icons,
-      size: 24
-    }
-  },
-  computed: {
-    filtered () {
-      const string = this.input.toLowerCase()
-      if (!string) {
-        return this.icons
-      }
-      const options = {
-        shouldSort: true,
-        threshold: 0.25,
-        location: 0,
-        distance: 100,
-        maxPatternLength: 32,
-        minMatchCharLength: 1,
-        keys: [
-          'id',
-          'aliases'
-        ]
-      }
-      const fuse = new Fuse(this.icons, options)
-      return fuse.search(string)
+  export default {
+    icons,
+    components: {
+      Icons,
     },
-    placeholder () {
-      return `Search ${this.icons.length} icons`
+    data() {
+      return {
+        color: '#003454',
+        input: '',
+        icons,
+        size: 24,
+      };
     },
-    style () {
-      return `color: ${this.color}`
-    }
-  }
-}
+    computed: {
+      filtered() {
+        const string = this.input.toLowerCase();
+        if (!string) {
+          return this.icons;
+        }
+        const options = {
+          shouldSort: true,
+          threshold: 0.25,
+          location: 0,
+          distance: 100,
+          maxPatternLength: 32,
+          minMatchCharLength: 1,
+          keys: [
+            'id',
+            'aliases',
+          ],
+        };
+        const fuse = new Fuse(this.icons, options);
+        return fuse.search(string);
+      },
+      placeholder() {
+        return `Search ${this.icons.length} icons`;
+      },
+      style() {
+        return `color: ${this.color}`;
+      },
+    },
+  };
 </script>
 
 <template>
-  <main aria-labelledby="page-title" :style="style">
+  <main
+    aria-labelledby="page-title"
+    v-bind:style="style"
+  >
     <div class="container">
       <h1 id="page-title">
         Icons
       </h1>
-      <form action="#" method="get">
+      <form
+        action="#"
+        method="get"
+      >
         <p class="field">
           <label for="search">Search</label>
           <input
@@ -61,8 +67,8 @@ export default {
             v-model.trim="input"
             type="search"
             class="input-search"
-            :placeholder="placeholder"
-          >
+            v-bind:placeholder="placeholder"
+          />
         </p>
         <fieldset>
           <legend>Settings</legend>
@@ -77,7 +83,7 @@ export default {
                 min="8"
                 max="96"
                 step="4"
-              >
+              />
             </p>
             <p class="field">
               <label for="color">Color</label>
@@ -88,14 +94,14 @@ export default {
                 min="8"
                 max="96"
                 step="4"
-              >
+              />
             </p>
           </div>
         </fieldset>
       </form>
       <Icons
-        :icons="filtered"
-        :size="size"
+        v-bind:icons="filtered"
+        v-bind:size="size"
       />
     </div>
   </main>

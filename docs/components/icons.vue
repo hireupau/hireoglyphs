@@ -1,32 +1,32 @@
 <script>
-import Icon from '~/components/icon.vue'
+  import Icon from './icon.vue';
 
-export default {
-  components: {
-    Icon
-  },
-  props: {
-    icons: {
-      type: Array,
-      required: true
+  export default {
+    components: {
+      Icon,
     },
-    size: {
-      type: Number,
-      default: 24
-    }
-  }
-}
+    props: {
+      icons: {
+        type: Array,
+        required: true,
+      },
+      size: {
+        type: Number,
+        default: 24,
+      },
+    },
+  };
 </script>
 
 <template>
   <ul class="grid">
     <li
       v-for="icon in icons"
-      :key="icon.id"
+      v-bind:key="icon.id"
     >
       <Icon
-        :icon="icon"
-        :size="size"
+        v-bind:icon="icon"
+        v-bind:size="size"
       />
     </li>
   </ul>

@@ -1,34 +1,34 @@
 <script>
-export default {
-  props: {
-    icon: {
-      type: Object,
-      required: true
+  export default {
+    props: {
+      icon: {
+        type: Object,
+        required: true,
+      },
+      size: {
+        type: Number,
+        default: 24,
+      },
     },
-    size: {
-      type: Number,
-      default: 24
-    }
-  },
-  computed: {
-    symbolId () {
-      return `#svg--${this.icon.id}`
+    computed: {
+      symbolId() {
+        return `#svg--${this.icon.id}`;
+      },
+      downloadUrl() {
+        return `${this.$router.options.base}svg/${this.icon.id}.svg`;
+      },
     },
-    downloadUrl () {
-      return `${this.$router.options.base}svg/${this.icon.id}.svg`
-    }
-  },
-  methods: {
-    copyToClipboard (event) {
-      if (!navigator.clipboard) {
-        return
-      }
+    methods: {
+      copyToClipboard(event) {
+        if (!navigator.clipboard) {
+          return;
+        }
 
-      const value = event.target.dataset.icon
-      navigator.clipboard.writeText(value)
-    }
-  }
-}
+        const value = event.target.dataset.icon;
+        navigator.clipboard.writeText(value);
+      },
+    },
+  };
 </script>
 
 <template>
@@ -36,8 +36,8 @@ export default {
     <div class="icon-inner">
       <svg
         class="icon-svg"
-        :height="size"
-        :width="size"
+        v-bind:height="size"
+        v-bind:width="size"
       >
         <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
@@ -47,14 +47,14 @@ export default {
       <button
         ref="copy"
         class="icon-copy"
-        :data-icon="icon.id"
-        @click="copyToClipboard"
+        v-bind:data-icon="icon.id"
+        v-on:click="copyToClipboard"
       >
         Copy<span class="visually-hidden"> to clipboard</span>
       </button>
       <a
         class="icon-download"
-        :href="downloadUrl"
+        v-bind:href="downloadUrl"
         download
       >
         Download
