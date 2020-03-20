@@ -2892,6 +2892,14 @@
     "aliases": []
   },
   {
+    "id": "sort-acending",
+    "aliases": []
+  },
+  {
+    "id": "sort-decending",
+    "aliases": []
+  },
+  {
     "id": "speaker-cross-outline",
     "aliases": [
       "speaker-close-outline",
