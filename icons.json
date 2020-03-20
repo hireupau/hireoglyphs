@@ -418,6 +418,14 @@
     ]
   },
   {
+    "id": "bag-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-divide",
+    "aliases": []
+  },
+  {
     "id": "bag-help-outline",
     "aliases": [
       "bag-question-outline"
@@ -463,6 +471,14 @@
   },
   {
     "id": "bag-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-percent",
     "aliases": []
   },
   {
@@ -598,6 +614,14 @@
     ]
   },
   {
+    "id": "calendar-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-divide",
+    "aliases": []
+  },
+  {
     "id": "calendar-help-outline",
     "aliases": [
       "calendar-question-outline"
@@ -643,6 +667,14 @@
   },
   {
     "id": "calendar-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-percent",
     "aliases": []
   },
   {
@@ -1208,6 +1240,14 @@
     ]
   },
   {
+    "id": "circle-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-divide",
+    "aliases": []
+  },
+  {
     "id": "circle-help-outline",
     "aliases": [
       "circle-question-outline"
@@ -1253,6 +1293,14 @@
   },
   {
     "id": "circle-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-percent",
     "aliases": []
   },
   {
@@ -1332,6 +1380,14 @@
     ]
   },
   {
+    "id": "clipboard-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-divide",
+    "aliases": []
+  },
+  {
     "id": "clipboard-help-outline",
     "aliases": [
       "clipboard-question-outline"
@@ -1377,6 +1433,14 @@
   },
   {
     "id": "clipboard-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-percent",
     "aliases": []
   },
   {
@@ -1464,6 +1528,14 @@
     ]
   },
   {
+    "id": "cloud-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-divide",
+    "aliases": []
+  },
+  {
     "id": "cloud-help-outline",
     "aliases": [
       "cloud-question-outline"
@@ -1509,6 +1581,14 @@
   },
   {
     "id": "cloud-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-percent",
     "aliases": []
   },
   {
@@ -1646,18 +1726,6 @@
     ]
   },
   {
-    "id": "dash-large",
-    "aliases": []
-  },
-  {
-    "id": "dash-small",
-    "aliases": []
-  },
-  {
-    "id": "dash",
-    "aliases": []
-  },
-  {
     "id": "device-desktop-outline",
     "aliases": []
   },
@@ -1687,6 +1755,18 @@
   },
   {
     "id": "device-tablet",
+    "aliases": []
+  },
+  {
+    "id": "divide-large",
+    "aliases": []
+  },
+  {
+    "id": "divide-small",
+    "aliases": []
+  },
+  {
+    "id": "divide",
     "aliases": []
   },
   {
@@ -1746,6 +1826,14 @@
     ]
   },
   {
+    "id": "document-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-divide",
+    "aliases": []
+  },
+  {
     "id": "document-help-outline",
     "aliases": [
       "document-question-outline"
@@ -1791,6 +1879,14 @@
   },
   {
     "id": "document-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-percent",
     "aliases": []
   },
   {
@@ -1946,6 +2042,14 @@
     ]
   },
   {
+    "id": "folder-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-divide",
+    "aliases": []
+  },
+  {
     "id": "folder-help-outline",
     "aliases": [
       "folder-question-outline"
@@ -1991,6 +2095,14 @@
   },
   {
     "id": "folder-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-percent",
     "aliases": []
   },
   {
@@ -2116,6 +2228,14 @@
     ]
   },
   {
+    "id": "hexagon-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-divide",
+    "aliases": []
+  },
+  {
     "id": "hexagon-help-outline",
     "aliases": [
       "hexagon-question-outline"
@@ -2161,6 +2281,14 @@
   },
   {
     "id": "hexagon-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-percent",
     "aliases": []
   },
   {
@@ -2256,6 +2384,14 @@
     ]
   },
   {
+    "id": "inbox-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-divide",
+    "aliases": []
+  },
+  {
     "id": "inbox-help-outline",
     "aliases": [
       "inbox-question-outline"
@@ -2301,6 +2437,14 @@
   },
   {
     "id": "inbox-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-percent",
     "aliases": []
   },
   {
@@ -2404,6 +2548,14 @@
     ]
   },
   {
+    "id": "label-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-divide",
+    "aliases": []
+  },
+  {
     "id": "label-help-outline",
     "aliases": [
       "label-question-outline"
@@ -2449,6 +2601,14 @@
   },
   {
     "id": "label-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-percent",
     "aliases": []
   },
   {
@@ -2644,6 +2804,18 @@
     ]
   },
   {
+    "id": "percent-large",
+    "aliases": []
+  },
+  {
+    "id": "percent-small",
+    "aliases": []
+  },
+  {
+    "id": "percent",
+    "aliases": []
+  },
+  {
     "id": "person-outline",
     "aliases": [
       "user-outline"
@@ -2788,6 +2960,14 @@
     ]
   },
   {
+    "id": "shield-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-divide",
+    "aliases": []
+  },
+  {
     "id": "shield-help-outline",
     "aliases": [
       "shield-question-outline"
@@ -2833,6 +3013,14 @@
   },
   {
     "id": "shield-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-percent",
     "aliases": []
   },
   {
@@ -2889,6 +3077,14 @@
   },
   {
     "id": "snapchat",
+    "aliases": []
+  },
+  {
+    "id": "sort-acending",
+    "aliases": []
+  },
+  {
+    "id": "sort-decending",
     "aliases": []
   },
   {
@@ -3070,6 +3266,24 @@
     ]
   },
   {
+    "id": "speech-bubble-divide-outline",
+    "aliases": [
+      "chat-divide-outline",
+      "conversation-divide-outline",
+      "comment-divide-outline",
+      "message-divide-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-divide",
+    "aliases": [
+      "chat-bubble-divide",
+      "conversation-bubble-divide",
+      "comment-bubble-divide",
+      "message-bubble-divide"
+    ]
+  },
+  {
     "id": "speech-bubble-help-outline",
     "aliases": [
       "chat-help-outline",
@@ -3174,6 +3388,24 @@
       "conversation-outline",
       "comment-outline",
       "message-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-percent-outline",
+    "aliases": [
+      "chat-percent-outline",
+      "conversation-percent-outline",
+      "comment-percent-outline",
+      "message-percent-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-percent",
+    "aliases": [
+      "chat-percent",
+      "conversation-percent",
+      "comment-percent",
+      "message-percent"
     ]
   },
   {
@@ -3282,6 +3514,14 @@
     ]
   },
   {
+    "id": "square-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-divide",
+    "aliases": []
+  },
+  {
     "id": "square-help-outline",
     "aliases": [
       "square-question-outline"
@@ -3327,6 +3567,14 @@
   },
   {
     "id": "square-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-percent",
     "aliases": []
   },
   {
@@ -3430,6 +3678,14 @@
     ]
   },
   {
+    "id": "tag-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-divide",
+    "aliases": []
+  },
+  {
     "id": "tag-help-outline",
     "aliases": [
       "tag-question-outline"
@@ -3475,6 +3731,14 @@
   },
   {
     "id": "tag-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-percent",
     "aliases": []
   },
   {
@@ -3594,6 +3858,14 @@
     ]
   },
   {
+    "id": "ticket-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-divide",
+    "aliases": []
+  },
+  {
     "id": "ticket-help-outline",
     "aliases": [
       "ticket-question-outline"
@@ -3639,6 +3911,14 @@
   },
   {
     "id": "ticket-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-percent",
     "aliases": []
   },
   {
@@ -3725,6 +4005,14 @@
     ]
   },
   {
+    "id": "triangle-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-divide",
+    "aliases": []
+  },
+  {
     "id": "triangle-help-outline",
     "aliases": [
       "triangle-question-outline"
@@ -3770,6 +4058,14 @@
   },
   {
     "id": "triangle-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-percent",
     "aliases": []
   },
   {
