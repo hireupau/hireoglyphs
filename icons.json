@@ -406,6 +406,38 @@
     ]
   },
   {
+    "id": "bag-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "bag-cross-outline",
     "aliases": [
       "bag-close-outline"
@@ -600,6 +632,38 @@
     "aliases": [
       "calendar-tick"
     ]
+  },
+  {
+    "id": "calendar-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-up",
+    "aliases": []
   },
   {
     "id": "calendar-cross-outline",
@@ -1228,6 +1292,38 @@
     ]
   },
   {
+    "id": "circle-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "circle-cross-outline",
     "aliases": [
       "circle-close-outline"
@@ -1366,6 +1462,38 @@
     "aliases": [
       "clipboard-tick"
     ]
+  },
+  {
+    "id": "clipboard-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-up",
+    "aliases": []
   },
   {
     "id": "clipboard-cross-outline",
@@ -1514,6 +1642,38 @@
     "aliases": [
       "cloud-tick"
     ]
+  },
+  {
+    "id": "cloud-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-up",
+    "aliases": []
   },
   {
     "id": "cloud-cross-outline",
@@ -1814,6 +1974,38 @@
     ]
   },
   {
+    "id": "document-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "document-cross-outline",
     "aliases": [
       "document-close-outline"
@@ -2030,6 +2222,38 @@
     ]
   },
   {
+    "id": "folder-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "folder-cross-outline",
     "aliases": [
       "folder-close-outline"
@@ -2216,6 +2440,38 @@
     ]
   },
   {
+    "id": "hexagon-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "hexagon-cross-outline",
     "aliases": [
       "hexagon-close-outline"
@@ -2370,6 +2626,38 @@
     "aliases": [
       "inbox-tick"
     ]
+  },
+  {
+    "id": "inbox-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-up",
+    "aliases": []
   },
   {
     "id": "inbox-cross-outline",
@@ -2534,6 +2822,38 @@
     "aliases": [
       "label-tick"
     ]
+  },
+  {
+    "id": "label-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-up",
+    "aliases": []
   },
   {
     "id": "label-cross-outline",
@@ -2948,6 +3268,38 @@
     ]
   },
   {
+    "id": "shield-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "shield-cross-outline",
     "aliases": [
       "shield-close-outline"
@@ -3240,6 +3592,78 @@
     ]
   },
   {
+    "id": "speech-bubble-chevron-down-outline",
+    "aliases": [
+      "chat-chevron-down-outline",
+      "conversation-chevron-down-outline",
+      "comment-chevron-down-outline",
+      "message-chevron-down-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-down",
+    "aliases": [
+      "chat-chevron-down",
+      "conversation-chevron-down",
+      "comment-chevron-down",
+      "message-chevron-down"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-left-outline",
+    "aliases": [
+      "chat-chevron-left-outline",
+      "conversation-chevron-left-outline",
+      "comment-chevron-left-outline",
+      "message-chevron-left-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-left",
+    "aliases": [
+      "chat-chevron-left",
+      "conversation-chevron-left",
+      "comment-chevron-left",
+      "message-chevron-left"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-right-outline",
+    "aliases": [
+      "chat-chevron-right-outline",
+      "conversation-chevron-right-outline",
+      "comment-chevron-right-outline",
+      "message-chevron-right-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-right",
+    "aliases": [
+      "chat-chevron-right",
+      "conversation-chevron-right",
+      "comment-chevron-right",
+      "message-chevron-right"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-up-outline",
+    "aliases": [
+      "chat-chevron-up-outline",
+      "conversation-chevron-up-outline",
+      "comment-chevron-up-outline",
+      "message-chevron-up-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-up",
+    "aliases": [
+      "chat-chevron-up",
+      "conversation-chevron-up",
+      "comment-chevron-up",
+      "message-chevron-up"
+    ]
+  },
+  {
     "id": "speech-bubble-cross-outline",
     "aliases": [
       "chat-cross-outline",
@@ -3502,6 +3926,38 @@
     ]
   },
   {
+    "id": "square-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "square-cross-outline",
     "aliases": [
       "square-close-outline"
@@ -3664,6 +4120,38 @@
     "aliases": [
       "tag-tick"
     ]
+  },
+  {
+    "id": "tag-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-up",
+    "aliases": []
   },
   {
     "id": "tag-cross-outline",
@@ -3846,6 +4334,38 @@
     ]
   },
   {
+    "id": "ticket-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-up",
+    "aliases": []
+  },
+  {
     "id": "ticket-cross-outline",
     "aliases": [
       "ticket-close-outline"
@@ -3991,6 +4511,38 @@
     "aliases": [
       "triangle-tick"
     ]
+  },
+  {
+    "id": "triangle-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-up",
+    "aliases": []
   },
   {
     "id": "triangle-cross-outline",
