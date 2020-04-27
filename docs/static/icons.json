@@ -3988,6 +3988,24 @@
     ]
   },
   {
+    "id": "speech-bubbles-outline",
+    "aliases": [
+      "chats-outline",
+      "conversations-outline",
+      "comments-outline",
+      "messages-outline"
+    ]
+  },
+  {
+    "id": "speech-bubbles",
+    "aliases": [
+      "chats",
+      "conversations",
+      "comments",
+      "messages"
+    ]
+  },
+  {
     "id": "spinner",
     "aliases": []
   },
