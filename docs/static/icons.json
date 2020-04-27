@@ -530,6 +530,14 @@
     "aliases": []
   },
   {
+    "id": "bag-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "bag-star",
+    "aliases": []
+  },
+  {
     "id": "bag",
     "aliases": []
   },
@@ -755,6 +763,14 @@
   },
   {
     "id": "calendar-warning",
+    "aliases": []
+  },
+  {
+    "id": "calendar-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "calendar-star",
     "aliases": []
   },
   {
@@ -1416,6 +1432,14 @@
     "aliases": []
   },
   {
+    "id": "circle-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "circle-star",
+    "aliases": []
+  },
+  {
     "id": "circle",
     "aliases": []
   },
@@ -1585,6 +1609,14 @@
   },
   {
     "id": "clipboard-warning",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-star",
     "aliases": []
   },
   {
@@ -1765,6 +1797,14 @@
   },
   {
     "id": "cloud-warning",
+    "aliases": []
+  },
+  {
+    "id": "cloud-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "cloud-star",
     "aliases": []
   },
   {
@@ -2098,6 +2138,14 @@
     "aliases": []
   },
   {
+    "id": "document-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "document-star",
+    "aliases": []
+  },
+  {
     "id": "document",
     "aliases": []
   },
@@ -2346,6 +2394,14 @@
     "aliases": []
   },
   {
+    "id": "folder-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "folder-star",
+    "aliases": []
+  },
+  {
     "id": "folder",
     "aliases": []
   },
@@ -2568,6 +2624,14 @@
     "aliases": []
   },
   {
+    "id": "hexagon-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-star",
+    "aliases": []
+  },
+  {
     "id": "hexagon",
     "aliases": []
   },
@@ -2753,6 +2817,14 @@
   },
   {
     "id": "inbox-warning",
+    "aliases": []
+  },
+  {
+    "id": "inbox-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "inbox-star",
     "aliases": []
   },
   {
@@ -2949,6 +3021,14 @@
   },
   {
     "id": "label-warning",
+    "aliases": []
+  },
+  {
+    "id": "label-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "label-star",
     "aliases": []
   },
   {
@@ -3393,6 +3473,14 @@
   },
   {
     "id": "shield-warning",
+    "aliases": []
+  },
+  {
+    "id": "shield-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "shield-star",
     "aliases": []
   },
   {
@@ -3873,6 +3961,24 @@
     ]
   },
   {
+    "id": "speech-bubble-star-outline",
+    "aliases": [
+      "chat-star-outline",
+      "conversation-star-outline",
+      "comment-star-outline",
+      "message-star-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-star",
+    "aliases": [
+      "chat-star",
+      "conversation-star",
+      "comment-star",
+      "message-star"
+    ]
+  },
+  {
     "id": "speech-bubble",
     "aliases": [
       "chat",
@@ -4051,6 +4157,14 @@
   },
   {
     "id": "square-warning",
+    "aliases": []
+  },
+  {
+    "id": "square-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "square-star",
     "aliases": []
   },
   {
@@ -4247,6 +4361,14 @@
   },
   {
     "id": "tag-warning",
+    "aliases": []
+  },
+  {
+    "id": "tag-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "tag-star",
     "aliases": []
   },
   {
@@ -4462,6 +4584,14 @@
     "aliases": []
   },
   {
+    "id": "ticket-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "ticket-star",
+    "aliases": []
+  },
+  {
     "id": "ticket",
     "aliases": []
   },
@@ -4638,6 +4768,14 @@
   },
   {
     "id": "triangle-warning",
+    "aliases": []
+  },
+  {
+    "id": "triangle-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "triangle-star",
     "aliases": []
   },
   {
