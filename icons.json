@@ -3220,16 +3220,184 @@
     "aliases": []
   },
   {
-    "id": "person-outline",
+    "id": "person-arrow-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-down",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up",
+    "aliases": []
+  },
+  {
+    "id": "person-check-outline",
     "aliases": [
-      "user-outline"
+      "person-tick-outline"
     ]
   },
   {
-    "id": "person",
+    "id": "person-check",
     "aliases": [
-      "user"
+      "person-tick"
     ]
+  },
+  {
+    "id": "person-chevron-down-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-down",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-left-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-left",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-right-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-right",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-up-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-up",
+    "aliases": []
+  },
+  {
+    "id": "person-cross-outline",
+    "aliases": [
+      "person-close-outline"
+    ]
+  },
+  {
+    "id": "person-cross",
+    "aliases": [
+      "person-close"
+    ]
+  },
+  {
+    "id": "person-divide-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-divide",
+    "aliases": []
+  },
+  {
+    "id": "person-help-outline",
+    "aliases": [
+      "person-question-outline"
+    ]
+  },
+  {
+    "id": "person-help",
+    "aliases": [
+      "person-question"
+    ]
+  },
+  {
+    "id": "person-info-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-info",
+    "aliases": []
+  },
+  {
+    "id": "person-list-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-list",
+    "aliases": []
+  },
+  {
+    "id": "person-minus-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-minus",
+    "aliases": []
+  },
+  {
+    "id": "person-person-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-person",
+    "aliases": []
+  },
+  {
+    "id": "person-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-percent-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-percent",
+    "aliases": []
+  },
+  {
+    "id": "person-plus-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-plus",
+    "aliases": []
+  },
+  {
+    "id": "person-warning-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-warning",
+    "aliases": []
+  },
+  {
+    "id": "person-star-outline",
+    "aliases": []
+  },
+  {
+    "id": "person-star",
+    "aliases": []
+  },
+  {
+    "id": "person",
+    "aliases": []
   },
   {
     "id": "phone-outline",
