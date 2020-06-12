@@ -1,51 +1,51 @@
 [
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-in-down",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-in-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-in-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-in-up",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-in",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-out-down",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-out-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-out-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-out-up",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrow-bar-out",
     "aliases": []
   },
@@ -330,117 +330,117 @@
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrows-bar-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrows-bar-in-vertical",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrows-bar-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrow-bar",
     "id": "arrows-bar-out-vertical",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-down-up",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-down",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-in-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-in-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-in-vertical",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-in",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-left-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-out-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-out-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-out-vertical",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-out",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-right-left",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-right",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-up-down",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows-up",
     "aliases": []
   },
   {
-    "folder": "arrow",
+    "folder": "arrows",
     "id": "arrows",
     "aliases": []
   },
@@ -980,52 +980,52 @@
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-in-down",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-in-left",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-in-right",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-in-up",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-in",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-out-down",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-out-left",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-out-right",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-out-up",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "caret-bar-out",
     "aliases": []
   },
@@ -1165,97 +1165,97 @@
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "carets-bar-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "carets-bar-in-vertical",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "carets-bar-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "caret-bar",
     "id": "carets-bar-out-vertical",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-down",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-in-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-in-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-in-vertical",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-in",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-left",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-out-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-out-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-out-vertical",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-out",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-right",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets-up",
     "aliases": []
   },
   {
-    "folder": "caret",
+    "folder": "carets",
     "id": "carets",
     "aliases": []
   },
@@ -1281,52 +1281,52 @@
     ]
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-in-down",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-in-left",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-in-right",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-in-up",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-in",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-out-down",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-out-left",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-out-right",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-out-up",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevron-bar-out",
     "aliases": []
   },
@@ -1466,101 +1466,101 @@
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevrons-bar-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevrons-bar-in-vertical",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevrons-bar-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevron-bar",
     "id": "chevrons-bar-out-vertical",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-down",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-in-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-in-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-in-horizontal",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-in-vertical",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-in",
     "aliases": [
       "collapse"
     ]
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-left",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-out-bottom-left-top-right",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-out-bottom-right-top-left",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-out-horizontal",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-out-vertical",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-out",
     "aliases": [
       "expand"
     ]
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-right",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons-up",
     "aliases": []
   },
   {
-    "folder": "chevron",
+    "folder": "chevrons",
     "id": "chevrons",
     "aliases": []
   },
