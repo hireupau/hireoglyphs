@@ -1,559 +1,692 @@
 [
   {
+    "folder": "arrow",
     "id": "arrow-bar-in-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-in-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-in-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-in-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-in",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-out-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-out-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-out-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-out-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bar-out",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-down",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in-up",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-in",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-down",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out-up",
     "aliases": [
       "share"
     ]
   },
   {
+    "folder": "arrow-box",
     "id": "arrow-box-out",
     "aliases": [
       "share"
     ]
   },
   {
+    "folder": "arrow",
     "id": "arrow-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-large",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-small",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-bottom-left",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-bottom-right",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-down",
     "aliases": [
       "import"
     ]
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-left",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-right",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray-up",
     "aliases": [
       "export"
     ]
   },
   {
+    "folder": "arrow-tray",
     "id": "arrow-tray",
     "aliases": [
       "export"
     ]
   },
   {
+    "folder": "arrow",
     "id": "arrow-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrow",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-bar-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-bar-in-vertical",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-bar-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-bar-out-vertical",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-down-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-in-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-in-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-in-vertical",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-in",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-left-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-out-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-out-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-out-vertical",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-out",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-right-left",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-right",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-up-down",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows-up",
     "aliases": []
   },
   {
+    "folder": "arrow",
     "id": "arrows",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "at",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-down",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-left",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-right",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-arrow-up",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-check-outline",
     "aliases": [
       "bag-tick-outline"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-check",
     "aliases": [
       "bag-tick"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-down",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-left",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-right",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-chevron-up",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-cross-outline",
     "aliases": [
       "bag-close-outline"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-cross",
     "aliases": [
       "bag-close"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-divide-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-divide",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-help-outline",
     "aliases": [
       "bag-question-outline"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-help",
     "aliases": [
       "bag-question"
     ]
   },
   {
+    "folder": "bag",
     "id": "bag-info-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-info",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-list-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-list",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-minus-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-minus",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-person-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-person",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-percent-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-percent",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-plus-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-plus",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-warning-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-warning",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-star-outline",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag-star",
     "aliases": []
   },
   {
+    "folder": "bag",
     "id": "bag",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "bell-outline",
     "aliases": [
       "notification-outline"
     ]
   },
   {
+    "folder": "general",
     "id": "bell",
     "aliases": [
       "notification"
     ]
   },
   {
+    "folder": "general",
     "id": "bin-outline",
     "aliases": [
       "rubbish-outline",
@@ -561,6 +694,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "bin",
     "aliases": [
       "rubbish",
@@ -568,18 +702,22 @@
     ]
   },
   {
+    "folder": "general",
     "id": "bluetooth",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "bookmark-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "bookmark",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "briefcase-outline",
     "aliases": [
       "job-outline",
@@ -587,6 +725,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "briefcase",
     "aliases": [
       "job",
@@ -594,1224 +733,1515 @@
     ]
   },
   {
+    "folder": "general",
     "id": "calculator",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-down",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-left",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-right",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-arrow-up",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-check-outline",
     "aliases": [
       "calendar-tick-outline"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-check",
     "aliases": [
       "calendar-tick"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-down",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-left",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-right",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-chevron-up",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-cross-outline",
     "aliases": [
       "calendar-close-outline"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-cross",
     "aliases": [
       "calendar-close"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-divide-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-divide",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-help-outline",
     "aliases": [
       "calendar-question-outline"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-help",
     "aliases": [
       "calendar-question"
     ]
   },
   {
+    "folder": "calendar",
     "id": "calendar-info-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-info",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-list-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-list",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-minus-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-minus",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-person-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-person",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-percent-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-percent",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-plus-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-plus",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-warning-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-warning",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-star-outline",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar-star",
     "aliases": []
   },
   {
+    "folder": "calendar",
     "id": "calendar",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "camera-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "camera",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "car-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "car",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-in-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-in-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-in-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-in-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-in",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-out-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-out-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-out-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-out-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bar-out",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bottom-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-bottom-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-bottom-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-bottom-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-top-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-top-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-large",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-bottom-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-bottom-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-top-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-top-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-small",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-top-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-top-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "caret",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-bar-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-bar-in-vertical",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-bar-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-bar-out-vertical",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-down",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-in-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-in-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-in-vertical",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-in",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-out-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-out-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-out-vertical",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-out",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-right",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets-up",
     "aliases": []
   },
   {
+    "folder": "caret",
     "id": "carets",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "check-large",
     "aliases": [
       "tick-large"
     ]
   },
   {
+    "folder": "general",
     "id": "check-small",
     "aliases": [
       "tick-small"
     ]
   },
   {
+    "folder": "general",
     "id": "check",
     "aliases": [
       "tick"
     ]
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-in-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-in-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-in-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-in-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-in",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-out-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-out-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-out-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-out-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bar-out",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bottom-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-bottom-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-bottom-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-bottom-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-top-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-top-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-large",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-bottom-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-bottom-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-top-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-top-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-small",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-top-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-top-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevron",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-bar-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-bar-in-vertical",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-bar-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-bar-out-vertical",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-down",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-in-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-in-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-in-horizontal",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-in-vertical",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-in",
     "aliases": [
       "collapse"
     ]
   },
   {
+    "folder": "chevron",
     "id": "chevrons-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-out-bottom-left-top-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-out-bottom-right-top-left",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-out-horizontal",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-out-vertical",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-out",
     "aliases": [
       "expand"
     ]
   },
   {
+    "folder": "chevron",
     "id": "chevrons-right",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons-up",
     "aliases": []
   },
   {
+    "folder": "chevron",
     "id": "chevrons",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-down",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-left",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-right",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-arrow-up",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-check-outline",
     "aliases": [
       "circle-tick-outline"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-check",
     "aliases": [
       "circle-tick"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-down",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-left",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-right",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-chevron-up",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-cross-outline",
     "aliases": [
       "circle-close-outline"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-cross",
     "aliases": [
       "circle-close"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-divide-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-divide",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-help-outline",
     "aliases": [
       "circle-question-outline"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-help",
     "aliases": [
       "circle-question"
     ]
   },
   {
+    "folder": "circle",
     "id": "circle-info-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-info",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-list-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-list",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-minus-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-minus",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-person-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-person",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-percent-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-percent",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-plus-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-plus",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-warning-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-warning",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-star-outline",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle-star",
     "aliases": []
   },
   {
+    "folder": "circle",
     "id": "circle",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-down",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-left",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-right",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-arrow-up",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-check-outline",
     "aliases": [
       "clipboard-tick-outline"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-check",
     "aliases": [
       "clipboard-tick"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-down",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-left",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-right",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-chevron-up",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-cross-outline",
     "aliases": [
       "clipboard-close-outline"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-cross",
     "aliases": [
       "clipboard-close"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-divide-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-divide",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-help-outline",
     "aliases": [
       "clipboard-question-outline"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-help",
     "aliases": [
       "clipboard-question"
     ]
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-info-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-info",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-list-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-list",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-minus-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-minus",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-person-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-person",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-percent-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-percent",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-plus-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-plus",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-warning-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-warning",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-star-outline",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard-star",
     "aliases": []
   },
   {
+    "folder": "clipboard",
     "id": "clipboard",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "clock-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "clock",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-down",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-left",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-right",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-arrow-up",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-check-outline",
     "aliases": [
       "cloud-tick-outline"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-check",
     "aliases": [
       "cloud-tick"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-down",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-left",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-right",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-chevron-up",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-cross-outline",
     "aliases": [
       "cloud-close-outline"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-cross",
     "aliases": [
       "cloud-close"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-divide-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-divide",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-help-outline",
     "aliases": [
       "cloud-question-outline"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-help",
     "aliases": [
       "cloud-question"
     ]
   },
   {
+    "folder": "cloud",
     "id": "cloud-info-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-info",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-list-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-list",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-minus-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-minus",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-person-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-person",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-percent-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-percent",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-plus-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-plus",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-warning-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-warning",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-star-outline",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud-star",
     "aliases": []
   },
   {
+    "folder": "cloud",
     "id": "cloud",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "cog-outline",
     "aliases": [
       "gear-outline",
@@ -1820,6 +2250,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "cog",
     "aliases": [
       "gear",
@@ -1828,368 +2259,450 @@
     ]
   },
   {
+    "folder": "general",
     "id": "command",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "copy-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "copy",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "credit-card-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "credit-card",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "cross-large",
     "aliases": [
       "close-large"
     ]
   },
   {
+    "folder": "general",
     "id": "cross-small",
     "aliases": [
       "close-small"
     ]
   },
   {
+    "folder": "general",
     "id": "cross",
     "aliases": [
       "close"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-yen",
     "aliases": [
       "money-yen"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-yen-outline",
     "aliases": [
       "money-yen-outline"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-pound",
     "aliases": [
       "money-pound"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-rupee-outline",
     "aliases": [
       "money-rupee-outline"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-rupee",
     "aliases": [
       "money-rupee"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-euro-outline",
     "aliases": [
       "money-euro-outline"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-euro",
     "aliases": [
       "money-euro"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-pound-outline",
     "aliases": [
       "money-pound-outline"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-dollar-outline",
     "aliases": [
       "money-dollar-outline"
     ]
   },
   {
+    "folder": "currency",
     "id": "currency-dollar",
     "aliases": [
       "money-dollar"
     ]
   },
   {
+    "folder": "device",
     "id": "device-desktop-outline",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-desktop",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-laptop-outline",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-laptop",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-mobile-outline",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-mobile",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-tablet-outline",
     "aliases": []
   },
   {
+    "folder": "device",
     "id": "device-tablet",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "divide-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "divide-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "divide",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-down",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-left",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-right",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-arrow-up",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-check-outline",
     "aliases": [
       "document-tick-outline"
     ]
   },
   {
+    "folder": "document",
     "id": "document-check",
     "aliases": [
       "document-tick"
     ]
   },
   {
+    "folder": "document",
     "id": "document-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-down",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-left",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-right",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-chevron-up",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-cross-outline",
     "aliases": [
       "document-close-outline"
     ]
   },
   {
+    "folder": "document",
     "id": "document-cross",
     "aliases": [
       "document-close"
     ]
   },
   {
+    "folder": "document",
     "id": "document-divide-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-divide",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-help-outline",
     "aliases": [
       "document-question-outline"
     ]
   },
   {
+    "folder": "document",
     "id": "document-help",
     "aliases": [
       "document-question"
     ]
   },
   {
+    "folder": "document",
     "id": "document-info-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-info",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-list-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-list",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-minus-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-minus",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-person-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-person",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-percent-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-percent",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-plus-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-plus",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-warning-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-warning",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-star-outline",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document-star",
     "aliases": []
   },
   {
+    "folder": "document",
     "id": "document",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot-large-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot-small-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "dot",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "education-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "education",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "envelope-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "envelope",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "equalizer-horizontal",
     "aliases": [
       "adjustments-horizontal",
@@ -2198,6 +2711,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "equalizer-vertical",
     "aliases": [
       "adjustments-vertical",
@@ -2206,1500 +2720,1849 @@
     ]
   },
   {
+    "folder": "general",
     "id": "eye-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "eye",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "facebook",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "flag-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "flag",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-down",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-left",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-right",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-arrow-up",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-check-outline",
     "aliases": [
       "folder-tick-outline"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-check",
     "aliases": [
       "folder-tick"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-down",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-left",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-right",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-chevron-up",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-cross-outline",
     "aliases": [
       "folder-close-outline"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-cross",
     "aliases": [
       "folder-close"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-divide-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-divide",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-help-outline",
     "aliases": [
       "folder-question-outline"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-help",
     "aliases": [
       "folder-question"
     ]
   },
   {
+    "folder": "folder",
     "id": "folder-info-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-info",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-list-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-list",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-minus-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-minus",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-person-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-person",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-percent-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-percent",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-plus-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-plus",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-warning-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-warning",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-star-outline",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder-star",
     "aliases": []
   },
   {
+    "folder": "folder",
     "id": "folder",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "globe",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "grid",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "hamburger",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "hash",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "headphones-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "headphones",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "heart-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "heart",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "help-large",
     "aliases": [
       "question-large"
     ]
   },
   {
+    "folder": "general",
     "id": "help-small",
     "aliases": [
       "question-small"
     ]
   },
   {
+    "folder": "general",
     "id": "help",
     "aliases": [
       "question"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-down",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-left",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-right",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-arrow-up",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-check-outline",
     "aliases": [
       "hexagon-tick-outline"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-check",
     "aliases": [
       "hexagon-tick"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-down",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-left",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-right",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-chevron-up",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-cross-outline",
     "aliases": [
       "hexagon-close-outline"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-cross",
     "aliases": [
       "hexagon-close"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-divide-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-divide",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-help-outline",
     "aliases": [
       "hexagon-question-outline"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-help",
     "aliases": [
       "hexagon-question"
     ]
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-info-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-info",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-list-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-list",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-minus-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-minus",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-person-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-person",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-percent-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-percent",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-plus-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-plus",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-warning-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-warning",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-star-outline",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon-star",
     "aliases": []
   },
   {
+    "folder": "hexagon",
     "id": "hexagon",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "house-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "house",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "image-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "image",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-down",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-left",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-right",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-arrow-up",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-check-outline",
     "aliases": [
       "inbox-tick-outline"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-check",
     "aliases": [
       "inbox-tick"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-down",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-left",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-right",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-chevron-up",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-cross-outline",
     "aliases": [
       "inbox-close-outline"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-cross",
     "aliases": [
       "inbox-close"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-divide-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-divide",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-help-outline",
     "aliases": [
       "inbox-question-outline"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-help",
     "aliases": [
       "inbox-question"
     ]
   },
   {
+    "folder": "inbox",
     "id": "inbox-info-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-info",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-list-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-list",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-minus-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-minus",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-person-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-person",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-percent-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-percent",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-plus-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-plus",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-warning-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-warning",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-star-outline",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox-star",
     "aliases": []
   },
   {
+    "folder": "inbox",
     "id": "inbox",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "info-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "info-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "info",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "instagram",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "key-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "key",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-down",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-left",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-right",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-arrow-up",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-check-outline",
     "aliases": [
       "label-tick-outline"
     ]
   },
   {
+    "folder": "label",
     "id": "label-check",
     "aliases": [
       "label-tick"
     ]
   },
   {
+    "folder": "label",
     "id": "label-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-down",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-left",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-right",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-chevron-up",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-cross-outline",
     "aliases": [
       "label-close-outline"
     ]
   },
   {
+    "folder": "label",
     "id": "label-cross",
     "aliases": [
       "label-close"
     ]
   },
   {
+    "folder": "label",
     "id": "label-divide-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-divide",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-help-outline",
     "aliases": [
       "label-question-outline"
     ]
   },
   {
+    "folder": "label",
     "id": "label-help",
     "aliases": [
       "label-question"
     ]
   },
   {
+    "folder": "label",
     "id": "label-info-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-info",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-list-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-list",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-minus-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-minus",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-person-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-person",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-percent-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-percent",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-plus-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-plus",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-warning-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-warning",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-star-outline",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label-star",
     "aliases": []
   },
   {
+    "folder": "label",
     "id": "label",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "link",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "linkedin",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "list-check",
     "aliases": [
       "list-tick"
     ]
   },
   {
+    "folder": "general",
     "id": "list-point",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "list",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "light-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "light",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "lightning-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "lightning",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "lock-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "lock",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "magnifier-circle-outline",
     "aliases": [
       "search-circle-outline"
     ]
   },
   {
+    "folder": "general",
     "id": "magnifier-circle",
     "aliases": [
       "search-circle"
     ]
   },
   {
+    "folder": "general",
     "id": "magnifier-minus",
     "aliases": [
       "search-minus"
     ]
   },
   {
+    "folder": "general",
     "id": "magnifier-plus",
     "aliases": [
       "search-plus"
     ]
   },
   {
+    "folder": "general",
     "id": "magnifier",
     "aliases": [
       "search"
     ]
   },
   {
+    "folder": "general",
     "id": "map-pin-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "map-pin",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "messenger",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "microphone-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "microphone",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "minus-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "minus-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "minus",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "moon-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "moon",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "no",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "no-alt",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "paperclip",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "pause-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "pause",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "paw-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "paw",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "pen-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "pen",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "pencil-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "pencil",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "people-outline",
     "aliases": [
       "users-outline"
     ]
   },
   {
+    "folder": "general",
     "id": "people",
     "aliases": [
       "users"
     ]
   },
   {
+    "folder": "general",
     "id": "percent-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "percent-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "percent",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-down",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-left",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-right",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-arrow-up",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-check-outline",
     "aliases": [
       "person-tick-outline"
     ]
   },
   {
+    "folder": "person",
     "id": "person-check",
     "aliases": [
       "person-tick"
     ]
   },
   {
+    "folder": "person",
     "id": "person-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-down",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-left",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-right",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-chevron-up",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-cross-outline",
     "aliases": [
       "person-close-outline"
     ]
   },
   {
+    "folder": "person",
     "id": "person-cross",
     "aliases": [
       "person-close"
     ]
   },
   {
+    "folder": "person",
     "id": "person-divide-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-divide",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-help-outline",
     "aliases": [
       "person-question-outline"
     ]
   },
   {
+    "folder": "person",
     "id": "person-help",
     "aliases": [
       "person-question"
     ]
   },
   {
+    "folder": "person",
     "id": "person-info-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-info",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-list-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-list",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-minus-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-minus",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-person-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-person",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-percent-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-percent",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-plus-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-plus",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-warning-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-warning",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-star-outline",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person-star",
     "aliases": []
   },
   {
+    "folder": "person",
     "id": "person",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "phone-outline",
     "aliases": [
       "telephone"
     ]
   },
   {
+    "folder": "general",
     "id": "phone",
     "aliases": [
       "telephone"
     ]
   },
   {
+    "folder": "general",
     "id": "pin-outline",
     "aliases": [
       "pushpin-outline"
     ]
   },
   {
+    "folder": "general",
     "id": "pin",
     "aliases": [
       "pushpin"
     ]
   },
   {
+    "folder": "media",
     "id": "play-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "play",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "plus-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "plus-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "plus",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "print-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "print",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "radio",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "receipt-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "receipt",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "refresh-alt",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "refresh",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "scissors",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-down",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-left",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-right",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-arrow-up",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-check-outline",
     "aliases": [
       "shield-tick-outline"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-check",
     "aliases": [
       "shield-tick"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-down",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-left",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-right",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-chevron-up",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-cross-outline",
     "aliases": [
       "shield-close-outline"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-cross",
     "aliases": [
       "shield-close"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-divide-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-divide",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-help-outline",
     "aliases": [
       "shield-question-outline"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-help",
     "aliases": [
       "shield-question"
     ]
   },
   {
+    "folder": "shield",
     "id": "shield-info-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-info",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-list-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-list",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-minus-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-minus",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-person-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-person",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-percent-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-percent",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-plus-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-plus",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-warning-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-warning",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-star-outline",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield-star",
     "aliases": []
   },
   {
+    "folder": "shield",
     "id": "shield",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-backward-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-backward",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-end-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-end",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-forward-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-forward",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-start-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "skip-start",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "snapchat",
     "aliases": []
   },
   {
-    "id": "sort-acending",
+    "folder": "general",
+    "id": "sort-ascending",
     "aliases": []
   },
   {
-    "id": "sort-decending",
+    "folder": "general",
+    "id": "sort-descending",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "speaker-cross-outline",
     "aliases": [
       "speaker-close-outline",
@@ -3707,6 +4570,7 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-cross",
     "aliases": [
       "speaker-close",
@@ -3714,6 +4578,7 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-decrease-outline",
     "aliases": [
       "volume-decrease-outline",
@@ -3721,6 +4586,7 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-decrease",
     "aliases": [
       "volume-decrease",
@@ -3728,6 +4594,7 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-increase-outline",
     "aliases": [
       "volume-increase-outline",
@@ -3735,6 +4602,7 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-increase",
     "aliases": [
       "volume-increase",
@@ -3742,18 +4610,21 @@
     ]
   },
   {
+    "folder": "media",
     "id": "speaker-outline",
     "aliases": [
       "volume-outline"
     ]
   },
   {
+    "folder": "media",
     "id": "speaker",
     "aliases": [
       "volume"
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-down-outline",
     "aliases": [
       "chat-arrow-down-outline",
@@ -3763,6 +4634,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-down",
     "aliases": [
       "chat-arrow-down",
@@ -3772,6 +4644,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-left-outline",
     "aliases": [
       "chat-arrow-left-outline",
@@ -3781,6 +4654,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-left",
     "aliases": [
       "chat-arrow-left",
@@ -3790,6 +4664,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-right-outline",
     "aliases": [
       "chat-arrow-right-outline",
@@ -3799,6 +4674,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-right",
     "aliases": [
       "chat-arrow-right",
@@ -3808,6 +4684,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-up-outline",
     "aliases": [
       "chat-arrow-up-outline",
@@ -3817,6 +4694,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-arrow-up",
     "aliases": [
       "chat-arrow-up",
@@ -3826,6 +4704,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-check-outline",
     "aliases": [
       "chat-check-outline",
@@ -3839,6 +4718,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-check",
     "aliases": [
       "chat-bubble-check",
@@ -3852,6 +4732,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-down-outline",
     "aliases": [
       "chat-chevron-down-outline",
@@ -3861,6 +4742,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-down",
     "aliases": [
       "chat-chevron-down",
@@ -3870,6 +4752,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-left-outline",
     "aliases": [
       "chat-chevron-left-outline",
@@ -3879,6 +4762,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-left",
     "aliases": [
       "chat-chevron-left",
@@ -3888,6 +4772,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-right-outline",
     "aliases": [
       "chat-chevron-right-outline",
@@ -3897,6 +4782,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-right",
     "aliases": [
       "chat-chevron-right",
@@ -3906,6 +4792,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-up-outline",
     "aliases": [
       "chat-chevron-up-outline",
@@ -3915,6 +4802,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-chevron-up",
     "aliases": [
       "chat-chevron-up",
@@ -3924,6 +4812,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-cross-outline",
     "aliases": [
       "chat-cross-outline",
@@ -3937,6 +4826,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-cross",
     "aliases": [
       "chat-cross",
@@ -3950,6 +4840,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-divide-outline",
     "aliases": [
       "chat-divide-outline",
@@ -3959,6 +4850,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-divide",
     "aliases": [
       "chat-bubble-divide",
@@ -3968,6 +4860,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-help-outline",
     "aliases": [
       "chat-help-outline",
@@ -3981,6 +4874,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-help",
     "aliases": [
       "chat-bubble-help",
@@ -3994,6 +4888,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-info-outline",
     "aliases": [
       "chat-info-outline",
@@ -4003,6 +4898,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-info",
     "aliases": [
       "chat-info",
@@ -4012,6 +4908,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-list-outline",
     "aliases": [
       "chat-list-outline",
@@ -4021,6 +4918,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-list",
     "aliases": [
       "chat-list",
@@ -4030,6 +4928,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-minus-outline",
     "aliases": [
       "chat-minus-outline",
@@ -4039,6 +4938,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-minus",
     "aliases": [
       "chat-minus",
@@ -4048,6 +4948,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-person-outline",
     "aliases": [
       "chat-person-outline",
@@ -4057,6 +4958,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-person",
     "aliases": [
       "chat-person",
@@ -4066,6 +4968,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-outline",
     "aliases": [
       "chat-outline",
@@ -4075,6 +4978,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-percent-outline",
     "aliases": [
       "chat-percent-outline",
@@ -4084,6 +4988,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-percent",
     "aliases": [
       "chat-percent",
@@ -4093,6 +4998,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-plus-outline",
     "aliases": [
       "chat-plus-outline",
@@ -4102,6 +5008,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-plus",
     "aliases": [
       "chat-plus",
@@ -4111,6 +5018,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-warning-outline",
     "aliases": [
       "chat-warning-outline",
@@ -4120,6 +5028,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-warning",
     "aliases": [
       "chat-warning",
@@ -4129,6 +5038,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-star-outline",
     "aliases": [
       "chat-star-outline",
@@ -4138,6 +5048,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble-star",
     "aliases": [
       "chat-star",
@@ -4147,6 +5058,7 @@
     ]
   },
   {
+    "folder": "speech-bubble",
     "id": "speech-bubble",
     "aliases": [
       "chat",
@@ -4156,6 +5068,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "speech-bubbles-outline",
     "aliases": [
       "chats-outline",
@@ -4165,6 +5078,7 @@
     ]
   },
   {
+    "folder": "general",
     "id": "speech-bubbles",
     "aliases": [
       "chats",
@@ -4174,614 +5088,758 @@
     ]
   },
   {
+    "folder": "general",
     "id": "spinner",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-down",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-left",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-right",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-arrow-up",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-check-outline",
     "aliases": [
       "square-tick-outline"
     ]
   },
   {
+    "folder": "square",
     "id": "square-check",
     "aliases": [
       "square-tick"
     ]
   },
   {
+    "folder": "square",
     "id": "square-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-down",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-left",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-right",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-chevron-up",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-cross-outline",
     "aliases": [
       "square-close-outline"
     ]
   },
   {
+    "folder": "square",
     "id": "square-cross",
     "aliases": [
       "square-close"
     ]
   },
   {
+    "folder": "square",
     "id": "square-divide-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-divide",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-help-outline",
     "aliases": [
       "square-question-outline"
     ]
   },
   {
+    "folder": "square",
     "id": "square-help",
     "aliases": [
       "square-question"
     ]
   },
   {
+    "folder": "square",
     "id": "square-info-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-info",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-list-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-list",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-minus-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-minus",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-person-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-person",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-percent-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-percent",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-plus-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-plus",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-warning-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-warning",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-star-outline",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square-star",
     "aliases": []
   },
   {
+    "folder": "square",
     "id": "square",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "star-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "star",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "stop-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "stop",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "sun-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "sun",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-down",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-left",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-right",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-arrow-up",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-check-outline",
     "aliases": [
       "tag-tick-outline"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-check",
     "aliases": [
       "tag-tick"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-down",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-left",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-right",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-chevron-up",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-cross-outline",
     "aliases": [
       "tag-close-outline"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-cross",
     "aliases": [
       "tag-close"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-divide-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-divide",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-help-outline",
     "aliases": [
       "tag-question-outline"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-help",
     "aliases": [
       "tag-question"
     ]
   },
   {
+    "folder": "tag",
     "id": "tag-info-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-info",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-list-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-list",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-minus-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-minus",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-person-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-person",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-percent-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-percent",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-plus-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-plus",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-warning-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-warning",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-star-outline",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag-star",
     "aliases": []
   },
   {
+    "folder": "tag",
     "id": "tag",
     "aliases": []
   },
   {
+    "folder": "text-align",
     "id": "text-align-center",
     "aliases": []
   },
   {
+    "folder": "text-align",
     "id": "text-align-justify",
     "aliases": []
   },
   {
+    "folder": "text-align",
     "id": "text-align-left",
     "aliases": []
   },
   {
+    "folder": "text-align",
     "id": "text-align-right",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "three-dots-horizontal",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "three-dots-vertical",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "thumb-down-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "thumb-down",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "thumb-up-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "thumb-up",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-down",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-left",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-right",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-arrow-up",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-check-outline",
     "aliases": [
       "ticket-tick-outline"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-check",
     "aliases": [
       "ticket-tick"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-down",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-left",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-right",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-chevron-up",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-cross-outline",
     "aliases": [
       "ticket-close-outline"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-cross",
     "aliases": [
       "ticket-close"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-divide-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-divide",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-help-outline",
     "aliases": [
       "ticket-question-outline"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-help",
     "aliases": [
       "ticket-question"
     ]
   },
   {
+    "folder": "ticket",
     "id": "ticket-info-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-info",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-list-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-list",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-minus-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-minus",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-person-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-person",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-percent-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-percent",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-plus-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-plus",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-warning-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-warning",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-star-outline",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket-star",
     "aliases": []
   },
   {
+    "folder": "ticket",
     "id": "ticket",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "translate",
     "aliases": [
       "language",
@@ -4789,218 +5847,269 @@
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-down-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-down",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-left-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-left",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-right-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-right",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-up-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-arrow-up",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-check-outline",
     "aliases": [
       "triangle-tick-outline"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-check",
     "aliases": [
       "triangle-tick"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-down-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-down",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-left-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-left",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-right-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-right",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-up-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-chevron-up",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-cross-outline",
     "aliases": [
       "triangle-close-outline"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-cross",
     "aliases": [
       "triangle-close"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-divide-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-divide",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-help-outline",
     "aliases": [
       "triangle-question-outline"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-help",
     "aliases": [
       "triangle-question"
     ]
   },
   {
+    "folder": "triangle",
     "id": "triangle-info-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-info",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-list-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-list",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-minus-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-minus",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-person-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-person",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-percent-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-percent",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-plus-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-plus",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-warning-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-warning",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-star-outline",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle-star",
     "aliases": []
   },
   {
+    "folder": "triangle",
     "id": "triangle",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "twitter",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "video-camera-outline",
     "aliases": []
   },
   {
+    "folder": "media",
     "id": "video-camera",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "wallet-outline",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "wallet",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "warning-large",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "warning-small",
     "aliases": []
   },
   {
+    "folder": "general",
     "id": "warning",
     "aliases": []
   },
   {
+    "folder": "social",
     "id": "youtube",
     "aliases": []
   }

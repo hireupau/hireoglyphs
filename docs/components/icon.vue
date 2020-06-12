@@ -12,10 +12,10 @@
     },
     computed: {
       symbolId() {
-        return `#svg--${this.icon.id}`;
+        return `#svg--${this.icon.folder}--${this.icon.id}`;
       },
       downloadUrl() {
-        return `${this.$router.options.base}svg/${this.icon.id}.svg`;
+        return `${this.$router.options.base}svg/${this.icon.folder}/${this.icon.id}.svg`;
       },
     },
     methods: {
@@ -41,7 +41,7 @@
       >
         <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
-      <pre>{{ icon.id }}</pre>
+      <pre>{{ icon.folder }}/{{ icon.id }}</pre>
     </div>
     <div class="icon-actions">
       <button
