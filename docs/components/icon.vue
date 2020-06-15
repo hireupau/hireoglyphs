@@ -11,8 +11,11 @@
       },
     },
     computed: {
+      name() {
+        return `${this.icon.folder}--${this.icon.id}`;
+      },
       symbolId() {
-        return `#svg--${this.icon.folder}--${this.icon.id}`;
+        return `#svg--${this.name}`;
       },
       downloadUrl() {
         return `${this.$router.options.base}svg/${this.icon.folder}/${this.icon.id}.svg`;
@@ -41,13 +44,13 @@
       >
         <use v-bind="{ 'xlink:href': require('../static/sprite.svg') + symbolId }" />
       </svg>
-      <pre>{{ icon.folder }}/{{ icon.id }}</pre>
+      <pre>{{ name }}</pre>
     </div>
     <div class="icon-actions">
       <button
         ref="copy"
         class="icon-copy"
-        v-bind:data-icon="icon.id"
+        v-bind:data-icon="name"
         v-on:click="copyToClipboard"
       >
         Copy<span class="visually-hidden"> to clipboard</span>
