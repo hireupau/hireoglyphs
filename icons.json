@@ -2968,6 +2968,20 @@
   },
   {
     "folder": "general",
+    "id": "funnel-outline",
+    "aliases": [
+      "filter-outline"
+    ]
+  },
+  {
+    "folder": "general",
+    "id": "funnel",
+    "aliases": [
+      "filter"
+    ]
+  },
+  {
+    "folder": "general",
     "id": "globe",
     "aliases": []
   },
