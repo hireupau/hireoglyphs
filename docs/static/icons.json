@@ -1281,6 +1281,13 @@
     ]
   },
   {
+    "folder": "general",
+    "id": "checkbox",
+    "aliases": [
+      "tick"
+    ]
+  },
+  {
     "folder": "chevron-bar",
     "id": "chevron-bar-in-down",
     "aliases": []
