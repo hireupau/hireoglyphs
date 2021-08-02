@@ -3873,6 +3873,16 @@
   },
   {
     "folder": "general",
+    "id": "navigation-outline",
+    "aliases": []
+  },
+  {
+    "folder": "general",
+    "id": "navigation",
+    "aliases": []
+  },
+  {
+    "folder": "general",
     "id": "microphone-outline",
     "aliases": []
   },
