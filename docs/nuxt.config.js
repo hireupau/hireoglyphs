@@ -28,6 +28,19 @@ export default {
         type: 'image/x-icon',
         href: '/favicon.ico',
       },
+      {
+        rel: 'preconnect',
+        href: 'https://fonts.googleapis.com',
+      },
+      {
+        rel: 'preconnect',
+        crossorigin: 'crossorigin',
+        href: 'https://fonts.gstatic.com',
+      },
+      {
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap',
+        rel: 'stylesheet',
+      },
     ],
   },
   loading: {
