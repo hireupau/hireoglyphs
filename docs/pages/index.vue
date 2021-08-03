@@ -10,7 +10,7 @@
     },
     data() {
       return {
-        color: '#003454',
+        color: '#131b39',
         input: '',
         icons,
         size: 24,
@@ -48,61 +48,72 @@
 </script>
 
 <template>
-  <main
-    aria-labelledby="page-title"
+  <div
+    class="root"
     v-bind:style="style"
   >
     <div class="container">
-      <h1 id="page-title">
-        Icons
-      </h1>
-      <form
-        action="#"
-        method="get"
+      <header>
+        <h1 id="page-title">
+          Hireoglyphs
+        </h1>
+        <nav class="links">
+          <a href="https://github.com/hireupau/hireoglyphs/archive/refs/heads/master.zip">
+            Download
+          </a>
+          <a href="https://github.com/hireupau/hireoglyphs">
+            GitHub
+          </a>
+        </nav>
+      </header>
+      <main
+        aria-labelledby="page-title"
       >
-        <p class="field">
-          <label for="search">Search</label>
-          <input
-            id="search"
-            v-model.trim="input"
-            type="search"
-            class="input-search"
-            v-bind:placeholder="placeholder"
-          />
-        </p>
-        <fieldset>
-          <legend>Settings</legend>
-          <div class="fieldset-fields">
-            <p class="field">
-              <label for="size">Size</label>
-              <input
-                id="size"
-                v-model.number="size"
-                type="number"
-                inputmode="numeric"
-                min="8"
-                max="96"
-                step="4"
-              />
-            </p>
-            <p class="field">
-              <label for="color">Color</label>
-              <input
-                id="color"
-                v-model="color"
-                type="color"
-                min="8"
-                max="96"
-                step="4"
-              />
-            </p>
-          </div>
-        </fieldset>
-      </form>
-      <Icons
-        v-bind:icons="filtered"
-        v-bind:size="size"
-      />
+        <form
+          action="#"
+          method="get"
+        >
+          <p class="field">
+            <label for="search">Search</label>
+            <input
+              id="search"
+              v-model.trim="input"
+              type="search"
+              class="input-search"
+              v-bind:placeholder="placeholder"
+            />
+          </p>
+          <fieldset>
+            <legend>Settings</legend>
+            <div class="fieldset-fields">
+              <p class="field">
+                <label for="size">Size</label>
+                <input
+                  id="size"
+                  v-model.number="size"
+                  type="number"
+                  inputmode="numeric"
+                  min="8"
+                  max="96"
+                  step="4"
+                />
+              </p>
+              <p class="field">
+                <label for="color">Color</label>
+                <input
+                  id="color"
+                  v-model="color"
+                  type="color"
+                />
+              </p>
+            </div>
+          </fieldset>
+        </form>
+        <Icons
+          v-bind:icons="filtered"
+          v-bind:size="size"
+        />
+      </main>
     </div>
-  </main>
+  </div>
 </template>

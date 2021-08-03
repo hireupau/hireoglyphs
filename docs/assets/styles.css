@@ -19,9 +19,9 @@ body {
   margin: 0;
 }
 
-main {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+.root {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .container {
@@ -31,9 +31,35 @@ main {
   padding-right: 1rem;
 }
 
+@media (min-width: 40rem) {
+  header {
+    align-items: center;
+    display: flex;
+  }
+}
+
 h1 {
-  margin: 0;
+  margin-bottom: 0.25em;
+  margin-right: auto;
+  margin-top: 0;
   font-size: 2rem;
+}
+
+@media (min-width: 40rem) {
+  h1 {
+    margin-bottom: 0;
+  }
+}
+
+.links {
+  margin: -0.25em;
+}
+
+.links a {
+  color: hsl(238, 80%, 50%);
+  display: inline-block;
+  font-weight: 500;
+  padding: 0.25em;
 }
 
 form {
@@ -63,12 +89,11 @@ label {
 input:not([type="color"]) {
   -webkit-appearance: none;
   appearance: none;
-  border-color: initial;
+  border-color: hsl(220, 20%, 85%);
   border-image: initial;
   border-radius: 0.5rem;
-  border-style: initial;
-  border-width: 0;
-  box-shadow: 0 1px 3px hsla(240, 10%, 20%, 0.125), 0 1px 2px hsla(240, 10%, 20%, 0.25);
+  border-style: solid;
+  border-width: 1px;
   color: inherit;
   font-family: inherit;
   font-size: inherit;
@@ -144,7 +169,10 @@ fieldset .field input {
 }
 
 .icon {
-  box-shadow: 0 1px 3px hsla(240, 10%, 20%, 0.125), 0 1px 2px hsla(240, 10%, 20%, 0.25);
+  border-color: hsl(220, 20%, 85%);
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-width: 1px;
 }
 
 .icon-inner {
@@ -200,7 +228,7 @@ pre {
   -moz-tab-size: 2;
   -ms-hyphens: none;
   -webkit-hyphens: none;
-  background: #ebedee;
+  background: hsl(220, 20%, 95%);
   border-radius: .25em;
   direction: ltr;
   font-size: 0.75rem;
