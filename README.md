@@ -1,4 +1,4 @@
-# Hireoglyphs
+# [Hireoglyphs](https://hireupau.github.io/hireoglyphs/)
 
 ## Naming
 
