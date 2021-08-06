@@ -1,5 +1,15 @@
 [
   {
+    "folder": "general",
+    "id": "alarm-outline",
+    "aliases": []
+  },
+  {
+    "folder": "general",
+    "id": "alarm",
+    "aliases": []
+  },
+  {
     "folder": "arrow-bar",
     "id": "arrow-bar-in-down",
     "aliases": []
