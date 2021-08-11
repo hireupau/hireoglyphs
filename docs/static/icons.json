@@ -456,6 +456,16 @@
   },
   {
     "folder": "general",
+    "id": "award-outline",
+    "aliases": []
+  },
+  {
+    "folder": "general",
+    "id": "award",
+    "aliases": []
+  },
+  {
+    "folder": "general",
     "id": "at",
     "aliases": []
   },
@@ -4318,6 +4328,11 @@
   {
     "folder": "general",
     "id": "refresh",
+    "aliases": []
+  },
+  {
+    "folder": "general",
+    "id": "repeat",
     "aliases": []
   },
   {
