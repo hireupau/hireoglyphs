@@ -24,11 +24,11 @@ async function directoryToObject(directory, done) {
     list = list.filter(item => !(/(^|\/)\.[^\/\.]/g).test(item));
 
     let pending = list.length;
-  
+
     if (!pending) {
       return done(null, {
-        name: path.basename(directory),
         type: 'folder',
+        name: path.basename(directory),
         children: results,
       });
     }
@@ -42,8 +42,8 @@ async function directoryToObject(directory, done) {
         if (stat && stat.isDirectory()) {
           directoryToObject(file, function(error, result) {
             results.push({
-              name: path.basename(file),
               type: 'folder',
+              name: path.basename(file),
               children: result,
             });
 
@@ -54,6 +54,7 @@ async function directoryToObject(directory, done) {
         } else {
           results.push({
             type: 'file',
+            id: path.basename(file, '.svg'),
             name: path.basename(file),
           });
 
