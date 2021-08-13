@@ -3,16 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "copy": "npm run copy:svg && npm run copy:sprite",
-    "copy:sprite": "rsync -a ./icons/svg/. ./docs/static/svg/",
-    "copy:svg": "cp ./icons/sprite.svg ./docs/static/sprite.svg",
-    "delete:icons": "rm -r ./icons/*",
-    "delete:static": "rm -r ./docs/static/svg/*",
-    "delete": "npm run delete:icons && npm run delete:static",
-    "optimise": "svgo -f src -r -o icons/svg --config=svgo.json",
-    "sprite": "svg-sprite --config sprite.json './icons/./**/*.svg'",
-    "start": "npm run svg",
-    "svg": "npm run delete && npm run optimise && npm run sprite && npm run copy"
+    "build": "node build.js",
+    "start": "npm run build"
   },
   "dependencies": {
     "svg-sprite": "^1.5.0",
