@@ -2,114 +2,71 @@
 
 'use strict'
 
-const fs = require('fs');
+const fs = require('fs').promises;
 const path = require('path');
-// const { loadConfig, optimize } = require('svgo');
+const { loadConfig, optimize } = require('svgo');
 
-/**
- * Return directory structure and files as Object
- * @param {*} directory 
- * @param {*} done 
- */
 async function directoryToObject(directory, done) {
   let results = [];
 
-  fs.readdir(directory, function(error, list) {
+  fs.readdir(directory, async function(error, list) {
     if (error) return done(error);
 
-    /**
-     * Filter hidden files from directory
-     * e.g. .DS_STORE etc.
-     */
+    // Filter hidden files from directory e.g. .DS_STORE
     list = list.filter(item => !(/(^|\/)\.[^\/\.]/g).test(item));
-
-    let pending = list.length;
-
-    if (!pending) {
-      return done(null, {
-        type: 'folder',
-        name: path.basename(directory),
-        children: results,
-      });
-    }
 
     list.forEach(function(file) {
       file = path.resolve(directory, file);
 
-      fs.stat(file, function(error, stat) {
+      fs.stat(file, function(error) {
         if (error) throw error;
 
-        if (stat && stat.isDirectory()) {
-          directoryToObject(file, function(error, result) {
-            results.push({
-              type: 'folder',
-              name: path.basename(file),
-              children: result,
-            });
+        results.push({
+          id: path.basename(file, '.svg'),
+          file: path.basename(file),
+        });
 
-            if (!--pending) {
-              done(null, results);
-            }
-          });
-        } else {
-          results.push({
-            type: 'file',
-            id: path.basename(file, '.svg'),
-            name: path.basename(file),
-          });
-
-          if (!--pending) {
-            done(null, results);
-          }
+        if (!--list.length) {
+          done(null, results);
         }
       });
     });
   });
 };
 
-/**
- * Optimise SVG files
- * @param {*} file 
- * @param {*} config 
- */
-async function processFile(file) {
-  const config = await loadConfig(path.join(__dirname, '../svgo.config.js'))
-  // const filepath = path.join(iconsDir, file)
-  // const basename = path.basename(file, '.svg')
+async function directoryToJson(directory) {
+  await directoryToObject((directory), function(error, result) {
+    if (error) console.error(error);
+    const data = JSON.stringify(result, null, 2);
+    console.log(data);
+    fs.writeFile('icons.json', data, (error) => {
+      if (error) throw error;
+      console.log('JSON data is saved.');
+    });
+  });
+};
 
-  // const originalSvg = await fs.readFile(filepath, 'utf8')
-  const optimizedSvg = await optimize(originalSvg, {
-    path: file,
+async function processFile(directory, file, config) {
+  const filepath = path.resolve(directory, file);
+  const original = await fs.readFile(filepath, 'utf8');
+  const optimised = await optimize(original, {
+    path: filepath,
     ...config
-  })
+  }).data;
+
+  await fs.writeFile(filepath, optimised, 'utf8');
 };
 
 (async () => {
   try {
-    const baseDirectory = path.join(__dirname, './src/');
-    const output = 'icons.json';
-    // const files = await fs.readdir(iconsDir)
-    // const config = await loadConfig(path.join(__dirname, '../svgo.config.js'))
+    const basePath = path.join(__dirname, './icons/');
+    const svgoConfig = await loadConfig(path.join(__dirname, 'svgo.config.js'));
+    const files = await fs.readdir(basePath);
 
-    // await Promise.all(files.map(file => processFile(file, config)))
-
-    await directoryToObject(baseDirectory, function(error, result) {
-      if (error) console.error(error);
-      const data = JSON.stringify(result, null, 2);
-      console.log(data);
-      fs.writeFile(output, data, (error) => {
-        if (error) throw error;
-        console.log("JSON data is saved.");
-      });
-    });
+    await directoryToJson(basePath);
+    await Promise.all(files.map(file => processFile(basePath, file, svgoConfig)));
   } catch (error) {
     console.error(error)
     process.exit(1)
   }
 })()
-
-// fs.writeFile("test.txt", jsonData, function(err) {
-//   if (err) {
-//       console.log(err);
-//   }
-// });
