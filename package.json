@@ -1,16 +1,46 @@
 {
   "name": "hireoglyphs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "node build.js",
-    "start": "npm run build"
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "serve": "vue-cli-service serve",
+    "start": "npm run serve",
+    "svg": "node build.js"
   },
   "dependencies": {
+    "fuse.js": "^3.4.6",
     "svg-sprite": "^1.5.0",
-    "svgo": "^2.3.1"
+    "svgo": "^2.3.1",
+    "vue": "^2.6.10"
   },
   "devDependencies": {
-    "path": "^0.12.7"
-  }
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "path": "^0.12.7",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
 }

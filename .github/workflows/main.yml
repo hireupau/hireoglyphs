@@ -9,37 +9,33 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
-
       - uses: actions/checkout@v2
 
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: '10.x'
+          node-version: '12.x'
 
-      - name: Get yarn cache
-        id: yarn-cache
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
         run: echo "::set-output name=dir::$(yarn cache dir)"
-        working-directory: ./docs
 
-      - name: Cache dependencies
-        uses: actions/cache@v1
+      - uses: actions/cache@v1
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
         with:
-          path: ${{ steps.yarn-cache.outputs.dir }}
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
-
+    
       - name: Install dependencies
         run: yarn
-        working-directory: ./docs
-
+    
       - name: Generate
-        run: yarn run generate
-        working-directory: ./docs
+        run: yarn run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          publish_dir: ./docs/dist
+          github_token: ${{ secrets.PERSONAL_TOKEN }}
+          publish_dir: ./dist
