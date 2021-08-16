@@ -13,7 +13,7 @@ async function directoryToObject(directory, done) {
     if (error) return done(error);
 
     // Filter hidden files from directory e.g. .DS_STORE
-    list = list.filter(item => !(/(^|\/)\.[^\/\.]/g).test(item));
+    list = list.filter(item => !(/(^|\/)\.[^/.]/g).test(item));
 
     list.forEach(function(file) {
       file = path.resolve(directory, file);
@@ -32,19 +32,17 @@ async function directoryToObject(directory, done) {
       });
     });
   });
-};
+}
 
 async function directoryToJson(directory) {
   await directoryToObject((directory), function(error, result) {
-    if (error) console.error(error);
+    if (error) throw error;
     const data = JSON.stringify(result, null, 2);
-    console.log(data);
     fs.writeFile('icons.json', data, (error) => {
       if (error) throw error;
-      console.log('JSON data is saved.');
     });
   });
-};
+}
 
 async function processFile(directory, file, config) {
   const filepath = path.resolve(directory, file);
@@ -55,18 +53,16 @@ async function processFile(directory, file, config) {
   }).data;
 
   await fs.writeFile(filepath, optimised, 'utf8');
-};
+}
 
 (async () => {
   try {
     const basePath = path.join(__dirname, './icons/');
     const svgoConfig = await loadConfig(path.join(__dirname, 'svgo.config.js'));
     const files = await fs.readdir(basePath);
-
     await directoryToJson(basePath);
     await Promise.all(files.map(file => processFile(basePath, file, svgoConfig)));
   } catch (error) {
-    console.error(error)
-    process.exit(1)
+    throw error;
   }
 })()
