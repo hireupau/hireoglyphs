@@ -1,4478 +1,6172 @@
 [
   {
     "id": "alarm",
-    "name": "alarm.svg"
+    "file": "alarm.svg",
+    "aliases": []
   },
   {
     "id": "alarm-outline",
-    "name": "alarm-outline.svg"
-  },
-  {
-    "id": "arrow-bar-in-down",
-    "name": "arrow-bar-in-down.svg"
+    "file": "alarm-outline.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-in-left",
-    "name": "arrow-bar-in-left.svg"
+    "file": "arrow-bar-in-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in-down",
+    "file": "arrow-bar-in-down.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-in-right",
-    "name": "arrow-bar-in-right.svg"
+    "file": "arrow-bar-in-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-in-up",
-    "name": "arrow-bar-in-up.svg"
-  },
-  {
-    "id": "arrow-bar-out-left",
-    "name": "arrow-bar-out-left.svg"
-  },
-  {
-    "id": "arrow-bar-in",
-    "name": "arrow-bar-in.svg"
+    "file": "arrow-bar-in-up.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-out-down",
-    "name": "arrow-bar-out-down.svg"
+    "file": "arrow-bar-out-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in",
+    "file": "arrow-bar-in.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-out-right",
-    "name": "arrow-bar-out-right.svg"
+    "file": "arrow-bar-out-right.svg",
+    "aliases": []
   },
   {
-    "id": "arrow-bottom-left",
-    "name": "arrow-bottom-left.svg"
+    "id": "arrow-bar-out-left",
+    "file": "arrow-bar-out-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-out",
-    "name": "arrow-bar-out.svg"
+    "file": "arrow-bar-out.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bar-out-up",
-    "name": "arrow-bar-out-up.svg"
+    "file": "arrow-bar-out-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bottom-left",
+    "file": "arrow-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-bottom-right",
-    "name": "arrow-bottom-right.svg"
+    "file": "arrow-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-bottom-left",
-    "name": "arrow-box-in-bottom-left.svg"
+    "file": "arrow-box-in-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-bottom-right",
-    "name": "arrow-box-in-bottom-right.svg"
-  },
-  {
-    "id": "arrow-box-in-left",
-    "name": "arrow-box-in-left.svg"
+    "file": "arrow-box-in-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-down",
-    "name": "arrow-box-in-down.svg"
+    "file": "arrow-box-in-down.svg",
+    "aliases": []
   },
   {
-    "id": "arrow-box-in-right",
-    "name": "arrow-box-in-right.svg"
+    "id": "arrow-box-in-left",
+    "file": "arrow-box-in-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-top-left",
-    "name": "arrow-box-in-top-left.svg"
+    "file": "arrow-box-in-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-in-right",
+    "file": "arrow-box-in-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-top-right",
-    "name": "arrow-box-in-top-right.svg"
+    "file": "arrow-box-in-top-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in-up",
-    "name": "arrow-box-in-up.svg"
+    "file": "arrow-box-in-up.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-bottom-left",
-    "name": "arrow-box-out-bottom-left.svg"
-  },
-  {
-    "id": "arrow-box-out-bottom-right",
-    "name": "arrow-box-out-bottom-right.svg"
+    "file": "arrow-box-out-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-in",
-    "name": "arrow-box-in.svg"
+    "file": "arrow-box-in.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out-bottom-right",
+    "file": "arrow-box-out-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-down",
-    "name": "arrow-box-out-down.svg"
+    "file": "arrow-box-out-down.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-left",
-    "name": "arrow-box-out-left.svg"
-  },
-  {
-    "id": "arrow-box-out-top-left",
-    "name": "arrow-box-out-top-left.svg"
-  },
-  {
-    "id": "arrow-box-out-up",
-    "name": "arrow-box-out-up.svg"
-  },
-  {
-    "id": "arrow-box-out",
-    "name": "arrow-box-out.svg"
+    "file": "arrow-box-out-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-right",
-    "name": "arrow-box-out-right.svg"
+    "file": "arrow-box-out-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-top-right",
-    "name": "arrow-box-out-top-right.svg"
+    "file": "arrow-box-out-top-right.svg",
+    "aliases": []
   },
   {
-    "id": "arrow-down",
-    "name": "arrow-down.svg"
+    "id": "arrow-box-out-top-left",
+    "file": "arrow-box-out-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-box-out",
+    "file": "arrow-box-out.svg",
+    "aliases": [
+      "share"
+    ]
+  },
+  {
+    "id": "arrow-box-out-up",
+    "file": "arrow-box-out-up.svg",
+    "aliases": [
+      "share"
+    ]
   },
   {
     "id": "arrow-large-bottom-left",
-    "name": "arrow-large-bottom-left.svg"
+    "file": "arrow-large-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-down",
+    "file": "arrow-down.svg",
+    "aliases": []
   },
   {
     "id": "arrow-large-down",
-    "name": "arrow-large-down.svg"
-  },
-  {
-    "id": "arrow-large-left",
-    "name": "arrow-large-left.svg"
-  },
-  {
-    "id": "arrow-large-right",
-    "name": "arrow-large-right.svg"
-  },
-  {
-    "id": "arrow-large-top-left",
-    "name": "arrow-large-top-left.svg"
-  },
-  {
-    "id": "arrow-large-top-right",
-    "name": "arrow-large-top-right.svg"
-  },
-  {
-    "id": "arrow-large-up",
-    "name": "arrow-large-up.svg"
-  },
-  {
-    "id": "arrow-large",
-    "name": "arrow-large.svg"
-  },
-  {
-    "id": "arrow-right",
-    "name": "arrow-right.svg"
-  },
-  {
-    "id": "arrow-left",
-    "name": "arrow-left.svg"
-  },
-  {
-    "id": "arrow-small-bottom-left",
-    "name": "arrow-small-bottom-left.svg"
-  },
-  {
-    "id": "arrow-small-bottom-right",
-    "name": "arrow-small-bottom-right.svg"
-  },
-  {
-    "id": "arrow-small-left",
-    "name": "arrow-small-left.svg"
-  },
-  {
-    "id": "arrow-small-down",
-    "name": "arrow-small-down.svg"
-  },
-  {
-    "id": "arrow-small-top-left",
-    "name": "arrow-small-top-left.svg"
-  },
-  {
-    "id": "arrow-small-right",
-    "name": "arrow-small-right.svg"
+    "file": "arrow-large-down.svg",
+    "aliases": []
   },
   {
     "id": "arrow-large-bottom-right",
-    "name": "arrow-large-bottom-right.svg"
+    "file": "arrow-large-bottom-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-right",
+    "file": "arrow-large-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-left",
+    "file": "arrow-large-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-top-left",
+    "file": "arrow-large-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-top-right",
+    "file": "arrow-large-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large",
+    "file": "arrow-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large-up",
+    "file": "arrow-large-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-left",
+    "file": "arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-right",
+    "file": "arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-bottom-right",
+    "file": "arrow-small-bottom-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-bottom-left",
+    "file": "arrow-small-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-down",
+    "file": "arrow-small-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-right",
+    "file": "arrow-small-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-top-left",
+    "file": "arrow-small-top-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-small-top-right",
-    "name": "arrow-small-top-right.svg"
-  },
-  {
-    "id": "arrow-top-left",
-    "name": "arrow-top-left.svg"
+    "file": "arrow-small-top-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-small",
-    "name": "arrow-small.svg"
+    "file": "arrow-small.svg",
+    "aliases": []
   },
   {
-    "id": "arrow-top-right",
-    "name": "arrow-top-right.svg"
-  },
-  {
-    "id": "arrow-tray-bottom-right",
-    "name": "arrow-tray-bottom-right.svg"
-  },
-  {
-    "id": "arrow-tray-bottom-left",
-    "name": "arrow-tray-bottom-left.svg"
-  },
-  {
-    "id": "arrow-tray-down",
-    "name": "arrow-tray-down.svg"
-  },
-  {
-    "id": "arrow-tray-left",
-    "name": "arrow-tray-left.svg"
-  },
-  {
-    "id": "arrow-tray-right",
-    "name": "arrow-tray-right.svg"
-  },
-  {
-    "id": "arrow-tray-top-left",
-    "name": "arrow-tray-top-left.svg"
-  },
-  {
-    "id": "arrow-tray-top-right",
-    "name": "arrow-tray-top-right.svg"
-  },
-  {
-    "id": "arrow-tray-up",
-    "name": "arrow-tray-up.svg"
+    "id": "arrow-small-left",
+    "file": "arrow-small-left.svg",
+    "aliases": []
   },
   {
     "id": "arrow-small-up",
-    "name": "arrow-small-up.svg"
+    "file": "arrow-small-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-top-left",
+    "file": "arrow-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-top-right",
+    "file": "arrow-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-bottom-right",
+    "file": "arrow-tray-bottom-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-down",
+    "file": "arrow-tray-down.svg",
+    "aliases": [
+      "import"
+    ]
+  },
+  {
+    "id": "arrow-tray-right",
+    "file": "arrow-tray-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-top-left",
+    "file": "arrow-tray-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-bottom-left",
+    "file": "arrow-tray-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-left",
+    "file": "arrow-tray-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-top-right",
+    "file": "arrow-tray-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-up",
+    "file": "arrow-tray-up.svg",
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow-tray",
-    "name": "arrow-tray.svg"
+    "file": "arrow-tray.svg",
+    "aliases": [
+      "export"
+    ]
   },
   {
     "id": "arrow",
-    "name": "arrow.svg"
-  },
-  {
-    "id": "arrow-up",
-    "name": "arrow-up.svg"
-  },
-  {
-    "id": "arrows-bar-in-vertical",
-    "name": "arrows-bar-in-vertical.svg"
+    "file": "arrow.svg",
+    "aliases": []
   },
   {
     "id": "arrows-bar-in-horizontal",
-    "name": "arrows-bar-in-horizontal.svg"
+    "file": "arrows-bar-in-horizontal.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-bar-in-vertical",
+    "file": "arrows-bar-in-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-up",
+    "file": "arrow-up.svg",
+    "aliases": []
   },
   {
     "id": "arrows-bar-out-horizontal",
-    "name": "arrows-bar-out-horizontal.svg"
+    "file": "arrows-bar-out-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "arrows-bar-out-vertical",
-    "name": "arrows-bar-out-vertical.svg"
+    "file": "arrows-bar-out-vertical.svg",
+    "aliases": []
   },
   {
     "id": "arrows-down-up",
-    "name": "arrows-down-up.svg"
-  },
-  {
-    "id": "arrows-down",
-    "name": "arrows-down.svg"
-  },
-  {
-    "id": "arrows-in-bottom-right-top-left",
-    "name": "arrows-in-bottom-right-top-left.svg"
-  },
-  {
-    "id": "arrows-in-horizontal",
-    "name": "arrows-in-horizontal.svg"
-  },
-  {
-    "id": "arrows-in-vertical",
-    "name": "arrows-in-vertical.svg"
-  },
-  {
-    "id": "arrows-in",
-    "name": "arrows-in.svg"
-  },
-  {
-    "id": "arrows-left-right",
-    "name": "arrows-left-right.svg"
-  },
-  {
-    "id": "arrows-left",
-    "name": "arrows-left.svg"
-  },
-  {
-    "id": "arrows-out-bottom-left-top-right",
-    "name": "arrows-out-bottom-left-top-right.svg"
-  },
-  {
-    "id": "arrows-out-bottom-right-top-left",
-    "name": "arrows-out-bottom-right-top-left.svg"
-  },
-  {
-    "id": "arrows-out-horizontal",
-    "name": "arrows-out-horizontal.svg"
-  },
-  {
-    "id": "arrows-out-vertical",
-    "name": "arrows-out-vertical.svg"
-  },
-  {
-    "id": "arrows-out",
-    "name": "arrows-out.svg"
+    "file": "arrows-down-up.svg",
+    "aliases": []
   },
   {
     "id": "arrows-in-bottom-left-top-right",
-    "name": "arrows-in-bottom-left-top-right.svg"
+    "file": "arrows-in-bottom-left-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-down",
+    "file": "arrows-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-bottom-right-top-left",
+    "file": "arrows-in-bottom-right-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-horizontal",
+    "file": "arrows-in-horizontal.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in-vertical",
+    "file": "arrows-in-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-in",
+    "file": "arrows-in.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-left-right",
+    "file": "arrows-left-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-bottom-left-top-right",
+    "file": "arrows-out-bottom-left-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-left",
+    "file": "arrows-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-bottom-right-top-left",
+    "file": "arrows-out-bottom-right-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-vertical",
+    "file": "arrows-out-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out-horizontal",
+    "file": "arrows-out-horizontal.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-out",
+    "file": "arrows-out.svg",
+    "aliases": []
   },
   {
     "id": "arrows-right-left",
-    "name": "arrows-right-left.svg"
-  },
-  {
-    "id": "arrows-up-down",
-    "name": "arrows-up-down.svg"
-  },
-  {
-    "id": "arrows-up",
-    "name": "arrows-up.svg"
-  },
-  {
-    "id": "arrows",
-    "name": "arrows.svg"
-  },
-  {
-    "id": "at",
-    "name": "at.svg"
-  },
-  {
-    "id": "award-outline",
-    "name": "award-outline.svg"
-  },
-  {
-    "id": "award",
-    "name": "award.svg"
-  },
-  {
-    "id": "bag-arrow-down-outline",
-    "name": "bag-arrow-down-outline.svg"
-  },
-  {
-    "id": "bag-arrow-down",
-    "name": "bag-arrow-down.svg"
-  },
-  {
-    "id": "bag-arrow-left-outline",
-    "name": "bag-arrow-left-outline.svg"
-  },
-  {
-    "id": "bag-arrow-left",
-    "name": "bag-arrow-left.svg"
-  },
-  {
-    "id": "bag-arrow-right-outline",
-    "name": "bag-arrow-right-outline.svg"
-  },
-  {
-    "id": "bag-arrow-right",
-    "name": "bag-arrow-right.svg"
-  },
-  {
-    "id": "bag-arrow-up-outline",
-    "name": "bag-arrow-up-outline.svg"
-  },
-  {
-    "id": "bag-arrow-up",
-    "name": "bag-arrow-up.svg"
-  },
-  {
-    "id": "bag-check-outline",
-    "name": "bag-check-outline.svg"
-  },
-  {
-    "id": "bag-check",
-    "name": "bag-check.svg"
-  },
-  {
-    "id": "bag-chevron-down-outline",
-    "name": "bag-chevron-down-outline.svg"
-  },
-  {
-    "id": "bag-chevron-down",
-    "name": "bag-chevron-down.svg"
-  },
-  {
-    "id": "bag-chevron-left-outline",
-    "name": "bag-chevron-left-outline.svg"
-  },
-  {
-    "id": "bag-chevron-left",
-    "name": "bag-chevron-left.svg"
-  },
-  {
-    "id": "bag-chevron-right-outline",
-    "name": "bag-chevron-right-outline.svg"
-  },
-  {
-    "id": "bag-chevron-right",
-    "name": "bag-chevron-right.svg"
-  },
-  {
-    "id": "bag-chevron-up-outline",
-    "name": "bag-chevron-up-outline.svg"
-  },
-  {
-    "id": "bag-chevron-up",
-    "name": "bag-chevron-up.svg"
-  },
-  {
-    "id": "bag-cross-outline",
-    "name": "bag-cross-outline.svg"
-  },
-  {
-    "id": "bag-cross",
-    "name": "bag-cross.svg"
-  },
-  {
-    "id": "bag-divide-outline",
-    "name": "bag-divide-outline.svg"
-  },
-  {
-    "id": "bag-divide",
-    "name": "bag-divide.svg"
-  },
-  {
-    "id": "bag-help-outline",
-    "name": "bag-help-outline.svg"
-  },
-  {
-    "id": "bag-info-outline",
-    "name": "bag-info-outline.svg"
-  },
-  {
-    "id": "bag-help",
-    "name": "bag-help.svg"
-  },
-  {
-    "id": "bag-info",
-    "name": "bag-info.svg"
-  },
-  {
-    "id": "bag-list-outline",
-    "name": "bag-list-outline.svg"
-  },
-  {
-    "id": "bag-list",
-    "name": "bag-list.svg"
-  },
-  {
-    "id": "bag-minus-outline",
-    "name": "bag-minus-outline.svg"
-  },
-  {
-    "id": "bag-minus",
-    "name": "bag-minus.svg"
-  },
-  {
-    "id": "bag-outline",
-    "name": "bag-outline.svg"
-  },
-  {
-    "id": "bag-percent-outline",
-    "name": "bag-percent-outline.svg"
-  },
-  {
-    "id": "bag-percent",
-    "name": "bag-percent.svg"
-  },
-  {
-    "id": "bag-person-outline",
-    "name": "bag-person-outline.svg"
-  },
-  {
-    "id": "bag-person",
-    "name": "bag-person.svg"
-  },
-  {
-    "id": "bag-plus-outline",
-    "name": "bag-plus-outline.svg"
-  },
-  {
-    "id": "bag-plus",
-    "name": "bag-plus.svg"
-  },
-  {
-    "id": "bag-star",
-    "name": "bag-star.svg"
-  },
-  {
-    "id": "bag-star-outline",
-    "name": "bag-star-outline.svg"
-  },
-  {
-    "id": "bag-warning-outline",
-    "name": "bag-warning-outline.svg"
-  },
-  {
-    "id": "bag-warning",
-    "name": "bag-warning.svg"
+    "file": "arrows-right-left.svg",
+    "aliases": []
   },
   {
     "id": "arrows-right",
-    "name": "arrows-right.svg"
+    "file": "arrows-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-up-down",
+    "file": "arrows-up-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows",
+    "file": "arrows.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-up",
+    "file": "arrows-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "at",
+    "file": "at.svg",
+    "aliases": []
+  },
+  {
+    "id": "award-outline",
+    "file": "award-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "award",
+    "file": "award.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-down",
+    "file": "bag-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-down-outline",
+    "file": "bag-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-left-outline",
+    "file": "bag-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-left",
+    "file": "bag-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-right-outline",
+    "file": "bag-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-up-outline",
+    "file": "bag-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-right",
+    "file": "bag-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-arrow-up",
+    "file": "bag-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-check-outline",
+    "file": "bag-check-outline.svg",
+    "aliases": [
+      "bag-tick-outline"
+    ]
+  },
+  {
+    "id": "bag-check",
+    "file": "bag-check.svg",
+    "aliases": [
+      "bag-tick"
+    ]
+  },
+  {
+    "id": "bag-chevron-down-outline",
+    "file": "bag-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-down",
+    "file": "bag-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-left-outline",
+    "file": "bag-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-right-outline",
+    "file": "bag-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-left",
+    "file": "bag-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-right",
+    "file": "bag-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-cross",
+    "file": "bag-cross.svg",
+    "aliases": [
+      "bag-close"
+    ]
+  },
+  {
+    "id": "bag-chevron-up",
+    "file": "bag-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-up-outline",
+    "file": "bag-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-cross-outline",
+    "file": "bag-cross-outline.svg",
+    "aliases": [
+      "bag-close-outline"
+    ]
+  },
+  {
+    "id": "bag-divide-outline",
+    "file": "bag-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-divide",
+    "file": "bag-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-help-outline",
+    "file": "bag-help-outline.svg",
+    "aliases": [
+      "bag-question-outline"
+    ]
+  },
+  {
+    "id": "bag-help",
+    "file": "bag-help.svg",
+    "aliases": [
+      "bag-question"
+    ]
+  },
+  {
+    "id": "bag-info-outline",
+    "file": "bag-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-info",
+    "file": "bag-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-minus-outline",
+    "file": "bag-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-list",
+    "file": "bag-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-minus",
+    "file": "bag-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-list-outline",
+    "file": "bag-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-outline",
+    "file": "bag-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-percent-outline",
+    "file": "bag-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-percent",
+    "file": "bag-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-person-outline",
+    "file": "bag-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-person",
+    "file": "bag-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-plus-outline",
+    "file": "bag-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-plus",
+    "file": "bag-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-star",
+    "file": "bag-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-star-outline",
+    "file": "bag-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-warning-outline",
+    "file": "bag-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-warning",
+    "file": "bag-warning.svg",
+    "aliases": []
   },
   {
     "id": "bag",
-    "name": "bag.svg"
+    "file": "bag.svg",
+    "aliases": []
   },
   {
     "id": "bell",
-    "name": "bell.svg"
-  },
-  {
-    "id": "bin-outline",
-    "name": "bin-outline.svg"
-  },
-  {
-    "id": "bluetooth",
-    "name": "bluetooth.svg"
-  },
-  {
-    "id": "bookmark-outline",
-    "name": "bookmark-outline.svg"
-  },
-  {
-    "id": "bin",
-    "name": "bin.svg"
-  },
-  {
-    "id": "bookmark",
-    "name": "bookmark.svg"
-  },
-  {
-    "id": "briefcase-outline",
-    "name": "briefcase-outline.svg"
-  },
-  {
-    "id": "briefcase",
-    "name": "briefcase.svg"
+    "file": "bell.svg",
+    "aliases": [
+      "notification"
+    ]
   },
   {
     "id": "bell-outline",
-    "name": "bell-outline.svg"
+    "file": "bell-outline.svg",
+    "aliases": [
+      "notification-outline"
+    ]
+  },
+  {
+    "id": "bin-outline",
+    "file": "bin-outline.svg",
+    "aliases": [
+      "rubbish-outline",
+      "trash-outline"
+    ]
+  },
+  {
+    "id": "bin",
+    "file": "bin.svg",
+    "aliases": [
+      "rubbish",
+      "trash"
+    ]
+  },
+  {
+    "id": "bluetooth",
+    "file": "bluetooth.svg",
+    "aliases": []
+  },
+  {
+    "id": "bookmark",
+    "file": "bookmark.svg",
+    "aliases": []
+  },
+  {
+    "id": "bookmark-outline",
+    "file": "bookmark-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "briefcase-outline",
+    "file": "briefcase-outline.svg",
+    "aliases": [
+      "job-outline",
+      "work-outline"
+    ]
+  },
+  {
+    "id": "briefcase",
+    "file": "briefcase.svg",
+    "aliases": [
+      "job",
+      "work"
+    ]
   },
   {
     "id": "calculator",
-    "name": "calculator.svg"
+    "file": "calculator.svg",
+    "aliases": []
   },
   {
     "id": "calendar-arrow-down",
-    "name": "calendar-arrow-down.svg"
+    "file": "calendar-arrow-down.svg",
+    "aliases": []
   },
   {
     "id": "calendar-arrow-left-outline",
-    "name": "calendar-arrow-left-outline.svg"
-  },
-  {
-    "id": "calendar-arrow-left",
-    "name": "calendar-arrow-left.svg"
-  },
-  {
-    "id": "calendar-arrow-right-outline",
-    "name": "calendar-arrow-right-outline.svg"
-  },
-  {
-    "id": "calendar-arrow-right",
-    "name": "calendar-arrow-right.svg"
-  },
-  {
-    "id": "calendar-arrow-up-outline",
-    "name": "calendar-arrow-up-outline.svg"
-  },
-  {
-    "id": "calendar-arrow-up",
-    "name": "calendar-arrow-up.svg"
-  },
-  {
-    "id": "calendar-check-outline",
-    "name": "calendar-check-outline.svg"
-  },
-  {
-    "id": "calendar-check",
-    "name": "calendar-check.svg"
-  },
-  {
-    "id": "calendar-chevron-down-outline",
-    "name": "calendar-chevron-down-outline.svg"
-  },
-  {
-    "id": "calendar-chevron-down",
-    "name": "calendar-chevron-down.svg"
-  },
-  {
-    "id": "calendar-chevron-left-outline",
-    "name": "calendar-chevron-left-outline.svg"
-  },
-  {
-    "id": "calendar-chevron-left",
-    "name": "calendar-chevron-left.svg"
-  },
-  {
-    "id": "calendar-chevron-right-outline",
-    "name": "calendar-chevron-right-outline.svg"
-  },
-  {
-    "id": "calendar-chevron-right",
-    "name": "calendar-chevron-right.svg"
-  },
-  {
-    "id": "calendar-chevron-up-outline",
-    "name": "calendar-chevron-up-outline.svg"
-  },
-  {
-    "id": "calendar-chevron-up",
-    "name": "calendar-chevron-up.svg"
-  },
-  {
-    "id": "calendar-cross-outline",
-    "name": "calendar-cross-outline.svg"
-  },
-  {
-    "id": "calendar-cross",
-    "name": "calendar-cross.svg"
-  },
-  {
-    "id": "calendar-divide-outline",
-    "name": "calendar-divide-outline.svg"
-  },
-  {
-    "id": "calendar-divide",
-    "name": "calendar-divide.svg"
+    "file": "calendar-arrow-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "calendar-arrow-down-outline",
-    "name": "calendar-arrow-down-outline.svg"
+    "file": "calendar-arrow-down-outline.svg",
+    "aliases": []
   },
   {
-    "id": "calendar-help-outline",
-    "name": "calendar-help-outline.svg"
+    "id": "calendar-arrow-left",
+    "file": "calendar-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-right-outline",
+    "file": "calendar-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-right",
+    "file": "calendar-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-up-outline",
+    "file": "calendar-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-up",
+    "file": "calendar-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-check-outline",
+    "file": "calendar-check-outline.svg",
+    "aliases": [
+      "calendar-tick-outline"
+    ]
+  },
+  {
+    "id": "calendar-check",
+    "file": "calendar-check.svg",
+    "aliases": [
+      "calendar-tick"
+    ]
+  },
+  {
+    "id": "calendar-chevron-down-outline",
+    "file": "calendar-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-down",
+    "file": "calendar-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-left",
+    "file": "calendar-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-left-outline",
+    "file": "calendar-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-right",
+    "file": "calendar-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-right-outline",
+    "file": "calendar-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-up-outline",
+    "file": "calendar-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-up",
+    "file": "calendar-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-cross",
+    "file": "calendar-cross.svg",
+    "aliases": [
+      "calendar-close"
+    ]
+  },
+  {
+    "id": "calendar-cross-outline",
+    "file": "calendar-cross-outline.svg",
+    "aliases": [
+      "calendar-close-outline"
+    ]
+  },
+  {
+    "id": "calendar-divide-outline",
+    "file": "calendar-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-divide",
+    "file": "calendar-divide.svg",
+    "aliases": []
   },
   {
     "id": "calendar-help",
-    "name": "calendar-help.svg"
+    "file": "calendar-help.svg",
+    "aliases": [
+      "calendar-question"
+    ]
+  },
+  {
+    "id": "calendar-help-outline",
+    "file": "calendar-help-outline.svg",
+    "aliases": [
+      "calendar-question-outline"
+    ]
   },
   {
     "id": "calendar-info-outline",
-    "name": "calendar-info-outline.svg"
-  },
-  {
-    "id": "calendar-list-outline",
-    "name": "calendar-list-outline.svg"
-  },
-  {
-    "id": "calendar-list",
-    "name": "calendar-list.svg"
-  },
-  {
-    "id": "calendar-minus-outline",
-    "name": "calendar-minus-outline.svg"
-  },
-  {
-    "id": "calendar-minus",
-    "name": "calendar-minus.svg"
+    "file": "calendar-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "calendar-info",
-    "name": "calendar-info.svg"
+    "file": "calendar-info.svg",
+    "aliases": []
   },
   {
-    "id": "calendar-outline",
-    "name": "calendar-outline.svg"
+    "id": "calendar-list-outline",
+    "file": "calendar-list-outline.svg",
+    "aliases": []
   },
   {
-    "id": "calendar-percent",
-    "name": "calendar-percent.svg"
+    "id": "calendar-minus-outline",
+    "file": "calendar-minus-outline.svg",
+    "aliases": []
   },
   {
-    "id": "calendar-person-outline",
-    "name": "calendar-person-outline.svg"
+    "id": "calendar-minus",
+    "file": "calendar-minus.svg",
+    "aliases": []
   },
   {
-    "id": "calendar-person",
-    "name": "calendar-person.svg"
+    "id": "calendar-list",
+    "file": "calendar-list.svg",
+    "aliases": []
   },
   {
     "id": "calendar-percent-outline",
-    "name": "calendar-percent-outline.svg"
+    "file": "calendar-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-outline",
+    "file": "calendar-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-percent",
+    "file": "calendar-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-person-outline",
+    "file": "calendar-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-person",
+    "file": "calendar-person.svg",
+    "aliases": []
   },
   {
     "id": "calendar-plus-outline",
-    "name": "calendar-plus-outline.svg"
+    "file": "calendar-plus-outline.svg",
+    "aliases": []
   },
   {
     "id": "calendar-star-outline",
-    "name": "calendar-star-outline.svg"
+    "file": "calendar-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "calendar-plus",
-    "name": "calendar-plus.svg"
+    "file": "calendar-plus.svg",
+    "aliases": []
   },
   {
     "id": "calendar-star",
-    "name": "calendar-star.svg"
+    "file": "calendar-star.svg",
+    "aliases": []
   },
   {
     "id": "calendar-warning-outline",
-    "name": "calendar-warning-outline.svg"
+    "file": "calendar-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "calendar-warning",
-    "name": "calendar-warning.svg"
-  },
-  {
-    "id": "camera-outline",
-    "name": "camera-outline.svg"
+    "file": "calendar-warning.svg",
+    "aliases": []
   },
   {
     "id": "calendar",
-    "name": "calendar.svg"
+    "file": "calendar.svg",
+    "aliases": []
   },
   {
-    "id": "camera",
-    "name": "camera.svg"
+    "id": "camera-outline",
+    "file": "camera-outline.svg",
+    "aliases": []
   },
   {
     "id": "car-outline",
-    "name": "car-outline.svg"
+    "file": "car-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "camera",
+    "file": "camera.svg",
+    "aliases": []
   },
   {
     "id": "car",
-    "name": "car.svg"
+    "file": "car.svg",
+    "aliases": []
   },
   {
     "id": "caret-bar-in-down",
-    "name": "caret-bar-in-down.svg"
+    "file": "caret-bar-in-down.svg",
+    "aliases": []
   },
   {
     "id": "caret-bar-in-right",
-    "name": "caret-bar-in-right.svg"
-  },
-  {
-    "id": "caret-bar-in",
-    "name": "caret-bar-in.svg"
+    "file": "caret-bar-in-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-bar-in-up",
-    "name": "caret-bar-in-up.svg"
+    "file": "caret-bar-in-up.svg",
+    "aliases": []
   },
   {
-    "id": "caret-bar-out-down",
-    "name": "caret-bar-out-down.svg"
-  },
-  {
-    "id": "caret-bar-out-left",
-    "name": "caret-bar-out-left.svg"
-  },
-  {
-    "id": "caret-bar-out-right",
-    "name": "caret-bar-out-right.svg"
-  },
-  {
-    "id": "caret-bar-out-up",
-    "name": "caret-bar-out-up.svg"
-  },
-  {
-    "id": "caret-bar-out",
-    "name": "caret-bar-out.svg"
-  },
-  {
-    "id": "caret-bottom-left",
-    "name": "caret-bottom-left.svg"
-  },
-  {
-    "id": "caret-bottom-right",
-    "name": "caret-bottom-right.svg"
-  },
-  {
-    "id": "caret-down",
-    "name": "caret-down.svg"
-  },
-  {
-    "id": "caret-large-bottom-left",
-    "name": "caret-large-bottom-left.svg"
-  },
-  {
-    "id": "caret-large-bottom-right",
-    "name": "caret-large-bottom-right.svg"
+    "id": "caret-bar-in",
+    "file": "caret-bar-in.svg",
+    "aliases": []
   },
   {
     "id": "caret-bar-in-left",
-    "name": "caret-bar-in-left.svg"
+    "file": "caret-bar-in-left.svg",
+    "aliases": []
   },
   {
-    "id": "caret-large-right",
-    "name": "caret-large-right.svg"
+    "id": "caret-bar-out-down",
+    "file": "caret-bar-out-down.svg",
+    "aliases": []
   },
   {
-    "id": "caret-large-left",
-    "name": "caret-large-left.svg"
+    "id": "caret-bar-out-left",
+    "file": "caret-bar-out-left.svg",
+    "aliases": []
   },
   {
-    "id": "caret-large-top-left",
-    "name": "caret-large-top-left.svg"
+    "id": "caret-bar-out-right",
+    "file": "caret-bar-out-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out",
+    "file": "caret-bar-out.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-up",
+    "file": "caret-bar-out-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bottom-left",
+    "file": "caret-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bottom-right",
+    "file": "caret-bottom-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-down",
+    "file": "caret-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-bottom-right",
+    "file": "caret-large-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-large-down",
-    "name": "caret-large-down.svg"
+    "file": "caret-large-down.svg",
+    "aliases": []
   },
   {
-    "id": "caret-large-top-right",
-    "name": "caret-large-top-right.svg"
+    "id": "caret-large-bottom-left",
+    "file": "caret-large-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-left",
+    "file": "caret-large-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-right",
+    "file": "caret-large-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-top-left",
+    "file": "caret-large-top-left.svg",
+    "aliases": []
   },
   {
     "id": "caret-large-up",
-    "name": "caret-large-up.svg"
+    "file": "caret-large-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-top-right",
+    "file": "caret-large-top-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-large",
-    "name": "caret-large.svg"
+    "file": "caret-large.svg",
+    "aliases": []
   },
   {
     "id": "caret-left",
-    "name": "caret-left.svg"
+    "file": "caret-left.svg",
+    "aliases": []
   },
   {
     "id": "caret-right",
-    "name": "caret-right.svg"
+    "file": "caret-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-bottom-left",
-    "name": "caret-small-bottom-left.svg"
-  },
-  {
-    "id": "caret-small-bottom-right",
-    "name": "caret-small-bottom-right.svg"
-  },
-  {
-    "id": "caret-small-left",
-    "name": "caret-small-left.svg"
+    "file": "caret-small-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-down",
-    "name": "caret-small-down.svg"
+    "file": "caret-small-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-left",
+    "file": "caret-small-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-bottom-right",
+    "file": "caret-small-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-right",
-    "name": "caret-small-right.svg"
+    "file": "caret-small-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-top-left",
-    "name": "caret-small-top-left.svg"
+    "file": "caret-small-top-left.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-top-right",
-    "name": "caret-small-top-right.svg"
-  },
-  {
-    "id": "caret-small",
-    "name": "caret-small.svg"
+    "file": "caret-small-top-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-small-up",
-    "name": "caret-small-up.svg"
+    "file": "caret-small-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-small",
+    "file": "caret-small.svg",
+    "aliases": []
   },
   {
     "id": "caret-top-left",
-    "name": "caret-top-left.svg"
+    "file": "caret-top-left.svg",
+    "aliases": []
   },
   {
     "id": "caret-top-right",
-    "name": "caret-top-right.svg"
+    "file": "caret-top-right.svg",
+    "aliases": []
   },
   {
     "id": "caret-up",
-    "name": "caret-up.svg"
+    "file": "caret-up.svg",
+    "aliases": []
   },
   {
     "id": "caret",
-    "name": "caret.svg"
+    "file": "caret.svg",
+    "aliases": []
   },
   {
     "id": "carets-bar-in-horizontal",
-    "name": "carets-bar-in-horizontal.svg"
+    "file": "carets-bar-in-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "carets-bar-in-vertical",
-    "name": "carets-bar-in-vertical.svg"
-  },
-  {
-    "id": "carets-bar-out-horizontal",
-    "name": "carets-bar-out-horizontal.svg"
+    "file": "carets-bar-in-vertical.svg",
+    "aliases": []
   },
   {
     "id": "carets-bar-out-vertical",
-    "name": "carets-bar-out-vertical.svg"
+    "file": "carets-bar-out-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "carets-bar-out-horizontal",
+    "file": "carets-bar-out-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "carets-down",
-    "name": "carets-down.svg"
-  },
-  {
-    "id": "carets-in-bottom-left-top-right",
-    "name": "carets-in-bottom-left-top-right.svg"
-  },
-  {
-    "id": "carets-in-bottom-right-top-left",
-    "name": "carets-in-bottom-right-top-left.svg"
+    "file": "carets-down.svg",
+    "aliases": []
   },
   {
     "id": "carets-in-horizontal",
-    "name": "carets-in-horizontal.svg"
+    "file": "carets-in-horizontal.svg",
+    "aliases": []
   },
   {
-    "id": "carets-in",
-    "name": "carets-in.svg"
+    "id": "carets-in-bottom-right-top-left",
+    "file": "carets-in-bottom-right-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "carets-in-bottom-left-top-right",
+    "file": "carets-in-bottom-left-top-right.svg",
+    "aliases": []
   },
   {
     "id": "carets-in-vertical",
-    "name": "carets-in-vertical.svg"
+    "file": "carets-in-vertical.svg",
+    "aliases": []
   },
   {
     "id": "carets-left",
-    "name": "carets-left.svg"
+    "file": "carets-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "carets-in",
+    "file": "carets-in.svg",
+    "aliases": []
   },
   {
     "id": "carets-out-bottom-left-top-right",
-    "name": "carets-out-bottom-left-top-right.svg"
+    "file": "carets-out-bottom-left-top-right.svg",
+    "aliases": []
   },
   {
     "id": "carets-out-bottom-right-top-left",
-    "name": "carets-out-bottom-right-top-left.svg"
+    "file": "carets-out-bottom-right-top-left.svg",
+    "aliases": []
   },
   {
     "id": "carets-out-horizontal",
-    "name": "carets-out-horizontal.svg"
+    "file": "carets-out-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "carets-out-vertical",
-    "name": "carets-out-vertical.svg"
+    "file": "carets-out-vertical.svg",
+    "aliases": []
   },
   {
     "id": "carets-out",
-    "name": "carets-out.svg"
+    "file": "carets-out.svg",
+    "aliases": []
   },
   {
     "id": "carets-right",
-    "name": "carets-right.svg"
+    "file": "carets-right.svg",
+    "aliases": []
   },
   {
     "id": "carets-up",
-    "name": "carets-up.svg"
+    "file": "carets-up.svg",
+    "aliases": []
   },
   {
     "id": "check-large",
-    "name": "check-large.svg"
+    "file": "check-large.svg",
+    "aliases": [
+      "tick-large"
+    ]
   },
   {
     "id": "carets",
-    "name": "carets.svg"
-  },
-  {
-    "id": "check",
-    "name": "check.svg"
-  },
-  {
-    "id": "checkbox",
-    "name": "checkbox.svg"
+    "file": "carets.svg",
+    "aliases": []
   },
   {
     "id": "check-small",
-    "name": "check-small.svg"
+    "file": "check-small.svg",
+    "aliases": [
+      "tick-small"
+    ]
+  },
+  {
+    "id": "check",
+    "file": "check.svg",
+    "aliases": [
+      "tick"
+    ]
+  },
+  {
+    "id": "checkbox",
+    "file": "checkbox.svg",
+    "aliases": [
+      "tick"
+    ]
   },
   {
     "id": "chevron-bar-in-left",
-    "name": "chevron-bar-in-left.svg"
+    "file": "chevron-bar-in-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-in-down",
-    "name": "chevron-bar-in-down.svg"
+    "file": "chevron-bar-in-down.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-in-right",
-    "name": "chevron-bar-in-right.svg"
+    "file": "chevron-bar-in-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-in-up",
-    "name": "chevron-bar-in-up.svg"
-  },
-  {
-    "id": "chevron-bar-in",
-    "name": "chevron-bar-in.svg"
+    "file": "chevron-bar-in-up.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-out-down",
-    "name": "chevron-bar-out-down.svg"
+    "file": "chevron-bar-out-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-in",
+    "file": "chevron-bar-in.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-out-left",
-    "name": "chevron-bar-out-left.svg"
-  },
-  {
-    "id": "chevron-bar-out-right",
-    "name": "chevron-bar-out-right.svg"
+    "file": "chevron-bar-out-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-out-up",
-    "name": "chevron-bar-out-up.svg"
+    "file": "chevron-bar-out-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bar-out-right",
+    "file": "chevron-bar-out-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bar-out",
-    "name": "chevron-bar-out.svg"
+    "file": "chevron-bar-out.svg",
+    "aliases": []
   },
   {
     "id": "chevron-bottom-left",
-    "name": "chevron-bottom-left.svg"
-  },
-  {
-    "id": "chevron-bottom-right",
-    "name": "chevron-bottom-right.svg"
+    "file": "chevron-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-down",
-    "name": "chevron-down.svg"
+    "file": "chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-bottom-right",
+    "file": "chevron-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-bottom-left",
-    "name": "chevron-large-bottom-left.svg"
+    "file": "chevron-large-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-bottom-right",
-    "name": "chevron-large-bottom-right.svg"
-  },
-  {
-    "id": "chevron-large-down",
-    "name": "chevron-large-down.svg"
+    "file": "chevron-large-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-left",
-    "name": "chevron-large-left.svg"
+    "file": "chevron-large-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-down",
+    "file": "chevron-large-down.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-right",
-    "name": "chevron-large-right.svg"
+    "file": "chevron-large-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-top-left",
-    "name": "chevron-large-top-left.svg"
-  },
-  {
-    "id": "chevron-large-top-right",
-    "name": "chevron-large-top-right.svg"
+    "file": "chevron-large-top-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large-up",
-    "name": "chevron-large-up.svg"
+    "file": "chevron-large-up.svg",
+    "aliases": []
   },
   {
     "id": "chevron-large",
-    "name": "chevron-large.svg"
+    "file": "chevron-large.svg",
+    "aliases": []
   },
   {
     "id": "chevron-left",
-    "name": "chevron-left.svg"
+    "file": "chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-large-top-right",
+    "file": "chevron-large-top-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-right",
-    "name": "chevron-right.svg"
+    "file": "chevron-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-bottom-left",
-    "name": "chevron-small-bottom-left.svg"
+    "file": "chevron-small-bottom-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-bottom-right",
-    "name": "chevron-small-bottom-right.svg"
+    "file": "chevron-small-bottom-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-down",
-    "name": "chevron-small-down.svg"
+    "file": "chevron-small-down.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-left",
-    "name": "chevron-small-left.svg"
-  },
-  {
-    "id": "chevron-small-top-left",
-    "name": "chevron-small-top-left.svg"
+    "file": "chevron-small-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-right",
-    "name": "chevron-small-right.svg"
+    "file": "chevron-small-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-small-top-left",
+    "file": "chevron-small-top-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-top-right",
-    "name": "chevron-small-top-right.svg"
+    "file": "chevron-small-top-right.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small-up",
-    "name": "chevron-small-up.svg"
+    "file": "chevron-small-up.svg",
+    "aliases": []
   },
   {
     "id": "chevron-small",
-    "name": "chevron-small.svg"
-  },
-  {
-    "id": "chevron-top-left",
-    "name": "chevron-top-left.svg"
+    "file": "chevron-small.svg",
+    "aliases": []
   },
   {
     "id": "chevron-top-right",
-    "name": "chevron-top-right.svg"
+    "file": "chevron-top-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevron-top-left",
+    "file": "chevron-top-left.svg",
+    "aliases": []
   },
   {
     "id": "chevron-up",
-    "name": "chevron-up.svg"
+    "file": "chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "chevron",
-    "name": "chevron.svg"
+    "file": "chevron.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-bar-in-horizontal",
-    "name": "chevrons-bar-in-horizontal.svg"
+    "file": "chevrons-bar-in-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-bar-in-vertical",
-    "name": "chevrons-bar-in-vertical.svg"
+    "file": "chevrons-bar-in-vertical.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-bar-out-horizontal",
-    "name": "chevrons-bar-out-horizontal.svg"
-  },
-  {
-    "id": "chevrons-down",
-    "name": "chevrons-down.svg"
+    "file": "chevrons-bar-out-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-bar-out-vertical",
-    "name": "chevrons-bar-out-vertical.svg"
+    "file": "chevrons-bar-out-vertical.svg",
+    "aliases": []
   },
   {
-    "id": "chevrons-in-bottom-left-top-right",
-    "name": "chevrons-in-bottom-left-top-right.svg"
+    "id": "chevrons-down",
+    "file": "chevrons-down.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-in-bottom-right-top-left",
-    "name": "chevrons-in-bottom-right-top-left.svg"
+    "file": "chevrons-in-bottom-right-top-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-bottom-left-top-right",
+    "file": "chevrons-in-bottom-left-top-right.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-in-horizontal",
-    "name": "chevrons-in-horizontal.svg"
+    "file": "chevrons-in-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-in-vertical",
-    "name": "chevrons-in-vertical.svg"
+    "file": "chevrons-in-vertical.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-in",
-    "name": "chevrons-in.svg"
+    "file": "chevrons-in.svg",
+    "aliases": [
+      "collapse"
+    ]
   },
   {
     "id": "chevrons-left",
-    "name": "chevrons-left.svg"
+    "file": "chevrons-left.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-out-bottom-left-top-right",
-    "name": "chevrons-out-bottom-left-top-right.svg"
+    "file": "chevrons-out-bottom-left-top-right.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-out-bottom-right-top-left",
-    "name": "chevrons-out-bottom-right-top-left.svg"
-  },
-  {
-    "id": "chevrons-out-vertical",
-    "name": "chevrons-out-vertical.svg"
+    "file": "chevrons-out-bottom-right-top-left.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-out-horizontal",
-    "name": "chevrons-out-horizontal.svg"
+    "file": "chevrons-out-horizontal.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-out-vertical",
+    "file": "chevrons-out-vertical.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-out",
-    "name": "chevrons-out.svg"
-  },
-  {
-    "id": "chevrons-right",
-    "name": "chevrons-right.svg"
+    "file": "chevrons-out.svg",
+    "aliases": [
+      "expand"
+    ]
   },
   {
     "id": "chevrons-up",
-    "name": "chevrons-up.svg"
+    "file": "chevrons-up.svg",
+    "aliases": []
   },
   {
-    "id": "circle-arrow-down",
-    "name": "circle-arrow-down.svg"
-  },
-  {
-    "id": "circle-arrow-down-outline",
-    "name": "circle-arrow-down-outline.svg"
+    "id": "chevrons-right",
+    "file": "chevrons-right.svg",
+    "aliases": []
   },
   {
     "id": "chevrons",
-    "name": "chevrons.svg"
+    "file": "chevrons.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-down",
+    "file": "circle-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-down-outline",
+    "file": "circle-arrow-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-arrow-left-outline",
-    "name": "circle-arrow-left-outline.svg"
+    "file": "circle-arrow-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-arrow-left",
-    "name": "circle-arrow-left.svg"
+    "file": "circle-arrow-left.svg",
+    "aliases": []
   },
   {
     "id": "circle-arrow-right",
-    "name": "circle-arrow-right.svg"
-  },
-  {
-    "id": "circle-arrow-right-outline",
-    "name": "circle-arrow-right-outline.svg"
+    "file": "circle-arrow-right.svg",
+    "aliases": []
   },
   {
     "id": "circle-arrow-up-outline",
-    "name": "circle-arrow-up-outline.svg"
+    "file": "circle-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-right-outline",
+    "file": "circle-arrow-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-arrow-up",
-    "name": "circle-arrow-up.svg"
+    "file": "circle-arrow-up.svg",
+    "aliases": []
   },
   {
     "id": "circle-check-outline",
-    "name": "circle-check-outline.svg"
+    "file": "circle-check-outline.svg",
+    "aliases": [
+      "circle-tick-outline"
+    ]
   },
   {
     "id": "circle-check",
-    "name": "circle-check.svg"
+    "file": "circle-check.svg",
+    "aliases": [
+      "circle-tick"
+    ]
   },
   {
     "id": "circle-chevron-down",
-    "name": "circle-chevron-down.svg"
+    "file": "circle-chevron-down.svg",
+    "aliases": []
   },
   {
     "id": "circle-chevron-down-outline",
-    "name": "circle-chevron-down-outline.svg"
+    "file": "circle-chevron-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-chevron-left-outline",
-    "name": "circle-chevron-left-outline.svg"
-  },
-  {
-    "id": "circle-chevron-right-outline",
-    "name": "circle-chevron-right-outline.svg"
+    "file": "circle-chevron-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-chevron-right",
-    "name": "circle-chevron-right.svg"
+    "file": "circle-chevron-right.svg",
+    "aliases": []
   },
   {
-    "id": "circle-chevron-up-outline",
-    "name": "circle-chevron-up-outline.svg"
-  },
-  {
-    "id": "circle-chevron-up",
-    "name": "circle-chevron-up.svg"
-  },
-  {
-    "id": "circle-cross-outline",
-    "name": "circle-cross-outline.svg"
-  },
-  {
-    "id": "circle-cross",
-    "name": "circle-cross.svg"
-  },
-  {
-    "id": "circle-divide-outline",
-    "name": "circle-divide-outline.svg"
-  },
-  {
-    "id": "circle-divide",
-    "name": "circle-divide.svg"
-  },
-  {
-    "id": "circle-help-outline",
-    "name": "circle-help-outline.svg"
-  },
-  {
-    "id": "circle-info-outline",
-    "name": "circle-info-outline.svg"
+    "id": "circle-chevron-right-outline",
+    "file": "circle-chevron-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-chevron-left",
-    "name": "circle-chevron-left.svg"
+    "file": "circle-chevron-left.svg",
+    "aliases": []
   },
   {
-    "id": "circle-list-outline",
-    "name": "circle-list-outline.svg"
+    "id": "circle-chevron-up-outline",
+    "file": "circle-chevron-up-outline.svg",
+    "aliases": []
   },
   {
-    "id": "circle-list",
-    "name": "circle-list.svg"
+    "id": "circle-cross",
+    "file": "circle-cross.svg",
+    "aliases": [
+      "circle-close"
+    ]
+  },
+  {
+    "id": "circle-cross-outline",
+    "file": "circle-cross-outline.svg",
+    "aliases": [
+      "circle-close-outline"
+    ]
+  },
+  {
+    "id": "circle-chevron-up",
+    "file": "circle-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-divide-outline",
+    "file": "circle-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-help-outline",
+    "file": "circle-help-outline.svg",
+    "aliases": [
+      "circle-question-outline"
+    ]
+  },
+  {
+    "id": "circle-divide",
+    "file": "circle-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-info-outline",
+    "file": "circle-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-help",
-    "name": "circle-help.svg"
-  },
-  {
-    "id": "circle-minus-outline",
-    "name": "circle-minus-outline.svg"
-  },
-  {
-    "id": "circle-minus",
-    "name": "circle-minus.svg"
-  },
-  {
-    "id": "circle-outline",
-    "name": "circle-outline.svg"
-  },
-  {
-    "id": "circle-percent-outline",
-    "name": "circle-percent-outline.svg"
-  },
-  {
-    "id": "circle-percent",
-    "name": "circle-percent.svg"
-  },
-  {
-    "id": "circle-person-outline",
-    "name": "circle-person-outline.svg"
-  },
-  {
-    "id": "circle-person",
-    "name": "circle-person.svg"
-  },
-  {
-    "id": "circle-plus-outline",
-    "name": "circle-plus-outline.svg"
-  },
-  {
-    "id": "circle-plus",
-    "name": "circle-plus.svg"
-  },
-  {
-    "id": "circle-star-outline",
-    "name": "circle-star-outline.svg"
-  },
-  {
-    "id": "circle-star",
-    "name": "circle-star.svg"
-  },
-  {
-    "id": "circle-warning-outline",
-    "name": "circle-warning-outline.svg"
-  },
-  {
-    "id": "circle-warning",
-    "name": "circle-warning.svg"
-  },
-  {
-    "id": "circle",
-    "name": "circle.svg"
-  },
-  {
-    "id": "clipboard-arrow-down-outline",
-    "name": "clipboard-arrow-down-outline.svg"
-  },
-  {
-    "id": "clipboard-arrow-down",
-    "name": "clipboard-arrow-down.svg"
-  },
-  {
-    "id": "clipboard-arrow-left-outline",
-    "name": "clipboard-arrow-left-outline.svg"
-  },
-  {
-    "id": "clipboard-arrow-left",
-    "name": "clipboard-arrow-left.svg"
-  },
-  {
-    "id": "clipboard-arrow-right-outline",
-    "name": "clipboard-arrow-right-outline.svg"
-  },
-  {
-    "id": "clipboard-arrow-right",
-    "name": "clipboard-arrow-right.svg"
-  },
-  {
-    "id": "clipboard-arrow-up-outline",
-    "name": "clipboard-arrow-up-outline.svg"
-  },
-  {
-    "id": "clipboard-arrow-up",
-    "name": "clipboard-arrow-up.svg"
-  },
-  {
-    "id": "clipboard-check-outline",
-    "name": "clipboard-check-outline.svg"
-  },
-  {
-    "id": "clipboard-check",
-    "name": "clipboard-check.svg"
-  },
-  {
-    "id": "clipboard-chevron-down-outline",
-    "name": "clipboard-chevron-down-outline.svg"
-  },
-  {
-    "id": "clipboard-chevron-down",
-    "name": "clipboard-chevron-down.svg"
-  },
-  {
-    "id": "clipboard-chevron-left-outline",
-    "name": "clipboard-chevron-left-outline.svg"
-  },
-  {
-    "id": "clipboard-chevron-left",
-    "name": "clipboard-chevron-left.svg"
-  },
-  {
-    "id": "clipboard-chevron-right-outline",
-    "name": "clipboard-chevron-right-outline.svg"
-  },
-  {
-    "id": "clipboard-chevron-right",
-    "name": "clipboard-chevron-right.svg"
-  },
-  {
-    "id": "clipboard-chevron-up-outline",
-    "name": "clipboard-chevron-up-outline.svg"
-  },
-  {
-    "id": "clipboard-chevron-up",
-    "name": "clipboard-chevron-up.svg"
-  },
-  {
-    "id": "clipboard-cross-outline",
-    "name": "clipboard-cross-outline.svg"
-  },
-  {
-    "id": "clipboard-cross",
-    "name": "clipboard-cross.svg"
-  },
-  {
-    "id": "clipboard-divide-outline",
-    "name": "clipboard-divide-outline.svg"
-  },
-  {
-    "id": "clipboard-divide",
-    "name": "clipboard-divide.svg"
-  },
-  {
-    "id": "clipboard-help-outline",
-    "name": "clipboard-help-outline.svg"
-  },
-  {
-    "id": "clipboard-help",
-    "name": "clipboard-help.svg"
-  },
-  {
-    "id": "clipboard-info-outline",
-    "name": "clipboard-info-outline.svg"
-  },
-  {
-    "id": "clipboard-info",
-    "name": "clipboard-info.svg"
+    "file": "circle-help.svg",
+    "aliases": [
+      "circle-question"
+    ]
   },
   {
     "id": "circle-info",
-    "name": "circle-info.svg"
+    "file": "circle-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-list-outline",
+    "file": "circle-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-list",
+    "file": "circle-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-minus",
+    "file": "circle-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-outline",
+    "file": "circle-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-minus-outline",
+    "file": "circle-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-percent-outline",
+    "file": "circle-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-percent",
+    "file": "circle-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-person",
+    "file": "circle-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-person-outline",
+    "file": "circle-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-plus-outline",
+    "file": "circle-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-plus",
+    "file": "circle-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-star-outline",
+    "file": "circle-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-star",
+    "file": "circle-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-warning-outline",
+    "file": "circle-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-warning",
+    "file": "circle-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle",
+    "file": "circle.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-down",
+    "file": "clipboard-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left-outline",
+    "file": "clipboard-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-down-outline",
+    "file": "clipboard-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right-outline",
+    "file": "clipboard-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-right",
+    "file": "clipboard-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-left",
+    "file": "clipboard-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up",
+    "file": "clipboard-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-arrow-up-outline",
+    "file": "clipboard-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-check-outline",
+    "file": "clipboard-check-outline.svg",
+    "aliases": [
+      "clipboard-tick-outline"
+    ]
+  },
+  {
+    "id": "clipboard-check",
+    "file": "clipboard-check.svg",
+    "aliases": [
+      "clipboard-tick"
+    ]
+  },
+  {
+    "id": "clipboard-chevron-down-outline",
+    "file": "clipboard-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-down",
+    "file": "clipboard-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-left-outline",
+    "file": "clipboard-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-left",
+    "file": "clipboard-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-right",
+    "file": "clipboard-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-right-outline",
+    "file": "clipboard-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-up-outline",
+    "file": "clipboard-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-chevron-up",
+    "file": "clipboard-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-cross",
+    "file": "clipboard-cross.svg",
+    "aliases": [
+      "clipboard-close"
+    ]
+  },
+  {
+    "id": "clipboard-cross-outline",
+    "file": "clipboard-cross-outline.svg",
+    "aliases": [
+      "clipboard-close-outline"
+    ]
+  },
+  {
+    "id": "clipboard-divide-outline",
+    "file": "clipboard-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-divide",
+    "file": "clipboard-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-help-outline",
+    "file": "clipboard-help-outline.svg",
+    "aliases": [
+      "clipboard-question-outline"
+    ]
+  },
+  {
+    "id": "clipboard-help",
+    "file": "clipboard-help.svg",
+    "aliases": [
+      "clipboard-question"
+    ]
+  },
+  {
+    "id": "clipboard-info-outline",
+    "file": "clipboard-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-info",
+    "file": "clipboard-info.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-list-outline",
-    "name": "clipboard-list-outline.svg"
+    "file": "clipboard-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-list",
-    "name": "clipboard-list.svg"
-  },
-  {
-    "id": "clipboard-minus-outline",
-    "name": "clipboard-minus-outline.svg"
-  },
-  {
-    "id": "clipboard-outline",
-    "name": "clipboard-outline.svg"
-  },
-  {
-    "id": "clipboard-percent-outline",
-    "name": "clipboard-percent-outline.svg"
+    "file": "clipboard-list.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-minus",
-    "name": "clipboard-minus.svg"
+    "file": "clipboard-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus-outline",
+    "file": "clipboard-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-percent-outline",
+    "file": "clipboard-percent-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-percent",
-    "name": "clipboard-percent.svg"
+    "file": "clipboard-percent.svg",
+    "aliases": []
   },
   {
-    "id": "clipboard-person-outline",
-    "name": "clipboard-person-outline.svg"
-  },
-  {
-    "id": "clipboard-plus-outline",
-    "name": "clipboard-plus-outline.svg"
+    "id": "clipboard-outline",
+    "file": "clipboard-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-person",
-    "name": "clipboard-person.svg"
+    "file": "clipboard-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-person-outline",
+    "file": "clipboard-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-plus-outline",
+    "file": "clipboard-plus-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-plus",
-    "name": "clipboard-plus.svg"
-  },
-  {
-    "id": "clipboard-star-outline",
-    "name": "clipboard-star-outline.svg"
+    "file": "clipboard-plus.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-star",
-    "name": "clipboard-star.svg"
+    "file": "clipboard-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-star-outline",
+    "file": "clipboard-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-warning-outline",
-    "name": "clipboard-warning-outline.svg"
+    "file": "clipboard-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-warning",
-    "name": "clipboard-warning.svg"
+    "file": "clipboard-warning.svg",
+    "aliases": []
   },
   {
     "id": "clipboard",
-    "name": "clipboard.svg"
+    "file": "clipboard.svg",
+    "aliases": []
   },
   {
     "id": "clock-outline",
-    "name": "clock-outline.svg"
-  },
-  {
-    "id": "cloud-arrow-down-outline",
-    "name": "cloud-arrow-down-outline.svg"
-  },
-  {
-    "id": "cloud-arrow-left-outline",
-    "name": "cloud-arrow-left-outline.svg"
-  },
-  {
-    "id": "cloud-arrow-down",
-    "name": "cloud-arrow-down.svg"
-  },
-  {
-    "id": "cloud-arrow-right-outline",
-    "name": "cloud-arrow-right-outline.svg"
-  },
-  {
-    "id": "cloud-arrow-left",
-    "name": "cloud-arrow-left.svg"
-  },
-  {
-    "id": "cloud-arrow-right",
-    "name": "cloud-arrow-right.svg"
-  },
-  {
-    "id": "cloud-arrow-up-outline",
-    "name": "cloud-arrow-up-outline.svg"
-  },
-  {
-    "id": "cloud-arrow-up",
-    "name": "cloud-arrow-up.svg"
-  },
-  {
-    "id": "cloud-check-outline",
-    "name": "cloud-check-outline.svg"
-  },
-  {
-    "id": "cloud-check",
-    "name": "cloud-check.svg"
-  },
-  {
-    "id": "cloud-chevron-down-outline",
-    "name": "cloud-chevron-down-outline.svg"
-  },
-  {
-    "id": "cloud-chevron-down",
-    "name": "cloud-chevron-down.svg"
-  },
-  {
-    "id": "cloud-chevron-left-outline",
-    "name": "cloud-chevron-left-outline.svg"
-  },
-  {
-    "id": "cloud-chevron-left",
-    "name": "cloud-chevron-left.svg"
-  },
-  {
-    "id": "cloud-chevron-right-outline",
-    "name": "cloud-chevron-right-outline.svg"
-  },
-  {
-    "id": "cloud-chevron-right",
-    "name": "cloud-chevron-right.svg"
-  },
-  {
-    "id": "cloud-chevron-up-outline",
-    "name": "cloud-chevron-up-outline.svg"
-  },
-  {
-    "id": "cloud-chevron-up",
-    "name": "cloud-chevron-up.svg"
-  },
-  {
-    "id": "cloud-cross-outline",
-    "name": "cloud-cross-outline.svg"
-  },
-  {
-    "id": "cloud-cross",
-    "name": "cloud-cross.svg"
-  },
-  {
-    "id": "cloud-divide-outline",
-    "name": "cloud-divide-outline.svg"
-  },
-  {
-    "id": "cloud-divide",
-    "name": "cloud-divide.svg"
-  },
-  {
-    "id": "cloud-help-outline",
-    "name": "cloud-help-outline.svg"
-  },
-  {
-    "id": "cloud-help",
-    "name": "cloud-help.svg"
-  },
-  {
-    "id": "cloud-info-outline",
-    "name": "cloud-info-outline.svg"
-  },
-  {
-    "id": "cloud-info",
-    "name": "cloud-info.svg"
-  },
-  {
-    "id": "cloud-list-outline",
-    "name": "cloud-list-outline.svg"
-  },
-  {
-    "id": "cloud-list",
-    "name": "cloud-list.svg"
-  },
-  {
-    "id": "cloud-minus-outline",
-    "name": "cloud-minus-outline.svg"
-  },
-  {
-    "id": "cloud-minus",
-    "name": "cloud-minus.svg"
-  },
-  {
-    "id": "cloud-outline",
-    "name": "cloud-outline.svg"
-  },
-  {
-    "id": "cloud-percent-outline",
-    "name": "cloud-percent-outline.svg"
-  },
-  {
-    "id": "cloud-percent",
-    "name": "cloud-percent.svg"
-  },
-  {
-    "id": "cloud-person-outline",
-    "name": "cloud-person-outline.svg"
-  },
-  {
-    "id": "cloud-person",
-    "name": "cloud-person.svg"
-  },
-  {
-    "id": "cloud-plus-outline",
-    "name": "cloud-plus-outline.svg"
-  },
-  {
-    "id": "cloud-plus",
-    "name": "cloud-plus.svg"
-  },
-  {
-    "id": "cloud-star-outline",
-    "name": "cloud-star-outline.svg"
-  },
-  {
-    "id": "cloud-star",
-    "name": "cloud-star.svg"
-  },
-  {
-    "id": "cloud-warning-outline",
-    "name": "cloud-warning-outline.svg"
-  },
-  {
-    "id": "cloud",
-    "name": "cloud.svg"
-  },
-  {
-    "id": "cloud-warning",
-    "name": "cloud-warning.svg"
-  },
-  {
-    "id": "cog-outline",
-    "name": "cog-outline.svg"
-  },
-  {
-    "id": "cog",
-    "name": "cog.svg"
-  },
-  {
-    "id": "command",
-    "name": "command.svg"
-  },
-  {
-    "id": "copy-outline",
-    "name": "copy-outline.svg"
-  },
-  {
-    "id": "copy",
-    "name": "copy.svg"
-  },
-  {
-    "id": "credit-card-outline",
-    "name": "credit-card-outline.svg"
-  },
-  {
-    "id": "credit-card",
-    "name": "credit-card.svg"
-  },
-  {
-    "id": "cross-large",
-    "name": "cross-large.svg"
-  },
-  {
-    "id": "cross-small",
-    "name": "cross-small.svg"
-  },
-  {
-    "id": "cross",
-    "name": "cross.svg"
-  },
-  {
-    "id": "currency-dollar-outline",
-    "name": "currency-dollar-outline.svg"
-  },
-  {
-    "id": "currency-dollar",
-    "name": "currency-dollar.svg"
-  },
-  {
-    "id": "currency-euro-outline",
-    "name": "currency-euro-outline.svg"
-  },
-  {
-    "id": "currency-euro",
-    "name": "currency-euro.svg"
-  },
-  {
-    "id": "currency-pound-outline",
-    "name": "currency-pound-outline.svg"
-  },
-  {
-    "id": "currency-pound",
-    "name": "currency-pound.svg"
-  },
-  {
-    "id": "currency-rupee-outline",
-    "name": "currency-rupee-outline.svg"
-  },
-  {
-    "id": "currency-rupee",
-    "name": "currency-rupee.svg"
-  },
-  {
-    "id": "currency-yen-outline",
-    "name": "currency-yen-outline.svg"
-  },
-  {
-    "id": "currency-yen",
-    "name": "currency-yen.svg"
-  },
-  {
-    "id": "device-desktop-outline",
-    "name": "device-desktop-outline.svg"
-  },
-  {
-    "id": "device-desktop",
-    "name": "device-desktop.svg"
-  },
-  {
-    "id": "device-laptop-outline",
-    "name": "device-laptop-outline.svg"
-  },
-  {
-    "id": "device-laptop",
-    "name": "device-laptop.svg"
-  },
-  {
-    "id": "device-mobile-outline",
-    "name": "device-mobile-outline.svg"
-  },
-  {
-    "id": "device-tablet-outline",
-    "name": "device-tablet-outline.svg"
-  },
-  {
-    "id": "device-mobile",
-    "name": "device-mobile.svg"
-  },
-  {
-    "id": "device-tablet",
-    "name": "device-tablet.svg"
-  },
-  {
-    "id": "divide-large",
-    "name": "divide-large.svg"
-  },
-  {
-    "id": "divide-small",
-    "name": "divide-small.svg"
-  },
-  {
-    "id": "divide",
-    "name": "divide.svg"
-  },
-  {
-    "id": "document-arrow-down",
-    "name": "document-arrow-down.svg"
-  },
-  {
-    "id": "document-arrow-down-outline",
-    "name": "document-arrow-down-outline.svg"
-  },
-  {
-    "id": "document-arrow-left-outline",
-    "name": "document-arrow-left-outline.svg"
+    "file": "clock-outline.svg",
+    "aliases": []
   },
   {
     "id": "clock",
-    "name": "clock.svg"
+    "file": "clock.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-down-outline",
+    "file": "cloud-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-down",
+    "file": "cloud-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-left-outline",
+    "file": "cloud-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-right-outline",
+    "file": "cloud-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-left",
+    "file": "cloud-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-right",
+    "file": "cloud-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-up",
+    "file": "cloud-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-up-outline",
+    "file": "cloud-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-check-outline",
+    "file": "cloud-check-outline.svg",
+    "aliases": [
+      "cloud-tick-outline"
+    ]
+  },
+  {
+    "id": "cloud-check",
+    "file": "cloud-check.svg",
+    "aliases": [
+      "cloud-tick"
+    ]
+  },
+  {
+    "id": "cloud-chevron-down-outline",
+    "file": "cloud-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-left-outline",
+    "file": "cloud-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-down",
+    "file": "cloud-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-left",
+    "file": "cloud-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-right-outline",
+    "file": "cloud-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-right",
+    "file": "cloud-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-up-outline",
+    "file": "cloud-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-up",
+    "file": "cloud-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-cross-outline",
+    "file": "cloud-cross-outline.svg",
+    "aliases": [
+      "cloud-close-outline"
+    ]
+  },
+  {
+    "id": "cloud-cross",
+    "file": "cloud-cross.svg",
+    "aliases": [
+      "cloud-close"
+    ]
+  },
+  {
+    "id": "cloud-help-outline",
+    "file": "cloud-help-outline.svg",
+    "aliases": [
+      "cloud-question-outline"
+    ]
+  },
+  {
+    "id": "cloud-divide",
+    "file": "cloud-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-divide-outline",
+    "file": "cloud-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-info-outline",
+    "file": "cloud-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-info",
+    "file": "cloud-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-help",
+    "file": "cloud-help.svg",
+    "aliases": [
+      "cloud-question"
+    ]
+  },
+  {
+    "id": "cloud-list-outline",
+    "file": "cloud-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-minus-outline",
+    "file": "cloud-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-list",
+    "file": "cloud-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-minus",
+    "file": "cloud-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-outline",
+    "file": "cloud-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-percent-outline",
+    "file": "cloud-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-person-outline",
+    "file": "cloud-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-person",
+    "file": "cloud-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-percent",
+    "file": "cloud-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-plus-outline",
+    "file": "cloud-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-star-outline",
+    "file": "cloud-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-plus",
+    "file": "cloud-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-star",
+    "file": "cloud-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-warning-outline",
+    "file": "cloud-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cog-outline",
+    "file": "cog-outline.svg",
+    "aliases": [
+      "gear-outline",
+      "setting-outline",
+      "settings-outline"
+    ]
+  },
+  {
+    "id": "cloud-warning",
+    "file": "cloud-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud",
+    "file": "cloud.svg",
+    "aliases": []
+  },
+  {
+    "id": "cog",
+    "file": "cog.svg",
+    "aliases": [
+      "gear",
+      "setting",
+      "settings"
+    ]
+  },
+  {
+    "id": "copy-outline",
+    "file": "copy-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "command",
+    "file": "command.svg",
+    "aliases": []
+  },
+  {
+    "id": "copy",
+    "file": "copy.svg",
+    "aliases": []
+  },
+  {
+    "id": "credit-card-outline",
+    "file": "credit-card-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cross-small",
+    "file": "cross-small.svg",
+    "aliases": [
+      "close-small"
+    ]
+  },
+  {
+    "id": "cross-large",
+    "file": "cross-large.svg",
+    "aliases": [
+      "close-large"
+    ]
+  },
+  {
+    "id": "credit-card",
+    "file": "credit-card.svg",
+    "aliases": []
+  },
+  {
+    "id": "cross",
+    "file": "cross.svg",
+    "aliases": [
+      "close"
+    ]
+  },
+  {
+    "id": "currency-dollar-outline",
+    "file": "currency-dollar-outline.svg",
+    "aliases": [
+      "money-dollar-outline"
+    ]
+  },
+  {
+    "id": "currency-dollar",
+    "file": "currency-dollar.svg",
+    "aliases": [
+      "money-dollar"
+    ]
+  },
+  {
+    "id": "currency-euro-outline",
+    "file": "currency-euro-outline.svg",
+    "aliases": [
+      "money-euro-outline"
+    ]
+  },
+  {
+    "id": "currency-euro",
+    "file": "currency-euro.svg",
+    "aliases": [
+      "money-euro"
+    ]
+  },
+  {
+    "id": "currency-pound-outline",
+    "file": "currency-pound-outline.svg",
+    "aliases": [
+      "money-pound-outline"
+    ]
+  },
+  {
+    "id": "currency-pound",
+    "file": "currency-pound.svg",
+    "aliases": [
+      "money-pound"
+    ]
+  },
+  {
+    "id": "currency-rupee-outline",
+    "file": "currency-rupee-outline.svg",
+    "aliases": [
+      "money-rupee-outline"
+    ]
+  },
+  {
+    "id": "currency-rupee",
+    "file": "currency-rupee.svg",
+    "aliases": [
+      "money-rupee"
+    ]
+  },
+  {
+    "id": "currency-yen",
+    "file": "currency-yen.svg",
+    "aliases": [
+      "money-yen"
+    ]
+  },
+  {
+    "id": "currency-yen-outline",
+    "file": "currency-yen-outline.svg",
+    "aliases": [
+      "money-yen-outline"
+    ]
+  },
+  {
+    "id": "device-desktop-outline",
+    "file": "device-desktop-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-desktop",
+    "file": "device-desktop.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-laptop-outline",
+    "file": "device-laptop-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-mobile-outline",
+    "file": "device-mobile-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-mobile",
+    "file": "device-mobile.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-laptop",
+    "file": "device-laptop.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-tablet-outline",
+    "file": "device-tablet-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "divide-large",
+    "file": "divide-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "device-tablet",
+    "file": "device-tablet.svg",
+    "aliases": []
+  },
+  {
+    "id": "divide",
+    "file": "divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-down",
+    "file": "document-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-down-outline",
+    "file": "document-arrow-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "document-arrow-left",
-    "name": "document-arrow-left.svg"
-  },
-  {
-    "id": "document-arrow-up-outline",
-    "name": "document-arrow-up-outline.svg"
-  },
-  {
-    "id": "document-arrow-right",
-    "name": "document-arrow-right.svg"
-  },
-  {
-    "id": "document-arrow-up",
-    "name": "document-arrow-up.svg"
-  },
-  {
-    "id": "document-check",
-    "name": "document-check.svg"
-  },
-  {
-    "id": "document-check-outline",
-    "name": "document-check-outline.svg"
-  },
-  {
-    "id": "document-chevron-down-outline",
-    "name": "document-chevron-down-outline.svg"
-  },
-  {
-    "id": "document-chevron-down",
-    "name": "document-chevron-down.svg"
-  },
-  {
-    "id": "document-chevron-left-outline",
-    "name": "document-chevron-left-outline.svg"
-  },
-  {
-    "id": "document-chevron-left",
-    "name": "document-chevron-left.svg"
-  },
-  {
-    "id": "document-chevron-right",
-    "name": "document-chevron-right.svg"
-  },
-  {
-    "id": "document-chevron-right-outline",
-    "name": "document-chevron-right-outline.svg"
-  },
-  {
-    "id": "document-chevron-up-outline",
-    "name": "document-chevron-up-outline.svg"
-  },
-  {
-    "id": "document-chevron-up",
-    "name": "document-chevron-up.svg"
-  },
-  {
-    "id": "document-cross-outline",
-    "name": "document-cross-outline.svg"
-  },
-  {
-    "id": "document-cross",
-    "name": "document-cross.svg"
-  },
-  {
-    "id": "document-divide-outline",
-    "name": "document-divide-outline.svg"
-  },
-  {
-    "id": "document-divide",
-    "name": "document-divide.svg"
-  },
-  {
-    "id": "document-help-outline",
-    "name": "document-help-outline.svg"
-  },
-  {
-    "id": "document-help",
-    "name": "document-help.svg"
-  },
-  {
-    "id": "document-info-outline",
-    "name": "document-info-outline.svg"
-  },
-  {
-    "id": "document-info",
-    "name": "document-info.svg"
-  },
-  {
-    "id": "document-list-outline",
-    "name": "document-list-outline.svg"
-  },
-  {
-    "id": "document-list",
-    "name": "document-list.svg"
-  },
-  {
-    "id": "document-minus-outline",
-    "name": "document-minus-outline.svg"
-  },
-  {
-    "id": "document-minus",
-    "name": "document-minus.svg"
-  },
-  {
-    "id": "document-outline",
-    "name": "document-outline.svg"
-  },
-  {
-    "id": "document-percent-outline",
-    "name": "document-percent-outline.svg"
-  },
-  {
-    "id": "document-percent",
-    "name": "document-percent.svg"
-  },
-  {
-    "id": "document-person",
-    "name": "document-person.svg"
-  },
-  {
-    "id": "document-person-outline",
-    "name": "document-person-outline.svg"
-  },
-  {
-    "id": "document-plus",
-    "name": "document-plus.svg"
-  },
-  {
-    "id": "document-star-outline",
-    "name": "document-star-outline.svg"
-  },
-  {
-    "id": "document-plus-outline",
-    "name": "document-plus-outline.svg"
-  },
-  {
-    "id": "document-star",
-    "name": "document-star.svg"
-  },
-  {
-    "id": "document-warning-outline",
-    "name": "document-warning-outline.svg"
-  },
-  {
-    "id": "document-warning",
-    "name": "document-warning.svg"
-  },
-  {
-    "id": "dot-large-outline",
-    "name": "dot-large-outline.svg"
-  },
-  {
-    "id": "dot-large",
-    "name": "dot-large.svg"
-  },
-  {
-    "id": "document",
-    "name": "document.svg"
-  },
-  {
-    "id": "dot-outline",
-    "name": "dot-outline.svg"
-  },
-  {
-    "id": "dot-small",
-    "name": "dot-small.svg"
-  },
-  {
-    "id": "dot",
-    "name": "dot.svg"
-  },
-  {
-    "id": "education-outline",
-    "name": "education-outline.svg"
-  },
-  {
-    "id": "education",
-    "name": "education.svg"
-  },
-  {
-    "id": "envelope-outline",
-    "name": "envelope-outline.svg"
-  },
-  {
-    "id": "envelope",
-    "name": "envelope.svg"
-  },
-  {
-    "id": "equalizer-horizontal",
-    "name": "equalizer-horizontal.svg"
-  },
-  {
-    "id": "dot-small-outline",
-    "name": "dot-small-outline.svg"
-  },
-  {
-    "id": "eye-outline",
-    "name": "eye-outline.svg"
-  },
-  {
-    "id": "equalizer-vertical",
-    "name": "equalizer-vertical.svg"
+    "file": "document-arrow-left.svg",
+    "aliases": []
   },
   {
     "id": "document-arrow-right-outline",
-    "name": "document-arrow-right-outline.svg"
+    "file": "document-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "divide-small",
+    "file": "divide-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-left-outline",
+    "file": "document-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-right",
+    "file": "document-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-up-outline",
+    "file": "document-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-up",
+    "file": "document-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-check-outline",
+    "file": "document-check-outline.svg",
+    "aliases": [
+      "document-tick-outline"
+    ]
+  },
+  {
+    "id": "document-check",
+    "file": "document-check.svg",
+    "aliases": [
+      "document-tick"
+    ]
+  },
+  {
+    "id": "document-chevron-down-outline",
+    "file": "document-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-down",
+    "file": "document-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-left-outline",
+    "file": "document-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-left",
+    "file": "document-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-right-outline",
+    "file": "document-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-right",
+    "file": "document-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-up",
+    "file": "document-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-cross-outline",
+    "file": "document-cross-outline.svg",
+    "aliases": [
+      "document-close-outline"
+    ]
+  },
+  {
+    "id": "document-cross",
+    "file": "document-cross.svg",
+    "aliases": [
+      "document-close"
+    ]
+  },
+  {
+    "id": "document-chevron-up-outline",
+    "file": "document-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-divide-outline",
+    "file": "document-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-divide",
+    "file": "document-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-help-outline",
+    "file": "document-help-outline.svg",
+    "aliases": [
+      "document-question-outline"
+    ]
+  },
+  {
+    "id": "document-info-outline",
+    "file": "document-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-help",
+    "file": "document-help.svg",
+    "aliases": [
+      "document-question"
+    ]
+  },
+  {
+    "id": "document-list-outline",
+    "file": "document-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-info",
+    "file": "document-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-list",
+    "file": "document-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-minus-outline",
+    "file": "document-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-outline",
+    "file": "document-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-minus",
+    "file": "document-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-percent-outline",
+    "file": "document-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-percent",
+    "file": "document-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-person-outline",
+    "file": "document-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-person",
+    "file": "document-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-plus-outline",
+    "file": "document-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-plus",
+    "file": "document-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-star-outline",
+    "file": "document-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-star",
+    "file": "document-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-warning-outline",
+    "file": "document-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-warning",
+    "file": "document-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "document",
+    "file": "document.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot-large",
+    "file": "dot-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot-large-outline",
+    "file": "dot-large-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot-outline",
+    "file": "dot-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot-small",
+    "file": "dot-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot",
+    "file": "dot.svg",
+    "aliases": []
+  },
+  {
+    "id": "dot-small-outline",
+    "file": "dot-small-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "education-outline",
+    "file": "education-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "envelope-outline",
+    "file": "envelope-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "envelope",
+    "file": "envelope.svg",
+    "aliases": []
+  },
+  {
+    "id": "equalizer-horizontal",
+    "file": "equalizer-horizontal.svg",
+    "aliases": [
+      "adjustments-horizontal",
+      "levels-horizontal",
+      "mixer-horizontal"
+    ]
+  },
+  {
+    "id": "education",
+    "file": "education.svg",
+    "aliases": []
+  },
+  {
+    "id": "equalizer-vertical",
+    "file": "equalizer-vertical.svg",
+    "aliases": [
+      "adjustments-vertical",
+      "levels-vertical",
+      "mixer-vertical"
+    ]
+  },
+  {
+    "id": "eye-outline",
+    "file": "eye-outline.svg",
+    "aliases": []
   },
   {
     "id": "eye",
-    "name": "eye.svg"
+    "file": "eye.svg",
+    "aliases": []
   },
   {
     "id": "facebook",
-    "name": "facebook.svg"
+    "file": "facebook.svg",
+    "aliases": []
   },
   {
     "id": "flag-outline",
-    "name": "flag-outline.svg"
-  },
-  {
-    "id": "flag",
-    "name": "flag.svg"
-  },
-  {
-    "id": "folder-arrow-down",
-    "name": "folder-arrow-down.svg"
+    "file": "flag-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-arrow-down-outline",
-    "name": "folder-arrow-down-outline.svg"
+    "file": "folder-arrow-down-outline.svg",
+    "aliases": []
   },
   {
-    "id": "folder-arrow-left",
-    "name": "folder-arrow-left.svg"
-  },
-  {
-    "id": "folder-arrow-right-outline",
-    "name": "folder-arrow-right-outline.svg"
-  },
-  {
-    "id": "folder-arrow-right",
-    "name": "folder-arrow-right.svg"
-  },
-  {
-    "id": "folder-arrow-up-outline",
-    "name": "folder-arrow-up-outline.svg"
-  },
-  {
-    "id": "folder-arrow-up",
-    "name": "folder-arrow-up.svg"
-  },
-  {
-    "id": "folder-check-outline",
-    "name": "folder-check-outline.svg"
-  },
-  {
-    "id": "folder-check",
-    "name": "folder-check.svg"
-  },
-  {
-    "id": "folder-chevron-down-outline",
-    "name": "folder-chevron-down-outline.svg"
-  },
-  {
-    "id": "folder-chevron-down",
-    "name": "folder-chevron-down.svg"
-  },
-  {
-    "id": "folder-chevron-left-outline",
-    "name": "folder-chevron-left-outline.svg"
-  },
-  {
-    "id": "folder-chevron-left",
-    "name": "folder-chevron-left.svg"
-  },
-  {
-    "id": "folder-chevron-right-outline",
-    "name": "folder-chevron-right-outline.svg"
-  },
-  {
-    "id": "folder-chevron-right",
-    "name": "folder-chevron-right.svg"
-  },
-  {
-    "id": "folder-chevron-up-outline",
-    "name": "folder-chevron-up-outline.svg"
-  },
-  {
-    "id": "folder-chevron-up",
-    "name": "folder-chevron-up.svg"
-  },
-  {
-    "id": "folder-cross-outline",
-    "name": "folder-cross-outline.svg"
-  },
-  {
-    "id": "folder-cross",
-    "name": "folder-cross.svg"
+    "id": "flag",
+    "file": "flag.svg",
+    "aliases": []
   },
   {
     "id": "folder-arrow-left-outline",
-    "name": "folder-arrow-left-outline.svg"
+    "file": "folder-arrow-left-outline.svg",
+    "aliases": []
   },
   {
-    "id": "folder-divide",
-    "name": "folder-divide.svg"
+    "id": "folder-arrow-down",
+    "file": "folder-arrow-down.svg",
+    "aliases": []
   },
   {
-    "id": "folder-help-outline",
-    "name": "folder-help-outline.svg"
+    "id": "folder-arrow-left",
+    "file": "folder-arrow-left.svg",
+    "aliases": []
   },
   {
-    "id": "folder-help",
-    "name": "folder-help.svg"
+    "id": "folder-arrow-right-outline",
+    "file": "folder-arrow-right-outline.svg",
+    "aliases": []
   },
   {
-    "id": "folder-info-outline",
-    "name": "folder-info-outline.svg"
+    "id": "folder-arrow-right",
+    "file": "folder-arrow-right.svg",
+    "aliases": []
   },
   {
-    "id": "folder-info",
-    "name": "folder-info.svg"
+    "id": "folder-arrow-up-outline",
+    "file": "folder-arrow-up-outline.svg",
+    "aliases": []
   },
   {
-    "id": "folder-list-outline",
-    "name": "folder-list-outline.svg"
+    "id": "folder-arrow-up",
+    "file": "folder-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-check-outline",
+    "file": "folder-check-outline.svg",
+    "aliases": [
+      "folder-tick-outline"
+    ]
+  },
+  {
+    "id": "folder-check",
+    "file": "folder-check.svg",
+    "aliases": [
+      "folder-tick"
+    ]
+  },
+  {
+    "id": "folder-chevron-down",
+    "file": "folder-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-down-outline",
+    "file": "folder-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-left-outline",
+    "file": "folder-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-left",
+    "file": "folder-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-right-outline",
+    "file": "folder-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-right",
+    "file": "folder-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-up-outline",
+    "file": "folder-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-up",
+    "file": "folder-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-cross-outline",
+    "file": "folder-cross-outline.svg",
+    "aliases": [
+      "folder-close-outline"
+    ]
+  },
+  {
+    "id": "folder-cross",
+    "file": "folder-cross.svg",
+    "aliases": [
+      "folder-close"
+    ]
   },
   {
     "id": "folder-divide-outline",
-    "name": "folder-divide-outline.svg"
+    "file": "folder-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-divide",
+    "file": "folder-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-info-outline",
+    "file": "folder-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-help-outline",
+    "file": "folder-help-outline.svg",
+    "aliases": [
+      "folder-question-outline"
+    ]
+  },
+  {
+    "id": "folder-help",
+    "file": "folder-help.svg",
+    "aliases": [
+      "folder-question"
+    ]
+  },
+  {
+    "id": "folder-info",
+    "file": "folder-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-list-outline",
+    "file": "folder-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-list",
-    "name": "folder-list.svg"
+    "file": "folder-list.svg",
+    "aliases": []
   },
   {
     "id": "folder-minus-outline",
-    "name": "folder-minus-outline.svg"
+    "file": "folder-minus-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-minus",
-    "name": "folder-minus.svg"
+    "file": "folder-minus.svg",
+    "aliases": []
   },
   {
     "id": "folder-outline",
-    "name": "folder-outline.svg"
+    "file": "folder-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-percent-outline",
-    "name": "folder-percent-outline.svg"
+    "file": "folder-percent-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-percent",
-    "name": "folder-percent.svg"
+    "file": "folder-percent.svg",
+    "aliases": []
   },
   {
     "id": "folder-person-outline",
-    "name": "folder-person-outline.svg"
-  },
-  {
-    "id": "folder-person",
-    "name": "folder-person.svg"
+    "file": "folder-person-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-plus-outline",
-    "name": "folder-plus-outline.svg"
+    "file": "folder-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-person",
+    "file": "folder-person.svg",
+    "aliases": []
   },
   {
     "id": "folder-plus",
-    "name": "folder-plus.svg"
+    "file": "folder-plus.svg",
+    "aliases": []
   },
   {
     "id": "folder-star-outline",
-    "name": "folder-star-outline.svg"
-  },
-  {
-    "id": "folder-star",
-    "name": "folder-star.svg"
+    "file": "folder-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-warning-outline",
-    "name": "folder-warning-outline.svg"
+    "file": "folder-warning-outline.svg",
+    "aliases": []
   },
   {
-    "id": "folder-warning",
-    "name": "folder-warning.svg"
-  },
-  {
-    "id": "funnel-outline",
-    "name": "funnel-outline.svg"
-  },
-  {
-    "id": "funnel",
-    "name": "funnel.svg"
-  },
-  {
-    "id": "globe",
-    "name": "globe.svg"
-  },
-  {
-    "id": "hamburger",
-    "name": "hamburger.svg"
-  },
-  {
-    "id": "grid",
-    "name": "grid.svg"
-  },
-  {
-    "id": "hash",
-    "name": "hash.svg"
-  },
-  {
-    "id": "headphones-outline",
-    "name": "headphones-outline.svg"
-  },
-  {
-    "id": "heart-outline",
-    "name": "heart-outline.svg"
-  },
-  {
-    "id": "headphones",
-    "name": "headphones.svg"
-  },
-  {
-    "id": "heart",
-    "name": "heart.svg"
-  },
-  {
-    "id": "help-large",
-    "name": "help-large.svg"
-  },
-  {
-    "id": "help-small",
-    "name": "help-small.svg"
-  },
-  {
-    "id": "help",
-    "name": "help.svg"
-  },
-  {
-    "id": "hexagon-arrow-down-outline",
-    "name": "hexagon-arrow-down-outline.svg"
-  },
-  {
-    "id": "hexagon-arrow-down",
-    "name": "hexagon-arrow-down.svg"
-  },
-  {
-    "id": "hexagon-arrow-left-outline",
-    "name": "hexagon-arrow-left-outline.svg"
-  },
-  {
-    "id": "hexagon-arrow-left",
-    "name": "hexagon-arrow-left.svg"
-  },
-  {
-    "id": "hexagon-arrow-right-outline",
-    "name": "hexagon-arrow-right-outline.svg"
-  },
-  {
-    "id": "hexagon-arrow-right",
-    "name": "hexagon-arrow-right.svg"
-  },
-  {
-    "id": "hexagon-arrow-up-outline",
-    "name": "hexagon-arrow-up-outline.svg"
-  },
-  {
-    "id": "hexagon-arrow-up",
-    "name": "hexagon-arrow-up.svg"
-  },
-  {
-    "id": "hexagon-check-outline",
-    "name": "hexagon-check-outline.svg"
-  },
-  {
-    "id": "hexagon-check",
-    "name": "hexagon-check.svg"
-  },
-  {
-    "id": "hexagon-chevron-down-outline",
-    "name": "hexagon-chevron-down-outline.svg"
-  },
-  {
-    "id": "hexagon-chevron-down",
-    "name": "hexagon-chevron-down.svg"
-  },
-  {
-    "id": "hexagon-chevron-left",
-    "name": "hexagon-chevron-left.svg"
-  },
-  {
-    "id": "hexagon-chevron-left-outline",
-    "name": "hexagon-chevron-left-outline.svg"
-  },
-  {
-    "id": "hexagon-chevron-right-outline",
-    "name": "hexagon-chevron-right-outline.svg"
-  },
-  {
-    "id": "hexagon-chevron-right",
-    "name": "hexagon-chevron-right.svg"
-  },
-  {
-    "id": "hexagon-chevron-up-outline",
-    "name": "hexagon-chevron-up-outline.svg"
-  },
-  {
-    "id": "hexagon-chevron-up",
-    "name": "hexagon-chevron-up.svg"
-  },
-  {
-    "id": "hexagon-divide-outline",
-    "name": "hexagon-divide-outline.svg"
-  },
-  {
-    "id": "hexagon-cross-outline",
-    "name": "hexagon-cross-outline.svg"
-  },
-  {
-    "id": "hexagon-cross",
-    "name": "hexagon-cross.svg"
-  },
-  {
-    "id": "hexagon-divide",
-    "name": "hexagon-divide.svg"
-  },
-  {
-    "id": "hexagon-help-outline",
-    "name": "hexagon-help-outline.svg"
-  },
-  {
-    "id": "hexagon-help",
-    "name": "hexagon-help.svg"
-  },
-  {
-    "id": "hexagon-info-outline",
-    "name": "hexagon-info-outline.svg"
+    "id": "folder-star",
+    "file": "folder-star.svg",
+    "aliases": []
   },
   {
     "id": "folder",
-    "name": "folder.svg"
+    "file": "folder.svg",
+    "aliases": []
   },
   {
-    "id": "hexagon-list-outline",
-    "name": "hexagon-list-outline.svg"
+    "id": "folder-warning",
+    "file": "folder-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "funnel-outline",
+    "file": "funnel-outline.svg",
+    "aliases": [
+      "filter-outline"
+    ]
+  },
+  {
+    "id": "funnel",
+    "file": "funnel.svg",
+    "aliases": [
+      "filter"
+    ]
+  },
+  {
+    "id": "globe",
+    "file": "globe.svg",
+    "aliases": []
+  },
+  {
+    "id": "hamburger",
+    "file": "hamburger.svg",
+    "aliases": []
+  },
+  {
+    "id": "grid",
+    "file": "grid.svg",
+    "aliases": []
+  },
+  {
+    "id": "hash",
+    "file": "hash.svg",
+    "aliases": []
+  },
+  {
+    "id": "headphones-outline",
+    "file": "headphones-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "headphones",
+    "file": "headphones.svg",
+    "aliases": []
+  },
+  {
+    "id": "heart-outline",
+    "file": "heart-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "heart",
+    "file": "heart.svg",
+    "aliases": []
+  },
+  {
+    "id": "help-large",
+    "file": "help-large.svg",
+    "aliases": [
+      "question-large"
+    ]
+  },
+  {
+    "id": "help-small",
+    "file": "help-small.svg",
+    "aliases": [
+      "question-small"
+    ]
+  },
+  {
+    "id": "help",
+    "file": "help.svg",
+    "aliases": [
+      "question"
+    ]
+  },
+  {
+    "id": "hexagon-arrow-down-outline",
+    "file": "hexagon-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-down",
+    "file": "hexagon-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-left",
+    "file": "hexagon-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-left-outline",
+    "file": "hexagon-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-right-outline",
+    "file": "hexagon-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-right",
+    "file": "hexagon-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-up-outline",
+    "file": "hexagon-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-up",
+    "file": "hexagon-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-check-outline",
+    "file": "hexagon-check-outline.svg",
+    "aliases": [
+      "hexagon-tick-outline"
+    ]
+  },
+  {
+    "id": "hexagon-check",
+    "file": "hexagon-check.svg",
+    "aliases": [
+      "hexagon-tick"
+    ]
+  },
+  {
+    "id": "hexagon-chevron-down",
+    "file": "hexagon-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-down-outline",
+    "file": "hexagon-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-left-outline",
+    "file": "hexagon-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-left",
+    "file": "hexagon-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-right-outline",
+    "file": "hexagon-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-right",
+    "file": "hexagon-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-up",
+    "file": "hexagon-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-chevron-up-outline",
+    "file": "hexagon-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-cross",
+    "file": "hexagon-cross.svg",
+    "aliases": [
+      "hexagon-close"
+    ]
+  },
+  {
+    "id": "hexagon-cross-outline",
+    "file": "hexagon-cross-outline.svg",
+    "aliases": [
+      "hexagon-close-outline"
+    ]
+  },
+  {
+    "id": "hexagon-divide-outline",
+    "file": "hexagon-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-divide",
+    "file": "hexagon-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-help-outline",
+    "file": "hexagon-help-outline.svg",
+    "aliases": [
+      "hexagon-question-outline"
+    ]
+  },
+  {
+    "id": "hexagon-help",
+    "file": "hexagon-help.svg",
+    "aliases": [
+      "hexagon-question"
+    ]
+  },
+  {
+    "id": "hexagon-info-outline",
+    "file": "hexagon-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-info",
-    "name": "hexagon-info.svg"
+    "file": "hexagon-info.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-list",
-    "name": "hexagon-list.svg"
+    "file": "hexagon-list.svg",
+    "aliases": []
   },
   {
-    "id": "hexagon-minus",
-    "name": "hexagon-minus.svg"
-  },
-  {
-    "id": "hexagon-outline",
-    "name": "hexagon-outline.svg"
-  },
-  {
-    "id": "hexagon-percent-outline",
-    "name": "hexagon-percent-outline.svg"
-  },
-  {
-    "id": "hexagon-percent",
-    "name": "hexagon-percent.svg"
-  },
-  {
-    "id": "hexagon-person-outline",
-    "name": "hexagon-person-outline.svg"
-  },
-  {
-    "id": "hexagon-person",
-    "name": "hexagon-person.svg"
+    "id": "hexagon-list-outline",
+    "file": "hexagon-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-minus-outline",
-    "name": "hexagon-minus-outline.svg"
+    "file": "hexagon-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-minus",
+    "file": "hexagon-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-percent-outline",
+    "file": "hexagon-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-outline",
+    "file": "hexagon-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-percent",
+    "file": "hexagon-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-person-outline",
+    "file": "hexagon-person-outline.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-plus-outline",
-    "name": "hexagon-plus-outline.svg"
+    "file": "hexagon-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-person",
+    "file": "hexagon-person.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-plus",
-    "name": "hexagon-plus.svg"
+    "file": "hexagon-plus.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-star-outline",
-    "name": "hexagon-star-outline.svg"
-  },
-  {
-    "id": "hexagon-star",
-    "name": "hexagon-star.svg"
+    "file": "hexagon-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-warning-outline",
-    "name": "hexagon-warning-outline.svg"
+    "file": "hexagon-warning-outline.svg",
+    "aliases": []
   },
   {
-    "id": "hexagon",
-    "name": "hexagon.svg"
-  },
-  {
-    "id": "house-outline",
-    "name": "house-outline.svg"
-  },
-  {
-    "id": "house",
-    "name": "house.svg"
-  },
-  {
-    "id": "image-outline",
-    "name": "image-outline.svg"
-  },
-  {
-    "id": "image",
-    "name": "image.svg"
-  },
-  {
-    "id": "inbox-arrow-down-outline",
-    "name": "inbox-arrow-down-outline.svg"
-  },
-  {
-    "id": "inbox-arrow-down",
-    "name": "inbox-arrow-down.svg"
-  },
-  {
-    "id": "inbox-arrow-left-outline",
-    "name": "inbox-arrow-left-outline.svg"
-  },
-  {
-    "id": "inbox-arrow-left",
-    "name": "inbox-arrow-left.svg"
-  },
-  {
-    "id": "inbox-arrow-right-outline",
-    "name": "inbox-arrow-right-outline.svg"
-  },
-  {
-    "id": "inbox-arrow-right",
-    "name": "inbox-arrow-right.svg"
-  },
-  {
-    "id": "inbox-arrow-up-outline",
-    "name": "inbox-arrow-up-outline.svg"
-  },
-  {
-    "id": "inbox-arrow-up",
-    "name": "inbox-arrow-up.svg"
-  },
-  {
-    "id": "inbox-check-outline",
-    "name": "inbox-check-outline.svg"
-  },
-  {
-    "id": "inbox-check",
-    "name": "inbox-check.svg"
-  },
-  {
-    "id": "inbox-chevron-down-outline",
-    "name": "inbox-chevron-down-outline.svg"
-  },
-  {
-    "id": "inbox-chevron-down",
-    "name": "inbox-chevron-down.svg"
-  },
-  {
-    "id": "inbox-chevron-left-outline",
-    "name": "inbox-chevron-left-outline.svg"
-  },
-  {
-    "id": "inbox-chevron-left",
-    "name": "inbox-chevron-left.svg"
+    "id": "hexagon-star",
+    "file": "hexagon-star.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-warning",
-    "name": "hexagon-warning.svg"
+    "file": "hexagon-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon",
+    "file": "hexagon.svg",
+    "aliases": []
+  },
+  {
+    "id": "house-outline",
+    "file": "house-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "house",
+    "file": "house.svg",
+    "aliases": []
+  },
+  {
+    "id": "image",
+    "file": "image.svg",
+    "aliases": []
+  },
+  {
+    "id": "image-outline",
+    "file": "image-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-down-outline",
+    "file": "inbox-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-down",
+    "file": "inbox-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-left-outline",
+    "file": "inbox-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-left",
+    "file": "inbox-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-right",
+    "file": "inbox-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-right-outline",
+    "file": "inbox-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-up-outline",
+    "file": "inbox-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-up",
+    "file": "inbox-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-check",
+    "file": "inbox-check.svg",
+    "aliases": [
+      "inbox-tick"
+    ]
+  },
+  {
+    "id": "inbox-check-outline",
+    "file": "inbox-check-outline.svg",
+    "aliases": [
+      "inbox-tick-outline"
+    ]
+  },
+  {
+    "id": "inbox-chevron-down-outline",
+    "file": "inbox-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-down",
+    "file": "inbox-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-left",
+    "file": "inbox-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-chevron-left-outline",
+    "file": "inbox-chevron-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-chevron-right-outline",
-    "name": "inbox-chevron-right-outline.svg"
-  },
-  {
-    "id": "inbox-chevron-up-outline",
-    "name": "inbox-chevron-up-outline.svg"
+    "file": "inbox-chevron-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-chevron-right",
-    "name": "inbox-chevron-right.svg"
+    "file": "inbox-chevron-right.svg",
+    "aliases": []
   },
   {
     "id": "inbox-chevron-up",
-    "name": "inbox-chevron-up.svg"
+    "file": "inbox-chevron-up.svg",
+    "aliases": []
   },
   {
-    "id": "inbox-cross-outline",
-    "name": "inbox-cross-outline.svg"
+    "id": "inbox-chevron-up-outline",
+    "file": "inbox-chevron-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-cross",
-    "name": "inbox-cross.svg"
+    "file": "inbox-cross.svg",
+    "aliases": [
+      "inbox-close"
+    ]
+  },
+  {
+    "id": "inbox-cross-outline",
+    "file": "inbox-cross-outline.svg",
+    "aliases": [
+      "inbox-close-outline"
+    ]
   },
   {
     "id": "inbox-divide-outline",
-    "name": "inbox-divide-outline.svg"
-  },
-  {
-    "id": "inbox-help-outline",
-    "name": "inbox-help-outline.svg"
-  },
-  {
-    "id": "inbox-help",
-    "name": "inbox-help.svg"
-  },
-  {
-    "id": "inbox-info",
-    "name": "inbox-info.svg"
+    "file": "inbox-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-divide",
-    "name": "inbox-divide.svg"
+    "file": "inbox-divide.svg",
+    "aliases": []
   },
   {
-    "id": "inbox-info-outline",
-    "name": "inbox-info-outline.svg"
+    "id": "inbox-help-outline",
+    "file": "inbox-help-outline.svg",
+    "aliases": [
+      "inbox-question-outline"
+    ]
+  },
+  {
+    "id": "inbox-help",
+    "file": "inbox-help.svg",
+    "aliases": [
+      "inbox-question"
+    ]
   },
   {
     "id": "inbox-list-outline",
-    "name": "inbox-list-outline.svg"
+    "file": "inbox-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-info",
+    "file": "inbox-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-info-outline",
+    "file": "inbox-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-list",
-    "name": "inbox-list.svg"
+    "file": "inbox-list.svg",
+    "aliases": []
   },
   {
     "id": "inbox-minus-outline",
-    "name": "inbox-minus-outline.svg"
-  },
-  {
-    "id": "inbox-minus",
-    "name": "inbox-minus.svg"
+    "file": "inbox-minus-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-outline",
-    "name": "inbox-outline.svg"
-  },
-  {
-    "id": "inbox-percent",
-    "name": "inbox-percent.svg"
-  },
-  {
-    "id": "inbox-person-outline",
-    "name": "inbox-person-outline.svg"
-  },
-  {
-    "id": "inbox-person",
-    "name": "inbox-person.svg"
-  },
-  {
-    "id": "inbox-plus",
-    "name": "inbox-plus.svg"
-  },
-  {
-    "id": "inbox-plus-outline",
-    "name": "inbox-plus-outline.svg"
-  },
-  {
-    "id": "inbox-star",
-    "name": "inbox-star.svg"
-  },
-  {
-    "id": "inbox-star-outline",
-    "name": "inbox-star-outline.svg"
+    "file": "inbox-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-percent-outline",
-    "name": "inbox-percent-outline.svg"
+    "file": "inbox-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-minus",
+    "file": "inbox-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-percent",
+    "file": "inbox-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-person-outline",
+    "file": "inbox-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-person",
+    "file": "inbox-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-plus-outline",
+    "file": "inbox-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-star-outline",
+    "file": "inbox-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-plus",
+    "file": "inbox-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-star",
+    "file": "inbox-star.svg",
+    "aliases": []
   },
   {
     "id": "inbox-warning-outline",
-    "name": "inbox-warning-outline.svg"
-  },
-  {
-    "id": "inbox",
-    "name": "inbox.svg"
+    "file": "inbox-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "inbox-warning",
-    "name": "inbox-warning.svg"
+    "file": "inbox-warning.svg",
+    "aliases": []
   },
   {
-    "id": "info-large",
-    "name": "info-large.svg"
-  },
-  {
-    "id": "instagram",
-    "name": "instagram.svg"
+    "id": "inbox",
+    "file": "inbox.svg",
+    "aliases": []
   },
   {
     "id": "info-small",
-    "name": "info-small.svg"
+    "file": "info-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "info-large",
+    "file": "info-large.svg",
+    "aliases": []
   },
   {
     "id": "info",
-    "name": "info.svg"
+    "file": "info.svg",
+    "aliases": []
+  },
+  {
+    "id": "instagram",
+    "file": "instagram.svg",
+    "aliases": []
   },
   {
     "id": "key-outline",
-    "name": "key-outline.svg"
-  },
-  {
-    "id": "label-arrow-down-outline",
-    "name": "label-arrow-down-outline.svg"
+    "file": "key-outline.svg",
+    "aliases": []
   },
   {
     "id": "key",
-    "name": "key.svg"
+    "file": "key.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-down-outline",
+    "file": "label-arrow-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-down",
-    "name": "label-arrow-down.svg"
+    "file": "label-arrow-down.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-left-outline",
-    "name": "label-arrow-left-outline.svg"
+    "file": "label-arrow-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-left",
-    "name": "label-arrow-left.svg"
+    "file": "label-arrow-left.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-right-outline",
-    "name": "label-arrow-right-outline.svg"
-  },
-  {
-    "id": "label-arrow-right",
-    "name": "label-arrow-right.svg"
+    "file": "label-arrow-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-up-outline",
-    "name": "label-arrow-up-outline.svg"
+    "file": "label-arrow-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-arrow-up",
-    "name": "label-arrow-up.svg"
+    "file": "label-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-arrow-right",
+    "file": "label-arrow-right.svg",
+    "aliases": []
   },
   {
     "id": "label-check-outline",
-    "name": "label-check-outline.svg"
+    "file": "label-check-outline.svg",
+    "aliases": [
+      "label-tick-outline"
+    ]
   },
   {
     "id": "label-check",
-    "name": "label-check.svg"
-  },
-  {
-    "id": "label-chevron-down-outline",
-    "name": "label-chevron-down-outline.svg"
-  },
-  {
-    "id": "label-chevron-down",
-    "name": "label-chevron-down.svg"
+    "file": "label-check.svg",
+    "aliases": [
+      "label-tick"
+    ]
   },
   {
     "id": "label-chevron-left-outline",
-    "name": "label-chevron-left-outline.svg"
+    "file": "label-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-down",
+    "file": "label-chevron-down.svg",
+    "aliases": []
   },
   {
     "id": "label-chevron-left",
-    "name": "label-chevron-left.svg"
-  },
-  {
-    "id": "label-chevron-right-outline",
-    "name": "label-chevron-right-outline.svg"
+    "file": "label-chevron-left.svg",
+    "aliases": []
   },
   {
     "id": "label-chevron-right",
-    "name": "label-chevron-right.svg"
+    "file": "label-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-down-outline",
+    "file": "label-chevron-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-chevron-up-outline",
-    "name": "label-chevron-up-outline.svg"
-  },
-  {
-    "id": "label-cross-outline",
-    "name": "label-cross-outline.svg"
+    "file": "label-chevron-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-chevron-up",
-    "name": "label-chevron-up.svg"
+    "file": "label-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-cross-outline",
+    "file": "label-cross-outline.svg",
+    "aliases": [
+      "label-close-outline"
+    ]
   },
   {
     "id": "label-cross",
-    "name": "label-cross.svg"
+    "file": "label-cross.svg",
+    "aliases": [
+      "label-close"
+    ]
   },
   {
-    "id": "label-divide-outline",
-    "name": "label-divide-outline.svg"
+    "id": "label-chevron-right-outline",
+    "file": "label-chevron-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-divide",
-    "name": "label-divide.svg"
+    "file": "label-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-divide-outline",
+    "file": "label-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "label-help-outline",
-    "name": "label-help-outline.svg"
-  },
-  {
-    "id": "label-info-outline",
-    "name": "label-info-outline.svg"
-  },
-  {
-    "id": "label-info",
-    "name": "label-info.svg"
-  },
-  {
-    "id": "label-list",
-    "name": "label-list.svg"
-  },
-  {
-    "id": "label-list-outline",
-    "name": "label-list-outline.svg"
-  },
-  {
-    "id": "label-minus-outline",
-    "name": "label-minus-outline.svg"
-  },
-  {
-    "id": "label-minus",
-    "name": "label-minus.svg"
-  },
-  {
-    "id": "label-outline",
-    "name": "label-outline.svg"
-  },
-  {
-    "id": "label-percent-outline",
-    "name": "label-percent-outline.svg"
-  },
-  {
-    "id": "label-percent",
-    "name": "label-percent.svg"
-  },
-  {
-    "id": "label-person-outline",
-    "name": "label-person-outline.svg"
-  },
-  {
-    "id": "label-plus-outline",
-    "name": "label-plus-outline.svg"
-  },
-  {
-    "id": "label-person",
-    "name": "label-person.svg"
-  },
-  {
-    "id": "label-plus",
-    "name": "label-plus.svg"
-  },
-  {
-    "id": "label-star-outline",
-    "name": "label-star-outline.svg"
-  },
-  {
-    "id": "label-star",
-    "name": "label-star.svg"
-  },
-  {
-    "id": "label-warning-outline",
-    "name": "label-warning-outline.svg"
-  },
-  {
-    "id": "label-warning",
-    "name": "label-warning.svg"
-  },
-  {
-    "id": "label",
-    "name": "label.svg"
-  },
-  {
-    "id": "light-outline",
-    "name": "light-outline.svg"
-  },
-  {
-    "id": "light",
-    "name": "light.svg"
-  },
-  {
-    "id": "lightning-outline",
-    "name": "lightning-outline.svg"
-  },
-  {
-    "id": "lightning",
-    "name": "lightning.svg"
-  },
-  {
-    "id": "link",
-    "name": "link.svg"
-  },
-  {
-    "id": "linkedin",
-    "name": "linkedin.svg"
-  },
-  {
-    "id": "list-check",
-    "name": "list-check.svg"
-  },
-  {
-    "id": "list-point",
-    "name": "list-point.svg"
-  },
-  {
-    "id": "list",
-    "name": "list.svg"
-  },
-  {
-    "id": "lock",
-    "name": "lock.svg"
-  },
-  {
-    "id": "lock-outline",
-    "name": "lock-outline.svg"
-  },
-  {
-    "id": "magnifier-circle-outline",
-    "name": "magnifier-circle-outline.svg"
-  },
-  {
-    "id": "magnifier-circle",
-    "name": "magnifier-circle.svg"
-  },
-  {
-    "id": "magnifier-minus",
-    "name": "magnifier-minus.svg"
-  },
-  {
-    "id": "magnifier-plus",
-    "name": "magnifier-plus.svg"
-  },
-  {
-    "id": "magnifier",
-    "name": "magnifier.svg"
-  },
-  {
-    "id": "map-pin-outline",
-    "name": "map-pin-outline.svg"
-  },
-  {
-    "id": "map-pin",
-    "name": "map-pin.svg"
+    "file": "label-help-outline.svg",
+    "aliases": [
+      "label-question-outline"
+    ]
   },
   {
     "id": "label-help",
-    "name": "label-help.svg"
+    "file": "label-help.svg",
+    "aliases": [
+      "label-question"
+    ]
   },
   {
-    "id": "microphone",
-    "name": "microphone.svg"
+    "id": "label-info",
+    "file": "label-info.svg",
+    "aliases": []
   },
   {
-    "id": "minus-large",
-    "name": "minus-large.svg"
+    "id": "label-info-outline",
+    "file": "label-info-outline.svg",
+    "aliases": []
   },
   {
-    "id": "minus-small",
-    "name": "minus-small.svg"
+    "id": "label-list-outline",
+    "file": "label-list-outline.svg",
+    "aliases": []
   },
   {
-    "id": "minus",
-    "name": "minus.svg"
+    "id": "label-list",
+    "file": "label-list.svg",
+    "aliases": []
   },
   {
-    "id": "moon-outline",
-    "name": "moon-outline.svg"
+    "id": "label-minus-outline",
+    "file": "label-minus-outline.svg",
+    "aliases": []
   },
   {
-    "id": "moon",
-    "name": "moon.svg"
+    "id": "label-minus",
+    "file": "label-minus.svg",
+    "aliases": []
   },
   {
-    "id": "navigation-outline",
-    "name": "navigation-outline.svg"
+    "id": "label-outline",
+    "file": "label-outline.svg",
+    "aliases": []
   },
   {
-    "id": "navigation",
-    "name": "navigation.svg"
+    "id": "label-percent-outline",
+    "file": "label-percent-outline.svg",
+    "aliases": []
   },
   {
-    "id": "no-alt",
-    "name": "no-alt.svg"
+    "id": "label-person-outline",
+    "file": "label-person-outline.svg",
+    "aliases": []
   },
   {
-    "id": "no",
-    "name": "no.svg"
+    "id": "label-percent",
+    "file": "label-percent.svg",
+    "aliases": []
   },
   {
-    "id": "paperclip",
-    "name": "paperclip.svg"
+    "id": "label-plus-outline",
+    "file": "label-plus-outline.svg",
+    "aliases": []
   },
   {
-    "id": "pause-outline",
-    "name": "pause-outline.svg"
+    "id": "label-person",
+    "file": "label-person.svg",
+    "aliases": []
   },
   {
-    "id": "pause",
-    "name": "pause.svg"
+    "id": "label-plus",
+    "file": "label-plus.svg",
+    "aliases": []
   },
   {
-    "id": "paw-outline",
-    "name": "paw-outline.svg"
+    "id": "label-star-outline",
+    "file": "label-star-outline.svg",
+    "aliases": []
   },
   {
-    "id": "paw",
-    "name": "paw.svg"
+    "id": "label-star",
+    "file": "label-star.svg",
+    "aliases": []
   },
   {
-    "id": "pen-outline",
-    "name": "pen-outline.svg"
+    "id": "label-warning-outline",
+    "file": "label-warning-outline.svg",
+    "aliases": []
   },
   {
-    "id": "pen",
-    "name": "pen.svg"
+    "id": "label-warning",
+    "file": "label-warning.svg",
+    "aliases": []
   },
   {
-    "id": "pencil-outline",
-    "name": "pencil-outline.svg"
+    "id": "label",
+    "file": "label.svg",
+    "aliases": []
   },
   {
-    "id": "pencil",
-    "name": "pencil.svg"
+    "id": "light",
+    "file": "light.svg",
+    "aliases": []
   },
   {
-    "id": "people-outline",
-    "name": "people-outline.svg"
+    "id": "light-outline",
+    "file": "light-outline.svg",
+    "aliases": []
   },
   {
-    "id": "people",
-    "name": "people.svg"
+    "id": "lightning-outline",
+    "file": "lightning-outline.svg",
+    "aliases": []
   },
   {
-    "id": "percent-large",
-    "name": "percent-large.svg"
+    "id": "lightning",
+    "file": "lightning.svg",
+    "aliases": []
   },
   {
-    "id": "percent-small",
-    "name": "percent-small.svg"
+    "id": "linkedin",
+    "file": "linkedin.svg",
+    "aliases": []
   },
   {
-    "id": "percent",
-    "name": "percent.svg"
+    "id": "list-check",
+    "file": "list-check.svg",
+    "aliases": [
+      "list-tick"
+    ]
   },
   {
-    "id": "person-arrow-down-outline",
-    "name": "person-arrow-down-outline.svg"
+    "id": "link",
+    "file": "link.svg",
+    "aliases": []
   },
   {
-    "id": "person-arrow-down",
-    "name": "person-arrow-down.svg"
+    "id": "list-point",
+    "file": "list-point.svg",
+    "aliases": []
   },
   {
-    "id": "person-arrow-left-outline",
-    "name": "person-arrow-left-outline.svg"
+    "id": "list",
+    "file": "list.svg",
+    "aliases": []
   },
   {
-    "id": "person-arrow-left",
-    "name": "person-arrow-left.svg"
+    "id": "lock",
+    "file": "lock.svg",
+    "aliases": []
   },
   {
-    "id": "person-arrow-right-outline",
-    "name": "person-arrow-right-outline.svg"
+    "id": "lock-outline",
+    "file": "lock-outline.svg",
+    "aliases": []
   },
   {
-    "id": "person-arrow-right",
-    "name": "person-arrow-right.svg"
+    "id": "magnifier-circle-outline",
+    "file": "magnifier-circle-outline.svg",
+    "aliases": [
+      "search-circle-outline"
+    ]
   },
   {
-    "id": "person-arrow-up-outline",
-    "name": "person-arrow-up-outline.svg"
+    "id": "magnifier-circle",
+    "file": "magnifier-circle.svg",
+    "aliases": [
+      "search-circle"
+    ]
   },
   {
-    "id": "person-arrow-up",
-    "name": "person-arrow-up.svg"
+    "id": "magnifier-plus",
+    "file": "magnifier-plus.svg",
+    "aliases": [
+      "search-plus"
+    ]
   },
   {
-    "id": "microphone-outline",
-    "name": "microphone-outline.svg"
+    "id": "magnifier-minus",
+    "file": "magnifier-minus.svg",
+    "aliases": [
+      "search-minus"
+    ]
   },
   {
-    "id": "person-check-outline",
-    "name": "person-check-outline.svg"
+    "id": "magnifier",
+    "file": "magnifier.svg",
+    "aliases": [
+      "search"
+    ]
   },
   {
-    "id": "person-chevron-down-outline",
-    "name": "person-chevron-down-outline.svg"
-  },
-  {
-    "id": "person-check",
-    "name": "person-check.svg"
-  },
-  {
-    "id": "person-chevron-down",
-    "name": "person-chevron-down.svg"
-  },
-  {
-    "id": "person-chevron-left-outline",
-    "name": "person-chevron-left-outline.svg"
-  },
-  {
-    "id": "person-chevron-left",
-    "name": "person-chevron-left.svg"
-  },
-  {
-    "id": "person-chevron-right-outline",
-    "name": "person-chevron-right-outline.svg"
-  },
-  {
-    "id": "person-chevron-right",
-    "name": "person-chevron-right.svg"
-  },
-  {
-    "id": "person-chevron-up",
-    "name": "person-chevron-up.svg"
+    "id": "map-pin-outline",
+    "file": "map-pin-outline.svg",
+    "aliases": []
   },
   {
     "id": "messenger",
-    "name": "messenger.svg"
+    "file": "messenger.svg",
+    "aliases": []
   },
   {
-    "id": "person-cross-outline",
-    "name": "person-cross-outline.svg"
+    "id": "map-pin",
+    "file": "map-pin.svg",
+    "aliases": []
+  },
+  {
+    "id": "microphone-outline",
+    "file": "microphone-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "microphone",
+    "file": "microphone.svg",
+    "aliases": []
+  },
+  {
+    "id": "minus",
+    "file": "minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "minus-small",
+    "file": "minus-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "minus-large",
+    "file": "minus-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "moon",
+    "file": "moon.svg",
+    "aliases": []
+  },
+  {
+    "id": "moon-outline",
+    "file": "moon-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "navigation-outline",
+    "file": "navigation-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "navigation",
+    "file": "navigation.svg",
+    "aliases": []
+  },
+  {
+    "id": "no-alt",
+    "file": "no-alt.svg",
+    "aliases": []
+  },
+  {
+    "id": "no",
+    "file": "no.svg",
+    "aliases": []
+  },
+  {
+    "id": "paperclip",
+    "file": "paperclip.svg",
+    "aliases": []
+  },
+  {
+    "id": "pause-outline",
+    "file": "pause-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "paw-outline",
+    "file": "paw-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "pause",
+    "file": "pause.svg",
+    "aliases": []
+  },
+  {
+    "id": "paw",
+    "file": "paw.svg",
+    "aliases": []
+  },
+  {
+    "id": "pen-outline",
+    "file": "pen-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "pen",
+    "file": "pen.svg",
+    "aliases": []
+  },
+  {
+    "id": "pencil",
+    "file": "pencil.svg",
+    "aliases": []
+  },
+  {
+    "id": "people-outline",
+    "file": "people-outline.svg",
+    "aliases": [
+      "users-outline"
+    ]
+  },
+  {
+    "id": "pencil-outline",
+    "file": "pencil-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "people",
+    "file": "people.svg",
+    "aliases": [
+      "users"
+    ]
+  },
+  {
+    "id": "percent-small",
+    "file": "percent-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "percent-large",
+    "file": "percent-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-down-outline",
+    "file": "person-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "percent",
+    "file": "percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-down",
+    "file": "person-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right-outline",
+    "file": "person-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left",
+    "file": "person-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-left-outline",
+    "file": "person-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right",
+    "file": "person-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up-outline",
+    "file": "person-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-up",
+    "file": "person-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-check-outline",
+    "file": "person-check-outline.svg",
+    "aliases": [
+      "person-tick-outline"
+    ]
+  },
+  {
+    "id": "person-check",
+    "file": "person-check.svg",
+    "aliases": [
+      "person-tick"
+    ]
+  },
+  {
+    "id": "person-chevron-down-outline",
+    "file": "person-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-down",
+    "file": "person-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-left-outline",
+    "file": "person-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-left",
+    "file": "person-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-right",
+    "file": "person-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-chevron-right-outline",
+    "file": "person-chevron-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-chevron-up-outline",
-    "name": "person-chevron-up-outline.svg"
+    "file": "person-chevron-up-outline.svg",
+    "aliases": []
   },
   {
-    "id": "person-divide-outline",
-    "name": "person-divide-outline.svg"
-  },
-  {
-    "id": "person-divide",
-    "name": "person-divide.svg"
-  },
-  {
-    "id": "person-help-outline",
-    "name": "person-help-outline.svg"
+    "id": "person-chevron-up",
+    "file": "person-chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "person-cross",
-    "name": "person-cross.svg"
+    "file": "person-cross.svg",
+    "aliases": [
+      "person-close"
+    ]
   },
   {
-    "id": "person-info-outline",
-    "name": "person-info-outline.svg"
+    "id": "person-cross-outline",
+    "file": "person-cross-outline.svg",
+    "aliases": [
+      "person-close-outline"
+    ]
+  },
+  {
+    "id": "person-divide-outline",
+    "file": "person-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-divide",
+    "file": "person-divide.svg",
+    "aliases": []
   },
   {
     "id": "person-help",
-    "name": "person-help.svg"
+    "file": "person-help.svg",
+    "aliases": [
+      "person-question"
+    ]
+  },
+  {
+    "id": "person-help-outline",
+    "file": "person-help-outline.svg",
+    "aliases": [
+      "person-question-outline"
+    ]
+  },
+  {
+    "id": "person-info-outline",
+    "file": "person-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-info",
-    "name": "person-info.svg"
+    "file": "person-info.svg",
+    "aliases": []
   },
   {
     "id": "person-list-outline",
-    "name": "person-list-outline.svg"
-  },
-  {
-    "id": "person-minus-outline",
-    "name": "person-minus-outline.svg"
+    "file": "person-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-list",
-    "name": "person-list.svg"
+    "file": "person-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-minus-outline",
+    "file": "person-minus-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-minus",
-    "name": "person-minus.svg"
-  },
-  {
-    "id": "person-outline",
-    "name": "person-outline.svg"
+    "file": "person-minus.svg",
+    "aliases": []
   },
   {
     "id": "person-percent-outline",
-    "name": "person-percent-outline.svg"
+    "file": "person-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-outline",
+    "file": "person-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-percent",
-    "name": "person-percent.svg"
+    "file": "person-percent.svg",
+    "aliases": []
   },
   {
     "id": "person-person-outline",
-    "name": "person-person-outline.svg"
-  },
-  {
-    "id": "person-person",
-    "name": "person-person.svg"
+    "file": "person-person-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-plus-outline",
-    "name": "person-plus-outline.svg"
+    "file": "person-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-person",
+    "file": "person-person.svg",
+    "aliases": []
   },
   {
     "id": "person-plus",
-    "name": "person-plus.svg"
+    "file": "person-plus.svg",
+    "aliases": []
   },
   {
     "id": "person-star-outline",
-    "name": "person-star-outline.svg"
+    "file": "person-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "person-star",
-    "name": "person-star.svg"
-  },
-  {
-    "id": "person-warning-outline",
-    "name": "person-warning-outline.svg"
+    "file": "person-star.svg",
+    "aliases": []
   },
   {
     "id": "person-warning",
-    "name": "person-warning.svg"
+    "file": "person-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-warning-outline",
+    "file": "person-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "person",
-    "name": "person.svg"
+    "file": "person.svg",
+    "aliases": []
   },
   {
     "id": "phone-outline",
-    "name": "phone-outline.svg"
+    "file": "phone-outline.svg",
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "phone",
-    "name": "phone.svg"
-  },
-  {
-    "id": "pin-outline",
-    "name": "pin-outline.svg"
+    "file": "phone.svg",
+    "aliases": [
+      "telephone"
+    ]
   },
   {
     "id": "pin",
-    "name": "pin.svg"
+    "file": "pin.svg",
+    "aliases": [
+      "pushpin"
+    ]
+  },
+  {
+    "id": "pin-outline",
+    "file": "pin-outline.svg",
+    "aliases": [
+      "pushpin-outline"
+    ]
   },
   {
     "id": "play-outline",
-    "name": "play-outline.svg"
+    "file": "play-outline.svg",
+    "aliases": []
   },
   {
     "id": "play",
-    "name": "play.svg"
+    "file": "play.svg",
+    "aliases": []
   },
   {
     "id": "plus-large",
-    "name": "plus-large.svg"
+    "file": "plus-large.svg",
+    "aliases": []
   },
   {
     "id": "plus-small",
-    "name": "plus-small.svg"
+    "file": "plus-small.svg",
+    "aliases": []
   },
   {
     "id": "plus",
-    "name": "plus.svg"
-  },
-  {
-    "id": "print-outline",
-    "name": "print-outline.svg"
+    "file": "plus.svg",
+    "aliases": []
   },
   {
     "id": "print",
-    "name": "print.svg"
+    "file": "print.svg",
+    "aliases": []
+  },
+  {
+    "id": "print-outline",
+    "file": "print-outline.svg",
+    "aliases": []
   },
   {
     "id": "radio",
-    "name": "radio.svg"
-  },
-  {
-    "id": "receipt-outline",
-    "name": "receipt-outline.svg"
-  },
-  {
-    "id": "refresh-alt",
-    "name": "refresh-alt.svg"
+    "file": "radio.svg",
+    "aliases": []
   },
   {
     "id": "receipt",
-    "name": "receipt.svg"
+    "file": "receipt.svg",
+    "aliases": []
   },
   {
-    "id": "repeat",
-    "name": "repeat.svg"
+    "id": "refresh-alt",
+    "file": "refresh-alt.svg",
+    "aliases": []
   },
   {
     "id": "refresh",
-    "name": "refresh.svg"
+    "file": "refresh.svg",
+    "aliases": []
+  },
+  {
+    "id": "receipt-outline",
+    "file": "receipt-outline.svg",
+    "aliases": []
   },
   {
     "id": "scissors",
-    "name": "scissors.svg"
+    "file": "scissors.svg",
+    "aliases": []
   },
   {
-    "id": "shield-arrow-down",
-    "name": "shield-arrow-down.svg"
-  },
-  {
-    "id": "shield-arrow-left",
-    "name": "shield-arrow-left.svg"
-  },
-  {
-    "id": "shield-arrow-left-outline",
-    "name": "shield-arrow-left-outline.svg"
+    "id": "repeat",
+    "file": "repeat.svg",
+    "aliases": []
   },
   {
     "id": "shield-arrow-down-outline",
-    "name": "shield-arrow-down-outline.svg"
+    "file": "shield-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-left-outline",
+    "file": "shield-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-down",
+    "file": "shield-arrow-down.svg",
+    "aliases": []
   },
   {
     "id": "shield-arrow-right-outline",
-    "name": "shield-arrow-right-outline.svg"
+    "file": "shield-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-left",
+    "file": "shield-arrow-left.svg",
+    "aliases": []
   },
   {
     "id": "shield-arrow-right",
-    "name": "shield-arrow-right.svg"
+    "file": "shield-arrow-right.svg",
+    "aliases": []
   },
   {
     "id": "shield-arrow-up-outline",
-    "name": "shield-arrow-up-outline.svg"
-  },
-  {
-    "id": "shield-arrow-up",
-    "name": "shield-arrow-up.svg"
+    "file": "shield-arrow-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-check-outline",
-    "name": "shield-check-outline.svg"
+    "file": "shield-check-outline.svg",
+    "aliases": [
+      "shield-tick-outline"
+    ]
   },
   {
-    "id": "shield-chevron-down-outline",
-    "name": "shield-chevron-down-outline.svg"
+    "id": "shield-arrow-up",
+    "file": "shield-arrow-up.svg",
+    "aliases": []
   },
   {
     "id": "shield-check",
-    "name": "shield-check.svg"
+    "file": "shield-check.svg",
+    "aliases": [
+      "shield-tick"
+    ]
+  },
+  {
+    "id": "shield-chevron-down-outline",
+    "file": "shield-chevron-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-down",
-    "name": "shield-chevron-down.svg"
+    "file": "shield-chevron-down.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-left-outline",
-    "name": "shield-chevron-left-outline.svg"
+    "file": "shield-chevron-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-left",
-    "name": "shield-chevron-left.svg"
+    "file": "shield-chevron-left.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-right-outline",
-    "name": "shield-chevron-right-outline.svg"
+    "file": "shield-chevron-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-up-outline",
-    "name": "shield-chevron-up-outline.svg"
+    "file": "shield-chevron-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-chevron-up",
-    "name": "shield-chevron-up.svg"
+    "file": "shield-chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "shield-cross-outline",
-    "name": "shield-cross-outline.svg"
-  },
-  {
-    "id": "shield-cross",
-    "name": "shield-cross.svg"
+    "file": "shield-cross-outline.svg",
+    "aliases": [
+      "shield-close-outline"
+    ]
   },
   {
     "id": "shield-chevron-right",
-    "name": "shield-chevron-right.svg"
-  },
-  {
-    "id": "shield-divide-outline",
-    "name": "shield-divide-outline.svg"
+    "file": "shield-chevron-right.svg",
+    "aliases": []
   },
   {
     "id": "shield-divide",
-    "name": "shield-divide.svg"
+    "file": "shield-divide.svg",
+    "aliases": []
   },
   {
-    "id": "shield-help",
-    "name": "shield-help.svg"
-  },
-  {
-    "id": "shield-info-outline",
-    "name": "shield-info-outline.svg"
+    "id": "shield-divide-outline",
+    "file": "shield-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-help-outline",
-    "name": "shield-help-outline.svg"
+    "file": "shield-help-outline.svg",
+    "aliases": [
+      "shield-question-outline"
+    ]
+  },
+  {
+    "id": "shield-cross",
+    "file": "shield-cross.svg",
+    "aliases": [
+      "shield-close"
+    ]
+  },
+  {
+    "id": "shield-help",
+    "file": "shield-help.svg",
+    "aliases": [
+      "shield-question"
+    ]
   },
   {
     "id": "shield-info",
-    "name": "shield-info.svg"
+    "file": "shield-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-info-outline",
+    "file": "shield-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-list-outline",
-    "name": "shield-list-outline.svg"
+    "file": "shield-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-list",
-    "name": "shield-list.svg"
-  },
-  {
-    "id": "shield-minus-outline",
-    "name": "shield-minus-outline.svg"
+    "file": "shield-list.svg",
+    "aliases": []
   },
   {
     "id": "shield-minus",
-    "name": "shield-minus.svg"
+    "file": "shield-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-minus-outline",
+    "file": "shield-minus-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-outline",
-    "name": "shield-outline.svg"
+    "file": "shield-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-percent-outline",
-    "name": "shield-percent-outline.svg"
-  },
-  {
-    "id": "shield-percent",
-    "name": "shield-percent.svg"
+    "file": "shield-percent-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-person-outline",
-    "name": "shield-person-outline.svg"
+    "file": "shield-person-outline.svg",
+    "aliases": []
   },
   {
-    "id": "shield-plus-outline",
-    "name": "shield-plus-outline.svg"
+    "id": "shield-percent",
+    "file": "shield-percent.svg",
+    "aliases": []
   },
   {
     "id": "shield-person",
-    "name": "shield-person.svg"
+    "file": "shield-person.svg",
+    "aliases": []
   },
   {
-    "id": "shield-star-outline",
-    "name": "shield-star-outline.svg"
+    "id": "shield-plus-outline",
+    "file": "shield-plus-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-plus",
-    "name": "shield-plus.svg"
+    "file": "shield-plus.svg",
+    "aliases": []
   },
   {
     "id": "shield-star",
-    "name": "shield-star.svg"
+    "file": "shield-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-star-outline",
+    "file": "shield-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-warning-outline",
-    "name": "shield-warning-outline.svg"
-  },
-  {
-    "id": "shield",
-    "name": "shield.svg"
+    "file": "shield-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "shield-warning",
-    "name": "shield-warning.svg"
+    "file": "shield-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield",
+    "file": "shield.svg",
+    "aliases": []
   },
   {
     "id": "skip-backward-outline",
-    "name": "skip-backward-outline.svg"
+    "file": "skip-backward-outline.svg",
+    "aliases": []
   },
   {
     "id": "skip-backward",
-    "name": "skip-backward.svg"
-  },
-  {
-    "id": "skip-forward-outline",
-    "name": "skip-forward-outline.svg"
+    "file": "skip-backward.svg",
+    "aliases": []
   },
   {
     "id": "skip-end-outline",
-    "name": "skip-end-outline.svg"
+    "file": "skip-end-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "skip-forward-outline",
+    "file": "skip-forward-outline.svg",
+    "aliases": []
   },
   {
     "id": "skip-end",
-    "name": "skip-end.svg"
-  },
-  {
-    "id": "skip-forward",
-    "name": "skip-forward.svg"
+    "file": "skip-end.svg",
+    "aliases": []
   },
   {
     "id": "skip-start-outline",
-    "name": "skip-start-outline.svg"
+    "file": "skip-start-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "skip-forward",
+    "file": "skip-forward.svg",
+    "aliases": []
   },
   {
     "id": "skip-start",
-    "name": "skip-start.svg"
-  },
-  {
-    "id": "sort-ascending",
-    "name": "sort-ascending.svg"
+    "file": "skip-start.svg",
+    "aliases": []
   },
   {
     "id": "snapchat",
-    "name": "snapchat.svg"
+    "file": "snapchat.svg",
+    "aliases": []
   },
   {
-    "id": "sort-descending",
-    "name": "sort-descending.svg"
+    "id": "sort-ascending",
+    "file": "sort-ascending.svg",
+    "aliases": []
   },
   {
     "id": "speaker-cross-outline",
-    "name": "speaker-cross-outline.svg"
+    "file": "speaker-cross-outline.svg",
+    "aliases": [
+      "speaker-close-outline",
+      "volume-close-outline"
+    ]
   },
   {
     "id": "speaker-cross",
-    "name": "speaker-cross.svg"
+    "file": "speaker-cross.svg",
+    "aliases": [
+      "speaker-close",
+      "volume-close"
+    ]
   },
   {
-    "id": "speaker-decrease",
-    "name": "speaker-decrease.svg"
+    "id": "sort-descending",
+    "file": "sort-descending.svg",
+    "aliases": []
   },
   {
     "id": "speaker-decrease-outline",
-    "name": "speaker-decrease-outline.svg"
-  },
-  {
-    "id": "speaker-outline",
-    "name": "speaker-outline.svg"
+    "file": "speaker-decrease-outline.svg",
+    "aliases": [
+      "volume-decrease-outline",
+      "volume-down-outline"
+    ]
   },
   {
     "id": "speaker-increase",
-    "name": "speaker-increase.svg"
-  },
-  {
-    "id": "speaker",
-    "name": "speaker.svg"
-  },
-  {
-    "id": "speech-bubble-arrow-down-outline",
-    "name": "speech-bubble-arrow-down-outline.svg"
-  },
-  {
-    "id": "speech-bubble-arrow-down",
-    "name": "speech-bubble-arrow-down.svg"
+    "file": "speaker-increase.svg",
+    "aliases": [
+      "volume-increase",
+      "volume-up"
+    ]
   },
   {
     "id": "speaker-increase-outline",
-    "name": "speaker-increase-outline.svg"
+    "file": "speaker-increase-outline.svg",
+    "aliases": [
+      "volume-increase-outline",
+      "volume-up-outline"
+    ]
+  },
+  {
+    "id": "speaker-outline",
+    "file": "speaker-outline.svg",
+    "aliases": [
+      "volume-outline"
+    ]
+  },
+  {
+    "id": "speaker",
+    "file": "speaker.svg",
+    "aliases": [
+      "volume"
+    ]
+  },
+  {
+    "id": "speaker-decrease",
+    "file": "speaker-decrease.svg",
+    "aliases": [
+      "volume-decrease",
+      "volume-down"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-down-outline",
+    "file": "speech-bubble-arrow-down-outline.svg",
+    "aliases": [
+      "chat-arrow-down-outline",
+      "conversation-arrow-down-outline",
+      "comment-arrow-down-outline",
+      "message-arrow-down-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-down",
+    "file": "speech-bubble-arrow-down.svg",
+    "aliases": [
+      "chat-arrow-down",
+      "conversation-arrow-down",
+      "comment-arrow-down",
+      "message-arrow-down"
+    ]
   },
   {
     "id": "speech-bubble-arrow-left-outline",
-    "name": "speech-bubble-arrow-left-outline.svg"
+    "file": "speech-bubble-arrow-left-outline.svg",
+    "aliases": [
+      "chat-arrow-left-outline",
+      "conversation-arrow-left-outline",
+      "comment-arrow-left-outline",
+      "message-arrow-left-outline"
+    ]
   },
   {
     "id": "speech-bubble-arrow-left",
-    "name": "speech-bubble-arrow-left.svg"
+    "file": "speech-bubble-arrow-left.svg",
+    "aliases": [
+      "chat-arrow-left",
+      "conversation-arrow-left",
+      "comment-arrow-left",
+      "message-arrow-left"
+    ]
   },
   {
     "id": "speech-bubble-arrow-right-outline",
-    "name": "speech-bubble-arrow-right-outline.svg"
+    "file": "speech-bubble-arrow-right-outline.svg",
+    "aliases": [
+      "chat-arrow-right-outline",
+      "conversation-arrow-right-outline",
+      "comment-arrow-right-outline",
+      "message-arrow-right-outline"
+    ]
   },
   {
     "id": "speech-bubble-arrow-right",
-    "name": "speech-bubble-arrow-right.svg"
+    "file": "speech-bubble-arrow-right.svg",
+    "aliases": [
+      "chat-arrow-right",
+      "conversation-arrow-right",
+      "comment-arrow-right",
+      "message-arrow-right"
+    ]
   },
   {
     "id": "speech-bubble-arrow-up-outline",
-    "name": "speech-bubble-arrow-up-outline.svg"
+    "file": "speech-bubble-arrow-up-outline.svg",
+    "aliases": [
+      "chat-arrow-up-outline",
+      "conversation-arrow-up-outline",
+      "comment-arrow-up-outline",
+      "message-arrow-up-outline"
+    ]
   },
   {
     "id": "speech-bubble-arrow-up",
-    "name": "speech-bubble-arrow-up.svg"
-  },
-  {
-    "id": "speech-bubble-check-outline",
-    "name": "speech-bubble-check-outline.svg"
+    "file": "speech-bubble-arrow-up.svg",
+    "aliases": [
+      "chat-arrow-up",
+      "conversation-arrow-up",
+      "comment-arrow-up",
+      "message-arrow-up"
+    ]
   },
   {
     "id": "speech-bubble-check",
-    "name": "speech-bubble-check.svg"
+    "file": "speech-bubble-check.svg",
+    "aliases": [
+      "chat-bubble-check",
+      "conversation-bubble-check",
+      "comment-bubble-check",
+      "message-bubble-check",
+      "chat-tick",
+      "conversation-tick",
+      "comment-tick",
+      "message-tick"
+    ]
+  },
+  {
+    "id": "speech-bubble-check-outline",
+    "file": "speech-bubble-check-outline.svg",
+    "aliases": [
+      "chat-check-outline",
+      "conversation-check-outline",
+      "comment-check-outline",
+      "message-check-outline",
+      "chat-tick-outline",
+      "conversation-tick-outline",
+      "comment-tick-outline",
+      "message-tick-outline"
+    ]
   },
   {
     "id": "speech-bubble-chevron-down-outline",
-    "name": "speech-bubble-chevron-down-outline.svg"
+    "file": "speech-bubble-chevron-down-outline.svg",
+    "aliases": [
+      "chat-chevron-down-outline",
+      "conversation-chevron-down-outline",
+      "comment-chevron-down-outline",
+      "message-chevron-down-outline"
+    ]
   },
   {
     "id": "speech-bubble-chevron-down",
-    "name": "speech-bubble-chevron-down.svg"
+    "file": "speech-bubble-chevron-down.svg",
+    "aliases": [
+      "chat-chevron-down",
+      "conversation-chevron-down",
+      "comment-chevron-down",
+      "message-chevron-down"
+    ]
   },
   {
     "id": "speech-bubble-chevron-left",
-    "name": "speech-bubble-chevron-left.svg"
+    "file": "speech-bubble-chevron-left.svg",
+    "aliases": [
+      "chat-chevron-left",
+      "conversation-chevron-left",
+      "comment-chevron-left",
+      "message-chevron-left"
+    ]
   },
   {
     "id": "speech-bubble-chevron-left-outline",
-    "name": "speech-bubble-chevron-left-outline.svg"
-  },
-  {
-    "id": "speech-bubble-chevron-right-outline",
-    "name": "speech-bubble-chevron-right-outline.svg"
+    "file": "speech-bubble-chevron-left-outline.svg",
+    "aliases": [
+      "chat-chevron-left-outline",
+      "conversation-chevron-left-outline",
+      "comment-chevron-left-outline",
+      "message-chevron-left-outline"
+    ]
   },
   {
     "id": "speech-bubble-chevron-right",
-    "name": "speech-bubble-chevron-right.svg"
+    "file": "speech-bubble-chevron-right.svg",
+    "aliases": [
+      "chat-chevron-right",
+      "conversation-chevron-right",
+      "comment-chevron-right",
+      "message-chevron-right"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-right-outline",
+    "file": "speech-bubble-chevron-right-outline.svg",
+    "aliases": [
+      "chat-chevron-right-outline",
+      "conversation-chevron-right-outline",
+      "comment-chevron-right-outline",
+      "message-chevron-right-outline"
+    ]
   },
   {
     "id": "speech-bubble-chevron-up-outline",
-    "name": "speech-bubble-chevron-up-outline.svg"
+    "file": "speech-bubble-chevron-up-outline.svg",
+    "aliases": [
+      "chat-chevron-up-outline",
+      "conversation-chevron-up-outline",
+      "comment-chevron-up-outline",
+      "message-chevron-up-outline"
+    ]
   },
   {
     "id": "speech-bubble-chevron-up",
-    "name": "speech-bubble-chevron-up.svg"
+    "file": "speech-bubble-chevron-up.svg",
+    "aliases": [
+      "chat-chevron-up",
+      "conversation-chevron-up",
+      "comment-chevron-up",
+      "message-chevron-up"
+    ]
   },
   {
     "id": "speech-bubble-cross",
-    "name": "speech-bubble-cross.svg"
-  },
-  {
-    "id": "speech-bubble-divide-outline",
-    "name": "speech-bubble-divide-outline.svg"
-  },
-  {
-    "id": "speech-bubble-divide",
-    "name": "speech-bubble-divide.svg"
-  },
-  {
-    "id": "speech-bubble-help-outline",
-    "name": "speech-bubble-help-outline.svg"
-  },
-  {
-    "id": "speech-bubble-help",
-    "name": "speech-bubble-help.svg"
-  },
-  {
-    "id": "speech-bubble-info-outline",
-    "name": "speech-bubble-info-outline.svg"
-  },
-  {
-    "id": "speech-bubble-list-outline",
-    "name": "speech-bubble-list-outline.svg"
-  },
-  {
-    "id": "speech-bubble-info",
-    "name": "speech-bubble-info.svg"
-  },
-  {
-    "id": "speech-bubble-list",
-    "name": "speech-bubble-list.svg"
-  },
-  {
-    "id": "speech-bubble-minus-outline",
-    "name": "speech-bubble-minus-outline.svg"
+    "file": "speech-bubble-cross.svg",
+    "aliases": [
+      "chat-cross",
+      "conversation-cross",
+      "comment-cross",
+      "message-cross",
+      "chat-close",
+      "conversation-close",
+      "comment-close",
+      "message-close"
+    ]
   },
   {
     "id": "speech-bubble-cross-outline",
-    "name": "speech-bubble-cross-outline.svg"
+    "file": "speech-bubble-cross-outline.svg",
+    "aliases": [
+      "chat-cross-outline",
+      "conversation-cross-outline",
+      "comment-cross-outline",
+      "message-cross-outline",
+      "chat-close-outline",
+      "conversation-close-outline",
+      "comment-close-outline",
+      "message-close-outline"
+    ]
   },
   {
-    "id": "speech-bubble-outline",
-    "name": "speech-bubble-outline.svg"
+    "id": "speech-bubble-divide",
+    "file": "speech-bubble-divide.svg",
+    "aliases": [
+      "chat-bubble-divide",
+      "conversation-bubble-divide",
+      "comment-bubble-divide",
+      "message-bubble-divide"
+    ]
   },
   {
-    "id": "speech-bubble-percent",
-    "name": "speech-bubble-percent.svg"
+    "id": "speech-bubble-divide-outline",
+    "file": "speech-bubble-divide-outline.svg",
+    "aliases": [
+      "chat-divide-outline",
+      "conversation-divide-outline",
+      "comment-divide-outline",
+      "message-divide-outline"
+    ]
   },
   {
-    "id": "speech-bubble-person-outline",
-    "name": "speech-bubble-person-outline.svg"
+    "id": "speech-bubble-help",
+    "file": "speech-bubble-help.svg",
+    "aliases": [
+      "chat-bubble-help",
+      "conversation-bubble-help",
+      "comment-bubble-help",
+      "message-bubble-help",
+      "chat-question",
+      "conversation-question",
+      "comment-question",
+      "message-question"
+    ]
+  },
+  {
+    "id": "speech-bubble-help-outline",
+    "file": "speech-bubble-help-outline.svg",
+    "aliases": [
+      "chat-help-outline",
+      "conversation-help-outline",
+      "comment-help-outline",
+      "message-help-outline",
+      "chat-question-outline",
+      "conversation-question-outline",
+      "comment-question-outline",
+      "message-question-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-list-outline",
+    "file": "speech-bubble-list-outline.svg",
+    "aliases": [
+      "chat-list-outline",
+      "conversation-list-outline",
+      "comment-list-outline",
+      "message-list-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-list",
+    "file": "speech-bubble-list.svg",
+    "aliases": [
+      "chat-list",
+      "conversation-list",
+      "comment-list",
+      "message-list"
+    ]
+  },
+  {
+    "id": "speech-bubble-info-outline",
+    "file": "speech-bubble-info-outline.svg",
+    "aliases": [
+      "chat-info-outline",
+      "conversation-info-outline",
+      "comment-info-outline",
+      "message-info-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-info",
+    "file": "speech-bubble-info.svg",
+    "aliases": [
+      "chat-info",
+      "conversation-info",
+      "comment-info",
+      "message-info"
+    ]
+  },
+  {
+    "id": "speech-bubble-minus-outline",
+    "file": "speech-bubble-minus-outline.svg",
+    "aliases": [
+      "chat-minus-outline",
+      "conversation-minus-outline",
+      "comment-minus-outline",
+      "message-minus-outline"
+    ]
   },
   {
     "id": "speech-bubble-minus",
-    "name": "speech-bubble-minus.svg"
-  },
-  {
-    "id": "speech-bubble-person",
-    "name": "speech-bubble-person.svg"
-  },
-  {
-    "id": "speech-bubble-plus-outline",
-    "name": "speech-bubble-plus-outline.svg"
-  },
-  {
-    "id": "speech-bubble-plus",
-    "name": "speech-bubble-plus.svg"
-  },
-  {
-    "id": "speech-bubble-star-outline",
-    "name": "speech-bubble-star-outline.svg"
-  },
-  {
-    "id": "speech-bubble-star",
-    "name": "speech-bubble-star.svg"
-  },
-  {
-    "id": "speech-bubble-warning-outline",
-    "name": "speech-bubble-warning-outline.svg"
-  },
-  {
-    "id": "speech-bubble-warning",
-    "name": "speech-bubble-warning.svg"
-  },
-  {
-    "id": "speech-bubble",
-    "name": "speech-bubble.svg"
-  },
-  {
-    "id": "speech-bubbles-outline",
-    "name": "speech-bubbles-outline.svg"
-  },
-  {
-    "id": "square-arrow-down-outline",
-    "name": "square-arrow-down-outline.svg"
-  },
-  {
-    "id": "spinner",
-    "name": "spinner.svg"
-  },
-  {
-    "id": "square-arrow-down",
-    "name": "square-arrow-down.svg"
-  },
-  {
-    "id": "square-arrow-left-outline",
-    "name": "square-arrow-left-outline.svg"
-  },
-  {
-    "id": "square-arrow-left",
-    "name": "square-arrow-left.svg"
-  },
-  {
-    "id": "square-arrow-right-outline",
-    "name": "square-arrow-right-outline.svg"
-  },
-  {
-    "id": "square-arrow-right",
-    "name": "square-arrow-right.svg"
-  },
-  {
-    "id": "square-arrow-up-outline",
-    "name": "square-arrow-up-outline.svg"
-  },
-  {
-    "id": "speech-bubbles",
-    "name": "speech-bubbles.svg"
-  },
-  {
-    "id": "square-arrow-up",
-    "name": "square-arrow-up.svg"
-  },
-  {
-    "id": "square-check-outline",
-    "name": "square-check-outline.svg"
-  },
-  {
-    "id": "square-chevron-down-outline",
-    "name": "square-chevron-down-outline.svg"
-  },
-  {
-    "id": "square-chevron-down",
-    "name": "square-chevron-down.svg"
-  },
-  {
-    "id": "square-check",
-    "name": "square-check.svg"
-  },
-  {
-    "id": "square-chevron-left-outline",
-    "name": "square-chevron-left-outline.svg"
-  },
-  {
-    "id": "square-chevron-left",
-    "name": "square-chevron-left.svg"
-  },
-  {
-    "id": "square-chevron-right-outline",
-    "name": "square-chevron-right-outline.svg"
-  },
-  {
-    "id": "square-chevron-right",
-    "name": "square-chevron-right.svg"
-  },
-  {
-    "id": "square-chevron-up-outline",
-    "name": "square-chevron-up-outline.svg"
-  },
-  {
-    "id": "square-chevron-up",
-    "name": "square-chevron-up.svg"
-  },
-  {
-    "id": "square-cross-outline",
-    "name": "square-cross-outline.svg"
-  },
-  {
-    "id": "square-cross",
-    "name": "square-cross.svg"
-  },
-  {
-    "id": "square-divide-outline",
-    "name": "square-divide-outline.svg"
-  },
-  {
-    "id": "square-divide",
-    "name": "square-divide.svg"
-  },
-  {
-    "id": "square-help-outline",
-    "name": "square-help-outline.svg"
+    "file": "speech-bubble-minus.svg",
+    "aliases": [
+      "chat-minus",
+      "conversation-minus",
+      "comment-minus",
+      "message-minus"
+    ]
   },
   {
     "id": "speech-bubble-percent-outline",
-    "name": "speech-bubble-percent-outline.svg"
+    "file": "speech-bubble-percent-outline.svg",
+    "aliases": [
+      "chat-percent-outline",
+      "conversation-percent-outline",
+      "comment-percent-outline",
+      "message-percent-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-outline",
+    "file": "speech-bubble-outline.svg",
+    "aliases": [
+      "chat-outline",
+      "conversation-outline",
+      "comment-outline",
+      "message-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-person-outline",
+    "file": "speech-bubble-person-outline.svg",
+    "aliases": [
+      "chat-person-outline",
+      "conversation-person-outline",
+      "comment-person-outline",
+      "message-person-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-person",
+    "file": "speech-bubble-person.svg",
+    "aliases": [
+      "chat-person",
+      "conversation-person",
+      "comment-person",
+      "message-person"
+    ]
+  },
+  {
+    "id": "speech-bubble-percent",
+    "file": "speech-bubble-percent.svg",
+    "aliases": [
+      "chat-percent",
+      "conversation-percent",
+      "comment-percent",
+      "message-percent"
+    ]
+  },
+  {
+    "id": "speech-bubble-plus-outline",
+    "file": "speech-bubble-plus-outline.svg",
+    "aliases": [
+      "chat-plus-outline",
+      "conversation-plus-outline",
+      "comment-plus-outline",
+      "message-plus-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-star-outline",
+    "file": "speech-bubble-star-outline.svg",
+    "aliases": [
+      "chat-star-outline",
+      "conversation-star-outline",
+      "comment-star-outline",
+      "message-star-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-plus",
+    "file": "speech-bubble-plus.svg",
+    "aliases": [
+      "chat-plus",
+      "conversation-plus",
+      "comment-plus",
+      "message-plus"
+    ]
+  },
+  {
+    "id": "speech-bubble-star",
+    "file": "speech-bubble-star.svg",
+    "aliases": [
+      "chat-star",
+      "conversation-star",
+      "comment-star",
+      "message-star"
+    ]
+  },
+  {
+    "id": "speech-bubble-warning-outline",
+    "file": "speech-bubble-warning-outline.svg",
+    "aliases": [
+      "chat-warning-outline",
+      "conversation-warning-outline",
+      "comment-warning-outline",
+      "message-warning-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble",
+    "file": "speech-bubble.svg",
+    "aliases": [
+      "chat",
+      "conversation",
+      "comment",
+      "message"
+    ]
+  },
+  {
+    "id": "speech-bubble-warning",
+    "file": "speech-bubble-warning.svg",
+    "aliases": [
+      "chat-warning",
+      "conversation-warning",
+      "comment-warning",
+      "message-warning"
+    ]
+  },
+  {
+    "id": "speech-bubbles-outline",
+    "file": "speech-bubbles-outline.svg",
+    "aliases": [
+      "chats-outline",
+      "conversations-outline",
+      "comments-outline",
+      "messages-outline"
+    ]
+  },
+  {
+    "id": "speech-bubbles",
+    "file": "speech-bubbles.svg",
+    "aliases": [
+      "chats",
+      "conversations",
+      "comments",
+      "messages"
+    ]
+  },
+  {
+    "id": "spinner",
+    "file": "spinner.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-down-outline",
+    "file": "square-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-left-outline",
+    "file": "square-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-down",
+    "file": "square-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-right-outline",
+    "file": "square-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-left",
+    "file": "square-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-right",
+    "file": "square-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-up-outline",
+    "file": "square-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-arrow-up",
+    "file": "square-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-check-outline",
+    "file": "square-check-outline.svg",
+    "aliases": [
+      "square-tick-outline"
+    ]
+  },
+  {
+    "id": "square-chevron-down-outline",
+    "file": "square-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-check",
+    "file": "square-check.svg",
+    "aliases": [
+      "square-tick"
+    ]
+  },
+  {
+    "id": "square-chevron-down",
+    "file": "square-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-left",
+    "file": "square-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-left-outline",
+    "file": "square-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-right-outline",
+    "file": "square-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-right",
+    "file": "square-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-up-outline",
+    "file": "square-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-cross-outline",
+    "file": "square-cross-outline.svg",
+    "aliases": [
+      "square-close-outline"
+    ]
+  },
+  {
+    "id": "square-cross",
+    "file": "square-cross.svg",
+    "aliases": [
+      "square-close"
+    ]
+  },
+  {
+    "id": "square-chevron-up",
+    "file": "square-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-divide-outline",
+    "file": "square-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-divide",
+    "file": "square-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-help-outline",
+    "file": "square-help-outline.svg",
+    "aliases": [
+      "square-question-outline"
+    ]
   },
   {
     "id": "square-help",
-    "name": "square-help.svg"
+    "file": "square-help.svg",
+    "aliases": [
+      "square-question"
+    ]
   },
   {
     "id": "square-info-outline",
-    "name": "square-info-outline.svg"
+    "file": "square-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "square-info",
-    "name": "square-info.svg"
+    "file": "square-info.svg",
+    "aliases": []
   },
   {
     "id": "square-list-outline",
-    "name": "square-list-outline.svg"
+    "file": "square-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "square-list",
-    "name": "square-list.svg"
+    "file": "square-list.svg",
+    "aliases": []
   },
   {
     "id": "square-minus-outline",
-    "name": "square-minus-outline.svg"
+    "file": "square-minus-outline.svg",
+    "aliases": []
   },
   {
     "id": "square-minus",
-    "name": "square-minus.svg"
-  },
-  {
-    "id": "square-percent-outline",
-    "name": "square-percent-outline.svg"
-  },
-  {
-    "id": "square-percent",
-    "name": "square-percent.svg"
+    "file": "square-minus.svg",
+    "aliases": []
   },
   {
     "id": "square-outline",
-    "name": "square-outline.svg"
+    "file": "square-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-percent-outline",
+    "file": "square-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-percent",
+    "file": "square-percent.svg",
+    "aliases": []
   },
   {
     "id": "square-person-outline",
-    "name": "square-person-outline.svg"
-  },
-  {
-    "id": "square-plus-outline",
-    "name": "square-plus-outline.svg"
+    "file": "square-person-outline.svg",
+    "aliases": []
   },
   {
     "id": "square-person",
-    "name": "square-person.svg"
+    "file": "square-person.svg",
+    "aliases": []
   },
   {
-    "id": "square-star-outline",
-    "name": "square-star-outline.svg"
-  },
-  {
-    "id": "square-star",
-    "name": "square-star.svg"
-  },
-  {
-    "id": "square-warning-outline",
-    "name": "square-warning-outline.svg"
+    "id": "square-plus-outline",
+    "file": "square-plus-outline.svg",
+    "aliases": []
   },
   {
     "id": "square-plus",
-    "name": "square-plus.svg"
+    "file": "square-plus.svg",
+    "aliases": []
   },
   {
-    "id": "star-outline",
-    "name": "star-outline.svg"
+    "id": "square-star-outline",
+    "file": "square-star-outline.svg",
+    "aliases": []
   },
   {
-    "id": "square",
-    "name": "square.svg"
+    "id": "square-star",
+    "file": "square-star.svg",
+    "aliases": []
   },
   {
     "id": "square-warning",
-    "name": "square-warning.svg"
+    "file": "square-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-warning-outline",
+    "file": "square-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square",
+    "file": "square.svg",
+    "aliases": []
   },
   {
     "id": "star",
-    "name": "star.svg"
-  },
-  {
-    "id": "stop-outline",
-    "name": "stop-outline.svg"
-  },
-  {
-    "id": "sun",
-    "name": "sun.svg"
-  },
-  {
-    "id": "sun-outline",
-    "name": "sun-outline.svg"
-  },
-  {
-    "id": "tag-arrow-down-outline",
-    "name": "tag-arrow-down-outline.svg"
-  },
-  {
-    "id": "tag-arrow-down",
-    "name": "tag-arrow-down.svg"
-  },
-  {
-    "id": "tag-arrow-left-outline",
-    "name": "tag-arrow-left-outline.svg"
-  },
-  {
-    "id": "tag-arrow-right-outline",
-    "name": "tag-arrow-right-outline.svg"
-  },
-  {
-    "id": "tag-arrow-left",
-    "name": "tag-arrow-left.svg"
-  },
-  {
-    "id": "tag-arrow-up-outline",
-    "name": "tag-arrow-up-outline.svg"
-  },
-  {
-    "id": "tag-arrow-up",
-    "name": "tag-arrow-up.svg"
-  },
-  {
-    "id": "tag-check-outline",
-    "name": "tag-check-outline.svg"
-  },
-  {
-    "id": "tag-check",
-    "name": "tag-check.svg"
-  },
-  {
-    "id": "tag-chevron-down",
-    "name": "tag-chevron-down.svg"
-  },
-  {
-    "id": "tag-chevron-down-outline",
-    "name": "tag-chevron-down-outline.svg"
-  },
-  {
-    "id": "tag-arrow-right",
-    "name": "tag-arrow-right.svg"
-  },
-  {
-    "id": "tag-chevron-left",
-    "name": "tag-chevron-left.svg"
-  },
-  {
-    "id": "tag-chevron-left-outline",
-    "name": "tag-chevron-left-outline.svg"
-  },
-  {
-    "id": "tag-chevron-up-outline",
-    "name": "tag-chevron-up-outline.svg"
-  },
-  {
-    "id": "tag-chevron-right",
-    "name": "tag-chevron-right.svg"
-  },
-  {
-    "id": "tag-chevron-right-outline",
-    "name": "tag-chevron-right-outline.svg"
-  },
-  {
-    "id": "tag-chevron-up",
-    "name": "tag-chevron-up.svg"
-  },
-  {
-    "id": "tag-cross-outline",
-    "name": "tag-cross-outline.svg"
-  },
-  {
-    "id": "tag-cross",
-    "name": "tag-cross.svg"
-  },
-  {
-    "id": "tag-divide-outline",
-    "name": "tag-divide-outline.svg"
-  },
-  {
-    "id": "tag-divide",
-    "name": "tag-divide.svg"
-  },
-  {
-    "id": "tag-help",
-    "name": "tag-help.svg"
-  },
-  {
-    "id": "tag-info-outline",
-    "name": "tag-info-outline.svg"
-  },
-  {
-    "id": "tag-help-outline",
-    "name": "tag-help-outline.svg"
-  },
-  {
-    "id": "tag-info",
-    "name": "tag-info.svg"
-  },
-  {
-    "id": "tag-list",
-    "name": "tag-list.svg"
-  },
-  {
-    "id": "tag-list-outline",
-    "name": "tag-list-outline.svg"
-  },
-  {
-    "id": "tag-minus-outline",
-    "name": "tag-minus-outline.svg"
-  },
-  {
-    "id": "tag-minus",
-    "name": "tag-minus.svg"
+    "file": "star.svg",
+    "aliases": []
   },
   {
     "id": "stop",
-    "name": "stop.svg"
+    "file": "stop.svg",
+    "aliases": []
+  },
+  {
+    "id": "star-outline",
+    "file": "star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "stop-outline",
+    "file": "stop-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "sun",
+    "file": "sun.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-down",
+    "file": "tag-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-down-outline",
+    "file": "tag-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "sun-outline",
+    "file": "sun-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left-outline",
+    "file": "tag-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right-outline",
+    "file": "tag-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-left",
+    "file": "tag-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-right",
+    "file": "tag-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up-outline",
+    "file": "tag-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-arrow-up",
+    "file": "tag-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-check-outline",
+    "file": "tag-check-outline.svg",
+    "aliases": [
+      "tag-tick-outline"
+    ]
+  },
+  {
+    "id": "tag-check",
+    "file": "tag-check.svg",
+    "aliases": [
+      "tag-tick"
+    ]
+  },
+  {
+    "id": "tag-chevron-down",
+    "file": "tag-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-left",
+    "file": "tag-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-right-outline",
+    "file": "tag-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-left-outline",
+    "file": "tag-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-down-outline",
+    "file": "tag-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-up-outline",
+    "file": "tag-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-right",
+    "file": "tag-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-cross",
+    "file": "tag-cross.svg",
+    "aliases": [
+      "tag-close"
+    ]
+  },
+  {
+    "id": "tag-chevron-up",
+    "file": "tag-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-divide-outline",
+    "file": "tag-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-divide",
+    "file": "tag-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-help-outline",
+    "file": "tag-help-outline.svg",
+    "aliases": [
+      "tag-question-outline"
+    ]
+  },
+  {
+    "id": "tag-help",
+    "file": "tag-help.svg",
+    "aliases": [
+      "tag-question"
+    ]
+  },
+  {
+    "id": "tag-info-outline",
+    "file": "tag-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-list-outline",
+    "file": "tag-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-list",
+    "file": "tag-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-cross-outline",
+    "file": "tag-cross-outline.svg",
+    "aliases": [
+      "tag-close-outline"
+    ]
+  },
+  {
+    "id": "tag-minus-outline",
+    "file": "tag-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-minus",
+    "file": "tag-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-info",
+    "file": "tag-info.svg",
+    "aliases": []
   },
   {
     "id": "tag-outline",
-    "name": "tag-outline.svg"
+    "file": "tag-outline.svg",
+    "aliases": []
   },
   {
     "id": "tag-percent-outline",
-    "name": "tag-percent-outline.svg"
-  },
-  {
-    "id": "tag-percent",
-    "name": "tag-percent.svg"
+    "file": "tag-percent-outline.svg",
+    "aliases": []
   },
   {
     "id": "tag-person-outline",
-    "name": "tag-person-outline.svg"
+    "file": "tag-person-outline.svg",
+    "aliases": []
   },
   {
-    "id": "tag-person",
-    "name": "tag-person.svg"
-  },
-  {
-    "id": "tag-plus",
-    "name": "tag-plus.svg"
+    "id": "tag-percent",
+    "file": "tag-percent.svg",
+    "aliases": []
   },
   {
     "id": "tag-plus-outline",
-    "name": "tag-plus-outline.svg"
+    "file": "tag-plus-outline.svg",
+    "aliases": []
   },
   {
-    "id": "tag-star-outline",
-    "name": "tag-star-outline.svg"
+    "id": "tag-person",
+    "file": "tag-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-plus",
+    "file": "tag-plus.svg",
+    "aliases": []
   },
   {
     "id": "tag-star",
-    "name": "tag-star.svg"
+    "file": "tag-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-star-outline",
+    "file": "tag-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "tag-warning-outline",
-    "name": "tag-warning-outline.svg"
+    "file": "tag-warning-outline.svg",
+    "aliases": []
   },
   {
     "id": "tag-warning",
-    "name": "tag-warning.svg"
-  },
-  {
-    "id": "tag",
-    "name": "tag.svg"
+    "file": "tag-warning.svg",
+    "aliases": []
   },
   {
     "id": "text-align-center",
-    "name": "text-align-center.svg"
+    "file": "text-align-center.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag",
+    "file": "tag.svg",
+    "aliases": []
   },
   {
     "id": "text-align-justify",
-    "name": "text-align-justify.svg"
+    "file": "text-align-justify.svg",
+    "aliases": []
   },
   {
     "id": "text-align-left",
-    "name": "text-align-left.svg"
-  },
-  {
-    "id": "three-dots-horizontal",
-    "name": "three-dots-horizontal.svg"
-  },
-  {
-    "id": "text-align-right",
-    "name": "text-align-right.svg"
+    "file": "text-align-left.svg",
+    "aliases": []
   },
   {
     "id": "three-dots-vertical",
-    "name": "three-dots-vertical.svg"
+    "file": "three-dots-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "text-align-right",
+    "file": "text-align-right.svg",
+    "aliases": []
   },
   {
     "id": "thumb-down-outline",
-    "name": "thumb-down-outline.svg"
+    "file": "thumb-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "thumb-down",
-    "name": "thumb-down.svg"
+    "file": "thumb-down.svg",
+    "aliases": []
   },
   {
     "id": "thumb-up-outline",
-    "name": "thumb-up-outline.svg"
+    "file": "thumb-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "thumb-up",
-    "name": "thumb-up.svg"
+    "file": "thumb-up.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-down-outline",
-    "name": "ticket-arrow-down-outline.svg"
+    "file": "ticket-arrow-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-down",
-    "name": "ticket-arrow-down.svg"
-  },
-  {
-    "id": "ticket-arrow-left-outline",
-    "name": "ticket-arrow-left-outline.svg"
+    "file": "ticket-arrow-down.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-left",
-    "name": "ticket-arrow-left.svg"
+    "file": "ticket-arrow-left.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-right-outline",
-    "name": "ticket-arrow-right-outline.svg"
-  },
-  {
-    "id": "ticket-arrow-up-outline",
-    "name": "ticket-arrow-up-outline.svg"
+    "file": "ticket-arrow-right-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-right",
-    "name": "ticket-arrow-right.svg"
+    "file": "ticket-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-up-outline",
+    "file": "ticket-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-left-outline",
+    "file": "ticket-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "three-dots-horizontal",
+    "file": "three-dots-horizontal.svg",
+    "aliases": []
   },
   {
     "id": "ticket-arrow-up",
-    "name": "ticket-arrow-up.svg"
+    "file": "ticket-arrow-up.svg",
+    "aliases": []
   },
   {
     "id": "ticket-check-outline",
-    "name": "ticket-check-outline.svg"
-  },
-  {
-    "id": "ticket-check",
-    "name": "ticket-check.svg"
+    "file": "ticket-check-outline.svg",
+    "aliases": [
+      "ticket-tick-outline"
+    ]
   },
   {
     "id": "ticket-chevron-down-outline",
-    "name": "ticket-chevron-down-outline.svg"
+    "file": "ticket-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-check",
+    "file": "ticket-check.svg",
+    "aliases": [
+      "ticket-tick"
+    ]
   },
   {
     "id": "ticket-chevron-down",
-    "name": "ticket-chevron-down.svg"
-  },
-  {
-    "id": "ticket-chevron-left-outline",
-    "name": "ticket-chevron-left-outline.svg"
-  },
-  {
-    "id": "ticket-chevron-right-outline",
-    "name": "ticket-chevron-right-outline.svg"
+    "file": "ticket-chevron-down.svg",
+    "aliases": []
   },
   {
     "id": "ticket-chevron-left",
-    "name": "ticket-chevron-left.svg"
+    "file": "ticket-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-right-outline",
+    "file": "ticket-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-left-outline",
+    "file": "ticket-chevron-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-chevron-right",
-    "name": "ticket-chevron-right.svg"
-  },
-  {
-    "id": "ticket-chevron-up",
-    "name": "ticket-chevron-up.svg"
+    "file": "ticket-chevron-right.svg",
+    "aliases": []
   },
   {
     "id": "ticket-chevron-up-outline",
-    "name": "ticket-chevron-up-outline.svg"
+    "file": "ticket-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-up",
+    "file": "ticket-chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "ticket-cross-outline",
-    "name": "ticket-cross-outline.svg"
-  },
-  {
-    "id": "ticket-divide-outline",
-    "name": "ticket-divide-outline.svg"
+    "file": "ticket-cross-outline.svg",
+    "aliases": [
+      "ticket-close-outline"
+    ]
   },
   {
     "id": "ticket-cross",
-    "name": "ticket-cross.svg"
+    "file": "ticket-cross.svg",
+    "aliases": [
+      "ticket-close"
+    ]
+  },
+  {
+    "id": "ticket-divide-outline",
+    "file": "ticket-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-divide",
-    "name": "ticket-divide.svg"
-  },
-  {
-    "id": "ticket-help",
-    "name": "ticket-help.svg"
+    "file": "ticket-divide.svg",
+    "aliases": []
   },
   {
     "id": "ticket-help-outline",
-    "name": "ticket-help-outline.svg"
+    "file": "ticket-help-outline.svg",
+    "aliases": [
+      "ticket-question-outline"
+    ]
+  },
+  {
+    "id": "ticket-help",
+    "file": "ticket-help.svg",
+    "aliases": [
+      "ticket-question"
+    ]
   },
   {
     "id": "ticket-info-outline",
-    "name": "ticket-info-outline.svg"
+    "file": "ticket-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-info",
-    "name": "ticket-info.svg"
-  },
-  {
-    "id": "ticket-list-outline",
-    "name": "ticket-list-outline.svg"
+    "file": "ticket-info.svg",
+    "aliases": []
   },
   {
     "id": "ticket-list",
-    "name": "ticket-list.svg"
+    "file": "ticket-list.svg",
+    "aliases": []
   },
   {
     "id": "ticket-minus-outline",
-    "name": "ticket-minus-outline.svg"
+    "file": "ticket-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-list-outline",
+    "file": "ticket-list-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-minus",
-    "name": "ticket-minus.svg"
+    "file": "ticket-minus.svg",
+    "aliases": []
   },
   {
     "id": "ticket-outline",
-    "name": "ticket-outline.svg"
+    "file": "ticket-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-percent",
-    "name": "ticket-percent.svg"
+    "file": "ticket-percent.svg",
+    "aliases": []
   },
   {
     "id": "ticket-percent-outline",
-    "name": "ticket-percent-outline.svg"
+    "file": "ticket-percent-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-person-outline",
-    "name": "ticket-person-outline.svg"
-  },
-  {
-    "id": "ticket-plus-outline",
-    "name": "ticket-plus-outline.svg"
-  },
-  {
-    "id": "ticket-plus",
-    "name": "ticket-plus.svg"
+    "file": "ticket-person-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-person",
-    "name": "ticket-person.svg"
+    "file": "ticket-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-plus-outline",
+    "file": "ticket-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-plus",
+    "file": "ticket-plus.svg",
+    "aliases": []
   },
   {
     "id": "ticket-star-outline",
-    "name": "ticket-star-outline.svg"
-  },
-  {
-    "id": "ticket-star",
-    "name": "ticket-star.svg"
+    "file": "ticket-star-outline.svg",
+    "aliases": []
   },
   {
     "id": "ticket-warning-outline",
-    "name": "ticket-warning-outline.svg"
+    "file": "ticket-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-star",
+    "file": "ticket-star.svg",
+    "aliases": []
   },
   {
     "id": "ticket-warning",
-    "name": "ticket-warning.svg"
+    "file": "ticket-warning.svg",
+    "aliases": []
   },
   {
     "id": "ticket",
-    "name": "ticket.svg"
-  },
-  {
-    "id": "translate",
-    "name": "translate.svg"
+    "file": "ticket.svg",
+    "aliases": []
   },
   {
     "id": "triangle-arrow-down-outline",
-    "name": "triangle-arrow-down-outline.svg"
+    "file": "triangle-arrow-down-outline.svg",
+    "aliases": []
   },
   {
     "id": "triangle-arrow-down",
-    "name": "triangle-arrow-down.svg"
+    "file": "triangle-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "translate",
+    "file": "translate.svg",
+    "aliases": [
+      "language",
+      "languages"
+    ]
   },
   {
     "id": "triangle-arrow-left-outline",
-    "name": "triangle-arrow-left-outline.svg"
-  },
-  {
-    "id": "triangle-arrow-right",
-    "name": "triangle-arrow-right.svg"
-  },
-  {
-    "id": "triangle-arrow-right-outline",
-    "name": "triangle-arrow-right-outline.svg"
-  },
-  {
-    "id": "triangle-arrow-up-outline",
-    "name": "triangle-arrow-up-outline.svg"
-  },
-  {
-    "id": "triangle-arrow-up",
-    "name": "triangle-arrow-up.svg"
-  },
-  {
-    "id": "triangle-check",
-    "name": "triangle-check.svg"
-  },
-  {
-    "id": "triangle-chevron-down-outline",
-    "name": "triangle-chevron-down-outline.svg"
-  },
-  {
-    "id": "triangle-chevron-down",
-    "name": "triangle-chevron-down.svg"
-  },
-  {
-    "id": "triangle-chevron-left-outline",
-    "name": "triangle-chevron-left-outline.svg"
-  },
-  {
-    "id": "triangle-chevron-left",
-    "name": "triangle-chevron-left.svg"
-  },
-  {
-    "id": "triangle-chevron-right-outline",
-    "name": "triangle-chevron-right-outline.svg"
-  },
-  {
-    "id": "triangle-chevron-right",
-    "name": "triangle-chevron-right.svg"
-  },
-  {
-    "id": "triangle-chevron-up-outline",
-    "name": "triangle-chevron-up-outline.svg"
-  },
-  {
-    "id": "triangle-chevron-up",
-    "name": "triangle-chevron-up.svg"
-  },
-  {
-    "id": "triangle-cross-outline",
-    "name": "triangle-cross-outline.svg"
-  },
-  {
-    "id": "triangle-cross",
-    "name": "triangle-cross.svg"
-  },
-  {
-    "id": "triangle-divide-outline",
-    "name": "triangle-divide-outline.svg"
-  },
-  {
-    "id": "triangle-divide",
-    "name": "triangle-divide.svg"
-  },
-  {
-    "id": "triangle-help-outline",
-    "name": "triangle-help-outline.svg"
-  },
-  {
-    "id": "triangle-check-outline",
-    "name": "triangle-check-outline.svg"
-  },
-  {
-    "id": "triangle-help",
-    "name": "triangle-help.svg"
+    "file": "triangle-arrow-left-outline.svg",
+    "aliases": []
   },
   {
     "id": "triangle-arrow-left",
-    "name": "triangle-arrow-left.svg"
+    "file": "triangle-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-right",
+    "file": "triangle-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-right-outline",
+    "file": "triangle-arrow-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-up-outline",
+    "file": "triangle-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-up",
+    "file": "triangle-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-check-outline",
+    "file": "triangle-check-outline.svg",
+    "aliases": [
+      "triangle-tick-outline"
+    ]
+  },
+  {
+    "id": "triangle-check",
+    "file": "triangle-check.svg",
+    "aliases": [
+      "triangle-tick"
+    ]
+  },
+  {
+    "id": "triangle-chevron-down-outline",
+    "file": "triangle-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-left-outline",
+    "file": "triangle-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-left",
+    "file": "triangle-chevron-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-down",
+    "file": "triangle-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-right-outline",
+    "file": "triangle-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-right",
+    "file": "triangle-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-up-outline",
+    "file": "triangle-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-chevron-up",
+    "file": "triangle-chevron-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-cross-outline",
+    "file": "triangle-cross-outline.svg",
+    "aliases": [
+      "triangle-close-outline"
+    ]
+  },
+  {
+    "id": "triangle-divide-outline",
+    "file": "triangle-divide-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-help-outline",
+    "file": "triangle-help-outline.svg",
+    "aliases": [
+      "triangle-question-outline"
+    ]
+  },
+  {
+    "id": "triangle-divide",
+    "file": "triangle-divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-help",
+    "file": "triangle-help.svg",
+    "aliases": [
+      "triangle-question"
+    ]
+  },
+  {
+    "id": "triangle-cross",
+    "file": "triangle-cross.svg",
+    "aliases": [
+      "triangle-close"
+    ]
   },
   {
     "id": "triangle-info",
-    "name": "triangle-info.svg"
+    "file": "triangle-info.svg",
+    "aliases": []
   },
   {
     "id": "triangle-info-outline",
-    "name": "triangle-info-outline.svg"
-  },
-  {
-    "id": "triangle-list",
-    "name": "triangle-list.svg"
-  },
-  {
-    "id": "triangle-minus",
-    "name": "triangle-minus.svg"
-  },
-  {
-    "id": "triangle-outline",
-    "name": "triangle-outline.svg"
-  },
-  {
-    "id": "triangle-percent-outline",
-    "name": "triangle-percent-outline.svg"
-  },
-  {
-    "id": "triangle-percent",
-    "name": "triangle-percent.svg"
-  },
-  {
-    "id": "triangle-person-outline",
-    "name": "triangle-person-outline.svg"
-  },
-  {
-    "id": "triangle-person",
-    "name": "triangle-person.svg"
-  },
-  {
-    "id": "triangle-plus-outline",
-    "name": "triangle-plus-outline.svg"
-  },
-  {
-    "id": "triangle-plus",
-    "name": "triangle-plus.svg"
-  },
-  {
-    "id": "triangle-star-outline",
-    "name": "triangle-star-outline.svg"
-  },
-  {
-    "id": "triangle-star",
-    "name": "triangle-star.svg"
-  },
-  {
-    "id": "triangle-warning-outline",
-    "name": "triangle-warning-outline.svg"
-  },
-  {
-    "id": "triangle-warning",
-    "name": "triangle-warning.svg"
-  },
-  {
-    "id": "triangle",
-    "name": "triangle.svg"
-  },
-  {
-    "id": "twitter",
-    "name": "twitter.svg"
-  },
-  {
-    "id": "video-camera-outline",
-    "name": "video-camera-outline.svg"
-  },
-  {
-    "id": "video-camera",
-    "name": "video-camera.svg"
-  },
-  {
-    "id": "wallet-outline",
-    "name": "wallet-outline.svg"
-  },
-  {
-    "id": "wallet",
-    "name": "wallet.svg"
-  },
-  {
-    "id": "warning-large",
-    "name": "warning-large.svg"
-  },
-  {
-    "id": "warning-small",
-    "name": "warning-small.svg"
-  },
-  {
-    "id": "warning",
-    "name": "warning.svg"
-  },
-  {
-    "id": "youtube",
-    "name": "youtube.svg"
-  },
-  {
-    "id": "triangle-minus-outline",
-    "name": "triangle-minus-outline.svg"
+    "file": "triangle-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "triangle-list-outline",
-    "name": "triangle-list-outline.svg"
+    "file": "triangle-list-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-minus-outline",
+    "file": "triangle-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-list",
+    "file": "triangle-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-minus",
+    "file": "triangle-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-outline",
+    "file": "triangle-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-percent",
+    "file": "triangle-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-person-outline",
+    "file": "triangle-person-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-percent-outline",
+    "file": "triangle-percent-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-person",
+    "file": "triangle-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-plus-outline",
+    "file": "triangle-plus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-star-outline",
+    "file": "triangle-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-plus",
+    "file": "triangle-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-star",
+    "file": "triangle-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-warning-outline",
+    "file": "triangle-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle",
+    "file": "triangle.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-warning",
+    "file": "triangle-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "twitter",
+    "file": "twitter.svg",
+    "aliases": []
+  },
+  {
+    "id": "video-camera-outline",
+    "file": "video-camera-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "video-camera",
+    "file": "video-camera.svg",
+    "aliases": []
+  },
+  {
+    "id": "wallet-outline",
+    "file": "wallet-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "wallet",
+    "file": "wallet.svg",
+    "aliases": []
+  },
+  {
+    "id": "warning-large",
+    "file": "warning-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "warning-small",
+    "file": "warning-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "warning",
+    "file": "warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "youtube",
+    "file": "youtube.svg",
+    "aliases": []
   }
 ]

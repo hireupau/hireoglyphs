@@ -1,0 +1,1696 @@
+{
+  "alarm-outline": [],
+  "alarm": [],
+  "arrow-bar-in-down": [],
+  "arrow-bar-in-left": [],
+  "arrow-bar-in-right": [],
+  "arrow-bar-in-up": [],
+  "arrow-bar-in": [],
+  "arrow-bar-out-down": [],
+  "arrow-bar-out-left": [],
+  "arrow-bar-out-right": [],
+  "arrow-bar-out-up": [],
+  "arrow-bar-out": [],
+  "arrow-bottom-left": [],
+  "arrow-bottom-right": [],
+  "arrow-box-in-bottom-left": [],
+  "arrow-box-in-bottom-right": [],
+  "arrow-box-in-down": [],
+  "arrow-box-in-left": [],
+  "arrow-box-in-right": [],
+  "arrow-box-in-top-left": [],
+  "arrow-box-in-top-right": [],
+  "arrow-box-in-up": [],
+  "arrow-box-in": [],
+  "arrow-box-out-bottom-left": [],
+  "arrow-box-out-bottom-right": [],
+  "arrow-box-out-down": [],
+  "arrow-box-out-left": [],
+  "arrow-box-out-right": [],
+  "arrow-box-out-top-left": [],
+  "arrow-box-out-top-right": [],
+  "arrow-box-out-up": [
+    "share"
+  ],
+  "arrow-box-out": [
+    "share"
+  ],
+  "arrow-down": [],
+  "arrow-large-bottom-left": [],
+  "arrow-large-bottom-right": [],
+  "arrow-large-down": [],
+  "arrow-large-left": [],
+  "arrow-large-right": [],
+  "arrow-large-top-left": [],
+  "arrow-large-top-right": [],
+  "arrow-large-up": [],
+  "arrow-large": [],
+  "arrow-left": [],
+  "arrow-right": [],
+  "arrow-small-bottom-left": [],
+  "arrow-small-bottom-right": [],
+  "arrow-small-down": [],
+  "arrow-small-left": [],
+  "arrow-small-right": [],
+  "arrow-small-top-left": [],
+  "arrow-small-top-right": [],
+  "arrow-small-up": [],
+  "arrow-small": [],
+  "arrow-top-left": [],
+  "arrow-top-right": [],
+  "arrow-tray-bottom-left": [],
+  "arrow-tray-bottom-right": [],
+  "arrow-tray-down": [
+    "import"
+  ],
+  "arrow-tray-left": [],
+  "arrow-tray-right": [],
+  "arrow-tray-top-left": [],
+  "arrow-tray-top-right": [],
+  "arrow-tray-up": [
+    "export"
+  ],
+  "arrow-tray": [
+    "export"
+  ],
+  "arrow-up": [],
+  "arrow": [],
+  "arrows-bar-in-horizontal": [],
+  "arrows-bar-in-vertical": [],
+  "arrows-bar-out-horizontal": [],
+  "arrows-bar-out-vertical": [],
+  "arrows-down-up": [],
+  "arrows-down": [],
+  "arrows-in-bottom-left-top-right": [],
+  "arrows-in-bottom-right-top-left": [],
+  "arrows-in-horizontal": [],
+  "arrows-in-vertical": [],
+  "arrows-in": [],
+  "arrows-left-right": [],
+  "arrows-left": [],
+  "arrows-out-bottom-left-top-right": [],
+  "arrows-out-bottom-right-top-left": [],
+  "arrows-out-horizontal": [],
+  "arrows-out-vertical": [],
+  "arrows-out": [],
+  "arrows-right-left": [],
+  "arrows-right": [],
+  "arrows-up-down": [],
+  "arrows-up": [],
+  "arrows": [],
+  "award-outline": [],
+  "award": [],
+  "at": [],
+  "bag-arrow-down-outline": [],
+  "bag-arrow-down": [],
+  "bag-arrow-left-outline": [],
+  "bag-arrow-left": [],
+  "bag-arrow-right-outline": [],
+  "bag-arrow-right": [],
+  "bag-arrow-up-outline": [],
+  "bag-arrow-up": [],
+  "bag-check-outline": [
+    "bag-tick-outline"
+  ],
+  "bag-check": [
+    "bag-tick"
+  ],
+  "bag-chevron-down-outline": [],
+  "bag-chevron-down": [],
+  "bag-chevron-left-outline": [],
+  "bag-chevron-left": [],
+  "bag-chevron-right-outline": [],
+  "bag-chevron-right": [],
+  "bag-chevron-up-outline": [],
+  "bag-chevron-up": [],
+  "bag-cross-outline": [
+    "bag-close-outline"
+  ],
+  "bag-cross": [
+    "bag-close"
+  ],
+  "bag-divide-outline": [],
+  "bag-divide": [],
+  "bag-help-outline": [
+    "bag-question-outline"
+  ],
+  "bag-help": [
+    "bag-question"
+  ],
+  "bag-info-outline": [],
+  "bag-info": [],
+  "bag-list-outline": [],
+  "bag-list": [],
+  "bag-minus-outline": [],
+  "bag-minus": [],
+  "bag-person-outline": [],
+  "bag-person": [],
+  "bag-outline": [],
+  "bag-percent-outline": [],
+  "bag-percent": [],
+  "bag-plus-outline": [],
+  "bag-plus": [],
+  "bag-warning-outline": [],
+  "bag-warning": [],
+  "bag-star-outline": [],
+  "bag-star": [],
+  "bag": [],
+  "bell-outline": [
+    "notification-outline"
+  ],
+  "bell": [
+    "notification"
+  ],
+  "bin-outline": [
+    "rubbish-outline",
+    "trash-outline"
+  ],
+  "bin": [
+    "rubbish",
+    "trash"
+  ],
+  "bluetooth": [],
+  "bookmark-outline": [],
+  "bookmark": [],
+  "briefcase-outline": [
+    "job-outline",
+    "work-outline"
+  ],
+  "briefcase": [
+    "job",
+    "work"
+  ],
+  "calculator": [],
+  "calendar-arrow-down-outline": [],
+  "calendar-arrow-down": [],
+  "calendar-arrow-left-outline": [],
+  "calendar-arrow-left": [],
+  "calendar-arrow-right-outline": [],
+  "calendar-arrow-right": [],
+  "calendar-arrow-up-outline": [],
+  "calendar-arrow-up": [],
+  "calendar-check-outline": [
+    "calendar-tick-outline"
+  ],
+  "calendar-check": [
+    "calendar-tick"
+  ],
+  "calendar-chevron-down-outline": [],
+  "calendar-chevron-down": [],
+  "calendar-chevron-left-outline": [],
+  "calendar-chevron-left": [],
+  "calendar-chevron-right-outline": [],
+  "calendar-chevron-right": [],
+  "calendar-chevron-up-outline": [],
+  "calendar-chevron-up": [],
+  "calendar-cross-outline": [
+    "calendar-close-outline"
+  ],
+  "calendar-cross": [
+    "calendar-close"
+  ],
+  "calendar-divide-outline": [],
+  "calendar-divide": [],
+  "calendar-help-outline": [
+    "calendar-question-outline"
+  ],
+  "calendar-help": [
+    "calendar-question"
+  ],
+  "calendar-info-outline": [],
+  "calendar-info": [],
+  "calendar-list-outline": [],
+  "calendar-list": [],
+  "calendar-minus-outline": [],
+  "calendar-minus": [],
+  "calendar-person-outline": [],
+  "calendar-person": [],
+  "calendar-outline": [],
+  "calendar-percent-outline": [],
+  "calendar-percent": [],
+  "calendar-plus-outline": [],
+  "calendar-plus": [],
+  "calendar-warning-outline": [],
+  "calendar-warning": [],
+  "calendar-star-outline": [],
+  "calendar-star": [],
+  "calendar": [],
+  "camera-outline": [],
+  "camera": [],
+  "car-outline": [],
+  "car": [],
+  "caret-bar-in-down": [],
+  "caret-bar-in-left": [],
+  "caret-bar-in-right": [],
+  "caret-bar-in-up": [],
+  "caret-bar-in": [],
+  "caret-bar-out-down": [],
+  "caret-bar-out-left": [],
+  "caret-bar-out-right": [],
+  "caret-bar-out-up": [],
+  "caret-bar-out": [],
+  "caret-bottom-left": [],
+  "caret-bottom-right": [],
+  "caret-down": [],
+  "caret-large-bottom-left": [],
+  "caret-large-bottom-right": [],
+  "caret-large-down": [],
+  "caret-large-left": [],
+  "caret-large-right": [],
+  "caret-large-top-left": [],
+  "caret-large-top-right": [],
+  "caret-large-up": [],
+  "caret-large": [],
+  "caret-left": [],
+  "caret-right": [],
+  "caret-small-bottom-left": [],
+  "caret-small-bottom-right": [],
+  "caret-small-down": [],
+  "caret-small-left": [],
+  "caret-small-right": [],
+  "caret-small-top-left": [],
+  "caret-small-top-right": [],
+  "caret-small-up": [],
+  "caret-small": [],
+  "caret-top-left": [],
+  "caret-top-right": [],
+  "caret-up": [],
+  "caret": [],
+  "carets-bar-in-horizontal": [],
+  "carets-bar-in-vertical": [],
+  "carets-bar-out-horizontal": [],
+  "carets-bar-out-vertical": [],
+  "carets-down": [],
+  "carets-in-bottom-left-top-right": [],
+  "carets-in-bottom-right-top-left": [],
+  "carets-in-horizontal": [],
+  "carets-in-vertical": [],
+  "carets-in": [],
+  "carets-left": [],
+  "carets-out-bottom-left-top-right": [],
+  "carets-out-bottom-right-top-left": [],
+  "carets-out-horizontal": [],
+  "carets-out-vertical": [],
+  "carets-out": [],
+  "carets-right": [],
+  "carets-up": [],
+  "carets": [],
+  "check-large": [
+    "tick-large"
+  ],
+  "check-small": [
+    "tick-small"
+  ],
+  "check": [
+    "tick"
+  ],
+  "checkbox": [
+    "tick"
+  ],
+  "chevron-bar-in-down": [],
+  "chevron-bar-in-left": [],
+  "chevron-bar-in-right": [],
+  "chevron-bar-in-up": [],
+  "chevron-bar-in": [],
+  "chevron-bar-out-down": [],
+  "chevron-bar-out-left": [],
+  "chevron-bar-out-right": [],
+  "chevron-bar-out-up": [],
+  "chevron-bar-out": [],
+  "chevron-bottom-left": [],
+  "chevron-bottom-right": [],
+  "chevron-down": [],
+  "chevron-large-bottom-left": [],
+  "chevron-large-bottom-right": [],
+  "chevron-large-down": [],
+  "chevron-large-left": [],
+  "chevron-large-right": [],
+  "chevron-large-top-left": [],
+  "chevron-large-top-right": [],
+  "chevron-large-up": [],
+  "chevron-large": [],
+  "chevron-left": [],
+  "chevron-right": [],
+  "chevron-small-bottom-left": [],
+  "chevron-small-bottom-right": [],
+  "chevron-small-down": [],
+  "chevron-small-left": [],
+  "chevron-small-right": [],
+  "chevron-small-top-left": [],
+  "chevron-small-top-right": [],
+  "chevron-small-up": [],
+  "chevron-small": [],
+  "chevron-top-left": [],
+  "chevron-top-right": [],
+  "chevron-up": [],
+  "chevron": [],
+  "chevrons-bar-in-horizontal": [],
+  "chevrons-bar-in-vertical": [],
+  "chevrons-bar-out-horizontal": [],
+  "chevrons-bar-out-vertical": [],
+  "chevrons-down": [],
+  "chevrons-in-bottom-left-top-right": [],
+  "chevrons-in-bottom-right-top-left": [],
+  "chevrons-in-horizontal": [],
+  "chevrons-in-vertical": [],
+  "chevrons-in": [
+    "collapse"
+  ],
+  "chevrons-left": [],
+  "chevrons-out-bottom-left-top-right": [],
+  "chevrons-out-bottom-right-top-left": [],
+  "chevrons-out-horizontal": [],
+  "chevrons-out-vertical": [],
+  "chevrons-out": [
+    "expand"
+  ],
+  "chevrons-right": [],
+  "chevrons-up": [],
+  "chevrons": [],
+  "circle-arrow-down-outline": [],
+  "circle-arrow-down": [],
+  "circle-arrow-left-outline": [],
+  "circle-arrow-left": [],
+  "circle-arrow-right-outline": [],
+  "circle-arrow-right": [],
+  "circle-arrow-up-outline": [],
+  "circle-arrow-up": [],
+  "circle-check-outline": [
+    "circle-tick-outline"
+  ],
+  "circle-check": [
+    "circle-tick"
+  ],
+  "circle-chevron-down-outline": [],
+  "circle-chevron-down": [],
+  "circle-chevron-left-outline": [],
+  "circle-chevron-left": [],
+  "circle-chevron-right-outline": [],
+  "circle-chevron-right": [],
+  "circle-chevron-up-outline": [],
+  "circle-chevron-up": [],
+  "circle-cross-outline": [
+    "circle-close-outline"
+  ],
+  "circle-cross": [
+    "circle-close"
+  ],
+  "circle-divide-outline": [],
+  "circle-divide": [],
+  "circle-help-outline": [
+    "circle-question-outline"
+  ],
+  "circle-help": [
+    "circle-question"
+  ],
+  "circle-info-outline": [],
+  "circle-info": [],
+  "circle-list-outline": [],
+  "circle-list": [],
+  "circle-minus-outline": [],
+  "circle-minus": [],
+  "circle-person-outline": [],
+  "circle-person": [],
+  "circle-outline": [],
+  "circle-percent-outline": [],
+  "circle-percent": [],
+  "circle-plus-outline": [],
+  "circle-plus": [],
+  "circle-warning-outline": [],
+  "circle-warning": [],
+  "circle-star-outline": [],
+  "circle-star": [],
+  "circle": [],
+  "clipboard-arrow-down-outline": [],
+  "clipboard-arrow-down": [],
+  "clipboard-arrow-left-outline": [],
+  "clipboard-arrow-left": [],
+  "clipboard-arrow-right-outline": [],
+  "clipboard-arrow-right": [],
+  "clipboard-arrow-up-outline": [],
+  "clipboard-arrow-up": [],
+  "clipboard-check-outline": [
+    "clipboard-tick-outline"
+  ],
+  "clipboard-check": [
+    "clipboard-tick"
+  ],
+  "clipboard-chevron-down-outline": [],
+  "clipboard-chevron-down": [],
+  "clipboard-chevron-left-outline": [],
+  "clipboard-chevron-left": [],
+  "clipboard-chevron-right-outline": [],
+  "clipboard-chevron-right": [],
+  "clipboard-chevron-up-outline": [],
+  "clipboard-chevron-up": [],
+  "clipboard-cross-outline": [
+    "clipboard-close-outline"
+  ],
+  "clipboard-cross": [
+    "clipboard-close"
+  ],
+  "clipboard-divide-outline": [],
+  "clipboard-divide": [],
+  "clipboard-help-outline": [
+    "clipboard-question-outline"
+  ],
+  "clipboard-help": [
+    "clipboard-question"
+  ],
+  "clipboard-info-outline": [],
+  "clipboard-info": [],
+  "clipboard-list-outline": [],
+  "clipboard-list": [],
+  "clipboard-minus-outline": [],
+  "clipboard-minus": [],
+  "clipboard-person-outline": [],
+  "clipboard-person": [],
+  "clipboard-outline": [],
+  "clipboard-percent-outline": [],
+  "clipboard-percent": [],
+  "clipboard-plus-outline": [],
+  "clipboard-plus": [],
+  "clipboard-warning-outline": [],
+  "clipboard-warning": [],
+  "clipboard-star-outline": [],
+  "clipboard-star": [],
+  "clipboard": [],
+  "clock-outline": [],
+  "clock": [],
+  "cloud-arrow-down-outline": [],
+  "cloud-arrow-down": [],
+  "cloud-arrow-left-outline": [],
+  "cloud-arrow-left": [],
+  "cloud-arrow-right-outline": [],
+  "cloud-arrow-right": [],
+  "cloud-arrow-up-outline": [],
+  "cloud-arrow-up": [],
+  "cloud-check-outline": [
+    "cloud-tick-outline"
+  ],
+  "cloud-check": [
+    "cloud-tick"
+  ],
+  "cloud-chevron-down-outline": [],
+  "cloud-chevron-down": [],
+  "cloud-chevron-left-outline": [],
+  "cloud-chevron-left": [],
+  "cloud-chevron-right-outline": [],
+  "cloud-chevron-right": [],
+  "cloud-chevron-up-outline": [],
+  "cloud-chevron-up": [],
+  "cloud-cross-outline": [
+    "cloud-close-outline"
+  ],
+  "cloud-cross": [
+    "cloud-close"
+  ],
+  "cloud-divide-outline": [],
+  "cloud-divide": [],
+  "cloud-help-outline": [
+    "cloud-question-outline"
+  ],
+  "cloud-help": [
+    "cloud-question"
+  ],
+  "cloud-info-outline": [],
+  "cloud-info": [],
+  "cloud-list-outline": [],
+  "cloud-list": [],
+  "cloud-minus-outline": [],
+  "cloud-minus": [],
+  "cloud-person-outline": [],
+  "cloud-person": [],
+  "cloud-outline": [],
+  "cloud-percent-outline": [],
+  "cloud-percent": [],
+  "cloud-plus-outline": [],
+  "cloud-plus": [],
+  "cloud-warning-outline": [],
+  "cloud-warning": [],
+  "cloud-star-outline": [],
+  "cloud-star": [],
+  "cloud": [],
+  "cog-outline": [
+    "gear-outline",
+    "setting-outline",
+    "settings-outline"
+  ],
+  "cog": [
+    "gear",
+    "setting",
+    "settings"
+  ],
+  "command": [],
+  "copy-outline": [],
+  "copy": [],
+  "credit-card-outline": [],
+  "credit-card": [],
+  "cross-large": [
+    "close-large"
+  ],
+  "cross-small": [
+    "close-small"
+  ],
+  "cross": [
+    "close"
+  ],
+  "currency-yen": [
+    "money-yen"
+  ],
+  "currency-yen-outline": [
+    "money-yen-outline"
+  ],
+  "currency-pound": [
+    "money-pound"
+  ],
+  "currency-rupee-outline": [
+    "money-rupee-outline"
+  ],
+  "currency-rupee": [
+    "money-rupee"
+  ],
+  "currency-euro-outline": [
+    "money-euro-outline"
+  ],
+  "currency-euro": [
+    "money-euro"
+  ],
+  "currency-pound-outline": [
+    "money-pound-outline"
+  ],
+  "currency-dollar-outline": [
+    "money-dollar-outline"
+  ],
+  "currency-dollar": [
+    "money-dollar"
+  ],
+  "device-desktop-outline": [],
+  "device-desktop": [],
+  "device-laptop-outline": [],
+  "device-laptop": [],
+  "device-mobile-outline": [],
+  "device-mobile": [],
+  "device-tablet-outline": [],
+  "device-tablet": [],
+  "divide-large": [],
+  "divide-small": [],
+  "divide": [],
+  "document-arrow-down-outline": [],
+  "document-arrow-down": [],
+  "document-arrow-left-outline": [],
+  "document-arrow-left": [],
+  "document-arrow-right-outline": [],
+  "document-arrow-right": [],
+  "document-arrow-up-outline": [],
+  "document-arrow-up": [],
+  "document-check-outline": [
+    "document-tick-outline"
+  ],
+  "document-check": [
+    "document-tick"
+  ],
+  "document-chevron-down-outline": [],
+  "document-chevron-down": [],
+  "document-chevron-left-outline": [],
+  "document-chevron-left": [],
+  "document-chevron-right-outline": [],
+  "document-chevron-right": [],
+  "document-chevron-up-outline": [],
+  "document-chevron-up": [],
+  "document-cross-outline": [
+    "document-close-outline"
+  ],
+  "document-cross": [
+    "document-close"
+  ],
+  "document-divide-outline": [],
+  "document-divide": [],
+  "document-help-outline": [
+    "document-question-outline"
+  ],
+  "document-help": [
+    "document-question"
+  ],
+  "document-info-outline": [],
+  "document-info": [],
+  "document-list-outline": [],
+  "document-list": [],
+  "document-minus-outline": [],
+  "document-minus": [],
+  "document-person-outline": [],
+  "document-person": [],
+  "document-outline": [],
+  "document-percent-outline": [],
+  "document-percent": [],
+  "document-plus-outline": [],
+  "document-plus": [],
+  "document-warning-outline": [],
+  "document-warning": [],
+  "document-star-outline": [],
+  "document-star": [],
+  "document": [],
+  "dot-large-outline": [],
+  "dot-large": [],
+  "dot-outline": [],
+  "dot-small-outline": [],
+  "dot-small": [],
+  "dot": [],
+  "education-outline": [],
+  "education": [],
+  "envelope-outline": [],
+  "envelope": [],
+  "equalizer-horizontal": [
+    "adjustments-horizontal",
+    "levels-horizontal",
+    "mixer-horizontal"
+  ],
+  "equalizer-vertical": [
+    "adjustments-vertical",
+    "levels-vertical",
+    "mixer-vertical"
+  ],
+  "eye-outline": [],
+  "eye": [],
+  "facebook": [],
+  "flag-outline": [],
+  "flag": [],
+  "folder-arrow-down-outline": [],
+  "folder-arrow-down": [],
+  "folder-arrow-left-outline": [],
+  "folder-arrow-left": [],
+  "folder-arrow-right-outline": [],
+  "folder-arrow-right": [],
+  "folder-arrow-up-outline": [],
+  "folder-arrow-up": [],
+  "folder-check-outline": [
+    "folder-tick-outline"
+  ],
+  "folder-check": [
+    "folder-tick"
+  ],
+  "folder-chevron-down-outline": [],
+  "folder-chevron-down": [],
+  "folder-chevron-left-outline": [],
+  "folder-chevron-left": [],
+  "folder-chevron-right-outline": [],
+  "folder-chevron-right": [],
+  "folder-chevron-up-outline": [],
+  "folder-chevron-up": [],
+  "folder-cross-outline": [
+    "folder-close-outline"
+  ],
+  "folder-cross": [
+    "folder-close"
+  ],
+  "folder-divide-outline": [],
+  "folder-divide": [],
+  "folder-help-outline": [
+    "folder-question-outline"
+  ],
+  "folder-help": [
+    "folder-question"
+  ],
+  "folder-info-outline": [],
+  "folder-info": [],
+  "folder-list-outline": [],
+  "folder-list": [],
+  "folder-minus-outline": [],
+  "folder-minus": [],
+  "folder-person-outline": [],
+  "folder-person": [],
+  "folder-outline": [],
+  "folder-percent-outline": [],
+  "folder-percent": [],
+  "folder-plus-outline": [],
+  "folder-plus": [],
+  "folder-warning-outline": [],
+  "folder-warning": [],
+  "folder-star-outline": [],
+  "folder-star": [],
+  "folder": [],
+  "funnel-outline": [
+    "filter-outline"
+  ],
+  "funnel": [
+    "filter"
+  ],
+  "globe": [],
+  "grid": [],
+  "hamburger": [],
+  "hash": [],
+  "headphones-outline": [],
+  "headphones": [],
+  "heart-outline": [],
+  "heart": [],
+  "help-large": [
+    "question-large"
+  ],
+  "help-small": [
+    "question-small"
+  ],
+  "help": [
+    "question"
+  ],
+  "hexagon-arrow-down-outline": [],
+  "hexagon-arrow-down": [],
+  "hexagon-arrow-left-outline": [],
+  "hexagon-arrow-left": [],
+  "hexagon-arrow-right-outline": [],
+  "hexagon-arrow-right": [],
+  "hexagon-arrow-up-outline": [],
+  "hexagon-arrow-up": [],
+  "hexagon-check-outline": [
+    "hexagon-tick-outline"
+  ],
+  "hexagon-check": [
+    "hexagon-tick"
+  ],
+  "hexagon-chevron-down-outline": [],
+  "hexagon-chevron-down": [],
+  "hexagon-chevron-left-outline": [],
+  "hexagon-chevron-left": [],
+  "hexagon-chevron-right-outline": [],
+  "hexagon-chevron-right": [],
+  "hexagon-chevron-up-outline": [],
+  "hexagon-chevron-up": [],
+  "hexagon-cross-outline": [
+    "hexagon-close-outline"
+  ],
+  "hexagon-cross": [
+    "hexagon-close"
+  ],
+  "hexagon-divide-outline": [],
+  "hexagon-divide": [],
+  "hexagon-help-outline": [
+    "hexagon-question-outline"
+  ],
+  "hexagon-help": [
+    "hexagon-question"
+  ],
+  "hexagon-info-outline": [],
+  "hexagon-info": [],
+  "hexagon-list-outline": [],
+  "hexagon-list": [],
+  "hexagon-minus-outline": [],
+  "hexagon-minus": [],
+  "hexagon-person-outline": [],
+  "hexagon-person": [],
+  "hexagon-outline": [],
+  "hexagon-percent-outline": [],
+  "hexagon-percent": [],
+  "hexagon-plus-outline": [],
+  "hexagon-plus": [],
+  "hexagon-warning-outline": [],
+  "hexagon-warning": [],
+  "hexagon-star-outline": [],
+  "hexagon-star": [],
+  "hexagon": [],
+  "house-outline": [],
+  "house": [],
+  "image-outline": [],
+  "image": [],
+  "inbox-arrow-down-outline": [],
+  "inbox-arrow-down": [],
+  "inbox-arrow-left-outline": [],
+  "inbox-arrow-left": [],
+  "inbox-arrow-right-outline": [],
+  "inbox-arrow-right": [],
+  "inbox-arrow-up-outline": [],
+  "inbox-arrow-up": [],
+  "inbox-check-outline": [
+    "inbox-tick-outline"
+  ],
+  "inbox-check": [
+    "inbox-tick"
+  ],
+  "inbox-chevron-down-outline": [],
+  "inbox-chevron-down": [],
+  "inbox-chevron-left-outline": [],
+  "inbox-chevron-left": [],
+  "inbox-chevron-right-outline": [],
+  "inbox-chevron-right": [],
+  "inbox-chevron-up-outline": [],
+  "inbox-chevron-up": [],
+  "inbox-cross-outline": [
+    "inbox-close-outline"
+  ],
+  "inbox-cross": [
+    "inbox-close"
+  ],
+  "inbox-divide-outline": [],
+  "inbox-divide": [],
+  "inbox-help-outline": [
+    "inbox-question-outline"
+  ],
+  "inbox-help": [
+    "inbox-question"
+  ],
+  "inbox-info-outline": [],
+  "inbox-info": [],
+  "inbox-list-outline": [],
+  "inbox-list": [],
+  "inbox-minus-outline": [],
+  "inbox-minus": [],
+  "inbox-person-outline": [],
+  "inbox-person": [],
+  "inbox-outline": [],
+  "inbox-percent-outline": [],
+  "inbox-percent": [],
+  "inbox-plus-outline": [],
+  "inbox-plus": [],
+  "inbox-warning-outline": [],
+  "inbox-warning": [],
+  "inbox-star-outline": [],
+  "inbox-star": [],
+  "inbox": [],
+  "info-large": [],
+  "info-small": [],
+  "info": [],
+  "instagram": [],
+  "key-outline": [],
+  "key": [],
+  "label-arrow-down-outline": [],
+  "label-arrow-down": [],
+  "label-arrow-left-outline": [],
+  "label-arrow-left": [],
+  "label-arrow-right-outline": [],
+  "label-arrow-right": [],
+  "label-arrow-up-outline": [],
+  "label-arrow-up": [],
+  "label-check-outline": [
+    "label-tick-outline"
+  ],
+  "label-check": [
+    "label-tick"
+  ],
+  "label-chevron-down-outline": [],
+  "label-chevron-down": [],
+  "label-chevron-left-outline": [],
+  "label-chevron-left": [],
+  "label-chevron-right-outline": [],
+  "label-chevron-right": [],
+  "label-chevron-up-outline": [],
+  "label-chevron-up": [],
+  "label-cross-outline": [
+    "label-close-outline"
+  ],
+  "label-cross": [
+    "label-close"
+  ],
+  "label-divide-outline": [],
+  "label-divide": [],
+  "label-help-outline": [
+    "label-question-outline"
+  ],
+  "label-help": [
+    "label-question"
+  ],
+  "label-info-outline": [],
+  "label-info": [],
+  "label-list-outline": [],
+  "label-list": [],
+  "label-minus-outline": [],
+  "label-minus": [],
+  "label-person-outline": [],
+  "label-person": [],
+  "label-outline": [],
+  "label-percent-outline": [],
+  "label-percent": [],
+  "label-plus-outline": [],
+  "label-plus": [],
+  "label-warning-outline": [],
+  "label-warning": [],
+  "label-star-outline": [],
+  "label-star": [],
+  "label": [],
+  "link": [],
+  "linkedin": [],
+  "list-check": [
+    "list-tick"
+  ],
+  "list-point": [],
+  "list": [],
+  "light-outline": [],
+  "light": [],
+  "lightning-outline": [],
+  "lightning": [],
+  "lock-outline": [],
+  "lock": [],
+  "magnifier-circle-outline": [
+    "search-circle-outline"
+  ],
+  "magnifier-circle": [
+    "search-circle"
+  ],
+  "magnifier-minus": [
+    "search-minus"
+  ],
+  "magnifier-plus": [
+    "search-plus"
+  ],
+  "magnifier": [
+    "search"
+  ],
+  "map-pin-outline": [],
+  "map-pin": [],
+  "messenger": [],
+  "navigation-outline": [],
+  "navigation": [],
+  "microphone-outline": [],
+  "microphone": [],
+  "minus-large": [],
+  "minus-small": [],
+  "minus": [],
+  "moon-outline": [],
+  "moon": [],
+  "no": [],
+  "no-alt": [],
+  "paperclip": [],
+  "pause-outline": [],
+  "pause": [],
+  "paw-outline": [],
+  "paw": [],
+  "pen-outline": [],
+  "pen": [],
+  "pencil-outline": [],
+  "pencil": [],
+  "people-outline": [
+    "users-outline"
+  ],
+  "people": [
+    "users"
+  ],
+  "percent-large": [],
+  "percent-small": [],
+  "percent": [],
+  "person-arrow-down-outline": [],
+  "person-arrow-down": [],
+  "person-arrow-left-outline": [],
+  "person-arrow-left": [],
+  "person-arrow-right-outline": [],
+  "person-arrow-right": [],
+  "person-arrow-up-outline": [],
+  "person-arrow-up": [],
+  "person-check-outline": [
+    "person-tick-outline"
+  ],
+  "person-check": [
+    "person-tick"
+  ],
+  "person-chevron-down-outline": [],
+  "person-chevron-down": [],
+  "person-chevron-left-outline": [],
+  "person-chevron-left": [],
+  "person-chevron-right-outline": [],
+  "person-chevron-right": [],
+  "person-chevron-up-outline": [],
+  "person-chevron-up": [],
+  "person-cross-outline": [
+    "person-close-outline"
+  ],
+  "person-cross": [
+    "person-close"
+  ],
+  "person-divide-outline": [],
+  "person-divide": [],
+  "person-help-outline": [
+    "person-question-outline"
+  ],
+  "person-help": [
+    "person-question"
+  ],
+  "person-info-outline": [],
+  "person-info": [],
+  "person-list-outline": [],
+  "person-list": [],
+  "person-minus-outline": [],
+  "person-minus": [],
+  "person-person-outline": [],
+  "person-person": [],
+  "person-outline": [],
+  "person-percent-outline": [],
+  "person-percent": [],
+  "person-plus-outline": [],
+  "person-plus": [],
+  "person-warning-outline": [],
+  "person-warning": [],
+  "person-star-outline": [],
+  "person-star": [],
+  "person": [],
+  "phone-outline": [
+    "telephone"
+  ],
+  "phone": [
+    "telephone"
+  ],
+  "pin-outline": [
+    "pushpin-outline"
+  ],
+  "pin": [
+    "pushpin"
+  ],
+  "play-outline": [],
+  "play": [],
+  "plus-large": [],
+  "plus-small": [],
+  "plus": [],
+  "print-outline": [],
+  "print": [],
+  "radio": [],
+  "receipt-outline": [],
+  "receipt": [],
+  "refresh-alt": [],
+  "refresh": [],
+  "repeat": [],
+  "scissors": [],
+  "shield-arrow-down-outline": [],
+  "shield-arrow-down": [],
+  "shield-arrow-left-outline": [],
+  "shield-arrow-left": [],
+  "shield-arrow-right-outline": [],
+  "shield-arrow-right": [],
+  "shield-arrow-up-outline": [],
+  "shield-arrow-up": [],
+  "shield-check-outline": [
+    "shield-tick-outline"
+  ],
+  "shield-check": [
+    "shield-tick"
+  ],
+  "shield-chevron-down-outline": [],
+  "shield-chevron-down": [],
+  "shield-chevron-left-outline": [],
+  "shield-chevron-left": [],
+  "shield-chevron-right-outline": [],
+  "shield-chevron-right": [],
+  "shield-chevron-up-outline": [],
+  "shield-chevron-up": [],
+  "shield-cross-outline": [
+    "shield-close-outline"
+  ],
+  "shield-cross": [
+    "shield-close"
+  ],
+  "shield-divide-outline": [],
+  "shield-divide": [],
+  "shield-help-outline": [
+    "shield-question-outline"
+  ],
+  "shield-help": [
+    "shield-question"
+  ],
+  "shield-info-outline": [],
+  "shield-info": [],
+  "shield-list-outline": [],
+  "shield-list": [],
+  "shield-minus-outline": [],
+  "shield-minus": [],
+  "shield-person-outline": [],
+  "shield-person": [],
+  "shield-outline": [],
+  "shield-percent-outline": [],
+  "shield-percent": [],
+  "shield-plus-outline": [],
+  "shield-plus": [],
+  "shield-warning-outline": [],
+  "shield-warning": [],
+  "shield-star-outline": [],
+  "shield-star": [],
+  "shield": [],
+  "skip-backward-outline": [],
+  "skip-backward": [],
+  "skip-end-outline": [],
+  "skip-end": [],
+  "skip-forward-outline": [],
+  "skip-forward": [],
+  "skip-start-outline": [],
+  "skip-start": [],
+  "snapchat": [],
+  "sort-ascending": [],
+  "sort-descending": [],
+  "speaker-cross-outline": [
+    "speaker-close-outline",
+    "volume-close-outline"
+  ],
+  "speaker-cross": [
+    "speaker-close",
+    "volume-close"
+  ],
+  "speaker-decrease-outline": [
+    "volume-decrease-outline",
+    "volume-down-outline"
+  ],
+  "speaker-decrease": [
+    "volume-decrease",
+    "volume-down"
+  ],
+  "speaker-increase-outline": [
+    "volume-increase-outline",
+    "volume-up-outline"
+  ],
+  "speaker-increase": [
+    "volume-increase",
+    "volume-up"
+  ],
+  "speaker-outline": [
+    "volume-outline"
+  ],
+  "speaker": [
+    "volume"
+  ],
+  "speech-bubble-arrow-down-outline": [
+    "chat-arrow-down-outline",
+    "conversation-arrow-down-outline",
+    "comment-arrow-down-outline",
+    "message-arrow-down-outline"
+  ],
+  "speech-bubble-arrow-down": [
+    "chat-arrow-down",
+    "conversation-arrow-down",
+    "comment-arrow-down",
+    "message-arrow-down"
+  ],
+  "speech-bubble-arrow-left-outline": [
+    "chat-arrow-left-outline",
+    "conversation-arrow-left-outline",
+    "comment-arrow-left-outline",
+    "message-arrow-left-outline"
+  ],
+  "speech-bubble-arrow-left": [
+    "chat-arrow-left",
+    "conversation-arrow-left",
+    "comment-arrow-left",
+    "message-arrow-left"
+  ],
+  "speech-bubble-arrow-right-outline": [
+    "chat-arrow-right-outline",
+    "conversation-arrow-right-outline",
+    "comment-arrow-right-outline",
+    "message-arrow-right-outline"
+  ],
+  "speech-bubble-arrow-right": [
+    "chat-arrow-right",
+    "conversation-arrow-right",
+    "comment-arrow-right",
+    "message-arrow-right"
+  ],
+  "speech-bubble-arrow-up-outline": [
+    "chat-arrow-up-outline",
+    "conversation-arrow-up-outline",
+    "comment-arrow-up-outline",
+    "message-arrow-up-outline"
+  ],
+  "speech-bubble-arrow-up": [
+    "chat-arrow-up",
+    "conversation-arrow-up",
+    "comment-arrow-up",
+    "message-arrow-up"
+  ],
+  "speech-bubble-check-outline": [
+    "chat-check-outline",
+    "conversation-check-outline",
+    "comment-check-outline",
+    "message-check-outline",
+    "chat-tick-outline",
+    "conversation-tick-outline",
+    "comment-tick-outline",
+    "message-tick-outline"
+  ],
+  "speech-bubble-check": [
+    "chat-bubble-check",
+    "conversation-bubble-check",
+    "comment-bubble-check",
+    "message-bubble-check",
+    "chat-tick",
+    "conversation-tick",
+    "comment-tick",
+    "message-tick"
+  ],
+  "speech-bubble-chevron-down-outline": [
+    "chat-chevron-down-outline",
+    "conversation-chevron-down-outline",
+    "comment-chevron-down-outline",
+    "message-chevron-down-outline"
+  ],
+  "speech-bubble-chevron-down": [
+    "chat-chevron-down",
+    "conversation-chevron-down",
+    "comment-chevron-down",
+    "message-chevron-down"
+  ],
+  "speech-bubble-chevron-left-outline": [
+    "chat-chevron-left-outline",
+    "conversation-chevron-left-outline",
+    "comment-chevron-left-outline",
+    "message-chevron-left-outline"
+  ],
+  "speech-bubble-chevron-left": [
+    "chat-chevron-left",
+    "conversation-chevron-left",
+    "comment-chevron-left",
+    "message-chevron-left"
+  ],
+  "speech-bubble-chevron-right-outline": [
+    "chat-chevron-right-outline",
+    "conversation-chevron-right-outline",
+    "comment-chevron-right-outline",
+    "message-chevron-right-outline"
+  ],
+  "speech-bubble-chevron-right": [
+    "chat-chevron-right",
+    "conversation-chevron-right",
+    "comment-chevron-right",
+    "message-chevron-right"
+  ],
+  "speech-bubble-chevron-up-outline": [
+    "chat-chevron-up-outline",
+    "conversation-chevron-up-outline",
+    "comment-chevron-up-outline",
+    "message-chevron-up-outline"
+  ],
+  "speech-bubble-chevron-up": [
+    "chat-chevron-up",
+    "conversation-chevron-up",
+    "comment-chevron-up",
+    "message-chevron-up"
+  ],
+  "speech-bubble-cross-outline": [
+    "chat-cross-outline",
+    "conversation-cross-outline",
+    "comment-cross-outline",
+    "message-cross-outline",
+    "chat-close-outline",
+    "conversation-close-outline",
+    "comment-close-outline",
+    "message-close-outline"
+  ],
+  "speech-bubble-cross": [
+    "chat-cross",
+    "conversation-cross",
+    "comment-cross",
+    "message-cross",
+    "chat-close",
+    "conversation-close",
+    "comment-close",
+    "message-close"
+  ],
+  "speech-bubble-divide-outline": [
+    "chat-divide-outline",
+    "conversation-divide-outline",
+    "comment-divide-outline",
+    "message-divide-outline"
+  ],
+  "speech-bubble-divide": [
+    "chat-bubble-divide",
+    "conversation-bubble-divide",
+    "comment-bubble-divide",
+    "message-bubble-divide"
+  ],
+  "speech-bubble-help-outline": [
+    "chat-help-outline",
+    "conversation-help-outline",
+    "comment-help-outline",
+    "message-help-outline",
+    "chat-question-outline",
+    "conversation-question-outline",
+    "comment-question-outline",
+    "message-question-outline"
+  ],
+  "speech-bubble-help": [
+    "chat-bubble-help",
+    "conversation-bubble-help",
+    "comment-bubble-help",
+    "message-bubble-help",
+    "chat-question",
+    "conversation-question",
+    "comment-question",
+    "message-question"
+  ],
+  "speech-bubble-info-outline": [
+    "chat-info-outline",
+    "conversation-info-outline",
+    "comment-info-outline",
+    "message-info-outline"
+  ],
+  "speech-bubble-info": [
+    "chat-info",
+    "conversation-info",
+    "comment-info",
+    "message-info"
+  ],
+  "speech-bubble-list-outline": [
+    "chat-list-outline",
+    "conversation-list-outline",
+    "comment-list-outline",
+    "message-list-outline"
+  ],
+  "speech-bubble-list": [
+    "chat-list",
+    "conversation-list",
+    "comment-list",
+    "message-list"
+  ],
+  "speech-bubble-minus-outline": [
+    "chat-minus-outline",
+    "conversation-minus-outline",
+    "comment-minus-outline",
+    "message-minus-outline"
+  ],
+  "speech-bubble-minus": [
+    "chat-minus",
+    "conversation-minus",
+    "comment-minus",
+    "message-minus"
+  ],
+  "speech-bubble-person-outline": [
+    "chat-person-outline",
+    "conversation-person-outline",
+    "comment-person-outline",
+    "message-person-outline"
+  ],
+  "speech-bubble-person": [
+    "chat-person",
+    "conversation-person",
+    "comment-person",
+    "message-person"
+  ],
+  "speech-bubble-outline": [
+    "chat-outline",
+    "conversation-outline",
+    "comment-outline",
+    "message-outline"
+  ],
+  "speech-bubble-percent-outline": [
+    "chat-percent-outline",
+    "conversation-percent-outline",
+    "comment-percent-outline",
+    "message-percent-outline"
+  ],
+  "speech-bubble-percent": [
+    "chat-percent",
+    "conversation-percent",
+    "comment-percent",
+    "message-percent"
+  ],
+  "speech-bubble-plus-outline": [
+    "chat-plus-outline",
+    "conversation-plus-outline",
+    "comment-plus-outline",
+    "message-plus-outline"
+  ],
+  "speech-bubble-plus": [
+    "chat-plus",
+    "conversation-plus",
+    "comment-plus",
+    "message-plus"
+  ],
+  "speech-bubble-warning-outline": [
+    "chat-warning-outline",
+    "conversation-warning-outline",
+    "comment-warning-outline",
+    "message-warning-outline"
+  ],
+  "speech-bubble-warning": [
+    "chat-warning",
+    "conversation-warning",
+    "comment-warning",
+    "message-warning"
+  ],
+  "speech-bubble-star-outline": [
+    "chat-star-outline",
+    "conversation-star-outline",
+    "comment-star-outline",
+    "message-star-outline"
+  ],
+  "speech-bubble-star": [
+    "chat-star",
+    "conversation-star",
+    "comment-star",
+    "message-star"
+  ],
+  "speech-bubble": [
+    "chat",
+    "conversation",
+    "comment",
+    "message"
+  ],
+  "speech-bubbles-outline": [
+    "chats-outline",
+    "conversations-outline",
+    "comments-outline",
+    "messages-outline"
+  ],
+  "speech-bubbles": [
+    "chats",
+    "conversations",
+    "comments",
+    "messages"
+  ],
+  "spinner": [],
+  "square-arrow-down-outline": [],
+  "square-arrow-down": [],
+  "square-arrow-left-outline": [],
+  "square-arrow-left": [],
+  "square-arrow-right-outline": [],
+  "square-arrow-right": [],
+  "square-arrow-up-outline": [],
+  "square-arrow-up": [],
+  "square-check-outline": [
+    "square-tick-outline"
+  ],
+  "square-check": [
+    "square-tick"
+  ],
+  "square-chevron-down-outline": [],
+  "square-chevron-down": [],
+  "square-chevron-left-outline": [],
+  "square-chevron-left": [],
+  "square-chevron-right-outline": [],
+  "square-chevron-right": [],
+  "square-chevron-up-outline": [],
+  "square-chevron-up": [],
+  "square-cross-outline": [
+    "square-close-outline"
+  ],
+  "square-cross": [
+    "square-close"
+  ],
+  "square-divide-outline": [],
+  "square-divide": [],
+  "square-help-outline": [
+    "square-question-outline"
+  ],
+  "square-help": [
+    "square-question"
+  ],
+  "square-info-outline": [],
+  "square-info": [],
+  "square-list-outline": [],
+  "square-list": [],
+  "square-minus-outline": [],
+  "square-minus": [],
+  "square-person-outline": [],
+  "square-person": [],
+  "square-outline": [],
+  "square-percent-outline": [],
+  "square-percent": [],
+  "square-plus-outline": [],
+  "square-plus": [],
+  "square-warning-outline": [],
+  "square-warning": [],
+  "square-star-outline": [],
+  "square-star": [],
+  "square": [],
+  "star-outline": [],
+  "star": [],
+  "stop-outline": [],
+  "stop": [],
+  "sun-outline": [],
+  "sun": [],
+  "tag-arrow-down-outline": [],
+  "tag-arrow-down": [],
+  "tag-arrow-left-outline": [],
+  "tag-arrow-left": [],
+  "tag-arrow-right-outline": [],
+  "tag-arrow-right": [],
+  "tag-arrow-up-outline": [],
+  "tag-arrow-up": [],
+  "tag-check-outline": [
+    "tag-tick-outline"
+  ],
+  "tag-check": [
+    "tag-tick"
+  ],
+  "tag-chevron-down-outline": [],
+  "tag-chevron-down": [],
+  "tag-chevron-left-outline": [],
+  "tag-chevron-left": [],
+  "tag-chevron-right-outline": [],
+  "tag-chevron-right": [],
+  "tag-chevron-up-outline": [],
+  "tag-chevron-up": [],
+  "tag-cross-outline": [
+    "tag-close-outline"
+  ],
+  "tag-cross": [
+    "tag-close"
+  ],
+  "tag-divide-outline": [],
+  "tag-divide": [],
+  "tag-help-outline": [
+    "tag-question-outline"
+  ],
+  "tag-help": [
+    "tag-question"
+  ],
+  "tag-info-outline": [],
+  "tag-info": [],
+  "tag-list-outline": [],
+  "tag-list": [],
+  "tag-minus-outline": [],
+  "tag-minus": [],
+  "tag-person-outline": [],
+  "tag-person": [],
+  "tag-outline": [],
+  "tag-percent-outline": [],
+  "tag-percent": [],
+  "tag-plus-outline": [],
+  "tag-plus": [],
+  "tag-warning-outline": [],
+  "tag-warning": [],
+  "tag-star-outline": [],
+  "tag-star": [],
+  "tag": [],
+  "text-align-center": [],
+  "text-align-justify": [],
+  "text-align-left": [],
+  "text-align-right": [],
+  "three-dots-horizontal": [],
+  "three-dots-vertical": [],
+  "thumb-down-outline": [],
+  "thumb-down": [],
+  "thumb-up-outline": [],
+  "thumb-up": [],
+  "ticket-arrow-down-outline": [],
+  "ticket-arrow-down": [],
+  "ticket-arrow-left-outline": [],
+  "ticket-arrow-left": [],
+  "ticket-arrow-right-outline": [],
+  "ticket-arrow-right": [],
+  "ticket-arrow-up-outline": [],
+  "ticket-arrow-up": [],
+  "ticket-check-outline": [
+    "ticket-tick-outline"
+  ],
+  "ticket-check": [
+    "ticket-tick"
+  ],
+  "ticket-chevron-down-outline": [],
+  "ticket-chevron-down": [],
+  "ticket-chevron-left-outline": [],
+  "ticket-chevron-left": [],
+  "ticket-chevron-right-outline": [],
+  "ticket-chevron-right": [],
+  "ticket-chevron-up-outline": [],
+  "ticket-chevron-up": [],
+  "ticket-cross-outline": [
+    "ticket-close-outline"
+  ],
+  "ticket-cross": [
+    "ticket-close"
+  ],
+  "ticket-divide-outline": [],
+  "ticket-divide": [],
+  "ticket-help-outline": [
+    "ticket-question-outline"
+  ],
+  "ticket-help": [
+    "ticket-question"
+  ],
+  "ticket-info-outline": [],
+  "ticket-info": [],
+  "ticket-list-outline": [],
+  "ticket-list": [],
+  "ticket-minus-outline": [],
+  "ticket-minus": [],
+  "ticket-person-outline": [],
+  "ticket-person": [],
+  "ticket-outline": [],
+  "ticket-percent-outline": [],
+  "ticket-percent": [],
+  "ticket-plus-outline": [],
+  "ticket-plus": [],
+  "ticket-warning-outline": [],
+  "ticket-warning": [],
+  "ticket-star-outline": [],
+  "ticket-star": [],
+  "ticket": [],
+  "translate": [
+    "language",
+    "languages"
+  ],
+  "triangle-arrow-down-outline": [],
+  "triangle-arrow-down": [],
+  "triangle-arrow-left-outline": [],
+  "triangle-arrow-left": [],
+  "triangle-arrow-right-outline": [],
+  "triangle-arrow-right": [],
+  "triangle-arrow-up-outline": [],
+  "triangle-arrow-up": [],
+  "triangle-check-outline": [
+    "triangle-tick-outline"
+  ],
+  "triangle-check": [
+    "triangle-tick"
+  ],
+  "triangle-chevron-down-outline": [],
+  "triangle-chevron-down": [],
+  "triangle-chevron-left-outline": [],
+  "triangle-chevron-left": [],
+  "triangle-chevron-right-outline": [],
+  "triangle-chevron-right": [],
+  "triangle-chevron-up-outline": [],
+  "triangle-chevron-up": [],
+  "triangle-cross-outline": [
+    "triangle-close-outline"
+  ],
+  "triangle-cross": [
+    "triangle-close"
+  ],
+  "triangle-divide-outline": [],
+  "triangle-divide": [],
+  "triangle-help-outline": [
+    "triangle-question-outline"
+  ],
+  "triangle-help": [
+    "triangle-question"
+  ],
+  "triangle-info-outline": [],
+  "triangle-info": [],
+  "triangle-list-outline": [],
+  "triangle-list": [],
+  "triangle-minus-outline": [],
+  "triangle-minus": [],
+  "triangle-person-outline": [],
+  "triangle-person": [],
+  "triangle-outline": [],
+  "triangle-percent-outline": [],
+  "triangle-percent": [],
+  "triangle-plus-outline": [],
+  "triangle-plus": [],
+  "triangle-warning-outline": [],
+  "triangle-warning": [],
+  "triangle-star-outline": [],
+  "triangle-star": [],
+  "triangle": [],
+  "twitter": [],
+  "video-camera-outline": [],
+  "video-camera": [],
+  "wallet-outline": [],
+  "wallet": [],
+  "warning-large": [],
+  "warning-small": [],
+  "warning": [],
+  "youtube": []
+}
