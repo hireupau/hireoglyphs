@@ -25,10 +25,8 @@ module.exports = {
       name: 'removeUnknownsAndDefaults',
     },
     {
-      name: 'removeDimensions',
-    },
-    {
       name: 'removeViewBox',
+      active: false,
     },
     {
       name: 'sortAttrs',
