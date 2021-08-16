@@ -7,7 +7,9 @@
     "lint": "vue-cli-service lint",
     "serve": "vue-cli-service serve",
     "start": "npm run serve",
-    "svg": "node build.js"
+    "svg-build": "node build.js",
+    "svg-sprite": "svg-sprite --config sprite.config.json './icons/*.svg'",
+    "svg": "npm run svg-build && npm run svg-sprite"
   },
   "dependencies": {
     "fuse.js": "^3.4.6",

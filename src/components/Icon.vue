@@ -12,7 +12,7 @@
     },
     computed: {
       symbolId() {
-        return `#svg--${this.icon.id}`;
+        return `#icons--${this.icon.id}`;
       },
       downloadUrl() {
         return `/icons/${this.icon.name}`;
@@ -34,6 +34,13 @@
 <template>
   <div class="icon">
     <div class="icon-inner">
+      <svg
+        class="icon-svg"
+        v-bind:height="size"
+        v-bind:width="size"
+      >
+        <use v-bind="{ 'xlink:href': require('../../sprite.svg') + symbolId }" />
+      </svg>
       <pre>{{ icon.id }}</pre>
     </div>
     <div class="icon-actions">
