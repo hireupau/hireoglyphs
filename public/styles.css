@@ -195,7 +195,7 @@ fieldset .field input {
 }
 
 .icon-copy,
-.icon-download {
+.icon-view {
   color: currentColor;
   display: inline-block;
   flex-grow: 1;
@@ -207,8 +207,8 @@ fieldset .field input {
 
 .icon-copy:hover,
 .icon-copy:focus,
-.icon-download:hover,
-.icon-download:focus {
+.icon-view:hover,
+.icon-view:focus {
   text-decoration: underline;
 }
 
@@ -221,7 +221,7 @@ fieldset .field input {
   text-align: left;
 }
 
-.icon-download {
+.icon-view {
   text-decoration: none;
   text-align: right;
 }

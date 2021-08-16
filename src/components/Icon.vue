@@ -14,8 +14,8 @@
       symbolId() {
         return `#icons--${this.icon.id}`;
       },
-      downloadUrl() {
-        return `/icons/${this.icon.name}`;
+      viewUrl() {
+        return `https://raw.githubusercontent.com/hireupau/hireoglyphs/master/icons/${this.icon.file}`;
       },
     },
     methods: {
@@ -53,11 +53,10 @@
         Copy<span class="visually-hidden"> to clipboard</span>
       </button>
       <a
-        class="icon-download"
-        v-bind:href="downloadUrl"
-        download
+        class="icon-view"
+        v-bind:href="viewUrl"
       >
-        Download
+        View src
       </a>
     </div>
   </div>
