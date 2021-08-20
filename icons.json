@@ -1,17 +1,12 @@
 [
   {
-    "id": "alarm",
-    "file": "alarm.svg",
-    "aliases": []
-  },
-  {
     "id": "alarm-outline",
     "file": "alarm-outline.svg",
     "aliases": []
   },
   {
-    "id": "arrow-bar-in-left",
-    "file": "arrow-bar-in-left.svg",
+    "id": "alarm",
+    "file": "alarm.svg",
     "aliases": []
   },
   {
@@ -20,18 +15,13 @@
     "aliases": []
   },
   {
+    "id": "arrow-bar-in-left",
+    "file": "arrow-bar-in-left.svg",
+    "aliases": []
+  },
+  {
     "id": "arrow-bar-in-right",
     "file": "arrow-bar-in-right.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-bar-in-up",
-    "file": "arrow-bar-in-up.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-bar-out-down",
-    "file": "arrow-bar-out-down.svg",
     "aliases": []
   },
   {
@@ -40,8 +30,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-bar-out-right",
-    "file": "arrow-bar-out-right.svg",
+    "id": "arrow-bar-out-down",
+    "file": "arrow-bar-out-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-in-up",
+    "file": "arrow-bar-in-up.svg",
     "aliases": []
   },
   {
@@ -50,13 +45,18 @@
     "aliases": []
   },
   {
-    "id": "arrow-bar-out",
-    "file": "arrow-bar-out.svg",
+    "id": "arrow-bar-out-right",
+    "file": "arrow-bar-out-right.svg",
     "aliases": []
   },
   {
     "id": "arrow-bar-out-up",
     "file": "arrow-bar-out-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-bar-out",
+    "file": "arrow-bar-out.svg",
     "aliases": []
   },
   {
@@ -80,13 +80,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-box-in-down",
-    "file": "arrow-box-in-down.svg",
+    "id": "arrow-box-in-left",
+    "file": "arrow-box-in-left.svg",
     "aliases": []
   },
   {
-    "id": "arrow-box-in-left",
-    "file": "arrow-box-in-left.svg",
+    "id": "arrow-box-in-down",
+    "file": "arrow-box-in-down.svg",
     "aliases": []
   },
   {
@@ -95,13 +95,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-box-in-right",
-    "file": "arrow-box-in-right.svg",
+    "id": "arrow-box-in-top-right",
+    "file": "arrow-box-in-top-right.svg",
     "aliases": []
   },
   {
-    "id": "arrow-box-in-top-right",
-    "file": "arrow-box-in-top-right.svg",
+    "id": "arrow-box-in-right",
+    "file": "arrow-box-in-right.svg",
     "aliases": []
   },
   {
@@ -110,13 +110,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-box-out-bottom-left",
-    "file": "arrow-box-out-bottom-left.svg",
+    "id": "arrow-box-in",
+    "file": "arrow-box-in.svg",
     "aliases": []
   },
   {
-    "id": "arrow-box-in",
-    "file": "arrow-box-in.svg",
+    "id": "arrow-box-out-bottom-left",
+    "file": "arrow-box-out-bottom-left.svg",
     "aliases": []
   },
   {
@@ -140,21 +140,14 @@
     "aliases": []
   },
   {
-    "id": "arrow-box-out-top-right",
-    "file": "arrow-box-out-top-right.svg",
-    "aliases": []
-  },
-  {
     "id": "arrow-box-out-top-left",
     "file": "arrow-box-out-top-left.svg",
     "aliases": []
   },
   {
-    "id": "arrow-box-out",
-    "file": "arrow-box-out.svg",
-    "aliases": [
-      "share"
-    ]
+    "id": "arrow-box-out-top-right",
+    "file": "arrow-box-out-top-right.svg",
+    "aliases": []
   },
   {
     "id": "arrow-box-out-up",
@@ -164,9 +157,11 @@
     ]
   },
   {
-    "id": "arrow-large-bottom-left",
-    "file": "arrow-large-bottom-left.svg",
-    "aliases": []
+    "id": "arrow-box-out",
+    "file": "arrow-box-out.svg",
+    "aliases": [
+      "share"
+    ]
   },
   {
     "id": "arrow-down",
@@ -174,8 +169,8 @@
     "aliases": []
   },
   {
-    "id": "arrow-large-down",
-    "file": "arrow-large-down.svg",
+    "id": "arrow-large-bottom-left",
+    "file": "arrow-large-bottom-left.svg",
     "aliases": []
   },
   {
@@ -184,13 +179,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-large-right",
-    "file": "arrow-large-right.svg",
+    "id": "arrow-large-down",
+    "file": "arrow-large-down.svg",
     "aliases": []
   },
   {
-    "id": "arrow-large-left",
-    "file": "arrow-large-left.svg",
+    "id": "arrow-large-right",
+    "file": "arrow-large-right.svg",
     "aliases": []
   },
   {
@@ -204,18 +199,18 @@
     "aliases": []
   },
   {
-    "id": "arrow-large",
-    "file": "arrow-large.svg",
-    "aliases": []
-  },
-  {
     "id": "arrow-large-up",
     "file": "arrow-large-up.svg",
     "aliases": []
   },
   {
-    "id": "arrow-left",
-    "file": "arrow-left.svg",
+    "id": "arrow-large-left",
+    "file": "arrow-large-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-large",
+    "file": "arrow-large.svg",
     "aliases": []
   },
   {
@@ -229,13 +224,18 @@
     "aliases": []
   },
   {
-    "id": "arrow-small-bottom-left",
-    "file": "arrow-small-bottom-left.svg",
+    "id": "arrow-small-down",
+    "file": "arrow-small-down.svg",
     "aliases": []
   },
   {
-    "id": "arrow-small-down",
-    "file": "arrow-small-down.svg",
+    "id": "arrow-left",
+    "file": "arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small-left",
+    "file": "arrow-small-left.svg",
     "aliases": []
   },
   {
@@ -244,23 +244,13 @@
     "aliases": []
   },
   {
-    "id": "arrow-small-top-left",
-    "file": "arrow-small-top-left.svg",
-    "aliases": []
-  },
-  {
     "id": "arrow-small-top-right",
     "file": "arrow-small-top-right.svg",
     "aliases": []
   },
   {
-    "id": "arrow-small",
-    "file": "arrow-small.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-small-left",
-    "file": "arrow-small-left.svg",
+    "id": "arrow-small-top-left",
+    "file": "arrow-small-top-left.svg",
     "aliases": []
   },
   {
@@ -274,13 +264,33 @@
     "aliases": []
   },
   {
+    "id": "arrow-small-bottom-left",
+    "file": "arrow-small-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-small",
+    "file": "arrow-small.svg",
+    "aliases": []
+  },
+  {
     "id": "arrow-top-right",
     "file": "arrow-top-right.svg",
     "aliases": []
   },
   {
+    "id": "arrow-tray-bottom-left",
+    "file": "arrow-tray-bottom-left.svg",
+    "aliases": []
+  },
+  {
     "id": "arrow-tray-bottom-right",
     "file": "arrow-tray-bottom-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrow-tray-left",
+    "file": "arrow-tray-left.svg",
     "aliases": []
   },
   {
@@ -298,16 +308,6 @@
   {
     "id": "arrow-tray-top-left",
     "file": "arrow-tray-top-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-tray-bottom-left",
-    "file": "arrow-tray-bottom-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-tray-left",
-    "file": "arrow-tray-left.svg",
     "aliases": []
   },
   {
@@ -330,6 +330,11 @@
     ]
   },
   {
+    "id": "arrow-up",
+    "file": "arrow-up.svg",
+    "aliases": []
+  },
+  {
     "id": "arrow",
     "file": "arrow.svg",
     "aliases": []
@@ -342,11 +347,6 @@
   {
     "id": "arrows-bar-in-vertical",
     "file": "arrows-bar-in-vertical.svg",
-    "aliases": []
-  },
-  {
-    "id": "arrow-up",
-    "file": "arrow-up.svg",
     "aliases": []
   },
   {
@@ -365,13 +365,13 @@
     "aliases": []
   },
   {
-    "id": "arrows-in-bottom-left-top-right",
-    "file": "arrows-in-bottom-left-top-right.svg",
+    "id": "arrows-down",
+    "file": "arrows-down.svg",
     "aliases": []
   },
   {
-    "id": "arrows-down",
-    "file": "arrows-down.svg",
+    "id": "arrows-in-bottom-left-top-right",
+    "file": "arrows-in-bottom-left-top-right.svg",
     "aliases": []
   },
   {
@@ -395,11 +395,6 @@
     "aliases": []
   },
   {
-    "id": "arrows-left-right",
-    "file": "arrows-left-right.svg",
-    "aliases": []
-  },
-  {
     "id": "arrows-out-bottom-left-top-right",
     "file": "arrows-out-bottom-left-top-right.svg",
     "aliases": []
@@ -415,18 +410,13 @@
     "aliases": []
   },
   {
-    "id": "arrows-out-vertical",
-    "file": "arrows-out-vertical.svg",
-    "aliases": []
-  },
-  {
     "id": "arrows-out-horizontal",
     "file": "arrows-out-horizontal.svg",
     "aliases": []
   },
   {
-    "id": "arrows-out",
-    "file": "arrows-out.svg",
+    "id": "arrows-out-vertical",
+    "file": "arrows-out-vertical.svg",
     "aliases": []
   },
   {
@@ -445,8 +435,8 @@
     "aliases": []
   },
   {
-    "id": "arrows",
-    "file": "arrows.svg",
+    "id": "arrows-out",
+    "file": "arrows-out.svg",
     "aliases": []
   },
   {
@@ -455,8 +445,8 @@
     "aliases": []
   },
   {
-    "id": "at",
-    "file": "at.svg",
+    "id": "arrows",
+    "file": "arrows.svg",
     "aliases": []
   },
   {
@@ -470,13 +460,13 @@
     "aliases": []
   },
   {
-    "id": "bag-arrow-down",
-    "file": "bag-arrow-down.svg",
+    "id": "bag-arrow-down-outline",
+    "file": "bag-arrow-down-outline.svg",
     "aliases": []
   },
   {
-    "id": "bag-arrow-down-outline",
-    "file": "bag-arrow-down-outline.svg",
+    "id": "bag-arrow-down",
+    "file": "bag-arrow-down.svg",
     "aliases": []
   },
   {
@@ -495,8 +485,8 @@
     "aliases": []
   },
   {
-    "id": "bag-arrow-up-outline",
-    "file": "bag-arrow-up-outline.svg",
+    "id": "at",
+    "file": "at.svg",
     "aliases": []
   },
   {
@@ -505,8 +495,8 @@
     "aliases": []
   },
   {
-    "id": "bag-arrow-up",
-    "file": "bag-arrow-up.svg",
+    "id": "bag-arrow-up-outline",
+    "file": "bag-arrow-up-outline.svg",
     "aliases": []
   },
   {
@@ -524,8 +514,18 @@
     ]
   },
   {
+    "id": "bag-arrow-up",
+    "file": "bag-arrow-up.svg",
+    "aliases": []
+  },
+  {
     "id": "bag-chevron-down-outline",
     "file": "bag-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "arrows-left-right",
+    "file": "arrows-left-right.svg",
     "aliases": []
   },
   {
@@ -539,11 +539,6 @@
     "aliases": []
   },
   {
-    "id": "bag-chevron-right-outline",
-    "file": "bag-chevron-right-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "bag-chevron-left",
     "file": "bag-chevron-left.svg",
     "aliases": []
@@ -551,18 +546,6 @@
   {
     "id": "bag-chevron-right",
     "file": "bag-chevron-right.svg",
-    "aliases": []
-  },
-  {
-    "id": "bag-cross",
-    "file": "bag-cross.svg",
-    "aliases": [
-      "bag-close"
-    ]
-  },
-  {
-    "id": "bag-chevron-up",
-    "file": "bag-chevron-up.svg",
     "aliases": []
   },
   {
@@ -578,9 +561,16 @@
     ]
   },
   {
-    "id": "bag-divide-outline",
-    "file": "bag-divide-outline.svg",
+    "id": "bag-chevron-up",
+    "file": "bag-chevron-up.svg",
     "aliases": []
+  },
+  {
+    "id": "bag-cross",
+    "file": "bag-cross.svg",
+    "aliases": [
+      "bag-close"
+    ]
   },
   {
     "id": "bag-divide",
@@ -595,6 +585,11 @@
     ]
   },
   {
+    "id": "bag-info-outline",
+    "file": "bag-info-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "bag-help",
     "file": "bag-help.svg",
     "aliases": [
@@ -602,18 +597,13 @@
     ]
   },
   {
-    "id": "bag-info-outline",
-    "file": "bag-info-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "bag-info",
     "file": "bag-info.svg",
     "aliases": []
   },
   {
-    "id": "bag-minus-outline",
-    "file": "bag-minus-outline.svg",
+    "id": "bag-list-outline",
+    "file": "bag-list-outline.svg",
     "aliases": []
   },
   {
@@ -622,13 +612,8 @@
     "aliases": []
   },
   {
-    "id": "bag-minus",
-    "file": "bag-minus.svg",
-    "aliases": []
-  },
-  {
-    "id": "bag-list-outline",
-    "file": "bag-list-outline.svg",
+    "id": "bag-minus-outline",
+    "file": "bag-minus-outline.svg",
     "aliases": []
   },
   {
@@ -647,6 +632,11 @@
     "aliases": []
   },
   {
+    "id": "bag-divide-outline",
+    "file": "bag-divide-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "bag-person-outline",
     "file": "bag-person-outline.svg",
     "aliases": []
@@ -654,6 +644,11 @@
   {
     "id": "bag-person",
     "file": "bag-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "bag-chevron-right-outline",
+    "file": "bag-chevron-right-outline.svg",
     "aliases": []
   },
   {
@@ -667,13 +662,18 @@
     "aliases": []
   },
   {
+    "id": "bag-star-outline",
+    "file": "bag-star-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "bag-star",
     "file": "bag-star.svg",
     "aliases": []
   },
   {
-    "id": "bag-star-outline",
-    "file": "bag-star-outline.svg",
+    "id": "bag-minus",
+    "file": "bag-minus.svg",
     "aliases": []
   },
   {
@@ -699,13 +699,6 @@
     ]
   },
   {
-    "id": "bell-outline",
-    "file": "bell-outline.svg",
-    "aliases": [
-      "notification-outline"
-    ]
-  },
-  {
     "id": "bin-outline",
     "file": "bin-outline.svg",
     "aliases": [
@@ -722,8 +715,15 @@
     ]
   },
   {
-    "id": "bluetooth",
-    "file": "bluetooth.svg",
+    "id": "bell-outline",
+    "file": "bell-outline.svg",
+    "aliases": [
+      "notification-outline"
+    ]
+  },
+  {
+    "id": "bookmark-outline",
+    "file": "bookmark-outline.svg",
     "aliases": []
   },
   {
@@ -732,8 +732,8 @@
     "aliases": []
   },
   {
-    "id": "bookmark-outline",
-    "file": "bookmark-outline.svg",
+    "id": "bluetooth",
+    "file": "bluetooth.svg",
     "aliases": []
   },
   {
@@ -745,6 +745,16 @@
     ]
   },
   {
+    "id": "calendar-arrow-down-outline",
+    "file": "calendar-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calculator",
+    "file": "calculator.svg",
+    "aliases": []
+  },
+  {
     "id": "briefcase",
     "file": "briefcase.svg",
     "aliases": [
@@ -753,28 +763,18 @@
     ]
   },
   {
-    "id": "calculator",
-    "file": "calculator.svg",
-    "aliases": []
-  },
-  {
     "id": "calendar-arrow-down",
     "file": "calendar-arrow-down.svg",
     "aliases": []
   },
   {
-    "id": "calendar-arrow-left-outline",
-    "file": "calendar-arrow-left-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "calendar-arrow-down-outline",
-    "file": "calendar-arrow-down-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "calendar-arrow-left",
     "file": "calendar-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-arrow-left-outline",
+    "file": "calendar-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -793,6 +793,13 @@
     "aliases": []
   },
   {
+    "id": "calendar-check",
+    "file": "calendar-check.svg",
+    "aliases": [
+      "calendar-tick"
+    ]
+  },
+  {
     "id": "calendar-arrow-up",
     "file": "calendar-arrow-up.svg",
     "aliases": []
@@ -805,15 +812,13 @@
     ]
   },
   {
-    "id": "calendar-check",
-    "file": "calendar-check.svg",
-    "aliases": [
-      "calendar-tick"
-    ]
-  },
-  {
     "id": "calendar-chevron-down-outline",
     "file": "calendar-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-chevron-left-outline",
+    "file": "calendar-chevron-left-outline.svg",
     "aliases": []
   },
   {
@@ -827,8 +832,8 @@
     "aliases": []
   },
   {
-    "id": "calendar-chevron-left-outline",
-    "file": "calendar-chevron-left-outline.svg",
+    "id": "calendar-chevron-right-outline",
+    "file": "calendar-chevron-right-outline.svg",
     "aliases": []
   },
   {
@@ -837,14 +842,16 @@
     "aliases": []
   },
   {
-    "id": "calendar-chevron-right-outline",
-    "file": "calendar-chevron-right-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "calendar-chevron-up-outline",
     "file": "calendar-chevron-up-outline.svg",
     "aliases": []
+  },
+  {
+    "id": "calendar-cross-outline",
+    "file": "calendar-cross-outline.svg",
+    "aliases": [
+      "calendar-close-outline"
+    ]
   },
   {
     "id": "calendar-chevron-up",
@@ -859,11 +866,9 @@
     ]
   },
   {
-    "id": "calendar-cross-outline",
-    "file": "calendar-cross-outline.svg",
-    "aliases": [
-      "calendar-close-outline"
-    ]
+    "id": "calendar-divide",
+    "file": "calendar-divide.svg",
+    "aliases": []
   },
   {
     "id": "calendar-divide-outline",
@@ -871,22 +876,17 @@
     "aliases": []
   },
   {
-    "id": "calendar-divide",
-    "file": "calendar-divide.svg",
-    "aliases": []
+    "id": "calendar-help-outline",
+    "file": "calendar-help-outline.svg",
+    "aliases": [
+      "calendar-question-outline"
+    ]
   },
   {
     "id": "calendar-help",
     "file": "calendar-help.svg",
     "aliases": [
       "calendar-question"
-    ]
-  },
-  {
-    "id": "calendar-help-outline",
-    "file": "calendar-help-outline.svg",
-    "aliases": [
-      "calendar-question-outline"
     ]
   },
   {
@@ -897,6 +897,11 @@
   {
     "id": "calendar-info",
     "file": "calendar-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "calendar-list",
+    "file": "calendar-list.svg",
     "aliases": []
   },
   {
@@ -915,18 +920,13 @@
     "aliases": []
   },
   {
-    "id": "calendar-list",
-    "file": "calendar-list.svg",
+    "id": "calendar-outline",
+    "file": "calendar-outline.svg",
     "aliases": []
   },
   {
     "id": "calendar-percent-outline",
     "file": "calendar-percent-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "calendar-outline",
-    "file": "calendar-outline.svg",
     "aliases": []
   },
   {
@@ -945,6 +945,11 @@
     "aliases": []
   },
   {
+    "id": "calendar-plus",
+    "file": "calendar-plus.svg",
+    "aliases": []
+  },
+  {
     "id": "calendar-plus-outline",
     "file": "calendar-plus-outline.svg",
     "aliases": []
@@ -955,18 +960,13 @@
     "aliases": []
   },
   {
-    "id": "calendar-plus",
-    "file": "calendar-plus.svg",
+    "id": "calendar-warning-outline",
+    "file": "calendar-warning-outline.svg",
     "aliases": []
   },
   {
     "id": "calendar-star",
     "file": "calendar-star.svg",
-    "aliases": []
-  },
-  {
-    "id": "calendar-warning-outline",
-    "file": "calendar-warning-outline.svg",
     "aliases": []
   },
   {
@@ -980,6 +980,11 @@
     "aliases": []
   },
   {
+    "id": "camera",
+    "file": "camera.svg",
+    "aliases": []
+  },
+  {
     "id": "camera-outline",
     "file": "camera-outline.svg",
     "aliases": []
@@ -990,33 +995,8 @@
     "aliases": []
   },
   {
-    "id": "camera",
-    "file": "camera.svg",
-    "aliases": []
-  },
-  {
-    "id": "car",
-    "file": "car.svg",
-    "aliases": []
-  },
-  {
     "id": "caret-bar-in-down",
     "file": "caret-bar-in-down.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-bar-in-right",
-    "file": "caret-bar-in-right.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-bar-in-up",
-    "file": "caret-bar-in-up.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-bar-in",
-    "file": "caret-bar-in.svg",
     "aliases": []
   },
   {
@@ -1025,13 +1005,28 @@
     "aliases": []
   },
   {
-    "id": "caret-bar-out-down",
-    "file": "caret-bar-out-down.svg",
+    "id": "car",
+    "file": "car.svg",
     "aliases": []
   },
   {
-    "id": "caret-bar-out-left",
-    "file": "caret-bar-out-left.svg",
+    "id": "caret-bar-in-right",
+    "file": "caret-bar-in-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in",
+    "file": "caret-bar-in.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-in-up",
+    "file": "caret-bar-in-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out-down",
+    "file": "caret-bar-out-down.svg",
     "aliases": []
   },
   {
@@ -1040,13 +1035,18 @@
     "aliases": []
   },
   {
-    "id": "caret-bar-out",
-    "file": "caret-bar-out.svg",
+    "id": "caret-bar-out-up",
+    "file": "caret-bar-out-up.svg",
     "aliases": []
   },
   {
-    "id": "caret-bar-out-up",
-    "file": "caret-bar-out-up.svg",
+    "id": "caret-bar-out-left",
+    "file": "caret-bar-out-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-bar-out",
+    "file": "caret-bar-out.svg",
     "aliases": []
   },
   {
@@ -1060,6 +1060,11 @@
     "aliases": []
   },
   {
+    "id": "caret-large-bottom-left",
+    "file": "caret-large-bottom-left.svg",
+    "aliases": []
+  },
+  {
     "id": "caret-down",
     "file": "caret-down.svg",
     "aliases": []
@@ -1070,18 +1075,13 @@
     "aliases": []
   },
   {
-    "id": "caret-large-down",
-    "file": "caret-large-down.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-large-bottom-left",
-    "file": "caret-large-bottom-left.svg",
-    "aliases": []
-  },
-  {
     "id": "caret-large-left",
     "file": "caret-large-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large-down",
+    "file": "caret-large-down.svg",
     "aliases": []
   },
   {
@@ -1095,23 +1095,13 @@
     "aliases": []
   },
   {
-    "id": "caret-large-up",
-    "file": "caret-large-up.svg",
-    "aliases": []
-  },
-  {
     "id": "caret-large-top-right",
     "file": "caret-large-top-right.svg",
     "aliases": []
   },
   {
-    "id": "caret-large",
-    "file": "caret-large.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-left",
-    "file": "caret-left.svg",
+    "id": "caret-large-up",
+    "file": "caret-large-up.svg",
     "aliases": []
   },
   {
@@ -1120,8 +1110,18 @@
     "aliases": []
   },
   {
-    "id": "caret-small-bottom-left",
-    "file": "caret-small-bottom-left.svg",
+    "id": "caret-left",
+    "file": "caret-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-large",
+    "file": "caret-large.svg",
+    "aliases": []
+  },
+  {
+    "id": "caret-small-bottom-right",
+    "file": "caret-small-bottom-right.svg",
     "aliases": []
   },
   {
@@ -1132,11 +1132,6 @@
   {
     "id": "caret-small-left",
     "file": "caret-small-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "caret-small-bottom-right",
-    "file": "caret-small-bottom-right.svg",
     "aliases": []
   },
   {
@@ -1170,13 +1165,13 @@
     "aliases": []
   },
   {
-    "id": "caret-top-right",
-    "file": "caret-top-right.svg",
+    "id": "caret-up",
+    "file": "caret-up.svg",
     "aliases": []
   },
   {
-    "id": "caret-up",
-    "file": "caret-up.svg",
+    "id": "caret-top-right",
+    "file": "caret-top-right.svg",
     "aliases": []
   },
   {
@@ -1195,13 +1190,13 @@
     "aliases": []
   },
   {
-    "id": "carets-bar-out-vertical",
-    "file": "carets-bar-out-vertical.svg",
+    "id": "carets-bar-out-horizontal",
+    "file": "carets-bar-out-horizontal.svg",
     "aliases": []
   },
   {
-    "id": "carets-bar-out-horizontal",
-    "file": "carets-bar-out-horizontal.svg",
+    "id": "carets-bar-out-vertical",
+    "file": "carets-bar-out-vertical.svg",
     "aliases": []
   },
   {
@@ -1210,8 +1205,8 @@
     "aliases": []
   },
   {
-    "id": "carets-in-horizontal",
-    "file": "carets-in-horizontal.svg",
+    "id": "carets-in-bottom-left-top-right",
+    "file": "carets-in-bottom-left-top-right.svg",
     "aliases": []
   },
   {
@@ -1220,8 +1215,8 @@
     "aliases": []
   },
   {
-    "id": "carets-in-bottom-left-top-right",
-    "file": "carets-in-bottom-left-top-right.svg",
+    "id": "carets-in-horizontal",
+    "file": "carets-in-horizontal.svg",
     "aliases": []
   },
   {
@@ -1230,18 +1225,13 @@
     "aliases": []
   },
   {
-    "id": "carets-left",
-    "file": "carets-left.svg",
-    "aliases": []
-  },
-  {
     "id": "carets-in",
     "file": "carets-in.svg",
     "aliases": []
   },
   {
-    "id": "carets-out-bottom-left-top-right",
-    "file": "carets-out-bottom-left-top-right.svg",
+    "id": "carets-left",
+    "file": "carets-left.svg",
     "aliases": []
   },
   {
@@ -1250,8 +1240,8 @@
     "aliases": []
   },
   {
-    "id": "carets-out-horizontal",
-    "file": "carets-out-horizontal.svg",
+    "id": "carets-out-bottom-left-top-right",
+    "file": "carets-out-bottom-left-top-right.svg",
     "aliases": []
   },
   {
@@ -1260,8 +1250,23 @@
     "aliases": []
   },
   {
+    "id": "caret-small-bottom-left",
+    "file": "caret-small-bottom-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "carets-out-horizontal",
+    "file": "carets-out-horizontal.svg",
+    "aliases": []
+  },
+  {
     "id": "carets-out",
     "file": "carets-out.svg",
+    "aliases": []
+  },
+  {
+    "id": "carets",
+    "file": "carets.svg",
     "aliases": []
   },
   {
@@ -1280,11 +1285,6 @@
     "aliases": [
       "tick-large"
     ]
-  },
-  {
-    "id": "carets",
-    "file": "carets.svg",
-    "aliases": []
   },
   {
     "id": "check-small",
@@ -1308,13 +1308,13 @@
     ]
   },
   {
-    "id": "chevron-bar-in-left",
-    "file": "chevron-bar-in-left.svg",
+    "id": "chevron-bar-in-down",
+    "file": "chevron-bar-in-down.svg",
     "aliases": []
   },
   {
-    "id": "chevron-bar-in-down",
-    "file": "chevron-bar-in-down.svg",
+    "id": "chevron-bar-in-left",
+    "file": "chevron-bar-in-left.svg",
     "aliases": []
   },
   {
@@ -1328,18 +1328,13 @@
     "aliases": []
   },
   {
-    "id": "chevron-bar-out-down",
-    "file": "chevron-bar-out-down.svg",
-    "aliases": []
-  },
-  {
     "id": "chevron-bar-in",
     "file": "chevron-bar-in.svg",
     "aliases": []
   },
   {
-    "id": "chevron-bar-out-left",
-    "file": "chevron-bar-out-left.svg",
+    "id": "chevron-bar-out-down",
+    "file": "chevron-bar-out-down.svg",
     "aliases": []
   },
   {
@@ -1363,13 +1358,13 @@
     "aliases": []
   },
   {
-    "id": "chevron-down",
-    "file": "chevron-down.svg",
+    "id": "chevron-bottom-right",
+    "file": "chevron-bottom-right.svg",
     "aliases": []
   },
   {
-    "id": "chevron-bottom-right",
-    "file": "chevron-bottom-right.svg",
+    "id": "chevron-down",
+    "file": "chevron-down.svg",
     "aliases": []
   },
   {
@@ -1383,13 +1378,13 @@
     "aliases": []
   },
   {
-    "id": "chevron-large-left",
-    "file": "chevron-large-left.svg",
+    "id": "chevron-large-down",
+    "file": "chevron-large-down.svg",
     "aliases": []
   },
   {
-    "id": "chevron-large-down",
-    "file": "chevron-large-down.svg",
+    "id": "chevron-large-left",
+    "file": "chevron-large-left.svg",
     "aliases": []
   },
   {
@@ -1403,8 +1398,8 @@
     "aliases": []
   },
   {
-    "id": "chevron-large-up",
-    "file": "chevron-large-up.svg",
+    "id": "chevron-large-top-right",
+    "file": "chevron-large-top-right.svg",
     "aliases": []
   },
   {
@@ -1413,13 +1408,13 @@
     "aliases": []
   },
   {
-    "id": "chevron-left",
-    "file": "chevron-left.svg",
+    "id": "chevron-large-up",
+    "file": "chevron-large-up.svg",
     "aliases": []
   },
   {
-    "id": "chevron-large-top-right",
-    "file": "chevron-large-top-right.svg",
+    "id": "chevron-left",
+    "file": "chevron-left.svg",
     "aliases": []
   },
   {
@@ -1468,8 +1463,8 @@
     "aliases": []
   },
   {
-    "id": "chevron-small",
-    "file": "chevron-small.svg",
+    "id": "chevron-top-left",
+    "file": "chevron-top-left.svg",
     "aliases": []
   },
   {
@@ -1478,8 +1473,8 @@
     "aliases": []
   },
   {
-    "id": "chevron-top-left",
-    "file": "chevron-top-left.svg",
+    "id": "chevron-small",
+    "file": "chevron-small.svg",
     "aliases": []
   },
   {
@@ -1488,18 +1483,13 @@
     "aliases": []
   },
   {
-    "id": "chevron",
-    "file": "chevron.svg",
-    "aliases": []
-  },
-  {
     "id": "chevrons-bar-in-horizontal",
     "file": "chevrons-bar-in-horizontal.svg",
     "aliases": []
   },
   {
-    "id": "chevrons-bar-in-vertical",
-    "file": "chevrons-bar-in-vertical.svg",
+    "id": "chevron",
+    "file": "chevron.svg",
     "aliases": []
   },
   {
@@ -1508,8 +1498,18 @@
     "aliases": []
   },
   {
+    "id": "chevrons-bar-in-vertical",
+    "file": "chevrons-bar-in-vertical.svg",
+    "aliases": []
+  },
+  {
     "id": "chevrons-bar-out-vertical",
     "file": "chevrons-bar-out-vertical.svg",
+    "aliases": []
+  },
+  {
+    "id": "chevrons-in-bottom-left-top-right",
+    "file": "chevrons-in-bottom-left-top-right.svg",
     "aliases": []
   },
   {
@@ -1520,11 +1520,6 @@
   {
     "id": "chevrons-in-bottom-right-top-left",
     "file": "chevrons-in-bottom-right-top-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "chevrons-in-bottom-left-top-right",
-    "file": "chevrons-in-bottom-left-top-right.svg",
     "aliases": []
   },
   {
@@ -1545,13 +1540,18 @@
     ]
   },
   {
+    "id": "chevrons-out-bottom-left-top-right",
+    "file": "chevrons-out-bottom-left-top-right.svg",
+    "aliases": []
+  },
+  {
     "id": "chevrons-left",
     "file": "chevrons-left.svg",
     "aliases": []
   },
   {
-    "id": "chevrons-out-bottom-left-top-right",
-    "file": "chevrons-out-bottom-left-top-right.svg",
+    "id": "chevron-bar-out-left",
+    "file": "chevron-bar-out-left.svg",
     "aliases": []
   },
   {
@@ -1570,11 +1570,9 @@
     "aliases": []
   },
   {
-    "id": "chevrons-out",
-    "file": "chevrons-out.svg",
-    "aliases": [
-      "expand"
-    ]
+    "id": "chevrons-right",
+    "file": "chevrons-right.svg",
+    "aliases": []
   },
   {
     "id": "chevrons-up",
@@ -1582,23 +1580,13 @@
     "aliases": []
   },
   {
-    "id": "chevrons-right",
-    "file": "chevrons-right.svg",
+    "id": "circle-arrow-down-outline",
+    "file": "circle-arrow-down-outline.svg",
     "aliases": []
   },
   {
     "id": "chevrons",
     "file": "chevrons.svg",
-    "aliases": []
-  },
-  {
-    "id": "circle-arrow-down",
-    "file": "circle-arrow-down.svg",
-    "aliases": []
-  },
-  {
-    "id": "circle-arrow-down-outline",
-    "file": "circle-arrow-down-outline.svg",
     "aliases": []
   },
   {
@@ -1612,13 +1600,15 @@
     "aliases": []
   },
   {
-    "id": "circle-arrow-right",
-    "file": "circle-arrow-right.svg",
-    "aliases": []
+    "id": "chevrons-out",
+    "file": "chevrons-out.svg",
+    "aliases": [
+      "expand"
+    ]
   },
   {
-    "id": "circle-arrow-up-outline",
-    "file": "circle-arrow-up-outline.svg",
+    "id": "circle-arrow-right",
+    "file": "circle-arrow-right.svg",
     "aliases": []
   },
   {
@@ -1627,8 +1617,30 @@
     "aliases": []
   },
   {
+    "id": "circle-arrow-up-outline",
+    "file": "circle-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "circle-arrow-up",
     "file": "circle-arrow-up.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-arrow-down",
+    "file": "circle-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-check",
+    "file": "circle-check.svg",
+    "aliases": [
+      "circle-tick"
+    ]
+  },
+  {
+    "id": "circle-chevron-down-outline",
+    "file": "circle-chevron-down-outline.svg",
     "aliases": []
   },
   {
@@ -1639,35 +1651,13 @@
     ]
   },
   {
-    "id": "circle-check",
-    "file": "circle-check.svg",
-    "aliases": [
-      "circle-tick"
-    ]
-  },
-  {
-    "id": "circle-chevron-down",
-    "file": "circle-chevron-down.svg",
-    "aliases": []
-  },
-  {
-    "id": "circle-chevron-down-outline",
-    "file": "circle-chevron-down-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "circle-chevron-left-outline",
     "file": "circle-chevron-left-outline.svg",
     "aliases": []
   },
   {
-    "id": "circle-chevron-right",
-    "file": "circle-chevron-right.svg",
-    "aliases": []
-  },
-  {
-    "id": "circle-chevron-right-outline",
-    "file": "circle-chevron-right-outline.svg",
+    "id": "circle-chevron-down",
+    "file": "circle-chevron-down.svg",
     "aliases": []
   },
   {
@@ -1676,16 +1666,19 @@
     "aliases": []
   },
   {
-    "id": "circle-chevron-up-outline",
-    "file": "circle-chevron-up-outline.svg",
+    "id": "circle-chevron-right-outline",
+    "file": "circle-chevron-right-outline.svg",
     "aliases": []
   },
   {
-    "id": "circle-cross",
-    "file": "circle-cross.svg",
-    "aliases": [
-      "circle-close"
-    ]
+    "id": "circle-chevron-right",
+    "file": "circle-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-chevron-up-outline",
+    "file": "circle-chevron-up-outline.svg",
+    "aliases": []
   },
   {
     "id": "circle-cross-outline",
@@ -1698,6 +1691,13 @@
     "id": "circle-chevron-up",
     "file": "circle-chevron-up.svg",
     "aliases": []
+  },
+  {
+    "id": "circle-cross",
+    "file": "circle-cross.svg",
+    "aliases": [
+      "circle-close"
+    ]
   },
   {
     "id": "circle-divide-outline",
@@ -1717,11 +1717,6 @@
     "aliases": []
   },
   {
-    "id": "circle-info-outline",
-    "file": "circle-info-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "circle-help",
     "file": "circle-help.svg",
     "aliases": [
@@ -1729,18 +1724,23 @@
     ]
   },
   {
+    "id": "circle-info-outline",
+    "file": "circle-info-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "circle-info",
     "file": "circle-info.svg",
     "aliases": []
   },
   {
-    "id": "circle-list-outline",
-    "file": "circle-list-outline.svg",
+    "id": "circle-list",
+    "file": "circle-list.svg",
     "aliases": []
   },
   {
-    "id": "circle-list",
-    "file": "circle-list.svg",
+    "id": "circle-minus-outline",
+    "file": "circle-minus-outline.svg",
     "aliases": []
   },
   {
@@ -1754,11 +1754,6 @@
     "aliases": []
   },
   {
-    "id": "circle-minus-outline",
-    "file": "circle-minus-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "circle-percent-outline",
     "file": "circle-percent-outline.svg",
     "aliases": []
@@ -1769,13 +1764,13 @@
     "aliases": []
   },
   {
-    "id": "circle-person",
-    "file": "circle-person.svg",
+    "id": "circle-person-outline",
+    "file": "circle-person-outline.svg",
     "aliases": []
   },
   {
-    "id": "circle-person-outline",
-    "file": "circle-person-outline.svg",
+    "id": "circle-person",
+    "file": "circle-person.svg",
     "aliases": []
   },
   {
@@ -1814,8 +1809,13 @@
     "aliases": []
   },
   {
-    "id": "clipboard-arrow-down",
-    "file": "clipboard-arrow-down.svg",
+    "id": "clipboard-arrow-down-outline",
+    "file": "clipboard-arrow-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "circle-list-outline",
+    "file": "circle-list-outline.svg",
     "aliases": []
   },
   {
@@ -1824,18 +1824,8 @@
     "aliases": []
   },
   {
-    "id": "clipboard-arrow-down-outline",
-    "file": "clipboard-arrow-down-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "clipboard-arrow-right-outline",
-    "file": "clipboard-arrow-right-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "clipboard-arrow-right",
-    "file": "clipboard-arrow-right.svg",
+    "id": "clipboard-arrow-down",
+    "file": "clipboard-arrow-down.svg",
     "aliases": []
   },
   {
@@ -1844,8 +1834,8 @@
     "aliases": []
   },
   {
-    "id": "clipboard-arrow-up",
-    "file": "clipboard-arrow-up.svg",
+    "id": "clipboard-arrow-right-outline",
+    "file": "clipboard-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -1861,11 +1851,9 @@
     ]
   },
   {
-    "id": "clipboard-check",
-    "file": "clipboard-check.svg",
-    "aliases": [
-      "clipboard-tick"
-    ]
+    "id": "clipboard-arrow-up",
+    "file": "clipboard-arrow-up.svg",
+    "aliases": []
   },
   {
     "id": "clipboard-chevron-down-outline",
@@ -1888,13 +1876,25 @@
     "aliases": []
   },
   {
-    "id": "clipboard-chevron-right",
-    "file": "clipboard-chevron-right.svg",
+    "id": "clipboard-arrow-right",
+    "file": "clipboard-arrow-right.svg",
     "aliases": []
   },
   {
     "id": "clipboard-chevron-right-outline",
     "file": "clipboard-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-check",
+    "file": "clipboard-check.svg",
+    "aliases": [
+      "clipboard-tick"
+    ]
+  },
+  {
+    "id": "clipboard-chevron-right",
+    "file": "clipboard-chevron-right.svg",
     "aliases": []
   },
   {
@@ -1908,17 +1908,17 @@
     "aliases": []
   },
   {
-    "id": "clipboard-cross",
-    "file": "clipboard-cross.svg",
-    "aliases": [
-      "clipboard-close"
-    ]
-  },
-  {
     "id": "clipboard-cross-outline",
     "file": "clipboard-cross-outline.svg",
     "aliases": [
       "clipboard-close-outline"
+    ]
+  },
+  {
+    "id": "clipboard-cross",
+    "file": "clipboard-cross.svg",
+    "aliases": [
+      "clipboard-close"
     ]
   },
   {
@@ -1951,18 +1951,13 @@
     "aliases": []
   },
   {
-    "id": "clipboard-info",
-    "file": "clipboard-info.svg",
-    "aliases": []
-  },
-  {
-    "id": "clipboard-list-outline",
-    "file": "clipboard-list-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "clipboard-list",
     "file": "clipboard-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "clipboard-minus-outline",
+    "file": "clipboard-minus-outline.svg",
     "aliases": []
   },
   {
@@ -1971,8 +1966,8 @@
     "aliases": []
   },
   {
-    "id": "clipboard-minus-outline",
-    "file": "clipboard-minus-outline.svg",
+    "id": "clipboard-outline",
+    "file": "clipboard-outline.svg",
     "aliases": []
   },
   {
@@ -1986,18 +1981,13 @@
     "aliases": []
   },
   {
-    "id": "clipboard-outline",
-    "file": "clipboard-outline.svg",
+    "id": "clipboard-person-outline",
+    "file": "clipboard-person-outline.svg",
     "aliases": []
   },
   {
     "id": "clipboard-person",
     "file": "clipboard-person.svg",
-    "aliases": []
-  },
-  {
-    "id": "clipboard-person-outline",
-    "file": "clipboard-person-outline.svg",
     "aliases": []
   },
   {
@@ -2011,13 +2001,13 @@
     "aliases": []
   },
   {
-    "id": "clipboard-star",
-    "file": "clipboard-star.svg",
+    "id": "clipboard-star-outline",
+    "file": "clipboard-star-outline.svg",
     "aliases": []
   },
   {
-    "id": "clipboard-star-outline",
-    "file": "clipboard-star-outline.svg",
+    "id": "clipboard-star",
+    "file": "clipboard-star.svg",
     "aliases": []
   },
   {
@@ -2036,6 +2026,11 @@
     "aliases": []
   },
   {
+    "id": "clipboard-list-outline",
+    "file": "clipboard-list-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "clock-outline",
     "file": "clock-outline.svg",
     "aliases": []
@@ -2043,11 +2038,6 @@
   {
     "id": "clock",
     "file": "clock.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-arrow-down-outline",
-    "file": "cloud-arrow-down-outline.svg",
     "aliases": []
   },
   {
@@ -2061,13 +2051,23 @@
     "aliases": []
   },
   {
-    "id": "cloud-arrow-right-outline",
-    "file": "cloud-arrow-right-outline.svg",
+    "id": "clipboard-info",
+    "file": "clipboard-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-down-outline",
+    "file": "cloud-arrow-down-outline.svg",
     "aliases": []
   },
   {
     "id": "cloud-arrow-left",
     "file": "cloud-arrow-left.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-arrow-right-outline",
+    "file": "cloud-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -2081,9 +2081,11 @@
     "aliases": []
   },
   {
-    "id": "cloud-arrow-up-outline",
-    "file": "cloud-arrow-up-outline.svg",
-    "aliases": []
+    "id": "cloud-check",
+    "file": "cloud-check.svg",
+    "aliases": [
+      "cloud-tick"
+    ]
   },
   {
     "id": "cloud-check-outline",
@@ -2093,20 +2095,8 @@
     ]
   },
   {
-    "id": "cloud-check",
-    "file": "cloud-check.svg",
-    "aliases": [
-      "cloud-tick"
-    ]
-  },
-  {
     "id": "cloud-chevron-down-outline",
     "file": "cloud-chevron-down-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-chevron-left-outline",
-    "file": "cloud-chevron-left-outline.svg",
     "aliases": []
   },
   {
@@ -2115,18 +2105,18 @@
     "aliases": []
   },
   {
+    "id": "cloud-arrow-up-outline",
+    "file": "cloud-arrow-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-left-outline",
+    "file": "cloud-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "cloud-chevron-left",
     "file": "cloud-chevron-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-chevron-right-outline",
-    "file": "cloud-chevron-right-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-chevron-right",
-    "file": "cloud-chevron-right.svg",
     "aliases": []
   },
   {
@@ -2154,11 +2144,9 @@
     ]
   },
   {
-    "id": "cloud-help-outline",
-    "file": "cloud-help-outline.svg",
-    "aliases": [
-      "cloud-question-outline"
-    ]
+    "id": "cloud-divide-outline",
+    "file": "cloud-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "cloud-divide",
@@ -2166,18 +2154,15 @@
     "aliases": []
   },
   {
-    "id": "cloud-divide-outline",
-    "file": "cloud-divide-outline.svg",
-    "aliases": []
+    "id": "cloud-help-outline",
+    "file": "cloud-help-outline.svg",
+    "aliases": [
+      "cloud-question-outline"
+    ]
   },
   {
-    "id": "cloud-info-outline",
-    "file": "cloud-info-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-info",
-    "file": "cloud-info.svg",
+    "id": "cloud-chevron-right",
+    "file": "cloud-chevron-right.svg",
     "aliases": []
   },
   {
@@ -2188,18 +2173,33 @@
     ]
   },
   {
+    "id": "cloud-info-outline",
+    "file": "cloud-info-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "cloud-list-outline",
     "file": "cloud-list-outline.svg",
     "aliases": []
   },
   {
-    "id": "cloud-minus-outline",
-    "file": "cloud-minus-outline.svg",
+    "id": "cloud-info",
+    "file": "cloud-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-chevron-right-outline",
+    "file": "cloud-chevron-right-outline.svg",
     "aliases": []
   },
   {
     "id": "cloud-list",
     "file": "cloud-list.svg",
+    "aliases": []
+  },
+  {
+    "id": "cloud-minus-outline",
+    "file": "cloud-minus-outline.svg",
     "aliases": []
   },
   {
@@ -2218,8 +2218,8 @@
     "aliases": []
   },
   {
-    "id": "cloud-person-outline",
-    "file": "cloud-person-outline.svg",
+    "id": "cloud-percent",
+    "file": "cloud-percent.svg",
     "aliases": []
   },
   {
@@ -2228,13 +2228,8 @@
     "aliases": []
   },
   {
-    "id": "cloud-percent",
-    "file": "cloud-percent.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud-plus-outline",
-    "file": "cloud-plus-outline.svg",
+    "id": "cloud-person-outline",
+    "file": "cloud-person-outline.svg",
     "aliases": []
   },
   {
@@ -2243,8 +2238,8 @@
     "aliases": []
   },
   {
-    "id": "cloud-plus",
-    "file": "cloud-plus.svg",
+    "id": "cloud-plus-outline",
+    "file": "cloud-plus-outline.svg",
     "aliases": []
   },
   {
@@ -2258,6 +2253,11 @@
     "aliases": []
   },
   {
+    "id": "cloud",
+    "file": "cloud.svg",
+    "aliases": []
+  },
+  {
     "id": "cog-outline",
     "file": "cog-outline.svg",
     "aliases": [
@@ -2265,16 +2265,6 @@
       "setting-outline",
       "settings-outline"
     ]
-  },
-  {
-    "id": "cloud-warning",
-    "file": "cloud-warning.svg",
-    "aliases": []
-  },
-  {
-    "id": "cloud",
-    "file": "cloud.svg",
-    "aliases": []
   },
   {
     "id": "cog",
@@ -2286,13 +2276,18 @@
     ]
   },
   {
-    "id": "copy-outline",
-    "file": "copy-outline.svg",
+    "id": "command",
+    "file": "command.svg",
     "aliases": []
   },
   {
-    "id": "command",
-    "file": "command.svg",
+    "id": "cloud-warning",
+    "file": "cloud-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "copy-outline",
+    "file": "copy-outline.svg",
     "aliases": []
   },
   {
@@ -2306,11 +2301,9 @@
     "aliases": []
   },
   {
-    "id": "cross-small",
-    "file": "cross-small.svg",
-    "aliases": [
-      "close-small"
-    ]
+    "id": "credit-card",
+    "file": "credit-card.svg",
+    "aliases": []
   },
   {
     "id": "cross-large",
@@ -2320,9 +2313,11 @@
     ]
   },
   {
-    "id": "credit-card",
-    "file": "credit-card.svg",
-    "aliases": []
+    "id": "cross-small",
+    "file": "cross-small.svg",
+    "aliases": [
+      "close-small"
+    ]
   },
   {
     "id": "cross",
@@ -2351,6 +2346,11 @@
     "aliases": [
       "money-euro-outline"
     ]
+  },
+  {
+    "id": "cloud-plus",
+    "file": "cloud-plus.svg",
+    "aliases": []
   },
   {
     "id": "currency-euro",
@@ -2388,13 +2388,6 @@
     ]
   },
   {
-    "id": "currency-yen",
-    "file": "currency-yen.svg",
-    "aliases": [
-      "money-yen"
-    ]
-  },
-  {
     "id": "currency-yen-outline",
     "file": "currency-yen-outline.svg",
     "aliases": [
@@ -2407,6 +2400,13 @@
     "aliases": []
   },
   {
+    "id": "currency-yen",
+    "file": "currency-yen.svg",
+    "aliases": [
+      "money-yen"
+    ]
+  },
+  {
     "id": "device-desktop",
     "file": "device-desktop.svg",
     "aliases": []
@@ -2417,6 +2417,11 @@
     "aliases": []
   },
   {
+    "id": "device-laptop",
+    "file": "device-laptop.svg",
+    "aliases": []
+  },
+  {
     "id": "device-mobile-outline",
     "file": "device-mobile-outline.svg",
     "aliases": []
@@ -2424,11 +2429,6 @@
   {
     "id": "device-mobile",
     "file": "device-mobile.svg",
-    "aliases": []
-  },
-  {
-    "id": "device-laptop",
-    "file": "device-laptop.svg",
     "aliases": []
   },
   {
@@ -2447,8 +2447,13 @@
     "aliases": []
   },
   {
-    "id": "divide",
-    "file": "divide.svg",
+    "id": "divide-small",
+    "file": "divide-small.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-down-outline",
+    "file": "document-arrow-down-outline.svg",
     "aliases": []
   },
   {
@@ -2457,8 +2462,13 @@
     "aliases": []
   },
   {
-    "id": "document-arrow-down-outline",
-    "file": "document-arrow-down-outline.svg",
+    "id": "divide",
+    "file": "divide.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-arrow-left-outline",
+    "file": "document-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -2469,16 +2479,6 @@
   {
     "id": "document-arrow-right-outline",
     "file": "document-arrow-right-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "divide-small",
-    "file": "divide-small.svg",
-    "aliases": []
-  },
-  {
-    "id": "document-arrow-left-outline",
-    "file": "document-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -2504,16 +2504,16 @@
     ]
   },
   {
+    "id": "document-chevron-down-outline",
+    "file": "document-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "document-check",
     "file": "document-check.svg",
     "aliases": [
       "document-tick"
     ]
-  },
-  {
-    "id": "document-chevron-down-outline",
-    "file": "document-chevron-down-outline.svg",
-    "aliases": []
   },
   {
     "id": "document-chevron-down",
@@ -2526,18 +2526,23 @@
     "aliases": []
   },
   {
-    "id": "document-chevron-left",
-    "file": "document-chevron-left.svg",
-    "aliases": []
-  },
-  {
     "id": "document-chevron-right-outline",
     "file": "document-chevron-right-outline.svg",
     "aliases": []
   },
   {
+    "id": "document-chevron-left",
+    "file": "document-chevron-left.svg",
+    "aliases": []
+  },
+  {
     "id": "document-chevron-right",
     "file": "document-chevron-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-chevron-up-outline",
+    "file": "document-chevron-up-outline.svg",
     "aliases": []
   },
   {
@@ -2560,11 +2565,6 @@
     ]
   },
   {
-    "id": "document-chevron-up-outline",
-    "file": "document-chevron-up-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "document-divide-outline",
     "file": "document-divide-outline.svg",
     "aliases": []
@@ -2582,11 +2582,6 @@
     ]
   },
   {
-    "id": "document-info-outline",
-    "file": "document-info-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "document-help",
     "file": "document-help.svg",
     "aliases": [
@@ -2594,13 +2589,18 @@
     ]
   },
   {
-    "id": "document-list-outline",
-    "file": "document-list-outline.svg",
+    "id": "document-info-outline",
+    "file": "document-info-outline.svg",
     "aliases": []
   },
   {
     "id": "document-info",
     "file": "document-info.svg",
+    "aliases": []
+  },
+  {
+    "id": "document-list-outline",
+    "file": "document-list-outline.svg",
     "aliases": []
   },
   {
@@ -2614,23 +2614,18 @@
     "aliases": []
   },
   {
-    "id": "document-outline",
-    "file": "document-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "document-minus",
     "file": "document-minus.svg",
     "aliases": []
   },
   {
-    "id": "document-percent-outline",
-    "file": "document-percent-outline.svg",
+    "id": "document-outline",
+    "file": "document-outline.svg",
     "aliases": []
   },
   {
-    "id": "document-percent",
-    "file": "document-percent.svg",
+    "id": "document-percent-outline",
+    "file": "document-percent-outline.svg",
     "aliases": []
   },
   {
@@ -2659,13 +2654,13 @@
     "aliases": []
   },
   {
-    "id": "document-star",
-    "file": "document-star.svg",
+    "id": "document-warning-outline",
+    "file": "document-warning-outline.svg",
     "aliases": []
   },
   {
-    "id": "document-warning-outline",
-    "file": "document-warning-outline.svg",
+    "id": "document-percent",
+    "file": "document-percent.svg",
     "aliases": []
   },
   {
@@ -2674,18 +2669,23 @@
     "aliases": []
   },
   {
+    "id": "document-star",
+    "file": "document-star.svg",
+    "aliases": []
+  },
+  {
     "id": "document",
     "file": "document.svg",
     "aliases": []
   },
   {
-    "id": "dot-large",
-    "file": "dot-large.svg",
+    "id": "dot-large-outline",
+    "file": "dot-large-outline.svg",
     "aliases": []
   },
   {
-    "id": "dot-large-outline",
-    "file": "dot-large-outline.svg",
+    "id": "dot-large",
+    "file": "dot-large.svg",
     "aliases": []
   },
   {
@@ -2699,11 +2699,6 @@
     "aliases": []
   },
   {
-    "id": "dot",
-    "file": "dot.svg",
-    "aliases": []
-  },
-  {
     "id": "dot-small-outline",
     "file": "dot-small-outline.svg",
     "aliases": []
@@ -2714,13 +2709,23 @@
     "aliases": []
   },
   {
-    "id": "envelope-outline",
-    "file": "envelope-outline.svg",
+    "id": "dot",
+    "file": "dot.svg",
+    "aliases": []
+  },
+  {
+    "id": "education",
+    "file": "education.svg",
     "aliases": []
   },
   {
     "id": "envelope",
     "file": "envelope.svg",
+    "aliases": []
+  },
+  {
+    "id": "envelope-outline",
+    "file": "envelope-outline.svg",
     "aliases": []
   },
   {
@@ -2731,11 +2736,6 @@
       "levels-horizontal",
       "mixer-horizontal"
     ]
-  },
-  {
-    "id": "education",
-    "file": "education.svg",
-    "aliases": []
   },
   {
     "id": "equalizer-vertical",
@@ -2762,6 +2762,11 @@
     "aliases": []
   },
   {
+    "id": "flag",
+    "file": "flag.svg",
+    "aliases": []
+  },
+  {
     "id": "flag-outline",
     "file": "flag-outline.svg",
     "aliases": []
@@ -2772,18 +2777,8 @@
     "aliases": []
   },
   {
-    "id": "flag",
-    "file": "flag.svg",
-    "aliases": []
-  },
-  {
     "id": "folder-arrow-left-outline",
     "file": "folder-arrow-left-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "folder-arrow-down",
-    "file": "folder-arrow-down.svg",
     "aliases": []
   },
   {
@@ -2792,18 +2787,23 @@
     "aliases": []
   },
   {
+    "id": "folder-arrow-down",
+    "file": "folder-arrow-down.svg",
+    "aliases": []
+  },
+  {
     "id": "folder-arrow-right-outline",
     "file": "folder-arrow-right-outline.svg",
     "aliases": []
   },
   {
-    "id": "folder-arrow-right",
-    "file": "folder-arrow-right.svg",
+    "id": "folder-arrow-up-outline",
+    "file": "folder-arrow-up-outline.svg",
     "aliases": []
   },
   {
-    "id": "folder-arrow-up-outline",
-    "file": "folder-arrow-up-outline.svg",
+    "id": "folder-arrow-right",
+    "file": "folder-arrow-right.svg",
     "aliases": []
   },
   {
@@ -2826,18 +2826,13 @@
     ]
   },
   {
-    "id": "folder-chevron-down",
-    "file": "folder-chevron-down.svg",
-    "aliases": []
-  },
-  {
     "id": "folder-chevron-down-outline",
     "file": "folder-chevron-down-outline.svg",
     "aliases": []
   },
   {
-    "id": "folder-chevron-left-outline",
-    "file": "folder-chevron-left-outline.svg",
+    "id": "folder-chevron-down",
+    "file": "folder-chevron-down.svg",
     "aliases": []
   },
   {
@@ -2851,13 +2846,18 @@
     "aliases": []
   },
   {
-    "id": "folder-chevron-right",
-    "file": "folder-chevron-right.svg",
+    "id": "folder-chevron-left-outline",
+    "file": "folder-chevron-left-outline.svg",
     "aliases": []
   },
   {
     "id": "folder-chevron-up-outline",
     "file": "folder-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-chevron-right",
+    "file": "folder-chevron-right.svg",
     "aliases": []
   },
   {
@@ -2890,16 +2890,16 @@
     "aliases": []
   },
   {
-    "id": "folder-info-outline",
-    "file": "folder-info-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "folder-help-outline",
     "file": "folder-help-outline.svg",
     "aliases": [
       "folder-question-outline"
     ]
+  },
+  {
+    "id": "folder-info-outline",
+    "file": "folder-info-outline.svg",
+    "aliases": []
   },
   {
     "id": "folder-help",
@@ -2939,23 +2939,13 @@
     "aliases": []
   },
   {
-    "id": "folder-percent-outline",
-    "file": "folder-percent-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "folder-percent",
     "file": "folder-percent.svg",
     "aliases": []
   },
   {
-    "id": "folder-person-outline",
-    "file": "folder-person-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "folder-plus-outline",
-    "file": "folder-plus-outline.svg",
+    "id": "folder-percent-outline",
+    "file": "folder-percent-outline.svg",
     "aliases": []
   },
   {
@@ -2964,8 +2954,18 @@
     "aliases": []
   },
   {
+    "id": "folder-person-outline",
+    "file": "folder-person-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "folder-plus",
     "file": "folder-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "folder-plus-outline",
+    "file": "folder-plus-outline.svg",
     "aliases": []
   },
   {
@@ -2984,13 +2984,13 @@
     "aliases": []
   },
   {
-    "id": "folder",
-    "file": "folder.svg",
+    "id": "folder-warning",
+    "file": "folder-warning.svg",
     "aliases": []
   },
   {
-    "id": "folder-warning",
-    "file": "folder-warning.svg",
+    "id": "folder",
+    "file": "folder.svg",
     "aliases": []
   },
   {
@@ -3013,13 +3013,13 @@
     "aliases": []
   },
   {
-    "id": "hamburger",
-    "file": "hamburger.svg",
+    "id": "grid",
+    "file": "grid.svg",
     "aliases": []
   },
   {
-    "id": "grid",
-    "file": "grid.svg",
+    "id": "hamburger",
+    "file": "hamburger.svg",
     "aliases": []
   },
   {
@@ -3074,18 +3074,13 @@
     "aliases": []
   },
   {
-    "id": "hexagon-arrow-down",
-    "file": "hexagon-arrow-down.svg",
+    "id": "hexagon-arrow-left-outline",
+    "file": "hexagon-arrow-left-outline.svg",
     "aliases": []
   },
   {
     "id": "hexagon-arrow-left",
     "file": "hexagon-arrow-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "hexagon-arrow-left-outline",
-    "file": "hexagon-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -3123,13 +3118,13 @@
     ]
   },
   {
-    "id": "hexagon-chevron-down",
-    "file": "hexagon-chevron-down.svg",
+    "id": "hexagon-chevron-down-outline",
+    "file": "hexagon-chevron-down-outline.svg",
     "aliases": []
   },
   {
-    "id": "hexagon-chevron-down-outline",
-    "file": "hexagon-chevron-down-outline.svg",
+    "id": "hexagon-chevron-down",
+    "file": "hexagon-chevron-down.svg",
     "aliases": []
   },
   {
@@ -3143,18 +3138,18 @@
     "aliases": []
   },
   {
-    "id": "hexagon-chevron-right-outline",
-    "file": "hexagon-chevron-right-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "hexagon-chevron-right",
     "file": "hexagon-chevron-right.svg",
     "aliases": []
   },
   {
-    "id": "hexagon-chevron-up",
-    "file": "hexagon-chevron-up.svg",
+    "id": "hexagon-chevron-right-outline",
+    "file": "hexagon-chevron-right-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-arrow-down",
+    "file": "hexagon-arrow-down.svg",
     "aliases": []
   },
   {
@@ -3163,11 +3158,9 @@
     "aliases": []
   },
   {
-    "id": "hexagon-cross",
-    "file": "hexagon-cross.svg",
-    "aliases": [
-      "hexagon-close"
-    ]
+    "id": "hexagon-chevron-up",
+    "file": "hexagon-chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-cross-outline",
@@ -3182,9 +3175,11 @@
     "aliases": []
   },
   {
-    "id": "hexagon-divide",
-    "file": "hexagon-divide.svg",
-    "aliases": []
+    "id": "hexagon-cross",
+    "file": "hexagon-cross.svg",
+    "aliases": [
+      "hexagon-close"
+    ]
   },
   {
     "id": "hexagon-help-outline",
@@ -3192,6 +3187,11 @@
     "aliases": [
       "hexagon-question-outline"
     ]
+  },
+  {
+    "id": "hexagon-divide",
+    "file": "hexagon-divide.svg",
+    "aliases": []
   },
   {
     "id": "hexagon-help",
@@ -3206,6 +3206,11 @@
     "aliases": []
   },
   {
+    "id": "hexagon-list-outline",
+    "file": "hexagon-list-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "hexagon-info",
     "file": "hexagon-info.svg",
     "aliases": []
@@ -3213,11 +3218,6 @@
   {
     "id": "hexagon-list",
     "file": "hexagon-list.svg",
-    "aliases": []
-  },
-  {
-    "id": "hexagon-list-outline",
-    "file": "hexagon-list-outline.svg",
     "aliases": []
   },
   {
@@ -3231,13 +3231,13 @@
     "aliases": []
   },
   {
-    "id": "hexagon-percent-outline",
-    "file": "hexagon-percent-outline.svg",
+    "id": "hexagon-outline",
+    "file": "hexagon-outline.svg",
     "aliases": []
   },
   {
-    "id": "hexagon-outline",
-    "file": "hexagon-outline.svg",
+    "id": "hexagon-percent-outline",
+    "file": "hexagon-percent-outline.svg",
     "aliases": []
   },
   {
@@ -3261,18 +3261,8 @@
     "aliases": []
   },
   {
-    "id": "hexagon-plus",
-    "file": "hexagon-plus.svg",
-    "aliases": []
-  },
-  {
     "id": "hexagon-star-outline",
     "file": "hexagon-star-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "hexagon-warning-outline",
-    "file": "hexagon-warning-outline.svg",
     "aliases": []
   },
   {
@@ -3281,8 +3271,13 @@
     "aliases": []
   },
   {
-    "id": "hexagon-warning",
-    "file": "hexagon-warning.svg",
+    "id": "hexagon-plus",
+    "file": "hexagon-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "hexagon-warning-outline",
+    "file": "hexagon-warning-outline.svg",
     "aliases": []
   },
   {
@@ -3291,18 +3286,18 @@
     "aliases": []
   },
   {
-    "id": "house-outline",
-    "file": "house-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "house",
     "file": "house.svg",
     "aliases": []
   },
   {
-    "id": "image",
-    "file": "image.svg",
+    "id": "hexagon-warning",
+    "file": "hexagon-warning.svg",
+    "aliases": []
+  },
+  {
+    "id": "house-outline",
+    "file": "house-outline.svg",
     "aliases": []
   },
   {
@@ -3311,8 +3306,8 @@
     "aliases": []
   },
   {
-    "id": "inbox-arrow-down-outline",
-    "file": "inbox-arrow-down-outline.svg",
+    "id": "image",
+    "file": "image.svg",
     "aliases": []
   },
   {
@@ -3321,18 +3316,13 @@
     "aliases": []
   },
   {
-    "id": "inbox-arrow-left-outline",
-    "file": "inbox-arrow-left-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "inbox-arrow-left",
     "file": "inbox-arrow-left.svg",
     "aliases": []
   },
   {
-    "id": "inbox-arrow-right",
-    "file": "inbox-arrow-right.svg",
+    "id": "inbox-arrow-left-outline",
+    "file": "inbox-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -3341,8 +3331,13 @@
     "aliases": []
   },
   {
-    "id": "inbox-arrow-up-outline",
-    "file": "inbox-arrow-up-outline.svg",
+    "id": "inbox-arrow-right",
+    "file": "inbox-arrow-right.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-arrow-down-outline",
+    "file": "inbox-arrow-down-outline.svg",
     "aliases": []
   },
   {
@@ -3351,17 +3346,17 @@
     "aliases": []
   },
   {
-    "id": "inbox-check",
-    "file": "inbox-check.svg",
-    "aliases": [
-      "inbox-tick"
-    ]
-  },
-  {
     "id": "inbox-check-outline",
     "file": "inbox-check-outline.svg",
     "aliases": [
       "inbox-tick-outline"
+    ]
+  },
+  {
+    "id": "inbox-check",
+    "file": "inbox-check.svg",
+    "aliases": [
+      "inbox-tick"
     ]
   },
   {
@@ -3375,13 +3370,13 @@
     "aliases": []
   },
   {
-    "id": "inbox-chevron-left",
-    "file": "inbox-chevron-left.svg",
+    "id": "inbox-chevron-left-outline",
+    "file": "inbox-chevron-left-outline.svg",
     "aliases": []
   },
   {
-    "id": "inbox-chevron-left-outline",
-    "file": "inbox-chevron-left-outline.svg",
+    "id": "inbox-chevron-left",
+    "file": "inbox-chevron-left.svg",
     "aliases": []
   },
   {
@@ -3395,8 +3390,8 @@
     "aliases": []
   },
   {
-    "id": "inbox-chevron-up",
-    "file": "inbox-chevron-up.svg",
+    "id": "inbox-arrow-up-outline",
+    "file": "inbox-arrow-up-outline.svg",
     "aliases": []
   },
   {
@@ -3405,17 +3400,22 @@
     "aliases": []
   },
   {
-    "id": "inbox-cross",
-    "file": "inbox-cross.svg",
-    "aliases": [
-      "inbox-close"
-    ]
+    "id": "inbox-chevron-up",
+    "file": "inbox-chevron-up.svg",
+    "aliases": []
   },
   {
     "id": "inbox-cross-outline",
     "file": "inbox-cross-outline.svg",
     "aliases": [
       "inbox-close-outline"
+    ]
+  },
+  {
+    "id": "inbox-cross",
+    "file": "inbox-cross.svg",
+    "aliases": [
+      "inbox-close"
     ]
   },
   {
@@ -3443,8 +3443,8 @@
     ]
   },
   {
-    "id": "inbox-list-outline",
-    "file": "inbox-list-outline.svg",
+    "id": "inbox-info-outline",
+    "file": "inbox-info-outline.svg",
     "aliases": []
   },
   {
@@ -3453,8 +3453,8 @@
     "aliases": []
   },
   {
-    "id": "inbox-info-outline",
-    "file": "inbox-info-outline.svg",
+    "id": "inbox-list-outline",
+    "file": "inbox-list-outline.svg",
     "aliases": []
   },
   {
@@ -3463,8 +3463,8 @@
     "aliases": []
   },
   {
-    "id": "inbox-minus-outline",
-    "file": "inbox-minus-outline.svg",
+    "id": "inbox-minus",
+    "file": "inbox-minus.svg",
     "aliases": []
   },
   {
@@ -3473,18 +3473,13 @@
     "aliases": []
   },
   {
-    "id": "inbox-percent-outline",
-    "file": "inbox-percent-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "inbox-minus",
-    "file": "inbox-minus.svg",
-    "aliases": []
-  },
-  {
     "id": "inbox-percent",
     "file": "inbox-percent.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-percent-outline",
+    "file": "inbox-percent-outline.svg",
     "aliases": []
   },
   {
@@ -3503,23 +3498,23 @@
     "aliases": []
   },
   {
-    "id": "inbox-star-outline",
-    "file": "inbox-star-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "inbox-plus",
     "file": "inbox-plus.svg",
     "aliases": []
   },
   {
-    "id": "inbox-star",
-    "file": "inbox-star.svg",
+    "id": "inbox-star-outline",
+    "file": "inbox-star-outline.svg",
     "aliases": []
   },
   {
     "id": "inbox-warning-outline",
     "file": "inbox-warning-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "inbox-star",
+    "file": "inbox-star.svg",
     "aliases": []
   },
   {
@@ -3533,13 +3528,13 @@
     "aliases": []
   },
   {
-    "id": "info-small",
-    "file": "info-small.svg",
+    "id": "info-large",
+    "file": "info-large.svg",
     "aliases": []
   },
   {
-    "id": "info-large",
-    "file": "info-large.svg",
+    "id": "info-small",
+    "file": "info-small.svg",
     "aliases": []
   },
   {
@@ -3548,8 +3543,8 @@
     "aliases": []
   },
   {
-    "id": "instagram",
-    "file": "instagram.svg",
+    "id": "inbox-minus-outline",
+    "file": "inbox-minus-outline.svg",
     "aliases": []
   },
   {
@@ -3563,13 +3558,13 @@
     "aliases": []
   },
   {
-    "id": "label-arrow-down-outline",
-    "file": "label-arrow-down-outline.svg",
+    "id": "label-arrow-down",
+    "file": "label-arrow-down.svg",
     "aliases": []
   },
   {
-    "id": "label-arrow-down",
-    "file": "label-arrow-down.svg",
+    "id": "label-arrow-down-outline",
+    "file": "label-arrow-down-outline.svg",
     "aliases": []
   },
   {
@@ -3588,6 +3583,11 @@
     "aliases": []
   },
   {
+    "id": "label-arrow-right",
+    "file": "label-arrow-right.svg",
+    "aliases": []
+  },
+  {
     "id": "label-arrow-up-outline",
     "file": "label-arrow-up-outline.svg",
     "aliases": []
@@ -3595,11 +3595,6 @@
   {
     "id": "label-arrow-up",
     "file": "label-arrow-up.svg",
-    "aliases": []
-  },
-  {
-    "id": "label-arrow-right",
-    "file": "label-arrow-right.svg",
     "aliases": []
   },
   {
@@ -3617,13 +3612,18 @@
     ]
   },
   {
-    "id": "label-chevron-left-outline",
-    "file": "label-chevron-left-outline.svg",
+    "id": "label-chevron-down-outline",
+    "file": "label-chevron-down-outline.svg",
     "aliases": []
   },
   {
     "id": "label-chevron-down",
     "file": "label-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-chevron-left-outline",
+    "file": "label-chevron-left-outline.svg",
     "aliases": []
   },
   {
@@ -3637,18 +3637,13 @@
     "aliases": []
   },
   {
-    "id": "label-chevron-down-outline",
-    "file": "label-chevron-down-outline.svg",
+    "id": "label-chevron-right-outline",
+    "file": "label-chevron-right-outline.svg",
     "aliases": []
   },
   {
     "id": "label-chevron-up-outline",
     "file": "label-chevron-up-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "label-chevron-up",
-    "file": "label-chevron-up.svg",
     "aliases": []
   },
   {
@@ -3659,21 +3654,16 @@
     ]
   },
   {
+    "id": "label-chevron-up",
+    "file": "label-chevron-up.svg",
+    "aliases": []
+  },
+  {
     "id": "label-cross",
     "file": "label-cross.svg",
     "aliases": [
       "label-close"
     ]
-  },
-  {
-    "id": "label-chevron-right-outline",
-    "file": "label-chevron-right-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "label-divide",
-    "file": "label-divide.svg",
-    "aliases": []
   },
   {
     "id": "label-divide-outline",
@@ -3686,6 +3676,11 @@
     "aliases": [
       "label-question-outline"
     ]
+  },
+  {
+    "id": "label-divide",
+    "file": "label-divide.svg",
+    "aliases": []
   },
   {
     "id": "label-help",
@@ -3735,23 +3730,23 @@
     "aliases": []
   },
   {
-    "id": "label-person-outline",
-    "file": "label-person-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "label-percent",
     "file": "label-percent.svg",
     "aliases": []
   },
   {
-    "id": "label-plus-outline",
-    "file": "label-plus-outline.svg",
+    "id": "label-person-outline",
+    "file": "label-person-outline.svg",
     "aliases": []
   },
   {
     "id": "label-person",
     "file": "label-person.svg",
+    "aliases": []
+  },
+  {
+    "id": "label-plus-outline",
+    "file": "label-plus-outline.svg",
     "aliases": []
   },
   {
@@ -3800,6 +3795,11 @@
     "aliases": []
   },
   {
+    "id": "link",
+    "file": "link.svg",
+    "aliases": []
+  },
+  {
     "id": "lightning",
     "file": "lightning.svg",
     "aliases": []
@@ -3817,11 +3817,6 @@
     ]
   },
   {
-    "id": "link",
-    "file": "link.svg",
-    "aliases": []
-  },
-  {
     "id": "list-point",
     "file": "list-point.svg",
     "aliases": []
@@ -3832,13 +3827,13 @@
     "aliases": []
   },
   {
-    "id": "lock",
-    "file": "lock.svg",
+    "id": "lock-outline",
+    "file": "lock-outline.svg",
     "aliases": []
   },
   {
-    "id": "lock-outline",
-    "file": "lock-outline.svg",
+    "id": "lock",
+    "file": "lock.svg",
     "aliases": []
   },
   {
@@ -3846,6 +3841,13 @@
     "file": "magnifier-circle-outline.svg",
     "aliases": [
       "search-circle-outline"
+    ]
+  },
+  {
+    "id": "magnifier-minus",
+    "file": "magnifier-minus.svg",
+    "aliases": [
+      "search-minus"
     ]
   },
   {
@@ -3863,18 +3865,16 @@
     ]
   },
   {
-    "id": "magnifier-minus",
-    "file": "magnifier-minus.svg",
-    "aliases": [
-      "search-minus"
-    ]
-  },
-  {
     "id": "magnifier",
     "file": "magnifier.svg",
     "aliases": [
       "search"
     ]
+  },
+  {
+    "id": "map-pin",
+    "file": "map-pin.svg",
+    "aliases": []
   },
   {
     "id": "map-pin-outline",
@@ -3887,8 +3887,8 @@
     "aliases": []
   },
   {
-    "id": "map-pin",
-    "file": "map-pin.svg",
+    "id": "microphone",
+    "file": "microphone.svg",
     "aliases": []
   },
   {
@@ -3897,13 +3897,8 @@
     "aliases": []
   },
   {
-    "id": "microphone",
-    "file": "microphone.svg",
-    "aliases": []
-  },
-  {
-    "id": "minus",
-    "file": "minus.svg",
+    "id": "minus-large",
+    "file": "minus-large.svg",
     "aliases": []
   },
   {
@@ -3912,13 +3907,8 @@
     "aliases": []
   },
   {
-    "id": "minus-large",
-    "file": "minus-large.svg",
-    "aliases": []
-  },
-  {
-    "id": "moon",
-    "file": "moon.svg",
+    "id": "minus",
+    "file": "minus.svg",
     "aliases": []
   },
   {
@@ -3927,13 +3917,13 @@
     "aliases": []
   },
   {
-    "id": "navigation-outline",
-    "file": "navigation-outline.svg",
+    "id": "moon",
+    "file": "moon.svg",
     "aliases": []
   },
   {
-    "id": "navigation",
-    "file": "navigation.svg",
+    "id": "navigation-outline",
+    "file": "navigation-outline.svg",
     "aliases": []
   },
   {
@@ -3942,13 +3932,13 @@
     "aliases": []
   },
   {
-    "id": "no",
-    "file": "no.svg",
+    "id": "navigation",
+    "file": "navigation.svg",
     "aliases": []
   },
   {
-    "id": "paperclip",
-    "file": "paperclip.svg",
+    "id": "no",
+    "file": "no.svg",
     "aliases": []
   },
   {
@@ -3957,23 +3947,28 @@
     "aliases": []
   },
   {
-    "id": "paw-outline",
-    "file": "paw-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "pause",
     "file": "pause.svg",
     "aliases": []
   },
   {
-    "id": "paw",
-    "file": "paw.svg",
+    "id": "paperclip",
+    "file": "paperclip.svg",
     "aliases": []
   },
   {
     "id": "pen-outline",
     "file": "pen-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "paw-outline",
+    "file": "paw-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "paw",
+    "file": "paw.svg",
     "aliases": []
   },
   {
@@ -3987,16 +3982,16 @@
     "aliases": []
   },
   {
+    "id": "pencil-outline",
+    "file": "pencil-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "people-outline",
     "file": "people-outline.svg",
     "aliases": [
       "users-outline"
     ]
-  },
-  {
-    "id": "pencil-outline",
-    "file": "pencil-outline.svg",
-    "aliases": []
   },
   {
     "id": "people",
@@ -4006,13 +4001,13 @@
     ]
   },
   {
-    "id": "percent-small",
-    "file": "percent-small.svg",
+    "id": "percent-large",
+    "file": "percent-large.svg",
     "aliases": []
   },
   {
-    "id": "percent-large",
-    "file": "percent-large.svg",
+    "id": "percent-small",
+    "file": "percent-small.svg",
     "aliases": []
   },
   {
@@ -4026,13 +4021,13 @@
     "aliases": []
   },
   {
-    "id": "person-arrow-down",
-    "file": "person-arrow-down.svg",
+    "id": "instagram",
+    "file": "instagram.svg",
     "aliases": []
   },
   {
-    "id": "person-arrow-right-outline",
-    "file": "person-arrow-right-outline.svg",
+    "id": "person-arrow-down",
+    "file": "person-arrow-down.svg",
     "aliases": []
   },
   {
@@ -4043,6 +4038,11 @@
   {
     "id": "person-arrow-left-outline",
     "file": "person-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-arrow-right-outline",
+    "file": "person-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -4068,20 +4068,13 @@
     ]
   },
   {
-    "id": "person-check",
-    "file": "person-check.svg",
-    "aliases": [
-      "person-tick"
-    ]
+    "id": "person-chevron-down",
+    "file": "person-chevron-down.svg",
+    "aliases": []
   },
   {
     "id": "person-chevron-down-outline",
     "file": "person-chevron-down-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "person-chevron-down",
-    "file": "person-chevron-down.svg",
     "aliases": []
   },
   {
@@ -4090,13 +4083,15 @@
     "aliases": []
   },
   {
-    "id": "person-chevron-left",
-    "file": "person-chevron-left.svg",
-    "aliases": []
+    "id": "person-check",
+    "file": "person-check.svg",
+    "aliases": [
+      "person-tick"
+    ]
   },
   {
-    "id": "person-chevron-right",
-    "file": "person-chevron-right.svg",
+    "id": "person-chevron-left",
+    "file": "person-chevron-left.svg",
     "aliases": []
   },
   {
@@ -4105,27 +4100,22 @@
     "aliases": []
   },
   {
-    "id": "person-chevron-up-outline",
-    "file": "person-chevron-up-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "person-chevron-up",
     "file": "person-chevron-up.svg",
     "aliases": []
-  },
-  {
-    "id": "person-cross",
-    "file": "person-cross.svg",
-    "aliases": [
-      "person-close"
-    ]
   },
   {
     "id": "person-cross-outline",
     "file": "person-cross-outline.svg",
     "aliases": [
       "person-close-outline"
+    ]
+  },
+  {
+    "id": "person-cross",
+    "file": "person-cross.svg",
+    "aliases": [
+      "person-close"
     ]
   },
   {
@@ -4139,13 +4129,6 @@
     "aliases": []
   },
   {
-    "id": "person-help",
-    "file": "person-help.svg",
-    "aliases": [
-      "person-question"
-    ]
-  },
-  {
     "id": "person-help-outline",
     "file": "person-help-outline.svg",
     "aliases": [
@@ -4156,6 +4139,13 @@
     "id": "person-info-outline",
     "file": "person-info-outline.svg",
     "aliases": []
+  },
+  {
+    "id": "person-help",
+    "file": "person-help.svg",
+    "aliases": [
+      "person-question"
+    ]
   },
   {
     "id": "person-info",
@@ -4173,18 +4163,13 @@
     "aliases": []
   },
   {
-    "id": "person-minus-outline",
-    "file": "person-minus-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "person-minus",
     "file": "person-minus.svg",
     "aliases": []
   },
   {
-    "id": "person-percent-outline",
-    "file": "person-percent-outline.svg",
+    "id": "person-chevron-right",
+    "file": "person-chevron-right.svg",
     "aliases": []
   },
   {
@@ -4198,18 +4183,23 @@
     "aliases": []
   },
   {
+    "id": "person-percent-outline",
+    "file": "person-percent-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "person-person-outline",
     "file": "person-person-outline.svg",
     "aliases": []
   },
   {
-    "id": "person-plus-outline",
-    "file": "person-plus-outline.svg",
+    "id": "person-person",
+    "file": "person-person.svg",
     "aliases": []
   },
   {
-    "id": "person-person",
-    "file": "person-person.svg",
+    "id": "person-plus-outline",
+    "file": "person-plus-outline.svg",
     "aliases": []
   },
   {
@@ -4228,18 +4218,23 @@
     "aliases": []
   },
   {
-    "id": "person-warning",
-    "file": "person-warning.svg",
-    "aliases": []
-  },
-  {
     "id": "person-warning-outline",
     "file": "person-warning-outline.svg",
     "aliases": []
   },
   {
+    "id": "person-chevron-up-outline",
+    "file": "person-chevron-up-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "person",
     "file": "person.svg",
+    "aliases": []
+  },
+  {
+    "id": "person-warning",
+    "file": "person-warning.svg",
     "aliases": []
   },
   {
@@ -4257,17 +4252,17 @@
     ]
   },
   {
-    "id": "pin",
-    "file": "pin.svg",
-    "aliases": [
-      "pushpin"
-    ]
-  },
-  {
     "id": "pin-outline",
     "file": "pin-outline.svg",
     "aliases": [
       "pushpin-outline"
+    ]
+  },
+  {
+    "id": "pin",
+    "file": "pin.svg",
+    "aliases": [
+      "pushpin"
     ]
   },
   {
@@ -4281,23 +4276,18 @@
     "aliases": []
   },
   {
-    "id": "plus-large",
-    "file": "plus-large.svg",
-    "aliases": []
-  },
-  {
     "id": "plus-small",
     "file": "plus-small.svg",
     "aliases": []
   },
   {
-    "id": "plus",
-    "file": "plus.svg",
+    "id": "plus-large",
+    "file": "plus-large.svg",
     "aliases": []
   },
   {
-    "id": "print",
-    "file": "print.svg",
+    "id": "plus",
+    "file": "plus.svg",
     "aliases": []
   },
   {
@@ -4308,6 +4298,16 @@
   {
     "id": "radio",
     "file": "radio.svg",
+    "aliases": []
+  },
+  {
+    "id": "print",
+    "file": "print.svg",
+    "aliases": []
+  },
+  {
+    "id": "receipt-outline",
+    "file": "receipt-outline.svg",
     "aliases": []
   },
   {
@@ -4326,8 +4326,8 @@
     "aliases": []
   },
   {
-    "id": "receipt-outline",
-    "file": "receipt-outline.svg",
+    "id": "repeat",
+    "file": "repeat.svg",
     "aliases": []
   },
   {
@@ -4336,18 +4336,8 @@
     "aliases": []
   },
   {
-    "id": "repeat",
-    "file": "repeat.svg",
-    "aliases": []
-  },
-  {
     "id": "shield-arrow-down-outline",
     "file": "shield-arrow-down-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "shield-arrow-left-outline",
-    "file": "shield-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -4356,13 +4346,18 @@
     "aliases": []
   },
   {
-    "id": "shield-arrow-right-outline",
-    "file": "shield-arrow-right-outline.svg",
+    "id": "shield-arrow-left",
+    "file": "shield-arrow-left.svg",
     "aliases": []
   },
   {
-    "id": "shield-arrow-left",
-    "file": "shield-arrow-left.svg",
+    "id": "shield-arrow-left-outline",
+    "file": "shield-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-arrow-right-outline",
+    "file": "shield-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -4376,16 +4371,16 @@
     "aliases": []
   },
   {
+    "id": "shield-arrow-up",
+    "file": "shield-arrow-up.svg",
+    "aliases": []
+  },
+  {
     "id": "shield-check-outline",
     "file": "shield-check-outline.svg",
     "aliases": [
       "shield-tick-outline"
     ]
-  },
-  {
-    "id": "shield-arrow-up",
-    "file": "shield-arrow-up.svg",
-    "aliases": []
   },
   {
     "id": "shield-check",
@@ -4420,6 +4415,11 @@
     "aliases": []
   },
   {
+    "id": "shield-chevron-right",
+    "file": "shield-chevron-right.svg",
+    "aliases": []
+  },
+  {
     "id": "shield-chevron-up-outline",
     "file": "shield-chevron-up-outline.svg",
     "aliases": []
@@ -4437,11 +4437,6 @@
     ]
   },
   {
-    "id": "shield-chevron-right",
-    "file": "shield-chevron-right.svg",
-    "aliases": []
-  },
-  {
     "id": "shield-divide",
     "file": "shield-divide.svg",
     "aliases": []
@@ -4450,13 +4445,6 @@
     "id": "shield-divide-outline",
     "file": "shield-divide-outline.svg",
     "aliases": []
-  },
-  {
-    "id": "shield-help-outline",
-    "file": "shield-help-outline.svg",
-    "aliases": [
-      "shield-question-outline"
-    ]
   },
   {
     "id": "shield-cross",
@@ -4473,13 +4461,20 @@
     ]
   },
   {
-    "id": "shield-info",
-    "file": "shield-info.svg",
-    "aliases": []
+    "id": "shield-help-outline",
+    "file": "shield-help-outline.svg",
+    "aliases": [
+      "shield-question-outline"
+    ]
   },
   {
     "id": "shield-info-outline",
     "file": "shield-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-info",
+    "file": "shield-info.svg",
     "aliases": []
   },
   {
@@ -4493,13 +4488,13 @@
     "aliases": []
   },
   {
-    "id": "shield-minus",
-    "file": "shield-minus.svg",
+    "id": "shield-minus-outline",
+    "file": "shield-minus-outline.svg",
     "aliases": []
   },
   {
-    "id": "shield-minus-outline",
-    "file": "shield-minus-outline.svg",
+    "id": "shield-minus",
+    "file": "shield-minus.svg",
     "aliases": []
   },
   {
@@ -4513,18 +4508,18 @@
     "aliases": []
   },
   {
-    "id": "shield-person-outline",
-    "file": "shield-person-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "shield-percent",
     "file": "shield-percent.svg",
     "aliases": []
   },
   {
-    "id": "shield-person",
-    "file": "shield-person.svg",
+    "id": "person-minus-outline",
+    "file": "person-minus-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield-person-outline",
+    "file": "shield-person-outline.svg",
     "aliases": []
   },
   {
@@ -4533,13 +4528,13 @@
     "aliases": []
   },
   {
-    "id": "shield-plus",
-    "file": "shield-plus.svg",
+    "id": "shield-person",
+    "file": "shield-person.svg",
     "aliases": []
   },
   {
-    "id": "shield-star",
-    "file": "shield-star.svg",
+    "id": "shield-plus",
+    "file": "shield-plus.svg",
     "aliases": []
   },
   {
@@ -4548,8 +4543,13 @@
     "aliases": []
   },
   {
-    "id": "shield-warning-outline",
-    "file": "shield-warning-outline.svg",
+    "id": "shield-star",
+    "file": "shield-star.svg",
+    "aliases": []
+  },
+  {
+    "id": "shield",
+    "file": "shield.svg",
     "aliases": []
   },
   {
@@ -4558,8 +4558,8 @@
     "aliases": []
   },
   {
-    "id": "shield",
-    "file": "shield.svg",
+    "id": "shield-warning-outline",
+    "file": "shield-warning-outline.svg",
     "aliases": []
   },
   {
@@ -4578,18 +4578,13 @@
     "aliases": []
   },
   {
-    "id": "skip-forward-outline",
-    "file": "skip-forward-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "skip-end",
     "file": "skip-end.svg",
     "aliases": []
   },
   {
-    "id": "skip-start-outline",
-    "file": "skip-start-outline.svg",
+    "id": "skip-forward-outline",
+    "file": "skip-forward-outline.svg",
     "aliases": []
   },
   {
@@ -4598,13 +4593,23 @@
     "aliases": []
   },
   {
-    "id": "skip-start",
-    "file": "skip-start.svg",
+    "id": "skip-start-outline",
+    "file": "skip-start-outline.svg",
     "aliases": []
   },
   {
     "id": "snapchat",
     "file": "snapchat.svg",
+    "aliases": []
+  },
+  {
+    "id": "skip-start",
+    "file": "skip-start.svg",
+    "aliases": []
+  },
+  {
+    "id": "sort-descending",
+    "file": "sort-descending.svg",
     "aliases": []
   },
   {
@@ -4621,6 +4626,14 @@
     ]
   },
   {
+    "id": "speaker-decrease-outline",
+    "file": "speaker-decrease-outline.svg",
+    "aliases": [
+      "volume-decrease-outline",
+      "volume-down-outline"
+    ]
+  },
+  {
     "id": "speaker-cross",
     "file": "speaker-cross.svg",
     "aliases": [
@@ -4629,16 +4642,11 @@
     ]
   },
   {
-    "id": "sort-descending",
-    "file": "sort-descending.svg",
-    "aliases": []
-  },
-  {
-    "id": "speaker-decrease-outline",
-    "file": "speaker-decrease-outline.svg",
+    "id": "speaker-decrease",
+    "file": "speaker-decrease.svg",
     "aliases": [
-      "volume-decrease-outline",
-      "volume-down-outline"
+      "volume-decrease",
+      "volume-down"
     ]
   },
   {
@@ -4665,21 +4673,6 @@
     ]
   },
   {
-    "id": "speaker",
-    "file": "speaker.svg",
-    "aliases": [
-      "volume"
-    ]
-  },
-  {
-    "id": "speaker-decrease",
-    "file": "speaker-decrease.svg",
-    "aliases": [
-      "volume-decrease",
-      "volume-down"
-    ]
-  },
-  {
     "id": "speech-bubble-arrow-down-outline",
     "file": "speech-bubble-arrow-down-outline.svg",
     "aliases": [
@@ -4687,6 +4680,13 @@
       "conversation-arrow-down-outline",
       "comment-arrow-down-outline",
       "message-arrow-down-outline"
+    ]
+  },
+  {
+    "id": "speaker",
+    "file": "speaker.svg",
+    "aliases": [
+      "volume"
     ]
   },
   {
@@ -4710,16 +4710,6 @@
     ]
   },
   {
-    "id": "speech-bubble-arrow-left",
-    "file": "speech-bubble-arrow-left.svg",
-    "aliases": [
-      "chat-arrow-left",
-      "conversation-arrow-left",
-      "comment-arrow-left",
-      "message-arrow-left"
-    ]
-  },
-  {
     "id": "speech-bubble-arrow-right-outline",
     "file": "speech-bubble-arrow-right-outline.svg",
     "aliases": [
@@ -4727,16 +4717,6 @@
       "conversation-arrow-right-outline",
       "comment-arrow-right-outline",
       "message-arrow-right-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-arrow-right",
-    "file": "speech-bubble-arrow-right.svg",
-    "aliases": [
-      "chat-arrow-right",
-      "conversation-arrow-right",
-      "comment-arrow-right",
-      "message-arrow-right"
     ]
   },
   {
@@ -4757,6 +4737,16 @@
       "conversation-arrow-up",
       "comment-arrow-up",
       "message-arrow-up"
+    ]
+  },
+  {
+    "id": "speech-bubble-arrow-right",
+    "file": "speech-bubble-arrow-right.svg",
+    "aliases": [
+      "chat-arrow-right",
+      "conversation-arrow-right",
+      "comment-arrow-right",
+      "message-arrow-right"
     ]
   },
   {
@@ -4808,16 +4798,6 @@
     ]
   },
   {
-    "id": "speech-bubble-chevron-left",
-    "file": "speech-bubble-chevron-left.svg",
-    "aliases": [
-      "chat-chevron-left",
-      "conversation-chevron-left",
-      "comment-chevron-left",
-      "message-chevron-left"
-    ]
-  },
-  {
     "id": "speech-bubble-chevron-left-outline",
     "file": "speech-bubble-chevron-left-outline.svg",
     "aliases": [
@@ -4825,6 +4805,16 @@
       "conversation-chevron-left-outline",
       "comment-chevron-left-outline",
       "message-chevron-left-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-left",
+    "file": "speech-bubble-chevron-left.svg",
+    "aliases": [
+      "chat-chevron-left",
+      "conversation-chevron-left",
+      "comment-chevron-left",
+      "message-chevron-left"
     ]
   },
   {
@@ -4838,16 +4828,6 @@
     ]
   },
   {
-    "id": "speech-bubble-chevron-right-outline",
-    "file": "speech-bubble-chevron-right-outline.svg",
-    "aliases": [
-      "chat-chevron-right-outline",
-      "conversation-chevron-right-outline",
-      "comment-chevron-right-outline",
-      "message-chevron-right-outline"
-    ]
-  },
-  {
     "id": "speech-bubble-chevron-up-outline",
     "file": "speech-bubble-chevron-up-outline.svg",
     "aliases": [
@@ -4858,13 +4838,23 @@
     ]
   },
   {
-    "id": "speech-bubble-chevron-up",
-    "file": "speech-bubble-chevron-up.svg",
+    "id": "speech-bubble-arrow-left",
+    "file": "speech-bubble-arrow-left.svg",
     "aliases": [
-      "chat-chevron-up",
-      "conversation-chevron-up",
-      "comment-chevron-up",
-      "message-chevron-up"
+      "chat-arrow-left",
+      "conversation-arrow-left",
+      "comment-arrow-left",
+      "message-arrow-left"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-right-outline",
+    "file": "speech-bubble-chevron-right-outline.svg",
+    "aliases": [
+      "chat-chevron-right-outline",
+      "conversation-chevron-right-outline",
+      "comment-chevron-right-outline",
+      "message-chevron-right-outline"
     ]
   },
   {
@@ -4896,16 +4886,6 @@
     ]
   },
   {
-    "id": "speech-bubble-divide",
-    "file": "speech-bubble-divide.svg",
-    "aliases": [
-      "chat-bubble-divide",
-      "conversation-bubble-divide",
-      "comment-bubble-divide",
-      "message-bubble-divide"
-    ]
-  },
-  {
     "id": "speech-bubble-divide-outline",
     "file": "speech-bubble-divide-outline.svg",
     "aliases": [
@@ -4913,6 +4893,16 @@
       "conversation-divide-outline",
       "comment-divide-outline",
       "message-divide-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-divide",
+    "file": "speech-bubble-divide.svg",
+    "aliases": [
+      "chat-bubble-divide",
+      "conversation-bubble-divide",
+      "comment-bubble-divide",
+      "message-bubble-divide"
     ]
   },
   {
@@ -4930,40 +4920,6 @@
     ]
   },
   {
-    "id": "speech-bubble-help-outline",
-    "file": "speech-bubble-help-outline.svg",
-    "aliases": [
-      "chat-help-outline",
-      "conversation-help-outline",
-      "comment-help-outline",
-      "message-help-outline",
-      "chat-question-outline",
-      "conversation-question-outline",
-      "comment-question-outline",
-      "message-question-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-list-outline",
-    "file": "speech-bubble-list-outline.svg",
-    "aliases": [
-      "chat-list-outline",
-      "conversation-list-outline",
-      "comment-list-outline",
-      "message-list-outline"
-    ]
-  },
-  {
-    "id": "speech-bubble-list",
-    "file": "speech-bubble-list.svg",
-    "aliases": [
-      "chat-list",
-      "conversation-list",
-      "comment-list",
-      "message-list"
-    ]
-  },
-  {
     "id": "speech-bubble-info-outline",
     "file": "speech-bubble-info-outline.svg",
     "aliases": [
@@ -4971,6 +4927,16 @@
       "conversation-info-outline",
       "comment-info-outline",
       "message-info-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-chevron-up",
+    "file": "speech-bubble-chevron-up.svg",
+    "aliases": [
+      "chat-chevron-up",
+      "conversation-chevron-up",
+      "comment-chevron-up",
+      "message-chevron-up"
     ]
   },
   {
@@ -4984,6 +4950,16 @@
     ]
   },
   {
+    "id": "speech-bubble-list-outline",
+    "file": "speech-bubble-list-outline.svg",
+    "aliases": [
+      "chat-list-outline",
+      "conversation-list-outline",
+      "comment-list-outline",
+      "message-list-outline"
+    ]
+  },
+  {
     "id": "speech-bubble-minus-outline",
     "file": "speech-bubble-minus-outline.svg",
     "aliases": [
@@ -4991,6 +4967,26 @@
       "conversation-minus-outline",
       "comment-minus-outline",
       "message-minus-outline"
+    ]
+  },
+  {
+    "id": "speech-bubble-list",
+    "file": "speech-bubble-list.svg",
+    "aliases": [
+      "chat-list",
+      "conversation-list",
+      "comment-list",
+      "message-list"
+    ]
+  },
+  {
+    "id": "speech-bubble-outline",
+    "file": "speech-bubble-outline.svg",
+    "aliases": [
+      "chat-outline",
+      "conversation-outline",
+      "comment-outline",
+      "message-outline"
     ]
   },
   {
@@ -5014,13 +5010,13 @@
     ]
   },
   {
-    "id": "speech-bubble-outline",
-    "file": "speech-bubble-outline.svg",
+    "id": "speech-bubble-percent",
+    "file": "speech-bubble-percent.svg",
     "aliases": [
-      "chat-outline",
-      "conversation-outline",
-      "comment-outline",
-      "message-outline"
+      "chat-percent",
+      "conversation-percent",
+      "comment-percent",
+      "message-percent"
     ]
   },
   {
@@ -5044,16 +5040,6 @@
     ]
   },
   {
-    "id": "speech-bubble-percent",
-    "file": "speech-bubble-percent.svg",
-    "aliases": [
-      "chat-percent",
-      "conversation-percent",
-      "comment-percent",
-      "message-percent"
-    ]
-  },
-  {
     "id": "speech-bubble-plus-outline",
     "file": "speech-bubble-plus-outline.svg",
     "aliases": [
@@ -5064,16 +5050,6 @@
     ]
   },
   {
-    "id": "speech-bubble-star-outline",
-    "file": "speech-bubble-star-outline.svg",
-    "aliases": [
-      "chat-star-outline",
-      "conversation-star-outline",
-      "comment-star-outline",
-      "message-star-outline"
-    ]
-  },
-  {
     "id": "speech-bubble-plus",
     "file": "speech-bubble-plus.svg",
     "aliases": [
@@ -5081,6 +5057,16 @@
       "conversation-plus",
       "comment-plus",
       "message-plus"
+    ]
+  },
+  {
+    "id": "speech-bubble-star-outline",
+    "file": "speech-bubble-star-outline.svg",
+    "aliases": [
+      "chat-star-outline",
+      "conversation-star-outline",
+      "comment-star-outline",
+      "message-star-outline"
     ]
   },
   {
@@ -5104,16 +5090,6 @@
     ]
   },
   {
-    "id": "speech-bubble",
-    "file": "speech-bubble.svg",
-    "aliases": [
-      "chat",
-      "conversation",
-      "comment",
-      "message"
-    ]
-  },
-  {
     "id": "speech-bubble-warning",
     "file": "speech-bubble-warning.svg",
     "aliases": [
@@ -5121,6 +5097,16 @@
       "conversation-warning",
       "comment-warning",
       "message-warning"
+    ]
+  },
+  {
+    "id": "speech-bubble",
+    "file": "speech-bubble.svg",
+    "aliases": [
+      "chat",
+      "conversation",
+      "comment",
+      "message"
     ]
   },
   {
@@ -5134,6 +5120,11 @@
     ]
   },
   {
+    "id": "spinner",
+    "file": "spinner.svg",
+    "aliases": []
+  },
+  {
     "id": "speech-bubbles",
     "file": "speech-bubbles.svg",
     "aliases": [
@@ -5144,18 +5135,8 @@
     ]
   },
   {
-    "id": "spinner",
-    "file": "spinner.svg",
-    "aliases": []
-  },
-  {
     "id": "square-arrow-down-outline",
     "file": "square-arrow-down-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "square-arrow-left-outline",
-    "file": "square-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -5164,13 +5145,13 @@
     "aliases": []
   },
   {
-    "id": "square-arrow-right-outline",
-    "file": "square-arrow-right-outline.svg",
+    "id": "square-arrow-left-outline",
+    "file": "square-arrow-left-outline.svg",
     "aliases": []
   },
   {
-    "id": "square-arrow-left",
-    "file": "square-arrow-left.svg",
+    "id": "square-arrow-right-outline",
+    "file": "square-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -5196,8 +5177,8 @@
     ]
   },
   {
-    "id": "square-chevron-down-outline",
-    "file": "square-chevron-down-outline.svg",
+    "id": "square-arrow-left",
+    "file": "square-arrow-left.svg",
     "aliases": []
   },
   {
@@ -5208,6 +5189,16 @@
     ]
   },
   {
+    "id": "square-chevron-down-outline",
+    "file": "square-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "square-chevron-left-outline",
+    "file": "square-chevron-left-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "square-chevron-down",
     "file": "square-chevron-down.svg",
     "aliases": []
@@ -5215,11 +5206,6 @@
   {
     "id": "square-chevron-left",
     "file": "square-chevron-left.svg",
-    "aliases": []
-  },
-  {
-    "id": "square-chevron-left-outline",
-    "file": "square-chevron-left-outline.svg",
     "aliases": []
   },
   {
@@ -5238,6 +5224,11 @@
     "aliases": []
   },
   {
+    "id": "square-chevron-up",
+    "file": "square-chevron-up.svg",
+    "aliases": []
+  },
+  {
     "id": "square-cross-outline",
     "file": "square-cross-outline.svg",
     "aliases": [
@@ -5252,11 +5243,6 @@
     ]
   },
   {
-    "id": "square-chevron-up",
-    "file": "square-chevron-up.svg",
-    "aliases": []
-  },
-  {
     "id": "square-divide-outline",
     "file": "square-divide-outline.svg",
     "aliases": []
@@ -5265,6 +5251,20 @@
     "id": "square-divide",
     "file": "square-divide.svg",
     "aliases": []
+  },
+  {
+    "id": "speech-bubble-help-outline",
+    "file": "speech-bubble-help-outline.svg",
+    "aliases": [
+      "chat-help-outline",
+      "conversation-help-outline",
+      "comment-help-outline",
+      "message-help-outline",
+      "chat-question-outline",
+      "conversation-question-outline",
+      "comment-question-outline",
+      "message-question-outline"
+    ]
   },
   {
     "id": "square-help-outline",
@@ -5296,13 +5296,13 @@
     "aliases": []
   },
   {
-    "id": "square-list",
-    "file": "square-list.svg",
+    "id": "square-minus-outline",
+    "file": "square-minus-outline.svg",
     "aliases": []
   },
   {
-    "id": "square-minus-outline",
-    "file": "square-minus-outline.svg",
+    "id": "square-list",
+    "file": "square-list.svg",
     "aliases": []
   },
   {
@@ -5316,13 +5316,13 @@
     "aliases": []
   },
   {
-    "id": "square-percent-outline",
-    "file": "square-percent-outline.svg",
+    "id": "square-percent",
+    "file": "square-percent.svg",
     "aliases": []
   },
   {
-    "id": "square-percent",
-    "file": "square-percent.svg",
+    "id": "square-percent-outline",
+    "file": "square-percent-outline.svg",
     "aliases": []
   },
   {
@@ -5356,13 +5356,13 @@
     "aliases": []
   },
   {
-    "id": "square-warning",
-    "file": "square-warning.svg",
+    "id": "square-warning-outline",
+    "file": "square-warning-outline.svg",
     "aliases": []
   },
   {
-    "id": "square-warning-outline",
-    "file": "square-warning-outline.svg",
+    "id": "square-warning",
+    "file": "square-warning.svg",
     "aliases": []
   },
   {
@@ -5371,8 +5371,8 @@
     "aliases": []
   },
   {
-    "id": "star",
-    "file": "star.svg",
+    "id": "star-outline",
+    "file": "star-outline.svg",
     "aliases": []
   },
   {
@@ -5381,8 +5381,13 @@
     "aliases": []
   },
   {
-    "id": "star-outline",
-    "file": "star-outline.svg",
+    "id": "sun-outline",
+    "file": "sun-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "star",
+    "file": "star.svg",
     "aliases": []
   },
   {
@@ -5396,18 +5401,13 @@
     "aliases": []
   },
   {
-    "id": "tag-arrow-down",
-    "file": "tag-arrow-down.svg",
-    "aliases": []
-  },
-  {
     "id": "tag-arrow-down-outline",
     "file": "tag-arrow-down-outline.svg",
     "aliases": []
   },
   {
-    "id": "sun-outline",
-    "file": "sun-outline.svg",
+    "id": "tag-arrow-down",
+    "file": "tag-arrow-down.svg",
     "aliases": []
   },
   {
@@ -5416,13 +5416,13 @@
     "aliases": []
   },
   {
-    "id": "tag-arrow-right-outline",
-    "file": "tag-arrow-right-outline.svg",
+    "id": "tag-arrow-left",
+    "file": "tag-arrow-left.svg",
     "aliases": []
   },
   {
-    "id": "tag-arrow-left",
-    "file": "tag-arrow-left.svg",
+    "id": "tag-arrow-right-outline",
+    "file": "tag-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -5455,8 +5455,18 @@
     ]
   },
   {
+    "id": "tag-chevron-down-outline",
+    "file": "tag-chevron-down-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "tag-chevron-down",
     "file": "tag-chevron-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-chevron-left-outline",
+    "file": "tag-chevron-left-outline.svg",
     "aliases": []
   },
   {
@@ -5470,13 +5480,8 @@
     "aliases": []
   },
   {
-    "id": "tag-chevron-left-outline",
-    "file": "tag-chevron-left-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "tag-chevron-down-outline",
-    "file": "tag-chevron-down-outline.svg",
+    "id": "tag-chevron-right",
+    "file": "tag-chevron-right.svg",
     "aliases": []
   },
   {
@@ -5485,9 +5490,16 @@
     "aliases": []
   },
   {
-    "id": "tag-chevron-right",
-    "file": "tag-chevron-right.svg",
+    "id": "tag-chevron-up",
+    "file": "tag-chevron-up.svg",
     "aliases": []
+  },
+  {
+    "id": "tag-cross-outline",
+    "file": "tag-cross-outline.svg",
+    "aliases": [
+      "tag-close-outline"
+    ]
   },
   {
     "id": "tag-cross",
@@ -5495,11 +5507,6 @@
     "aliases": [
       "tag-close"
     ]
-  },
-  {
-    "id": "tag-chevron-up",
-    "file": "tag-chevron-up.svg",
-    "aliases": []
   },
   {
     "id": "tag-divide-outline",
@@ -5531,8 +5538,8 @@
     "aliases": []
   },
   {
-    "id": "tag-list-outline",
-    "file": "tag-list-outline.svg",
+    "id": "tag-info",
+    "file": "tag-info.svg",
     "aliases": []
   },
   {
@@ -5541,30 +5548,18 @@
     "aliases": []
   },
   {
-    "id": "tag-cross-outline",
-    "file": "tag-cross-outline.svg",
-    "aliases": [
-      "tag-close-outline"
-    ]
-  },
-  {
     "id": "tag-minus-outline",
     "file": "tag-minus-outline.svg",
     "aliases": []
   },
   {
+    "id": "tag-list-outline",
+    "file": "tag-list-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "tag-minus",
     "file": "tag-minus.svg",
-    "aliases": []
-  },
-  {
-    "id": "tag-info",
-    "file": "tag-info.svg",
-    "aliases": []
-  },
-  {
-    "id": "tag-outline",
-    "file": "tag-outline.svg",
     "aliases": []
   },
   {
@@ -5583,28 +5578,23 @@
     "aliases": []
   },
   {
-    "id": "tag-plus-outline",
-    "file": "tag-plus-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "tag-person",
     "file": "tag-person.svg",
     "aliases": []
   },
   {
-    "id": "tag-plus",
-    "file": "tag-plus.svg",
-    "aliases": []
-  },
-  {
-    "id": "tag-star",
-    "file": "tag-star.svg",
+    "id": "tag-plus-outline",
+    "file": "tag-plus-outline.svg",
     "aliases": []
   },
   {
     "id": "tag-star-outline",
     "file": "tag-star-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "tag-star",
+    "file": "tag-star.svg",
     "aliases": []
   },
   {
@@ -5633,18 +5623,28 @@
     "aliases": []
   },
   {
+    "id": "tag-outline",
+    "file": "tag-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "text-align-left",
     "file": "text-align-left.svg",
     "aliases": []
   },
   {
-    "id": "three-dots-vertical",
-    "file": "three-dots-vertical.svg",
+    "id": "text-align-right",
+    "file": "text-align-right.svg",
     "aliases": []
   },
   {
-    "id": "text-align-right",
-    "file": "text-align-right.svg",
+    "id": "three-dots-horizontal",
+    "file": "three-dots-horizontal.svg",
+    "aliases": []
+  },
+  {
+    "id": "three-dots-vertical",
+    "file": "three-dots-vertical.svg",
     "aliases": []
   },
   {
@@ -5658,13 +5658,13 @@
     "aliases": []
   },
   {
-    "id": "thumb-up-outline",
-    "file": "thumb-up-outline.svg",
+    "id": "thumb-up",
+    "file": "thumb-up.svg",
     "aliases": []
   },
   {
-    "id": "thumb-up",
-    "file": "thumb-up.svg",
+    "id": "thumb-up-outline",
+    "file": "thumb-up-outline.svg",
     "aliases": []
   },
   {
@@ -5673,8 +5673,8 @@
     "aliases": []
   },
   {
-    "id": "ticket-arrow-down",
-    "file": "ticket-arrow-down.svg",
+    "id": "ticket-arrow-left-outline",
+    "file": "ticket-arrow-left-outline.svg",
     "aliases": []
   },
   {
@@ -5698,16 +5698,6 @@
     "aliases": []
   },
   {
-    "id": "ticket-arrow-left-outline",
-    "file": "ticket-arrow-left-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "three-dots-horizontal",
-    "file": "three-dots-horizontal.svg",
-    "aliases": []
-  },
-  {
     "id": "ticket-arrow-up",
     "file": "ticket-arrow-up.svg",
     "aliases": []
@@ -5720,11 +5710,6 @@
     ]
   },
   {
-    "id": "ticket-chevron-down-outline",
-    "file": "ticket-chevron-down-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "ticket-check",
     "file": "ticket-check.svg",
     "aliases": [
@@ -5732,8 +5717,18 @@
     ]
   },
   {
-    "id": "ticket-chevron-down",
-    "file": "ticket-chevron-down.svg",
+    "id": "tag-plus",
+    "file": "tag-plus.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-arrow-down",
+    "file": "ticket-arrow-down.svg",
+    "aliases": []
+  },
+  {
+    "id": "ticket-chevron-down-outline",
+    "file": "ticket-chevron-down-outline.svg",
     "aliases": []
   },
   {
@@ -5742,13 +5737,13 @@
     "aliases": []
   },
   {
-    "id": "ticket-chevron-right-outline",
-    "file": "ticket-chevron-right-outline.svg",
+    "id": "ticket-chevron-left-outline",
+    "file": "ticket-chevron-left-outline.svg",
     "aliases": []
   },
   {
-    "id": "ticket-chevron-left-outline",
-    "file": "ticket-chevron-left-outline.svg",
+    "id": "ticket-chevron-right-outline",
+    "file": "ticket-chevron-right-outline.svg",
     "aliases": []
   },
   {
@@ -5774,16 +5769,16 @@
     ]
   },
   {
+    "id": "ticket-divide-outline",
+    "file": "ticket-divide-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "ticket-cross",
     "file": "ticket-cross.svg",
     "aliases": [
       "ticket-close"
     ]
-  },
-  {
-    "id": "ticket-divide-outline",
-    "file": "ticket-divide-outline.svg",
-    "aliases": []
   },
   {
     "id": "ticket-divide",
@@ -5820,28 +5815,18 @@
     "aliases": []
   },
   {
-    "id": "ticket-minus-outline",
-    "file": "ticket-minus-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "ticket-list-outline",
     "file": "ticket-list-outline.svg",
     "aliases": []
   },
   {
-    "id": "ticket-minus",
-    "file": "ticket-minus.svg",
+    "id": "ticket-minus-outline",
+    "file": "ticket-minus-outline.svg",
     "aliases": []
   },
   {
     "id": "ticket-outline",
     "file": "ticket-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "ticket-percent",
-    "file": "ticket-percent.svg",
     "aliases": []
   },
   {
@@ -5860,6 +5845,11 @@
     "aliases": []
   },
   {
+    "id": "ticket-percent",
+    "file": "ticket-percent.svg",
+    "aliases": []
+  },
+  {
     "id": "ticket-plus-outline",
     "file": "ticket-plus-outline.svg",
     "aliases": []
@@ -5875,19 +5865,27 @@
     "aliases": []
   },
   {
-    "id": "ticket-warning-outline",
-    "file": "ticket-warning-outline.svg",
+    "id": "ticket-star",
+    "file": "ticket-star.svg",
     "aliases": []
   },
   {
-    "id": "ticket-star",
-    "file": "ticket-star.svg",
+    "id": "ticket-warning-outline",
+    "file": "ticket-warning-outline.svg",
     "aliases": []
   },
   {
     "id": "ticket-warning",
     "file": "ticket-warning.svg",
     "aliases": []
+  },
+  {
+    "id": "translate",
+    "file": "translate.svg",
+    "aliases": [
+      "language",
+      "languages"
+    ]
   },
   {
     "id": "ticket",
@@ -5900,21 +5898,23 @@
     "aliases": []
   },
   {
+    "id": "ticket-chevron-down",
+    "file": "ticket-chevron-down.svg",
+    "aliases": []
+  },
+  {
     "id": "triangle-arrow-down",
     "file": "triangle-arrow-down.svg",
     "aliases": []
   },
   {
-    "id": "translate",
-    "file": "translate.svg",
-    "aliases": [
-      "language",
-      "languages"
-    ]
-  },
-  {
     "id": "triangle-arrow-left-outline",
     "file": "triangle-arrow-left-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-arrow-right-outline",
+    "file": "triangle-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -5925,11 +5925,6 @@
   {
     "id": "triangle-arrow-right",
     "file": "triangle-arrow-right.svg",
-    "aliases": []
-  },
-  {
-    "id": "triangle-arrow-right-outline",
-    "file": "triangle-arrow-right-outline.svg",
     "aliases": []
   },
   {
@@ -5957,6 +5952,11 @@
     ]
   },
   {
+    "id": "triangle-chevron-down",
+    "file": "triangle-chevron-down.svg",
+    "aliases": []
+  },
+  {
     "id": "triangle-chevron-down-outline",
     "file": "triangle-chevron-down-outline.svg",
     "aliases": []
@@ -5972,28 +5972,18 @@
     "aliases": []
   },
   {
-    "id": "triangle-chevron-down",
-    "file": "triangle-chevron-down.svg",
-    "aliases": []
-  },
-  {
     "id": "triangle-chevron-right-outline",
     "file": "triangle-chevron-right-outline.svg",
     "aliases": []
   },
   {
-    "id": "triangle-chevron-right",
-    "file": "triangle-chevron-right.svg",
+    "id": "triangle-chevron-up",
+    "file": "triangle-chevron-up.svg",
     "aliases": []
   },
   {
     "id": "triangle-chevron-up-outline",
     "file": "triangle-chevron-up-outline.svg",
-    "aliases": []
-  },
-  {
-    "id": "triangle-chevron-up",
-    "file": "triangle-chevron-up.svg",
     "aliases": []
   },
   {
@@ -6004,16 +5994,21 @@
     ]
   },
   {
-    "id": "triangle-divide-outline",
-    "file": "triangle-divide-outline.svg",
+    "id": "triangle-chevron-right",
+    "file": "triangle-chevron-right.svg",
     "aliases": []
   },
   {
-    "id": "triangle-help-outline",
-    "file": "triangle-help-outline.svg",
+    "id": "triangle-cross",
+    "file": "triangle-cross.svg",
     "aliases": [
-      "triangle-question-outline"
+      "triangle-close"
     ]
+  },
+  {
+    "id": "triangle-divide-outline",
+    "file": "triangle-divide-outline.svg",
+    "aliases": []
   },
   {
     "id": "triangle-divide",
@@ -6028,20 +6023,20 @@
     ]
   },
   {
-    "id": "triangle-cross",
-    "file": "triangle-cross.svg",
+    "id": "triangle-help-outline",
+    "file": "triangle-help-outline.svg",
     "aliases": [
-      "triangle-close"
+      "triangle-question-outline"
     ]
-  },
-  {
-    "id": "triangle-info",
-    "file": "triangle-info.svg",
-    "aliases": []
   },
   {
     "id": "triangle-info-outline",
     "file": "triangle-info-outline.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-info",
+    "file": "triangle-info.svg",
     "aliases": []
   },
   {
@@ -6065,8 +6060,13 @@
     "aliases": []
   },
   {
-    "id": "triangle-outline",
-    "file": "triangle-outline.svg",
+    "id": "ticket-minus",
+    "file": "ticket-minus.svg",
+    "aliases": []
+  },
+  {
+    "id": "triangle-percent-outline",
+    "file": "triangle-percent-outline.svg",
     "aliases": []
   },
   {
@@ -6080,11 +6080,6 @@
     "aliases": []
   },
   {
-    "id": "triangle-percent-outline",
-    "file": "triangle-percent-outline.svg",
-    "aliases": []
-  },
-  {
     "id": "triangle-person",
     "file": "triangle-person.svg",
     "aliases": []
@@ -6095,13 +6090,13 @@
     "aliases": []
   },
   {
-    "id": "triangle-star-outline",
-    "file": "triangle-star-outline.svg",
+    "id": "triangle-plus",
+    "file": "triangle-plus.svg",
     "aliases": []
   },
   {
-    "id": "triangle-plus",
-    "file": "triangle-plus.svg",
+    "id": "triangle-star-outline",
+    "file": "triangle-star-outline.svg",
     "aliases": []
   },
   {
@@ -6115,13 +6110,13 @@
     "aliases": []
   },
   {
-    "id": "triangle",
-    "file": "triangle.svg",
+    "id": "triangle-warning",
+    "file": "triangle-warning.svg",
     "aliases": []
   },
   {
-    "id": "triangle-warning",
-    "file": "triangle-warning.svg",
+    "id": "triangle",
+    "file": "triangle.svg",
     "aliases": []
   },
   {
@@ -6135,18 +6130,23 @@
     "aliases": []
   },
   {
+    "id": "triangle-outline",
+    "file": "triangle-outline.svg",
+    "aliases": []
+  },
+  {
     "id": "video-camera",
     "file": "video-camera.svg",
     "aliases": []
   },
   {
-    "id": "wallet-outline",
-    "file": "wallet-outline.svg",
+    "id": "wallet",
+    "file": "wallet.svg",
     "aliases": []
   },
   {
-    "id": "wallet",
-    "file": "wallet.svg",
+    "id": "wallet-outline",
+    "file": "wallet-outline.svg",
     "aliases": []
   },
   {
